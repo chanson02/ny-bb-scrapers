@@ -38,7 +38,7 @@ def remove_duplicates(array):
 
 
 with open('./postals.json', 'r') as file:
-    postals = json.load(file)["Postal Codes"][500:550]
+    postals = json.load(file)["Postal Codes"]
 
 chain = {
     "name": "Target",
@@ -46,12 +46,15 @@ chain = {
 }
 
 for postal in postals:
+    pos = postals.index(postal)
+    length = len(postals)
+    print(f"{pos}/{length} ({round(pos/length * 100, 2)}%): {postal}")
     for digit in range(5):
         zip_entry.send_keys(Keys.BACKSPACE)
     zip_entry.send_keys(postal)
-    time.sleep(0.5)
+    time.sleep(0.1)
     zip_entry.send_keys(Keys.RETURN)
-    time.sleep(0.5)
+    time.sleep(0.1)
 
     index = 0
     while True:
@@ -59,7 +62,7 @@ for postal in postals:
         location_path = locations_path + f"/div[{index}]/div/div"
 
         try:
-            WebDriverWait(driver, 1).until(
+            WebDriverWait(driver, 0.1).until(
                 EC.presence_of_element_located((By.XPATH, location_path))
             )
 
@@ -75,5 +78,6 @@ for postal in postals:
 
 driver.quit()
 chain["stores"] = remove_duplicates(chain["stores"])
+print(f"{len(postals)} postal codes found {len(chain['stores'])} stores")
 with open('./output.json', 'w') as file:
     json.dump(chain, file, indent=2)
