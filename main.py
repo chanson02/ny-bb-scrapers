@@ -45,6 +45,11 @@ chain = {
     "stores": []
 }
 
+
+def write_output():
+    with open('./output.json', 'w') as file:
+        json.dump(chain, file, indent=2)
+
 for postal in postals:
     pos = postals.index(postal)
     length = len(postals)
@@ -67,7 +72,10 @@ for postal in postals:
             )
 
             store = get_store_info(location_path)
-            chain["stores"].append(store)
+            if store not in chain["stores"]:
+                chain["stores"].append(store)
+                print(f"Store added: {len(chain['stores'])}")
+                write_output()
 
         except exceptions.NoSuchElementException:
             # Got an advertisement
@@ -77,7 +85,7 @@ for postal in postals:
             break
 
 driver.quit()
-chain["stores"] = remove_duplicates(chain["stores"])
-print(f"{len(postals)} postal codes found {len(chain['stores'])} stores")
-with open('./output.json', 'w') as file:
-    json.dump(chain, file, indent=2)
+# chain["stores"] = remove_duplicates(chain["stores"])
+# print(f"{len(postals)} postal codes found {len(chain['stores'])} stores")
+# with open('./output.json', 'w') as file:
+#     json.dump(chain, file, indent=2)
