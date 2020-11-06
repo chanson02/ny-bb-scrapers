@@ -40,6 +40,11 @@ def remove_duplicates(array):
 with open('./postals.json', 'r') as file:
     postals = json.load(file)["Postal Codes"]
 
+postals = [postals[index] for index in range(0, len(postals), 50)]
+
+# with open('./output.json', 'r') as file:
+#     chain = json.load(file)
+
 chain = {
     "name": "Target",
     "stores": []
