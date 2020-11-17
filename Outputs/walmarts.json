@@ -1,0 +1,235 @@
+{
+  "name": "Walmart",
+  "stores": [
+    {
+      "address": "161 Centereach Mall, Centereach, NY 11720",
+      "phone": "631-467-4825",
+      "id": "2286"
+    },
+    {
+      "address": "3990 Nesconset Hwy, East Setauket, NY 11733",
+      "phone": "631-474-3287",
+      "id": "2915"
+    },
+    {
+      "address": "750 Middle Country Rd, Middle Island, NY 11953",
+      "phone": "631-924-0081",
+      "id": "2156"
+    },
+    {
+      "address": "1850 Veterans Hwy, Islandia, NY 11749",
+      "phone": "631-851-0468",
+      "id": "2917"
+    },
+    {
+      "address": "3305 Ave.baramaya Suite 100, Ponce, PR 00728",
+      "phone": "787-709-4026",
+      "id": "2026"
+    },
+    {
+      "address": "3305 Ave.baramaya Suite 100, Centereach, PR 00728",
+      "phone": "631-467-4825",
+      "id": "2286"
+    },
+    {
+      "address": "3535 Ave Militar Ste 193, Isabela, PR 00662",
+      "phone": "602-685-0555",
+      "id": "2515"
+    },
+    {
+      "address": "3535 Ave Militar Ste 193, Isabela, PR 00662",
+      "phone": "787-830-3030",
+      "id": "2085"
+    },
+    {
+      "address": "3721 E Thomas Rd, Phoenix, AZ 85018",
+      "phone": "602-685-0555",
+      "id": "2515"
+    },
+    {
+      "address": "1607 W Bethany Home Rd, Phoenix, AZ 85015",
+      "phone": "602-246-1700",
+      "id": "2113"
+    },
+    {
+      "address": "6150 S 35th Ave, Phoenix, AZ 85041",
+      "phone": "602-243-8506",
+      "id": "3771"
+    },
+    {
+      "address": "2435 E Baseline Rd, Phoenix, AZ 85042",
+      "phone": "602-232-2115",
+      "id": "4293"
+    },
+    {
+      "address": "6145 N 35th Ave, Phoenix, AZ 85017",
+      "phone": "602-973-0774",
+      "id": "5330"
+    },
+    {
+      "address": "5250 W Indian School Rd, Phoenix, AZ 85031",
+      "phone": "623-845-8713",
+      "id": "5189"
+    },
+    {
+      "address": "115 E Dunlap Ave, Phoenix, AZ 85020",
+      "phone": "480-754-8043",
+      "id": "2632"
+    },
+    {
+      "address": "2020 N 75th Ave, Phoenix, AZ 85035",
+      "phone": "623-849-1030",
+      "id": "1549"
+    },
+    {
+      "address": "7575 W Lower Buckeye Rd, Phoenix, AZ 85043",
+      "phone": "623-907-0007",
+      "id": "5331"
+    },
+    {
+      "address": "9600 N Metro Pkwy W, Phoenix, AZ 85051",
+      "phone": "480-337-0171",
+      "id": "6477"
+    },
+    {
+      "address": "5605 W Northern Ave, Glendale, AZ 85301",
+      "phone": "623-934-6920",
+      "id": "5124"
+    },
+    {
+      "address": "800 E Southern Ave, Tempe, AZ 85282",
+      "phone": "480-966-0264",
+      "id": "5768"
+    },
+    {
+      "address": "1380 W Elliot Rd, Tempe, AZ 85284",
+      "phone": "480-345-8686",
+      "id": "1746"
+    },
+    {
+      "address": "5137 W Olive Ave, Glendale, AZ 85302",
+      "phone": "623-939-4237",
+      "id": "3844"
+    },
+    {
+      "address": "2424 W Jefferson St, Joliet, IL 60435",
+      "phone": "815-744-7575",
+      "id": "1256"
+    },
+    {
+      "address": "6800 W Us Highway 34, Plano, IL 60545",
+      "phone": "630-552-1580",
+      "id": "1003"
+    },
+    {
+      "address": "2000 Orchard Rd, Montgomery, IL 60538",
+      "phone": "630-844-0292",
+      "id": "4286"
+    },
+    {
+      "address": "3721 E Thomas Rd, Ponce, AZ 85018",
+      "phone": "787-709-4026",
+      "id": "2026"
+    },
+    {
+      "address": "3902 W Riverside Blvd, Rockford, IL 61101",
+      "phone": "815-962-4071",
+      "id": "5398"
+    },
+    {
+      "address": "3849 Northridge Dr, Rockford, IL 61114",
+      "phone": "815-636-0101",
+      "id": "1955"
+    },
+    {
+      "address": "7219 Walton St, Rockford, IL 61108",
+      "phone": "815-399-7143",
+      "id": "1490"
+    },
+    {
+      "address": "Plaza Del Mar Shopping Center, Hatillo, PR 00659",
+      "phone": "787-544-4851",
+      "id": "1854"
+    },
+    {
+      "address": "Carr. #2 Km. 56.6, Barceloneta, PR 00617",
+      "phone": "787-970-8100",
+      "id": "2302"
+    },
+    {
+      "address": "5307 Rt. 251, Peru, IL 61354",
+      "phone": "815-224-2396",
+      "id": "796"
+    },
+    {
+      "address": "3315 N University St, Peoria, IL 61604",
+      "phone": "309-682-0055",
+      "id": "1323"
+    },
+    {
+      "address": "401 River Rd, East Peoria, IL 61611",
+      "phone": "309-694-0513",
+      "id": "1028"
+    },
+    {
+      "address": "8915 N Allen Rd, Peoria, IL 61615",
+      "phone": "309-693-0525",
+      "id": "3460"
+    },
+    {
+      "address": "1980 Freedom Pkwy, Washington, IL 61571",
+      "phone": "309-745-3339",
+      "id": "1421"
+    },
+    {
+      "address": "155 E Courtland St, Morton, IL 61550",
+      "phone": "309-263-7898",
+      "id": "5157"
+    },
+    {
+      "address": "Plaza Monte Real, Manati, PR 00674",
+      "phone": "787-884-3400",
+      "id": "3716"
+    },
+    {
+      "address": "975 Ave Hostos Ste 2100, Mayaguez, PR 00680",
+      "phone": "787-265-1099",
+      "id": "2067"
+    },
+    {
+      "address": "1800 Carr# 14, Ponce, PR 00780",
+      "phone": "787-842-0420",
+      "id": "5793"
+    },
+    {
+      "address": "Centro Com Paseo Del Plata, Dorado, PR 00646",
+      "phone": "787-278-5859",
+      "id": "3399"
+    },
+    {
+      "address": "Carr #2 Sector La Virgencita Inter, Toa Baja, PR 00949",
+      "phone": "787-641-5656",
+      "id": "2346"
+    },
+    {
+      "address": "Los Dominicos Esq Sabana Seca, Toa Baja, PR 00949",
+      "phone": "787-261-0400",
+      "id": "3670"
+    },
+    {
+      "address": "501 Ave West Main, Bayamon, PR 00961",
+      "phone": "787-269-2200",
+      "id": "2501"
+    },
+    {
+      "address": "Carr 167 Km 17.6 Bo Pajaros, Bayamon, PR 00956",
+      "phone": "787-279-3410",
+      "id": "3680"
+    },
+    {
+      "address": "Int Carr 174 Y Carr 177, Bayamon, PR 00956",
+      "phone": "787-780-6322",
+      "id": "3669"
+    }
+  ]
+}
