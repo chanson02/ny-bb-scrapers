@@ -11,18 +11,20 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from selenium.common import exceptions
 
+### CHAIN ###
+chain = "vons"
+
 # Setup Chromedriver
-options = webdriver.Options()
+options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--ignore-ssl-errors')
 
-file = "../Outputs/albertsons.json"
-with open(file, "r") as f:
-    payload = json.load(f)
+# Initialize data structure
+payload = {"name": chain.capitalize(), "stores": []}
 
 driver = webdriver.Chrome(
     'D:\Programs\webdrivers\chromedriver.exe', chrome_options=options)
-driver.get("https://local.albertsons.com/")
+driver.get(f"https://local.{chain}.com/")
 
 
 def get_store_data():
@@ -45,15 +47,28 @@ def get_store_data():
 
 def write_output():
     global payload
-    with open(file, "w") as f:
+    with open(f"../Outputs/{chain}.json", "w") as f:
         json.dump(payload, f, indent=2)
 
 
-state_count = 15  # 15 states at the time of writing
+# Count how many states there are
+list_path = "/html/body/main/div[2]/div[2]/div[2]/ul"
+state_count = 0
+WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located((By.XPATH, list_path)))
+time.sleep(4)
+try:
+    while True:
+        state_count += 1
+        state_button_path = list_path + f"/li[{state_count}]/a"
+        driver.find_element_by_xpath(state_button_path)
+except exceptions.NoSuchElementException:
+    state_count -= 1
+
+# Loop through states
 for state_index in range(state_count):
     print(f"State {state_index+1}/{state_count}")
     # Wait for page to load
-    list_path = "/html/body/main/div[2]/div[2]/div[2]/ul"
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, list_path)))
     time.sleep(4)
@@ -115,4 +130,4 @@ for state_index in range(state_count):
         driver.back()  # Back to the cities page
 
     # Finished a state
-    write_output()
+write_output()
