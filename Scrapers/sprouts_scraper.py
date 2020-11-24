@@ -35,24 +35,24 @@ except exceptions.TimeoutException:
     x_button.click()
 
 for state_index in range(1, state_count):
-    ## Wait for states to reappear (After back button clicked)
+    # Wait for states to reappear (After back button clicked)
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, states_path))
     )
 
     print(f"State #{state_index}")
-    ## Click on the state
+    # Click on the state
     state_path = states_path + f'/div[{state_index}]/a'
     state_button = driver.find_element_by_xpath(state_path)
     state_button.click()
 
-    ## Wait for elements to appear
+    # Wait for elements to appear
     store_container_path = '/html/body/div[8]/main/div/div'
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, store_container_path))
     )
 
-    ## Find how many stores there are
+    # Find how many stores there are
     store_count = 0
     try:
         while True:
@@ -64,12 +64,12 @@ for state_index in range(1, state_count):
     except exceptions.TimeoutException:
         pass
 
-    ## Loop through stores
+    # Loop through stores
     for store_index in range(1, store_count):
         print(f"Store #{store_index}")
         store_cell_path = store_container_path + f'/div[{store_index}]'
 
-        ## Remote Id
+        # Remote Id
         id_path = store_cell_path + '/p[1]'
         remote_id = driver.find_element_by_xpath(id_path).text[7:]
 
@@ -92,7 +92,7 @@ for state_index in range(1, state_count):
             phone = "Null"
             # phone = other_info[2]
 
-        ## Update payload
+        # Update payload
         store = {
             "address": address,
             "phone": phone,
@@ -100,7 +100,7 @@ for state_index in range(1, state_count):
         }
         payload["stores"].append(store)
 
-    ## Go back
+    # Go back
     driver.back()
 
 with open("sprouts.json", 'w') as f:

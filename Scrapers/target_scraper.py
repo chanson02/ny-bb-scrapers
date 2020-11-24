@@ -55,6 +55,7 @@ def write_output():
     with open('./output.json', 'w') as file:
         json.dump(chain, file, indent=2)
 
+
 for postal in postals:
     pos = postals.index(postal)
     length = len(postals)

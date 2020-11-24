@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common import exceptions
 
 ### CHAIN ###
-chain = "vons"
+chain = "jewelosco"
 
 # Setup Chromedriver
 options = webdriver.ChromeOptions()
@@ -131,3 +131,4 @@ for state_index in range(state_count):
 
     # Finished a state
 write_output()
+driver.close()
