@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common import exceptions
 
 ### CHAIN ###
-chain = "jewelosco"
+chain = "acmemarkets"
 
 # Setup Chromedriver
 options = webdriver.ChromeOptions()
@@ -53,6 +53,7 @@ def write_output():
 
 # Count how many states there are
 list_path = "/html/body/main/div[2]/div[2]/div[2]/ul"
+list_path = "/html/body/main/div/div[2]/div[2]/ul"
 state_count = 0
 WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.XPATH, list_path)))
