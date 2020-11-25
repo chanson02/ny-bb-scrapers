@@ -1,0 +1,650 @@
+{
+  "name": "Shaws",
+  "stores": [
+    {
+      "address": "600 Center St, Auburn, ME 04210",
+      "phone": "207-784-6971",
+      "id": "2077846971"
+    },
+    {
+      "address": "150 Western Ave, Augusta, ME 04330",
+      "phone": "207-623-4520",
+      "id": "2076234520"
+    },
+    {
+      "address": "353 Main St, Bangor, ME 04401",
+      "phone": "207-942-9441",
+      "id": "2079429441"
+    },
+    {
+      "address": "1 Chandler Dr, Bath, ME 04530",
+      "phone": "207-443-9179",
+      "id": "2074439179"
+    },
+    {
+      "address": "147 Bath Rd, Brunswick, ME 04011",
+      "phone": "207-721-9996",
+      "id": "2077219996"
+    },
+    {
+      "address": "1073 W Main St, Dover Foxcroft, ME 04426",
+      "phone": "207-564-3500",
+      "id": "2075643500"
+    },
+    {
+      "address": "175 High St, Ellsworth, ME 04605",
+      "phone": "207-667-2293",
+      "id": "2076672293"
+    },
+    {
+      "address": "251 US Hwy 1, Falmouth, ME 04105",
+      "phone": "207-781-6581",
+      "id": "2077816581"
+    },
+    {
+      "address": "200 Lower Main St, Freeport, ME 04032",
+      "phone": "207-865-0094",
+      "id": "2078650094"
+    },
+    {
+      "address": "27 E Ave, Lewiston, ME 04240",
+      "phone": "207-784-6900",
+      "id": "2077846900"
+    },
+    {
+      "address": "1364 Congress St, Portland, ME 04102",
+      "phone": "207-774-7661",
+      "id": "2077747661"
+    },
+    {
+      "address": "91 Auburn St, Portland, ME 04103",
+      "phone": "207-797-4304",
+      "id": "2077974304"
+    },
+    {
+      "address": "235 Camden St, Rockland, ME 04841",
+      "phone": "207-594-8615",
+      "id": "2075948615"
+    },
+    {
+      "address": "4 Scammon St Suite 10, Saco, ME 04072",
+      "phone": "207-284-9666",
+      "id": "2072849666"
+    },
+    {
+      "address": "1364 Main St, Sanford, ME 04073",
+      "phone": "207-490-5309",
+      "id": "2074905309"
+    },
+    {
+      "address": "417 Payne Rd, Scarborough, ME 04074",
+      "phone": "207-883-2443",
+      "id": "2078832443"
+    },
+    {
+      "address": "180 Waterman Dr, South Portland, ME 04106",
+      "phone": "207-799-8149",
+      "id": "2077998149"
+    },
+    {
+      "address": "251 Kennedy Memorial Dr, Waterville, ME 04901",
+      "phone": "207-873-6224",
+      "id": "2078736224"
+    },
+    {
+      "address": "31 Main St, Westbrook, ME 04092",
+      "phone": "207-857-9299",
+      "id": "2078579299"
+    },
+    {
+      "address": "770 Roosevelt Trail, Windham, ME 04062",
+      "phone": "207-892-5159",
+      "id": "2078925159"
+    },
+    {
+      "address": "670 Bath Rd, Wiscasset, ME 04578",
+      "phone": "207-882-8424",
+      "id": "2078828424"
+    },
+    {
+      "address": "301 Pond St, Ashland, MA 01721",
+      "phone": "508-881-5125",
+      "id": "5088815125"
+    },
+    {
+      "address": "368 Southbridge St, Auburn, MA 01501",
+      "phone": "508-832-0440",
+      "id": "5088320440"
+    },
+    {
+      "address": "71 Dodge St, Beverly, MA 01915",
+      "phone": "978-232-9104",
+      "id": "9782329104"
+    },
+    {
+      "address": "125 Pearl St, Braintree, MA 02184",
+      "phone": "781-228-4406",
+      "id": "7812284406"
+    },
+    {
+      "address": "641 Belmont St, Brockton, MA 02301",
+      "phone": "508-588-7746",
+      "id": "5085887746"
+    },
+    {
+      "address": "715 Crescent St, Brockton, MA 02302",
+      "phone": "508-583-2581",
+      "id": "5085832581"
+    },
+    {
+      "address": "180 A Cambridge St, Burlington, MA 01803",
+      "phone": "781-221-3002",
+      "id": "7812213002"
+    },
+    {
+      "address": "95 Washington St, Canton, MA 02021",
+      "phone": "781-828-1446",
+      "id": "7818281446"
+    },
+    {
+      "address": "100 N Main St, Carver, MA 02330",
+      "phone": "508-866-2168",
+      "id": "5088662168"
+    },
+    {
+      "address": "1175 Main St, Clinton, MA 01510",
+      "phone": "978-368-0306",
+      "id": "9783680306"
+    },
+    {
+      "address": "739 Chief Justice Cushing Hwy, Cohasset, MA 02025",
+      "phone": "781-383-2315",
+      "id": "7813832315"
+    },
+    {
+      "address": "15 State Rd, Dartmouth, MA 02747",
+      "phone": "508-993-9995",
+      "id": "5089939995"
+    },
+    {
+      "address": "246 Border St, East Boston, MA 02128",
+      "phone": "617-567-4116",
+      "id": "6175674116"
+    },
+    {
+      "address": "137 Tea Ticket Hwy, East Falmouth, MA 02536",
+      "phone": "508-548-4033",
+      "id": "5085484033"
+    },
+    {
+      "address": "4171 N Main St, Fall River, MA 02720",
+      "phone": "508-677-0940",
+      "id": "5086770940"
+    },
+    {
+      "address": "255 E Central St, Franklin, MA 02038",
+      "phone": "508-520-6880",
+      "id": "5085206880"
+    },
+    {
+      "address": "127 Eastern Ave, Gloucester, MA 01930",
+      "phone": "978-281-4844",
+      "id": "9782814844"
+    },
+    {
+      "address": "7 Railroad Ave, Gloucester, MA 01930",
+      "phone": "978-283-2601",
+      "id": "9782832601"
+    },
+    {
+      "address": "760 A Boston Rd, Groton, MA 01450",
+      "phone": "978-448-0419",
+      "id": "9784480419"
+    },
+    {
+      "address": "35 Columbia Rd, Hanover, MA 02339",
+      "phone": "781-826-2864",
+      "id": "7818262864"
+    },
+    {
+      "address": "476 Liberty St, Hanson, MA 02341",
+      "phone": "781-293-3008",
+      "id": "7812933008"
+    },
+    {
+      "address": "18 Sisson Rd, Harwich Port, MA 02646",
+      "phone": "508-432-3433",
+      "id": "5084323433"
+    },
+    {
+      "address": "201 Washington St, Hudson, MA 01749",
+      "phone": "978-562-4549",
+      "id": "9785624549"
+    },
+    {
+      "address": "1070 Iyannough Rd, Hyannis, MA 02601",
+      "phone": "508-775-7611",
+      "id": "5087757611"
+    },
+    {
+      "address": "625 W Main St, Hyannis, MA 02601",
+      "phone": "508-775-3421",
+      "id": "5087753421"
+    },
+    {
+      "address": "1377 Hyde Park Ave, Hyde Park, MA 02136",
+      "phone": "617-364-9375",
+      "id": "6173649375"
+    },
+    {
+      "address": "146 High St, Ipswich, MA 01938",
+      "phone": "978-356-8451",
+      "id": "9783568451"
+    },
+    {
+      "address": "390 West St, Mansfield, MA 02048",
+      "phone": "508-339-3987",
+      "id": "5083393987"
+    },
+    {
+      "address": "230 Main St, Medfield, MA 02052",
+      "phone": "508-359-8713",
+      "id": "5083598713"
+    },
+    {
+      "address": "65 Main St, Medway, MA 02053",
+      "phone": "508-533-0606",
+      "id": "5085330606"
+    },
+    {
+      "address": "34 Essex St, Melrose, MA 02176",
+      "phone": "781-665-8512",
+      "id": "7816658512"
+    },
+    {
+      "address": "93 Prospect St, Milford, MA 01757",
+      "phone": "508-478-4519",
+      "id": "5084784519"
+    },
+    {
+      "address": "45 Storey Ave, Newburyport, MA 01950",
+      "phone": "978-462-7121",
+      "id": "9784627121"
+    },
+    {
+      "address": "125 Robert Toner Blvd, North Attleboro, MA 02763",
+      "phone": "508-643-2259",
+      "id": "5086432259"
+    },
+    {
+      "address": "690 Depot St, North Easton, MA 02356",
+      "phone": "508-238-0165",
+      "id": "5082380165"
+    },
+    {
+      "address": "134 Nahatan St, Norwood, MA 02062",
+      "phone": "781-762-0610",
+      "id": "7817620610"
+    },
+    {
+      "address": "9 West Rd, Orleans, MA 02653",
+      "phone": "508-240-1021",
+      "id": "5082401021"
+    },
+    {
+      "address": "114-128 Essex Center Dr, Peabody, MA 01960",
+      "phone": "978-532-5434",
+      "id": "9785325434"
+    },
+    {
+      "address": "2260 State Rd, Plymouth, MA 02360",
+      "phone": "508-833-2975",
+      "id": "5088332975"
+    },
+    {
+      "address": "121 Memorial Pkwy, Randolph, MA 02368",
+      "phone": "781-963-6995",
+      "id": "7819636995"
+    },
+    {
+      "address": "300 New State Hwy, Raynham, MA 02767",
+      "phone": "508-822-5660",
+      "id": "5088225660"
+    },
+    {
+      "address": "11 Traders Way, Salem, MA 01970",
+      "phone": "978-741-8660",
+      "id": "9787418660"
+    },
+    {
+      "address": "780 S Main St, Sharon, MA 02067",
+      "phone": "781-784-5995",
+      "id": "7817845995"
+    },
+    {
+      "address": "50 Boston Turnpike Rd, Shrewsbury, MA 01545",
+      "phone": "508-797-1126",
+      "id": "5087971126"
+    },
+    {
+      "address": "1108 State Road, South Yarmouth, MA 02664",
+      "phone": "508-394-0995",
+      "id": "5083940995"
+    },
+    {
+      "address": "155 Great Rd, Stow, MA 01775",
+      "phone": "978-897-5140",
+      "id": "9788975140"
+    },
+    {
+      "address": "178 Main St, Sturbridge, MA 01566",
+      "phone": "508-347-3003",
+      "id": "5083473003"
+    },
+    {
+      "address": "509 Boston Post Rd, Sudbury, MA 01776",
+      "phone": "978-443-7066",
+      "id": "9784437066"
+    },
+    {
+      "address": "134 Water St, Wakefield, MA 01880",
+      "phone": "781-245-0032",
+      "id": "7812450032"
+    },
+    {
+      "address": "130 River St, Waltham, MA 02453",
+      "phone": "781-647-5341",
+      "id": "7816475341"
+    },
+    {
+      "address": "127 Marion Rd, Wareham, MA 02571",
+      "phone": "508-295-7813",
+      "id": "5082957813"
+    },
+    {
+      "address": "610 Middle St, Weymouth, MA 02189",
+      "phone": "781-331-5108",
+      "id": "7813315108"
+    },
+    {
+      "address": "1177 Providence Rd, Whitinsville, MA 01588",
+      "phone": "508-234-0457",
+      "id": "5082340457"
+    },
+    {
+      "address": "14 W Boylston St, Worcester, MA 01605",
+      "phone": "508-852-5833",
+      "id": "5088525833"
+    },
+    {
+      "address": "68 Stafford St, Worcester, MA 01603",
+      "phone": "508-755-5808",
+      "id": "5087555808"
+    },
+    {
+      "address": "96 Daniel Webster Hwy, Belmont, NH 03220",
+      "phone": "603-524-3941",
+      "id": "6035243941"
+    },
+    {
+      "address": "1150 Eastman Rd, Center Conway, NH 03813",
+      "phone": "603-356-5471",
+      "id": "6033565471"
+    },
+    {
+      "address": "20 D'amante Dr, Concord, NH 03301",
+      "phone": "603-228-1440",
+      "id": "6032281440"
+    },
+    {
+      "address": "20 Fort Eddy Rd, Concord, NH 03301",
+      "phone": "603-228-0770",
+      "id": "6032280770"
+    },
+    {
+      "address": "55 Crystal Ave, Derry, NH 03038",
+      "phone": "603-432-9592",
+      "id": "6034329592"
+    },
+    {
+      "address": "851 Central Ave, Dover, NH 03820",
+      "phone": "603-749-5389",
+      "id": "6037495389"
+    },
+    {
+      "address": "1400 Lakeshore Dr, Gilford, NH 03249",
+      "phone": "603-528-2929",
+      "id": "6035282929"
+    },
+    {
+      "address": "276 W Main St, Hillsborough, NH 03244",
+      "phone": "603-464-5110",
+      "id": "6034645110"
+    },
+    {
+      "address": "1328 Hooksett Rd, Hooksett, NH 03106",
+      "phone": "603-623-8846",
+      "id": "6036238846"
+    },
+    {
+      "address": "199 Main St, Lancaster, NH 03584",
+      "phone": "603-788-4065",
+      "id": "6037884065"
+    },
+    {
+      "address": "625 Meadow St, Littleton, NH 03561",
+      "phone": "603-444-1017",
+      "id": "6034441017"
+    },
+    {
+      "address": "1 Orchard View Dr, Londonderry, NH 03053",
+      "phone": "603-432-8846",
+      "id": "6034328846"
+    },
+    {
+      "address": "570 Daniel Webster Hwy, Merrimack, NH 03054",
+      "phone": "603-424-3759",
+      "id": "6034243759"
+    },
+    {
+      "address": "7 Continental Blvd, Merrimack, NH 03054",
+      "phone": "603-429-0714",
+      "id": "6034290714"
+    },
+    {
+      "address": "586 Nashua St, Milford, NH 03055",
+      "phone": "603-672-3336",
+      "id": "6036723336"
+    },
+    {
+      "address": "213 Daniel Webster Hwy, Nashua, NH 03060",
+      "phone": "603-891-1649",
+      "id": "6038911649"
+    },
+    {
+      "address": "300 Main St, Nashua, NH 03060",
+      "phone": "603-579-6966",
+      "id": "6035796966"
+    },
+    {
+      "address": "48 John Stark Hwy, Newport, NH 03773",
+      "phone": "603-863-4173",
+      "id": "6038634173"
+    },
+    {
+      "address": "33 Lafayette Rd Unit 4, North Hampton, NH 03862",
+      "phone": "603-964-4662",
+      "id": "6039644662"
+    },
+    {
+      "address": "135 Dublin Rd, Peterborough, NH 03458",
+      "phone": "603-924-9192",
+      "id": "6039249192"
+    },
+    {
+      "address": "4 Plaistow Rd, Plaistow, NH 03865",
+      "phone": "603-382-0489",
+      "id": "6033820489"
+    },
+    {
+      "address": "100 Shaws Ln, Stratham, NH 03885",
+      "phone": "603-773-9994",
+      "id": "6037739994"
+    },
+    {
+      "address": "32 Ames Plaza Ln #441, Walpole, NH 03608",
+      "phone": "603-756-3771",
+      "id": "6037563771"
+    },
+    {
+      "address": "10 Benning Dr, West Lebanon, NH 03784",
+      "phone": "603-298-0388",
+      "id": "6032980388"
+    },
+    {
+      "address": "43 Indian Rock Rd, Windham, NH 03087",
+      "phone": "603-432-2607",
+      "id": "6034322607"
+    },
+    {
+      "address": "15 Forest St, Woodsville, NH 03785",
+      "phone": "603-747-3461",
+      "id": "6037473461"
+    },
+    {
+      "address": "186 County Rd, Barrington, RI 02806",
+      "phone": "401-245-5882",
+      "id": "4012455882"
+    },
+    {
+      "address": "8 Chapel View Blvd, Cranston, RI 02920",
+      "phone": "401-464-8388",
+      "id": "4014648388"
+    },
+    {
+      "address": "585 Taunton Ave, East Providence, RI 02914",
+      "phone": "401-434-0029",
+      "id": "4014340029"
+    },
+    {
+      "address": "71 E Main Rd, Middletown, RI 02842",
+      "phone": "401-848-7560",
+      "id": "4018487560"
+    },
+    {
+      "address": "15 Smithfield Rd, North Providence, RI 02904",
+      "phone": "401-353-2075",
+      "id": "4013532075"
+    },
+    {
+      "address": "1050 Willet Ave, Riverside, RI 02915",
+      "phone": "401-433-3180",
+      "id": "4014333180"
+    },
+    {
+      "address": "160 Old Tower Hill Rd, Wakefield, RI 02879",
+      "phone": "401-792-9888",
+      "id": "4017929888"
+    },
+    {
+      "address": "320 Warwick Ave, Warwick, RI 02888",
+      "phone": "401-941-4553",
+      "id": "4019414553"
+    },
+    {
+      "address": "160 Paine Turnpike N, Berlin, VT 05602",
+      "phone": "802-223-2652",
+      "id": "8022232652"
+    },
+    {
+      "address": "7 Prince Ln, Bristol, VT 05443",
+      "phone": "802-453-4865",
+      "id": "8024534865"
+    },
+    {
+      "address": "570 Shelburne Rd, Burlington, VT 05401",
+      "phone": "802-860-2255",
+      "id": "8028602255"
+    },
+    {
+      "address": "66 Mountain View, Colchester, VT 05446",
+      "phone": "802-654-7803",
+      "id": "8026547803"
+    },
+    {
+      "address": "4340 US Rt 5, Derby, VT 05829",
+      "phone": "802-334-8466",
+      "id": "8023348466"
+    },
+    {
+      "address": "195 Old Rt 22A, Fair Haven, VT 05743",
+      "phone": "802-265-8100",
+      "id": "8022658100"
+    },
+    {
+      "address": "213 Main St, Ludlow, VT 05149",
+      "phone": "802-228-8468",
+      "id": "8022288468"
+    },
+    {
+      "address": "64 Equinox Terrace, Manchester Center, VT 05255",
+      "phone": "802-362-4447",
+      "id": "8023624447"
+    },
+    {
+      "address": "8 Washington St, Middlebury, VT 05753",
+      "phone": "802-388-0930",
+      "id": "8023880930"
+    },
+    {
+      "address": "2 Main St, Montpelier, VT 05602",
+      "phone": "802-223-7587",
+      "id": "8022237587"
+    },
+    {
+      "address": "55 Depot St, Poultney, VT 05764",
+      "phone": "802-287-4387",
+      "id": "8022874387"
+    },
+    {
+      "address": "127 VT Hwy 12s, Randolph, VT 05060",
+      "phone": "802-728-3584",
+      "id": "8027283584"
+    },
+    {
+      "address": "2 Chester Rd, Springfield, VT 05156",
+      "phone": "802-885-8450",
+      "id": "8028858450"
+    },
+    {
+      "address": "751 Maple St, Stowe, VT 05672",
+      "phone": "802-253-4793",
+      "id": "8022534793"
+    },
+    {
+      "address": "115c Monkton Rd, Vergennes, VT 05491",
+      "phone": "802-877-3418",
+      "id": "8028773418"
+    },
+    {
+      "address": "27 Mad River Canoe Rd, Waitsfield, VT 05673",
+      "phone": "802-496-5330",
+      "id": "8024965330"
+    },
+    {
+      "address": "820 Waterbury Stowe Rd, Waterbury, VT 05676",
+      "phone": "802-241-4113",
+      "id": "8022414113"
+    },
+    {
+      "address": "71 Boxwood St, Williston, VT 05495",
+      "phone": "802-878-9770",
+      "id": "8028789770"
+    },
+    {
+      "address": "97 E Main St, Wilmington, VT 05363",
+      "phone": "802-464-2161",
+      "id": "8024642161"
+    }
+  ]
+}
