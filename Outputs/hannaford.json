@@ -1,0 +1,930 @@
+{
+  "name": "Hannaford",
+  "stores": [
+    {
+      "address": "5 Gilbert St, North Brookfield, MA 01535",
+      "phone": "508-867-6809",
+      "id": "21070"
+    },
+    {
+      "address": "150 New Athol Rd, Athol, MA 01331",
+      "phone": "978-249-7955",
+      "id": "20766"
+    },
+    {
+      "address": "21 Timpany Blvd, Gardner, MA 01440",
+      "phone": "978-632-6139",
+      "id": "21077"
+    },
+    {
+      "address": "752 Route 202, Rindge, NH 03461",
+      "phone": "603-899-2110",
+      "id": "21043"
+    },
+    {
+      "address": "896 Putney Rd, Unit 5, Brattleboro, VT 05301",
+      "phone": "802-254-1160",
+      "id": "20772"
+    },
+    {
+      "address": "927 Merriam Avenue, Twin City Plaza, Leominster, MA 01453",
+      "phone": "978-534-9323",
+      "id": "21071"
+    },
+    {
+      "address": "118 Lancaster St, Leominster, MA 01453",
+      "phone": "978-537-1327",
+      "id": "21064"
+    },
+    {
+      "address": "333 Mass Ave, Lunenburg Crossing, Lunenburg, MA 01462",
+      "phone": "978-582-0215",
+      "id": "21136"
+    },
+    {
+      "address": "333 Brook St, Clinton, MA 01510",
+      "phone": "978-368-7909",
+      "id": "21072"
+    },
+    {
+      "address": "West St Shopping Ctr, 481 West Street, Keene, NH 03431",
+      "phone": "603-357-2832",
+      "id": "20712"
+    },
+    {
+      "address": "193 Boston Post Rd W, Route 20, Marlborough, MA 01752",
+      "phone": "508-480-9670",
+      "id": "21065"
+    },
+    {
+      "address": "18 Main St, Harbor Village, Townsend, MA 01469",
+      "phone": "978-597-5909",
+      "id": "21069"
+    },
+    {
+      "address": "158 North Main St, Uxbridge, MA 01569",
+      "phone": "508-278-2487",
+      "id": "20700"
+    },
+    {
+      "address": "32 Route 82, Hudson, NY 12534",
+      "phone": "518-851-2098",
+      "id": "21149"
+    },
+    {
+      "address": "2967 Route 9, Suite 400, Valatie, NY 12184",
+      "phone": "518-758-8800",
+      "id": "20757"
+    },
+    {
+      "address": "Rt 43 and 150, West Sand Lake, NY 12196",
+      "phone": "518-674-2846",
+      "id": "20726"
+    },
+    {
+      "address": "592-600 Columbia Tpk, Greenbush Fair Plaza, East Greenbush, NY 12061",
+      "phone": "518-477-6483",
+      "id": "20755"
+    },
+    {
+      "address": "35 Hannaford Drive, Red Hook, NY 12571",
+      "phone": "845-758-9330",
+      "id": "20762"
+    },
+    {
+      "address": "40 Main Street, Wynantskill, NY 12198",
+      "phone": "518-283-0538",
+      "id": "21138"
+    },
+    {
+      "address": "141 Hannaford SQ., Ste. 2, Bennington, VT 05201",
+      "phone": "802-442-1521",
+      "id": "21106"
+    },
+    {
+      "address": "180 Delaware Plaza, Delmar, NY 12054",
+      "phone": "518-439-7657",
+      "id": "21125"
+    },
+    {
+      "address": "9 126th Street, Troy, NY 12182",
+      "phone": "518-233-8196",
+      "id": "20742"
+    },
+    {
+      "address": "223 Main Street, Cairo, NY 12413",
+      "phone": "518-622-8130",
+      "id": "21148"
+    },
+    {
+      "address": "162 Route 22, Pawling, NY 12564",
+      "phone": "845-855-0553",
+      "id": "20741"
+    },
+    {
+      "address": "900 Central Ave., Century II Mall, Albany, NY 12206",
+      "phone": "518-438-7296",
+      "id": "20760"
+    },
+    {
+      "address": "579 Troy Schenectady Rd., Latham, NY 12110",
+      "phone": "518-782-1750",
+      "id": "20767"
+    },
+    {
+      "address": "1261 Ulster Ave, Kingston, NY 12401",
+      "phone": "845-336-0325",
+      "id": "20749"
+    },
+    {
+      "address": "100 Plaza Road, Kingston, NY 12401",
+      "phone": "845-339-7480",
+      "id": "21126"
+    },
+    {
+      "address": "295 State Route 375, West Hurley, NY 12491",
+      "phone": "845-679-8121",
+      "id": "21197"
+    },
+    {
+      "address": "3650 Route 9W, Highland, NY 12528",
+      "phone": "845-691-9150",
+      "id": "20745"
+    },
+    {
+      "address": "96 Wolf Rd, Windsor Plaza, Colonie, NY 12205",
+      "phone": "518-482-1085",
+      "id": "20756"
+    },
+    {
+      "address": "1165 Route 29, Greenwich, NY 12834",
+      "phone": "518-692-3177",
+      "id": "20739"
+    },
+    {
+      "address": "175 Coliseum Ave, Nashua, NH 03063",
+      "phone": "603-889-3700",
+      "id": "21094"
+    },
+    {
+      "address": "77 Derry Rd, Hudson, NH 03051",
+      "phone": "603-883-6112",
+      "id": "20715"
+    },
+    {
+      "address": "4 Jenkins Road, Bedford, NH 03110",
+      "phone": "603-472-2627",
+      "id": "21110"
+    },
+    {
+      "address": "66-2 Drum Hill, Shopping Center, Chelmsford, MA 01824",
+      "phone": "978-459-9304",
+      "id": "21048"
+    },
+    {
+      "address": "301 Pleasant St., Dracut, MA 01826",
+      "phone": "978-459-0059",
+      "id": "20717"
+    },
+    {
+      "address": "777 Rogers Street, Lowell, MA 01852",
+      "phone": "978-446-7862",
+      "id": "21122"
+    },
+    {
+      "address": "150 Bridge St, PO Box 31, Pelham, NH 03076",
+      "phone": "603-635-3001",
+      "id": "21073"
+    },
+    {
+      "address": "55 Russell St, Waltham, MA 02451",
+      "phone": "781-893-6776",
+      "id": "21075"
+    },
+    {
+      "address": "255 Joseph E. Warner, Blvd., Taunton, MA 02780",
+      "phone": "508-828-3940",
+      "id": "20764"
+    },
+    {
+      "address": "8 Merchants Way, Middleboro, MA 02346",
+      "phone": "508-947-4787",
+      "id": "21066"
+    },
+    {
+      "address": "305 Sandown Road, East Hampstead, NH 03826",
+      "phone": "603-329-0182",
+      "id": "21047"
+    },
+    {
+      "address": "6 Hampton Drive, Londonderry, NH 03053",
+      "phone": "603-421-0921",
+      "id": "20716"
+    },
+    {
+      "address": "35 Manchester Rd, Derry Meadow Shoppes, Derry, NH 03038",
+      "phone": "603-434-5099",
+      "id": "21074"
+    },
+    {
+      "address": "141 Portsmouth Ave, Exeter, NH 03833",
+      "phone": "603-772-1783",
+      "id": "21176"
+    },
+    {
+      "address": "630 Lafayette Rd., Hampton, NH 03842",
+      "phone": "603-926-9808",
+      "id": "21119"
+    },
+    {
+      "address": "2 Freetown Road, Route #27, Raymond, NH 03077",
+      "phone": "603-895-0010",
+      "id": "21084"
+    },
+    {
+      "address": "201 John E Devine Dr, Manchester, NH 03103",
+      "phone": "603-626-4567",
+      "id": "21020"
+    },
+    {
+      "address": "800 Islington Street, Portsmouth, NH 03801",
+      "phone": "603-436-6669",
+      "id": "20710"
+    },
+    {
+      "address": "7 Mill Road, Durham, NH 03824",
+      "phone": "603-868-2500",
+      "id": "21185"
+    },
+    {
+      "address": "30 Grapevine Drive, Dover, NH 03820",
+      "phone": "603-749-2096",
+      "id": "20728"
+    },
+    {
+      "address": "440 Route #1, 5 Hannaford Drive, York, ME 03909",
+      "phone": "207-363-5357",
+      "id": "20765"
+    },
+    {
+      "address": "4 Jenkins Road, Bedford, NH 03110",
+      "phone": "603-472-2627",
+      "id": "21191"
+    },
+    {
+      "address": "7 Kilton Road, Bedford, NH 03110",
+      "phone": "603-625-5431",
+      "id": "21191"
+    },
+    {
+      "address": "605 Mast Road, Goffstown, NH 03102",
+      "phone": "603-626-4488",
+      "id": "21113"
+    },
+    {
+      "address": "859 Hanover St, Manchester, NH 03104",
+      "phone": "603-624-4442",
+      "id": "21042"
+    },
+    {
+      "address": "140 Bicentennial Dr, Manchester, NH 03104",
+      "phone": "603-644-2106",
+      "id": "21041"
+    },
+    {
+      "address": "7 Kilton Road, Bedford, NH 03110",
+      "phone": "603-625-5431",
+      "id": "21110"
+    },
+    {
+      "address": "174 First, N.Hampshire Turnpike, Northwood, NH 03261",
+      "phone": "603-942-8842",
+      "id": "21088"
+    },
+    {
+      "address": "73 Fort Eddy Rd, Concord, NH 03301",
+      "phone": "603-228-2060",
+      "id": "21124"
+    },
+    {
+      "address": "833 Central Ave, Dover, NH 03820",
+      "phone": "603-749-9232",
+      "id": "21131"
+    },
+    {
+      "address": "Hatch Shopping Plaza, Route 25, Plymouth, NH 03264",
+      "phone": "603-536-3400",
+      "id": "21102"
+    },
+    {
+      "address": "32 Mountain Valley Blvd., PO BOX 3058, North Conway, NH 03860",
+      "phone": "603-356-6341",
+      "id": "20752"
+    },
+    {
+      "address": "38 Nh Route 25,, Unit 5, Meredith, NH 03253",
+      "phone": "603-279-1451",
+      "id": "20731"
+    },
+    {
+      "address": "891 NH-16, Center Ossipee, NH 03864",
+      "phone": "603-539-7531",
+      "id": "21087"
+    },
+    {
+      "address": "1425 Lake Shore Road, Unit D, Gilford, NH 03249",
+      "phone": "603-524-4629",
+      "id": "21160"
+    },
+    {
+      "address": "505 Pleasant Street, Bristol, NH 03222",
+      "phone": "603-744-5416",
+      "id": "21190"
+    },
+    {
+      "address": "586 Lower Plain, Bradford, VT 05033",
+      "phone": "802-222-3370",
+      "id": "21169"
+    },
+    {
+      "address": "952 Central St, Route 3, Franklin, NH 03235",
+      "phone": "603-934-2515",
+      "id": "21118"
+    },
+    {
+      "address": "80 Wolfeboro Highway, Alton, NH 03809",
+      "phone": "603-875-4300",
+      "id": "20730"
+    },
+    {
+      "address": "109 Portland Road, Bridgton, ME 04009",
+      "phone": "207-647-2015",
+      "id": "20713"
+    },
+    {
+      "address": "295 Newport Road, New London, NH 03257",
+      "phone": "603-526-6951",
+      "id": "20729"
+    },
+    {
+      "address": "220 Washington St, Claremont, NH 03743",
+      "phone": "603-543-1681",
+      "id": "21083"
+    },
+    {
+      "address": "8 Market Street, West Lebanon, NH 03784",
+      "phone": "603-298-6642",
+      "id": "21159"
+    },
+    {
+      "address": "290 North Main St, Rochester, NH 03867",
+      "phone": "603-332-9580",
+      "id": "21116"
+    },
+    {
+      "address": "11 Milton Rd, 26 Lilac Mall #2, Rochester, NH 03867",
+      "phone": "603-332-9611",
+      "id": "21117"
+    },
+    {
+      "address": "456 South Barre Road, Barre, VT 05641",
+      "phone": "802-479-3326",
+      "id": "21030"
+    },
+    {
+      "address": "80 Fairgrounds Plaza, Route 100, Morrisville, VT 05661",
+      "phone": "802-888-9848",
+      "id": "21090"
+    },
+    {
+      "address": "520 Waldo Street, Rumford, ME 04276",
+      "phone": "207-364-3771",
+      "id": "21062"
+    },
+    {
+      "address": "1603 Main Street, Oxford, ME 04270",
+      "phone": "207-743-2522",
+      "id": "20744"
+    },
+    {
+      "address": "15 Jay Plaza Lane, Jay, ME 04239",
+      "phone": "207-897-4376",
+      "id": "21021"
+    },
+    {
+      "address": "50 Pigeon Hill Rd, Mechanic Falls, ME 04256",
+      "phone": "207-998-2660",
+      "id": "21198"
+    },
+    {
+      "address": "23 Snell Hill Road, Turner, ME 04282",
+      "phone": "207-225-5140",
+      "id": "21170"
+    },
+    {
+      "address": "Rr#4 Box 5027, 131 Hannaford Drive, Farmington, ME 04938",
+      "phone": "207-778-0434",
+      "id": "21105"
+    },
+    {
+      "address": "318 US Route 7 South, Rutland, VT 05701",
+      "phone": "802-775-8900",
+      "id": "21111"
+    },
+    {
+      "address": "71 Supermarket Drive, Brandon, VT 05733",
+      "phone": "802-247-4113",
+      "id": "20894"
+    },
+    {
+      "address": "23 Somersworth Rd, North Berwick, ME 03906",
+      "phone": "207-676-2177",
+      "id": "21184"
+    },
+    {
+      "address": "Rr 3 Box 422-2, 107 Wells Plaza, Wells, ME 04090",
+      "phone": "207-646-4111",
+      "id": "20769"
+    },
+    {
+      "address": "800 Main St., Sanford, ME 04073",
+      "phone": "207-324-1554",
+      "id": "20770"
+    },
+    {
+      "address": "797 Roosevelt Trail, Windham Mall, North Windham, ME 04062",
+      "phone": "207-892-2532",
+      "id": "20748"
+    },
+    {
+      "address": "71 Colonial Drive, Standish, ME 04084",
+      "phone": "207-642-5533",
+      "id": "20750"
+    },
+    {
+      "address": "130 Shaker Road, Gray, ME 04039",
+      "phone": "207-657-5800",
+      "id": "20889"
+    },
+    {
+      "address": "Hc 72 Box 2100, 20 Sokokis Trail, East Waterboro, ME 04087",
+      "phone": "207-247-8000",
+      "id": "20722"
+    },
+    {
+      "address": "21 Hannaford Drive, Buxton, ME 04093",
+      "phone": "207-929-3100",
+      "id": "21053"
+    },
+    {
+      "address": "65 Portland Road, Suite 9, Kennebunk, ME 04043",
+      "phone": "207-985-9135",
+      "id": "20895"
+    },
+    {
+      "address": "299 Elm Street, Biddeford, ME 04005",
+      "phone": "207-284-8677",
+      "id": "21052"
+    },
+    {
+      "address": "532 Main Street, Route 1, Saco, ME 04072",
+      "phone": "207-282-4152",
+      "id": "21031"
+    },
+    {
+      "address": "99 Main St., Gorham, ME 04038",
+      "phone": "207-839-6553",
+      "id": "21059"
+    },
+    {
+      "address": "Shoppers Village, 756 Route #1, Yarmouth, ME 04096",
+      "phone": "207-846-5941",
+      "id": "21046"
+    },
+    {
+      "address": "35 Elm St, Brunswick, ME 04011",
+      "phone": "207-725-6683",
+      "id": "21101"
+    },
+    {
+      "address": "49 Topsham Fair Mall, Suite 1, Route 196, Topsham, ME 04086",
+      "phone": "207-729-5124",
+      "id": "21045"
+    },
+    {
+      "address": "50 Cottage Road, South Portland, ME 04106",
+      "phone": "207-799-7359",
+      "id": "20735"
+    },
+    {
+      "address": "Hannaford Plaza, 295 Forest Avenue, Portland, ME 04101",
+      "phone": "207-761-5965",
+      "id": "20751"
+    },
+    {
+      "address": "65 Gray Road, Falmouth, ME 04105",
+      "phone": "207-878-0050",
+      "id": "21050"
+    },
+    {
+      "address": "787 Riverside St., Portland, ME 04103",
+      "phone": "207-878-0191",
+      "id": "21060"
+    },
+    {
+      "address": "Hannaford Plaza, 415 Philbrook Ave, South Portland, ME 04106",
+      "phone": "207-761-2729",
+      "id": "20768"
+    },
+    {
+      "address": "7 Hannaford Drive, Westbrook, ME 04092",
+      "phone": "207-854-4631",
+      "id": "20723"
+    },
+    {
+      "address": "Route 27, 180 Townsend Avenue, Boothbay Harbor, ME 04538",
+      "phone": "207-633-6465",
+      "id": "20708"
+    },
+    {
+      "address": "31 Hannaford Dr., Route 1, Scarborough, ME 04074",
+      "phone": "207-883-7670",
+      "id": "20746"
+    },
+    {
+      "address": "40 Main Avenue, Gardiner, ME 04345",
+      "phone": "207-582-3470",
+      "id": "21049"
+    },
+    {
+      "address": "692 Sabattus St, Lewiston, ME 04240",
+      "phone": "207-784-0721",
+      "id": "20733"
+    },
+    {
+      "address": "Damariscotta Plaza, 469 Main Street, Damariscotta, ME 04543",
+      "phone": "207-563-8131",
+      "id": "21034"
+    },
+    {
+      "address": "95 Spring Street, Auburn, ME 04210",
+      "phone": "207-784-6497",
+      "id": "21058"
+    },
+    {
+      "address": "399 Main Street, Winthrop, ME 04364",
+      "phone": "207-377-3150",
+      "id": "20892"
+    },
+    {
+      "address": "29 Whitten Rd., Augusta, ME 04330",
+      "phone": "207-622-3137",
+      "id": "21055"
+    },
+    {
+      "address": "118 Cony Street, Augusta, ME 04330",
+      "phone": "207-621-2570",
+      "id": "20888"
+    },
+    {
+      "address": "225 Upper Main St, Madison, ME 04950",
+      "phone": "207-696-3949",
+      "id": "20732"
+    },
+    {
+      "address": "496 Madison Ave, 100 Fairgrounds Marketplace, Skowhegan, ME 04976",
+      "phone": "207-858-4800",
+      "id": "21057"
+    },
+    {
+      "address": "190 JFK Plaza, Kennedy Memorial Drive, Waterville, ME 04901",
+      "phone": "207-873-0788",
+      "id": "20727"
+    },
+    {
+      "address": "140 Elm Plaza, Waterville, ME 04901",
+      "phone": "207-877-0700",
+      "id": "21054"
+    },
+    {
+      "address": "33 Hannaford Drive, China, ME 04358",
+      "phone": "207-445-3385",
+      "id": "20891"
+    },
+    {
+      "address": "17 Kalers Corner, Waldoboro, ME 04572",
+      "phone": "207-832-4358",
+      "id": "20736"
+    },
+    {
+      "address": "145 Elm Street, Camden, ME 04843",
+      "phone": "207-236-8577",
+      "id": "21035"
+    },
+    {
+      "address": "75 Maverick St, Rockland, ME 04841",
+      "phone": "207-594-2173",
+      "id": "20724"
+    },
+    {
+      "address": "93 Lincolnville Ave, Belfast, ME 04915",
+      "phone": "207-338-5377",
+      "id": "21056"
+    },
+    {
+      "address": "1133 Union St., Airport Mall, Bangor, ME 04401",
+      "phone": "207-942-0100",
+      "id": "21026"
+    },
+    {
+      "address": "Broadway Shopping Ct, 653 Broadway St., Bangor, ME 04401",
+      "phone": "207-947-8338",
+      "id": "21025"
+    },
+    {
+      "address": "Bangor Mall, 773 Stillwater Ave, Bangor, ME 04401",
+      "phone": "207-947-6735",
+      "id": "21027"
+    },
+    {
+      "address": "383 Wilson St, Brewer, ME 04412",
+      "phone": "207-989-2500",
+      "id": "21039"
+    },
+    {
+      "address": "77 Western Ave, Hampden, ME 04444",
+      "phone": "207-862-5444",
+      "id": "21151"
+    },
+    {
+      "address": "500 Stillwater Ave., Old Town, ME 04468",
+      "phone": "207-827-2700",
+      "id": "20706"
+    },
+    {
+      "address": "370 Main Street, 53 US Route 1, Bucksport, ME 04416",
+      "phone": "207-469-3282",
+      "id": "21036"
+    },
+    {
+      "address": "44 Moosehead Trail, Newport, ME 04953",
+      "phone": "207-368-4733",
+      "id": "21195"
+    },
+    {
+      "address": "37 Church Street, Dexter, ME 04930",
+      "phone": "207-924-6410",
+      "id": "21194"
+    },
+    {
+      "address": "Maine Coast Mall, 225 High Street, Suite 1, Ellsworth, ME 04605",
+      "phone": "207-667-5300",
+      "id": "21028"
+    },
+    {
+      "address": "Lincoln Plaza Route 2, 22 Goding Avenue, Lincoln, ME 04457",
+      "phone": "207-794-6122",
+      "id": "21033"
+    },
+    {
+      "address": "86 Cottage St, Bar Harbor, ME 04609",
+      "phone": "207-288-5680",
+      "id": "21051"
+    },
+    {
+      "address": "33 Ludlow Road, Houlton, ME 04730",
+      "phone": "207-532-2605",
+      "id": "21181"
+    },
+    {
+      "address": "Magic City Shop Ctr, 843 Central Street, Millinocket, ME 04462",
+      "phone": "207-723-8047",
+      "id": "21038"
+    },
+    {
+      "address": "149 Dublin Street, Machias, ME 04654",
+      "phone": "207-255-3201",
+      "id": "21029"
+    },
+    {
+      "address": "114 High Street, Caribou, ME 04736",
+      "phone": "207-498-8824",
+      "id": "21180"
+    },
+    {
+      "address": "260 Court St, Unit 6, Middlebury, VT 05753",
+      "phone": "802-388-1017",
+      "id": "21085"
+    },
+    {
+      "address": "78 Marshall Avenue, Williston, VT 05495",
+      "phone": "802-878-0032",
+      "id": "20773"
+    },
+    {
+      "address": "21A Essex Way, Essex Junction, VT 05452",
+      "phone": "802-878-0274",
+      "id": "20753"
+    },
+    {
+      "address": "935 Shelburne Road, Suite 300, South Burlington, VT 05403",
+      "phone": "802-864-0105",
+      "id": "21201"
+    },
+    {
+      "address": "3758 Burgoyne Avenue, Hudson Falls, NY 12839",
+      "phone": "518-746-2040",
+      "id": "20771"
+    },
+    {
+      "address": "University Mall, 217 Dorset St, South Burlington, VT 05401",
+      "phone": "802-863-6311",
+      "id": "20754"
+    },
+    {
+      "address": "27-41 Gansevoort Rd, South Glens Falls, NY 12803",
+      "phone": "518-798-7991",
+      "id": "21134"
+    },
+    {
+      "address": "190 Quaker Rd, Queensbury, NY 12804",
+      "phone": "518-798-8676",
+      "id": "21063"
+    },
+    {
+      "address": "175 Broad St, Glens Falls, NY 12801",
+      "phone": "518-793-0028",
+      "id": "21132"
+    },
+    {
+      "address": "19 Clifton Country Road, Suite 16, Clifton Park, NY 12065",
+      "phone": "518-383-4136",
+      "id": "20758"
+    },
+    {
+      "address": "43 Round Lake Road, Malta (Ballston Lake), NY 12019",
+      "phone": "518-899-2392",
+      "id": "21165"
+    },
+    {
+      "address": "95 Weibel Ave, Saratoga Springs, NY 12866",
+      "phone": "518-587-0360",
+      "id": "21137"
+    },
+    {
+      "address": "11 Trieble Ave, Ballston Spa, NY 12020",
+      "phone": "518-885-6384",
+      "id": "21140"
+    },
+    {
+      "address": "1127 North Avenue, Suite 11, Burlington, VT 05401",
+      "phone": "802-862-8040",
+      "id": "21089"
+    },
+    {
+      "address": "259 Route 7 South, Milton, VT 05468",
+      "phone": "802-893-0554",
+      "id": "21174"
+    },
+    {
+      "address": "7 Pyramid Drive, Plattsburgh, NY 12901",
+      "phone": "518-562-2204",
+      "id": "21022"
+    },
+    {
+      "address": "277 Swanton Road, Highgate Shopping Pl, St. Albans, VT 05478",
+      "phone": "802-524-2157",
+      "id": "21061"
+    },
+    {
+      "address": "139 First Street, Swanton, VT 05488",
+      "phone": "802-868-2637",
+      "id": "20893"
+    },
+    {
+      "address": "71 Jayview Drive, PO Box 930, Enosburg Falls, VT 05450",
+      "phone": "802-933-6657",
+      "id": "20737"
+    },
+    {
+      "address": "45 Hadjis Way, Suite 6, Lake Placid, NY 12946",
+      "phone": "518-523-3279",
+      "id": "21143"
+    },
+    {
+      "address": "3 Via Rossi Way, Ballston Spa, NY 12020",
+      "phone": "518-884-2973",
+      "id": "21200"
+    },
+    {
+      "address": "1490 Route 9, Wappingers Falls, NY 12590",
+      "phone": "845-297-8254",
+      "id": "20740"
+    },
+    {
+      "address": "2066 Route 32, Modena, NY 12548",
+      "phone": "845-883-7407",
+      "id": "21127"
+    },
+    {
+      "address": "2636 Route 32, New Windsor, NY 12553",
+      "phone": "845-562-5169",
+      "id": "20738"
+    },
+    {
+      "address": "78 Oak Street, Walden, NY 12586",
+      "phone": "845-778-2220",
+      "id": "21163"
+    },
+    {
+      "address": "31 Ted Drive, Pine Bush, NY 12566",
+      "phone": "845-744-2113",
+      "id": "20747"
+    },
+    {
+      "address": "30 Tower Drive, Middletown, NY 10941",
+      "phone": "845-695-1800",
+      "id": "20743"
+    },
+    {
+      "address": "5 Maple Rd, Voorheesville, NY 12186",
+      "phone": "518-765-2629",
+      "id": "20725"
+    },
+    {
+      "address": "5239 Western Trnpike, Altamont, NY 12009",
+      "phone": "518-355-5814",
+      "id": "21139"
+    },
+    {
+      "address": "262 Saratoga Rd, Route 50, Glenville, NY 12302",
+      "phone": "518-384-0156",
+      "id": "21133"
+    },
+    {
+      "address": "3333 Consaul Rd, Niskayuna, NY 12304",
+      "phone": "518-395-9497",
+      "id": "21141"
+    },
+    {
+      "address": "1400 Altamont Ave, Schenectady, NY 12303",
+      "phone": "518-357-2050",
+      "id": "21120"
+    },
+    {
+      "address": "11140 Western Turnpike, Esperance, NY 12066",
+      "phone": "518-875-9410",
+      "id": "21023"
+    },
+    {
+      "address": "4901 State Highway, 115 Hannaford Plaza, Amsterdam, NY 12010",
+      "phone": "518-843-5854",
+      "id": "21128"
+    },
+    {
+      "address": "235 Fifth Ave Ext., Gloversville, NY 12078",
+      "phone": "518-725-0847",
+      "id": "20763"
+    },
+    {
+      "address": "401 East Albany St, Herkimer, NY 13350",
+      "phone": "315-866-6030",
+      "id": "20759"
+    },
+    {
+      "address": "1122 Mohawk Street, Utica, NY 13501",
+      "phone": "315-734-0373",
+      "id": "20761"
+    },
+    {
+      "address": "50 Kellogg Road, New Hartford, NY 13413",
+      "phone": "315-724-0274",
+      "id": "21130"
+    },
+    {
+      "address": "705 State Highway 28, Box 5100, Oneonta, NY 13820",
+      "phone": "607-432-0012",
+      "id": "21123"
+    },
+    {
+      "address": "55 Meadow Street, Clinton, NY 13323",
+      "phone": "315-853-5090",
+      "id": "21114"
+    },
+    {
+      "address": "4593 Commercial Dr., New Hartford, NY 13413",
+      "phone": "315-768-1851",
+      "id": "21091"
+    },
+    {
+      "address": "808 West Chestnut St, Rome, NY 13440",
+      "phone": "315-336-0201",
+      "id": "21202"
+    },
+    {
+      "address": "21110 US Route 3, Watertown, NY 13601",
+      "phone": "315-782-7456",
+      "id": "21040"
+    }
+  ]
+}

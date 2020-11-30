@@ -1,9 +1,9 @@
-Food Lion
-Stop & Shop
-Giant Food Stores
-hannaford
-Giant Food
-Harris Teeter
+! Food Lion
+! Stop & Shop
+! Giant Food Stores
+! hannaford
+! Giant Food
+! Harris Teeter
 King Soopers
 Roundy's
 Smith's Food and Drug

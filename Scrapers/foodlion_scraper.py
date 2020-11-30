@@ -31,7 +31,7 @@ for postal in postals:
     search.send_keys(Keys.BACK_SPACE * 5)
     search.send_keys(postal)
     search.send_keys(Keys.RETURN)
-    time.sleep(0.5)
+    time.sleep(0.1)
 
     # Get info from sidebar
     sidebar = driver.find_element_by_id("sidebar-content")

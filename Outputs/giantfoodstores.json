@@ -1,0 +1,780 @@
+{
+  "name": "Giant Food Stores",
+  "stores": [
+    {
+      "address": "539 North Oak Ave, Aldan, PA 19018",
+      "phone": "610-623-5313",
+      "id": "6106235313"
+    },
+    {
+      "address": "3015 West Emmaus Ave, Allentown, PA 18103",
+      "phone": "610-791-9644",
+      "id": "6107919644"
+    },
+    {
+      "address": "3070 Tilghman St, Allentown, PA 18104",
+      "phone": "610-776-1531",
+      "id": "6107761531"
+    },
+    {
+      "address": "3400 Concord Rd, Aston, PA 19014",
+      "phone": "610-497-5375",
+      "id": "6104975375"
+    },
+    {
+      "address": "10000 Shannondell Drive, Audubon, PA 19403",
+      "phone": "610-728-5600",
+      "id": "6107285600"
+    },
+    {
+      "address": "65 Route 611, Bartonsville, PA 18321",
+      "phone": "570-421-1797",
+      "id": "5704211797"
+    },
+    {
+      "address": "2721 Street Rd, Bensalem, PA 19020",
+      "phone": "215-604-9924",
+      "id": "2156049924"
+    },
+    {
+      "address": "50 Briar Creek Plz, Berwick, PA 18603",
+      "phone": "570-802-0595",
+      "id": "5708020595"
+    },
+    {
+      "address": "2174 West Union Blvd, Bethlehem, PA 18018",
+      "phone": "610-691-4304",
+      "id": "6106914304"
+    },
+    {
+      "address": "2918 Easton Ave, Bethlehem, PA 18017",
+      "phone": "610-866-3355",
+      "id": "6108663355"
+    },
+    {
+      "address": "3926 Linden St, Bethlehem, PA 18020",
+      "phone": "610-882-0585",
+      "id": "6108820585"
+    },
+    {
+      "address": "1000 Scott Town Plaza, Bloomsburg, PA 17815",
+      "phone": "570-389-9004",
+      "id": "5703899004"
+    },
+    {
+      "address": "1760 Dekalb Pike, Blue Bell, PA 19422",
+      "phone": "610-239-7804",
+      "id": "6102397804"
+    },
+    {
+      "address": "4930 Edgmont Ave, Brookhaven, PA 19015",
+      "phone": "610-876-6445",
+      "id": "6108766445"
+    },
+    {
+      "address": "2180 West Chester Pike, Broomall, PA 19008",
+      "phone": "610-355-7717",
+      "id": "6103557717"
+    },
+    {
+      "address": "325 West Freedom Ave, Burnham, PA 17009",
+      "phone": "717-248-3963",
+      "id": "7172483963"
+    },
+    {
+      "address": "3301 Trindle Rd, Camp Hill, PA 17011",
+      "phone": "717-724-1166",
+      "id": "7177241166"
+    },
+    {
+      "address": "255S Spring Garden St, Carlisle, PA 17013",
+      "phone": "717-249-2323",
+      "id": "7172492323"
+    },
+    {
+      "address": "950 Walnut Bottom Road, Carlisle, PA 17015",
+      "phone": "717-601-3676",
+      "id": "7176013676"
+    },
+    {
+      "address": "4275 County Line Rd, Chalfont, PA 18914",
+      "phone": "215-997-2883",
+      "id": "2159972883"
+    },
+    {
+      "address": "925 Norland Ave, Chambersburg, PA 17201",
+      "phone": "717-267-0440",
+      "id": "7172670440"
+    },
+    {
+      "address": "993 Wayne Ave, Chambersburg, PA 17201",
+      "phone": "717-263-4000",
+      "id": "7172634000"
+    },
+    {
+      "address": "481 West Penn Ave, Cleona, PA 17042",
+      "phone": "717-274-5629",
+      "id": "7172745629"
+    },
+    {
+      "address": "3985 Columbia Avenue, Columbia, PA 17512",
+      "phone": "717-285-4380",
+      "id": "7172854380"
+    },
+    {
+      "address": "10 East Ridge Pike, Conshohocken, PA 19428",
+      "phone": "610-940-2231",
+      "id": "6109402231"
+    },
+    {
+      "address": "216 E Fairmont St, Coopersburg, PA 18036",
+      "phone": "610-282-4200",
+      "id": "6102824200"
+    },
+    {
+      "address": "202 Chestnut St, Coplay, PA 18037",
+      "phone": "610-262-7581",
+      "id": "6102627581"
+    },
+    {
+      "address": "502 Church St, Danville, PA 17821",
+      "phone": "570-271-0470",
+      "id": "5702710470"
+    },
+    {
+      "address": "1550 Main St, Dickson Cty, PA 18447",
+      "phone": "570-307-1320",
+      "id": "5703071320"
+    },
+    {
+      "address": "830 N US Route 15, Dillsburg, PA 17019",
+      "phone": "717-638-1230",
+      "id": "7176381230"
+    },
+    {
+      "address": "2130 Palomino Rd, Dover, PA 17315",
+      "phone": "717-292-3702",
+      "id": "7172923702"
+    },
+    {
+      "address": "4357 West Swamp Rd, Doylestown, PA 18901",
+      "phone": "267-885-0920",
+      "id": "2678850920"
+    },
+    {
+      "address": "300 Lincoln Avenue, East Stroudsburg, PA 18301",
+      "phone": "570-476-2908",
+      "id": "5704762908"
+    },
+    {
+      "address": "301 Town Center Blvd, Easton, PA 18040",
+      "phone": "610-559-8770",
+      "id": "6105598770"
+    },
+    {
+      "address": "801 S 25th St, Easton, PA 18045",
+      "phone": "484-546-0084",
+      "id": "4845460084"
+    },
+    {
+      "address": "1278 S Market St, Elizabethtown, PA 17022",
+      "phone": "717-367-1943",
+      "id": "7173671943"
+    },
+    {
+      "address": "4510 Marketplace Way, Enola, PA 17025",
+      "phone": "717-909-7012",
+      "id": "7179097012"
+    },
+    {
+      "address": "850 East Main St, Ephrata, PA 17522",
+      "phone": "717-733-6334",
+      "id": "7177336334"
+    },
+    {
+      "address": "141 E Swedesford Rd, Exton, PA 19341",
+      "phone": "610-594-0847",
+      "id": "6105940847"
+    },
+    {
+      "address": "168 Eagleview Blvd, Exton, PA 19341",
+      "phone": "610-363-0799",
+      "id": "6103630799"
+    },
+    {
+      "address": "471 Oxford Valley Rd, Fairless Hills, PA 19030",
+      "phone": "215-949-8941",
+      "id": "2159498941"
+    },
+    {
+      "address": "176 W. Street Road, Feasterville, Feasterville, PA 19053",
+      "phone": "215-396-3393",
+      "id": "2153963393"
+    },
+    {
+      "address": "1874 Bethlehem Pike, Flourtown, PA 19031",
+      "phone": "215-836-4300",
+      "id": "2158364300"
+    },
+    {
+      "address": "44 Natural Springs Rd, Gettysburg, PA 17325",
+      "phone": "717-337-0017",
+      "id": "7173370017"
+    },
+    {
+      "address": "173 Holly Rd, Gilbertsville, PA 19525",
+      "phone": "610-473-3200",
+      "id": "6104733200"
+    },
+    {
+      "address": "3777 Peters Mtn, Halifax, PA 17032",
+      "phone": "717-896-8703",
+      "id": "7178968703"
+    },
+    {
+      "address": "455 Eisenhower Dr, Hanover, PA 17331",
+      "phone": "717-632-2882",
+      "id": "7176322882"
+    },
+    {
+      "address": "801 Baltimore St, Hanover, PA 17331",
+      "phone": "717-632-6673",
+      "id": "7176326673"
+    },
+    {
+      "address": "611 Main St, Harleysville, PA 19438",
+      "phone": "215-513-0400",
+      "id": "2155130400"
+    },
+    {
+      "address": "136 Kline Vlg, Harrisburg, PA 17104",
+      "phone": "717-909-7306",
+      "id": "7179097306"
+    },
+    {
+      "address": "2300 Linglestown Rd, Harrisburg, PA 17110",
+      "phone": "717-545-0489",
+      "id": "7175450489"
+    },
+    {
+      "address": "4211 Union Deposit Rd, Harrisburg, PA 17111",
+      "phone": "717-920-0437",
+      "id": "7179200437"
+    },
+    {
+      "address": "5005 Jonestown Road, Harrisburg, PA 17109",
+      "phone": "717-545-3752",
+      "id": "7175453752"
+    },
+    {
+      "address": "6301 Grayson Road, Harrisburg, PA 17111",
+      "phone": "717-561-1285",
+      "id": "7175611285"
+    },
+    {
+      "address": "1540 Cowpath Rd, Hatfield, PA 19440",
+      "phone": "215-361-4190",
+      "id": "2153614190"
+    },
+    {
+      "address": "116 Township Line Rd, Havertown, PA 19083",
+      "phone": "610-449-1161",
+      "id": "6104491161"
+    },
+    {
+      "address": "70 S Locust St, Hazleton, PA 18201",
+      "phone": "570-459-5613",
+      "id": "5704595613"
+    },
+    {
+      "address": "1880 Leithsville Rd, Hellertown, PA 18055",
+      "phone": "610-838-7700",
+      "id": "6108387700"
+    },
+    {
+      "address": "1250 Cocoa Ave, Hershey, PA 17033",
+      "phone": "717-312-0725",
+      "id": "7173120725"
+    },
+    {
+      "address": "314 Horsham Rd, Horsham, PA 19044",
+      "phone": "215-682-7422",
+      "id": "2156827422"
+    },
+    {
+      "address": "277 Hershey Rd, Hummelstown, PA 17036",
+      "phone": "717-256-0050",
+      "id": "7172560050"
+    },
+    {
+      "address": "7673 Lake Raystown, Huntingdon, PA 16652",
+      "phone": "814-643-2794",
+      "id": "8146432794"
+    },
+    {
+      "address": "737 Huntingdon Pike, Huntingdon Valley, PA 19006",
+      "phone": "215-379-6900",
+      "id": "2153796900"
+    },
+    {
+      "address": "15100 Kutztown Road, KUTZTOWN, PA 19530",
+      "phone": "610-683-3689",
+      "id": "6106833689"
+    },
+    {
+      "address": "350 Scarlet Rd, Kennett Square, PA 19348",
+      "phone": "610-444-8160",
+      "id": "6104448160"
+    },
+    {
+      "address": "830 E Baltimore Pike, Kennett Square, PA 19348",
+      "phone": "610-444-7020",
+      "id": "6104447020"
+    },
+    {
+      "address": "310 S Henderson Rd, King Of Prussia, PA 19406",
+      "phone": "610-265-1870",
+      "id": "6102651870"
+    },
+    {
+      "address": "106 Willow Valley Square, Lancaster, PA 17602",
+      "phone": "717-464-2181",
+      "id": "7174642181"
+    },
+    {
+      "address": "1360 Columbia Ave, Lancaster, PA 17603",
+      "phone": "717-291-9678",
+      "id": "7172919678"
+    },
+    {
+      "address": "1605 Lititz Pike, Lancaster, PA 17601",
+      "phone": "717-299-0391",
+      "id": "7172990391"
+    },
+    {
+      "address": "235 N Reservoir St, Lancaster, PA 17602",
+      "phone": "800-573-2763",
+      "id": "8005732763"
+    },
+    {
+      "address": "550 Centerville Rd, Lancaster, PA 17601",
+      "phone": "717-898-3011",
+      "id": "7178983011"
+    },
+    {
+      "address": "168 N Flowers Mill Rd, Langhorne, PA 19047",
+      "phone": "215-741-3360",
+      "id": "2157413360"
+    },
+    {
+      "address": "3 Doublewoods Rd, Langhorne, PA 19047",
+      "phone": "215-968-0676",
+      "id": "2159680676"
+    },
+    {
+      "address": "300 E Baltimore Ave, Lansdowne, PA 19050",
+      "phone": "610-623-9223",
+      "id": "6106239223"
+    },
+    {
+      "address": "1750 Quentin Road, Lebanon, PA 17042",
+      "phone": "717-270-9955",
+      "id": "7172709955"
+    },
+    {
+      "address": "835 Bowman Street, Lebanon, PA 17046",
+      "phone": "717-272-5584",
+      "id": "7172725584"
+    },
+    {
+      "address": "1241 Blakeslee Blvd, Lehighton, PA 18235",
+      "phone": "570-386-4146",
+      "id": "5703864146"
+    },
+    {
+      "address": "10 Newport Rd, Leola, PA 17540",
+      "phone": "717-656-9983",
+      "id": "7176569983"
+    },
+    {
+      "address": "4001 New Falls Rd, Levittown, PA 19056",
+      "phone": "215-949-1408",
+      "id": "2159491408"
+    },
+    {
+      "address": "224 Hardwood Drive, Lewisburg, PA 17837",
+      "phone": "570-524-9868",
+      "id": "5705249868"
+    },
+    {
+      "address": "200 S Dorcas St, Lewistown, PA 17044",
+      "phone": "717-242-2371",
+      "id": "7172422371"
+    },
+    {
+      "address": "1008 Lititz Pike, Lititz, PA 17543",
+      "phone": "717-625-0303",
+      "id": "7176250303"
+    },
+    {
+      "address": "225 Lancaster Ave, Malvern, PA 19355",
+      "phone": "610-296-5551",
+      "id": "6102965551"
+    },
+    {
+      "address": "205 Glen Dr, Manchester, PA 17345",
+      "phone": "717-266-8560",
+      "id": "7172668560"
+    },
+    {
+      "address": "1925 Norristown Rd, Maple Glen, PA 19002",
+      "phone": "215-643-4567",
+      "id": "2156434567"
+    },
+    {
+      "address": "360 South 2nd St, Mcconnellsburg, PA 17233",
+      "phone": "717-485-0430",
+      "id": "7174850430"
+    },
+    {
+      "address": "255 Cumberland Pwky, Mechanicsburg, PA 17055",
+      "phone": "717-591-0979",
+      "id": "7175910979"
+    },
+    {
+      "address": "5301 Simpson Ferry Rd, Mechanicsburg, PA 17055",
+      "phone": "717-766-6550",
+      "id": "7177666550"
+    },
+    {
+      "address": "6560 Carlisle Pike, Mechanicsburg, PA 17055",
+      "phone": "717-796-6555",
+      "id": "7177966555"
+    },
+    {
+      "address": "450 East Main St, Middletown, PA 17057",
+      "phone": "717-948-1607",
+      "id": "7179481607"
+    },
+    {
+      "address": "833 W Trenton Ave, Morrisville, PA 19067",
+      "phone": "215-295-8032",
+      "id": "2152958032"
+    },
+    {
+      "address": "789 E Main St, Mount Joy, PA 17552",
+      "phone": "717-653-0396",
+      "id": "7176530396"
+    },
+    {
+      "address": "859 Nazareth Pike, Nazareth, PA 18064",
+      "phone": "610-759-7213",
+      "id": "6107597213"
+    },
+    {
+      "address": "200 Town Ctr, New Britain, PA 18901",
+      "phone": "215-345-0334",
+      "id": "2153450334"
+    },
+    {
+      "address": "130 Old York Rd, New Cumberland, PA 17070",
+      "phone": "717-774-4936",
+      "id": "7177744936"
+    },
+    {
+      "address": "6542 Logan Square, New Hope, PA 18938",
+      "phone": "215-862-9061",
+      "id": "2158629061"
+    },
+    {
+      "address": "12 Newport Plaza, Newport, PA 17074",
+      "phone": "717-567-3950",
+      "id": "7175673950"
+    },
+    {
+      "address": "4855 West Chester Pike, Newtown Square, PA 19073",
+      "phone": "610-325-2478",
+      "id": "6103252478"
+    },
+    {
+      "address": "2670 Egypt Rd, Norristown, PA 19403",
+      "phone": "610-631-8130",
+      "id": "6106318130"
+    },
+    {
+      "address": "1201 Knapp Rd, North Wales, PA 19454",
+      "phone": "215-661-1025",
+      "id": "2156611025"
+    },
+    {
+      "address": "1153 N 5th St, Perkasie, PA 18944",
+      "phone": "215-257-1131",
+      "id": "2152571131"
+    },
+    {
+      "address": "1004 N 2nd street, Philadelphia, PA 19123",
+      "phone": "215-923-3919",
+      "id": "2159233919"
+    },
+    {
+      "address": "2303 Bainbridge St, Philadelphia, PA 19146",
+      "phone": "215-875-8305",
+      "id": "2158758305"
+    },
+    {
+      "address": "2550 Grant Ave, Philadelphia, PA 19114",
+      "phone": "215-464-8280",
+      "id": "2154648280"
+    },
+    {
+      "address": "3401 Chestnut Street, Philadelphia, PA 19104",
+      "phone": "445-888-3022",
+      "id": "4458883022"
+    },
+    {
+      "address": "700 Nutt Rd, Phoenixville, PA 19460",
+      "phone": "610-917-9086",
+      "id": "6109179086"
+    },
+    {
+      "address": "5858 Easton Rd, Plumsteadville, PA 18949",
+      "phone": "215-766-8665",
+      "id": "2157668665"
+    },
+    {
+      "address": "2450 Chemical Rd, Plymouth Meeting, PA 19462",
+      "phone": "610-941-5448",
+      "id": "6109415448"
+    },
+    {
+      "address": "86 Glocker Way, Pottstown, PA 19465",
+      "phone": "610-705-3352",
+      "id": "6107053352"
+    },
+    {
+      "address": "1544 Route 61 Hwy S, #6100, Pottsville, PA 17901",
+      "phone": "570-385-4273",
+      "id": "5703854273"
+    },
+    {
+      "address": "1465 W Broad St, Quakertown, PA 18951",
+      "phone": "215-538-3399",
+      "id": "2155383399"
+    },
+    {
+      "address": "901 S West End Blvd, Quakertown, PA 18951",
+      "phone": "215-536-5065",
+      "id": "2155365065"
+    },
+    {
+      "address": "100 Towns Edge Drive, Quarryville, PA 17566",
+      "phone": "717-786-7301",
+      "id": "7177867301"
+    },
+    {
+      "address": "35 Friendly Drive, Quarryville, PA 17566",
+      "phone": "717-284-4147",
+      "id": "7172844147"
+    },
+    {
+      "address": "2641 Shillington Rd, Reading, PA 19609",
+      "phone": "610-678-3286",
+      "id": "6106783286"
+    },
+    {
+      "address": "4655 Perkiomen Ave, Reading, PA 19606",
+      "phone": "610-406-9640",
+      "id": "6104069640"
+    },
+    {
+      "address": "600 E Lancaster Ave, Reading, PA 19607",
+      "phone": "610-775-5015",
+      "id": "6107755015"
+    },
+    {
+      "address": "3175 Cape Horn Rd, Red Lion, PA 17356",
+      "phone": "717-246-7137",
+      "id": "7172467137"
+    },
+    {
+      "address": "2350 Susquehanna Rd, Roslyn, PA 19001",
+      "phone": "215-881-2100",
+      "id": "2158812100"
+    },
+    {
+      "address": "1824 Ridge Pike, Royersford, PA 19468",
+      "phone": "610-831-5450",
+      "id": "6108315450"
+    },
+    {
+      "address": "967 S Township Line Rd, Royersford, PA 19468",
+      "phone": "610-792-9950",
+      "id": "6107929950"
+    },
+    {
+      "address": "550 E Lancaster Ave, Saint Davids, PA 19087",
+      "phone": "610-989-0781",
+      "id": "6109890781"
+    },
+    {
+      "address": "1600 Nay Aug Ave, Scranton, PA 18509",
+      "phone": "570-343-5997",
+      "id": "5703435997"
+    },
+    {
+      "address": "330 Marketplace Blvd, Selinsgrove, PA 17870",
+      "phone": "570-743-0106",
+      "id": "5707430106"
+    },
+    {
+      "address": "397 Baltimore Rd, Shippensburg, PA 17257",
+      "phone": "717-532-7515",
+      "id": "7175327515"
+    },
+    {
+      "address": "14635 Mt Airy Rd, Shrewsbury, PA 17361",
+      "phone": "717-227-9420",
+      "id": "7172279420"
+    },
+    {
+      "address": "760 Pennsylvania 113, Souderton, PA 18964",
+      "phone": "215-703-0580",
+      "id": "2157030580"
+    },
+    {
+      "address": "466 Second Street Pike, Southampton, PA 18966",
+      "phone": "215-357-5324",
+      "id": "2153575324"
+    },
+    {
+      "address": "1121 Bethlehem Pike, Spring House, PA 19477",
+      "phone": "215-283-4585",
+      "id": "2152834585"
+    },
+    {
+      "address": "721 W Sproul Rd, Springfield, PA 19064",
+      "phone": "610-328-0029",
+      "id": "6103280029"
+    },
+    {
+      "address": "950 Baltimore Pike, Springfield, PA 19064",
+      "phone": "610-604-1570",
+      "id": "6106041570"
+    },
+    {
+      "address": "2121 South Atherton, State College, PA 16801",
+      "phone": "814-861-2578",
+      "id": "8148612578"
+    },
+    {
+      "address": "255 Northland Ctr, State College, PA 16803",
+      "phone": "814-237-1828",
+      "id": "8142371828"
+    },
+    {
+      "address": "180 Upland Square Dr, Stowe, PA 19464",
+      "phone": "610-705-0000",
+      "id": "6107050000"
+    },
+    {
+      "address": "4320 5th Street Hwy, Temple, PA 19560",
+      "phone": "610-939-2640",
+      "id": "6109392640"
+    },
+    {
+      "address": "3477 Lincoln Hwy, Thorndale, PA 19372",
+      "phone": "610-383-5460",
+      "id": "6103835460"
+    },
+    {
+      "address": "7150 Hamilton Blvd, Trexlertown, PA 18087",
+      "phone": "610-391-0152",
+      "id": "6103910152"
+    },
+    {
+      "address": "300 S Best Ave, Walnutport, PA 18088",
+      "phone": "610-760-6184",
+      "id": "6107606184"
+    },
+    {
+      "address": "720 West Street Rd, Warminster, PA 18974",
+      "phone": "215-674-4607",
+      "id": "2156744607"
+    },
+    {
+      "address": "1661 South Easton Road, Warrington, PA 18976",
+      "phone": "215-918-1220",
+      "id": "2159181220"
+    },
+    {
+      "address": "1375 Boot Rd, West Chester, PA 19380",
+      "phone": "610-344-3050",
+      "id": "6103443050"
+    },
+    {
+      "address": "1393 Dilworthtown Xing, West Chester, PA 19382",
+      "phone": "610-431-2351",
+      "id": "6104312351"
+    },
+    {
+      "address": "698 Downingtown Pike, West Chester, PA 19380",
+      "phone": "610-430-7150",
+      "id": "6104307150"
+    },
+    {
+      "address": "849 West Baltimore Pike, West Grove, PA 19390",
+      "phone": "610-345-0183",
+      "id": "6103450183"
+    },
+    {
+      "address": "2104 Van Reed Rd, West Lawn, PA 19609",
+      "phone": "610-670-4713",
+      "id": "6106704713"
+    },
+    {
+      "address": "2641 Macarthur Rd, Whitehall, PA 18052",
+      "phone": "484-245-0080",
+      "id": "4842450080"
+    },
+    {
+      "address": "1969 East 3rd St, Williamsport, PA 17701",
+      "phone": "570-329-2002",
+      "id": "5703292002"
+    },
+    {
+      "address": "315 York Rd, Willow Grove, PA 19090",
+      "phone": "215-784-1960",
+      "id": "2157841960"
+    },
+    {
+      "address": "837 Male Rd, Wind Gap, PA 18091",
+      "phone": "610-863-8635",
+      "id": "6108638635"
+    },
+    {
+      "address": "50 E Wynnewood Rd, Wynnewood, PA 19096",
+      "phone": "610-642-5206",
+      "id": "6106425206"
+    },
+    {
+      "address": "700 Stony Hill Rd, Yardley, PA 19067",
+      "phone": "215-493-3540",
+      "id": "2154933540"
+    },
+    {
+      "address": "1255 Carlisle Rd, York, PA 17404",
+      "phone": "717-718-1884",
+      "id": "7177181884"
+    },
+    {
+      "address": "2415 East Market St, York, PA 17402",
+      "phone": "717-755-0991",
+      "id": "7177550991"
+    },
+    {
+      "address": "275 Pauline Dr, York, PA 17402",
+      "phone": "717-741-5332",
+      "id": "7177415332"
+    }
+  ]
+}

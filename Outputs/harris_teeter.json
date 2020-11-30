@@ -1,0 +1,1315 @@
+{
+  "name": "Harris Teeter",
+  "stores": [
+    {
+      "address": "1631 Kalorama Rd NW Suite 100, Washington, DC 20009 US",
+      "phone": "202-986-1415",
+      "id": "231"
+    },
+    {
+      "address": "1201 First St NE, Washington, DC 20002 US",
+      "phone": "202-589-0351",
+      "id": "352"
+    },
+    {
+      "address": "1350 Potomac Ave SE, Washington, DC 20003 US",
+      "phone": "202-543-1040",
+      "id": "282"
+    },
+    {
+      "address": "401 M Street SE, Washington, DC 20003 US",
+      "phone": "02-554-0164",
+      "id": "383"
+    },
+    {
+      "address": "26370 Bay Farm Rd, Millsboro, DE 19966 US",
+      "phone": "302-945-1705",
+      "id": "336"
+    },
+    {
+      "address": "31221 Americana Pkwy, Selbyville, DE 19975 US",
+      "phone": "302-436-2827",
+      "id": "327"
+    },
+    {
+      "address": "4800 First Coast Highway, Fernandina Beach, FL 32034 US",
+      "phone": "904-491-1213",
+      "id": "34"
+    },
+    {
+      "address": "600 Sea Island Rd Suite 23, St. Simons, GA 31522 US",
+      "phone": "912-638-8100",
+      "id": "168"
+    },
+    {
+      "address": "3779 Boston St, Baltimore, MD 21224 US",
+      "phone": "410-522-0270",
+      "id": "392"
+    },
+    {
+      "address": "1801 Whetstone Way, Baltimore, MD 21230 US",
+      "phone": "410-528-8484",
+      "id": "376"
+    },
+    {
+      "address": "4805 Battery Ln., Bethesda, MD 20814 US",
+      "phone": "240-630-8635",
+      "id": "404"
+    },
+    {
+      "address": "15501 Annapolis Rd, Bowie, MD 20715 US",
+      "phone": "301-383-2935",
+      "id": "324"
+    },
+    {
+      "address": "44900 St. Andrews Church Rd., California, MD 20619 US",
+      "phone": "301-737-2393",
+      "id": "487"
+    },
+    {
+      "address": "22700 Sweetshrub Dr, Clarksburg, MD 20871 US",
+      "phone": "301-916-7280",
+      "id": "409"
+    },
+    {
+      "address": "8620 Guilford Rd, Columbia, MD 21046 US",
+      "phone": "410-290-5902",
+      "id": "322"
+    },
+    {
+      "address": "10125 Ward Road, Dunkirk, MD 20754 US",
+      "phone": "443-550-1581",
+      "id": "270"
+    },
+    {
+      "address": "28528 Marlboro Ave, Easton, MD 21601 US",
+      "phone": "410-690-7203",
+      "id": "380"
+    },
+    {
+      "address": "11075 Resort Rd, Ellicott City, MD 21042 US",
+      "phone": "410-461-5014",
+      "id": "382"
+    },
+    {
+      "address": "8184 Westside Blvd, Fulton, MD 20759 US",
+      "phone": "301-362-5761",
+      "id": "323"
+    },
+    {
+      "address": "323 Copley Place, Gaithersburg, MD 20878 US",
+      "phone": "301-963-7904",
+      "id": "384"
+    },
+    {
+      "address": "14101 Darnestown Rd, Germantown, MD 20874 US",
+      "phone": "240-631-1310",
+      "id": "325"
+    },
+    {
+      "address": "14702 Baltimore Ave, Laurel, MD 20707 US",
+      "phone": "301-490-6039",
+      "id": "408"
+    },
+    {
+      "address": "11845 Old Georgetown Rd, North Bethesda, MD 20852 US",
+      "phone": "301-468-3029",
+      "id": "328"
+    },
+    {
+      "address": "18169 Towncenter Dr, Olney, MD 20832 US",
+      "phone": "301-260-1792",
+      "id": "403"
+    },
+    {
+      "address": "12525 Park Potomac Ave, Potomac, MD 20854 US",
+      "phone": "301-294-5329",
+      "id": "373"
+    },
+    {
+      "address": "143 Ritchie Highway N., Severna Park, MD 21146 US",
+      "phone": "410-544-5450",
+      "id": "364"
+    },
+    {
+      "address": "11109 US 15-501 HWY, Aberdeen, NC 28315 US",
+      "phone": "910-692-7029",
+      "id": "29"
+    },
+    {
+      "address": "817 N First St, Albemarle, NC 28001 US",
+      "phone": "704-983-6986",
+      "id": "78"
+    },
+    {
+      "address": "750 West Williams St, Apex, NC 27502 US",
+      "phone": "919-362-3782",
+      "id": "58"
+    },
+    {
+      "address": "940 US Highway 64 W, Apex, NC 27523 US",
+      "phone": "919-380-1422",
+      "id": "496"
+    },
+    {
+      "address": "136 Merrimon Ave, Asheville, NC 28801 US",
+      "phone": "828-255-1817",
+      "id": "348"
+    },
+    {
+      "address": "905 South Point Rd., Belmont, NC 28012 US",
+      "phone": "704-825-6079",
+      "id": "386"
+    },
+    {
+      "address": "240 Shadowline Dr, Boone, NC 28607 US",
+      "phone": "828-262-3319",
+      "id": "165"
+    },
+    {
+      "address": "2727 S. Church St, Burlington, NC 27215 US",
+      "phone": "336-585-1444",
+      "id": "345"
+    },
+    {
+      "address": "310 N Greensboro St, Carrboro, NC 27510 US",
+      "phone": "919-942-8564",
+      "id": "297"
+    },
+    {
+      "address": "400 Mill Creek Rd, Carthage, NC 28327 US",
+      "phone": "910-246-0710",
+      "id": "212"
+    },
+    {
+      "address": "10140 Green Level Church Rd, Cary, NC 27519 US",
+      "phone": "919-460-3126",
+      "id": "298"
+    },
+    {
+      "address": "2080 Kildaire Farm Rd, Cary, NC 27518 US",
+      "phone": "919-233-9483",
+      "id": "257"
+    },
+    {
+      "address": "270 Grande Heights Drive, Cary, NC 27513 US",
+      "phone": "919-460-4326",
+      "id": "112"
+    },
+    {
+      "address": "1273 NW Maynard Rd, Cary, NC 27513 US",
+      "phone": "919-380-9955",
+      "id": "494"
+    },
+    {
+      "address": "7145 O'Kelly Chapel Rd, Cary, NC 27519 US",
+      "phone": "919-465-9432",
+      "id": "236"
+    },
+    {
+      "address": "3430 Ten Ten Rd, Cary, NC 27518 US",
+      "phone": "919-387-8272",
+      "id": "331"
+    },
+    {
+      "address": "98 Cornerstone Dr, Cary, NC 27519 US",
+      "phone": "919-467-1259",
+      "id": "138"
+    },
+    {
+      "address": "1151 Tryon Village Dr, Cary, NC 27518 US",
+      "phone": "919-233-3476",
+      "id": "330"
+    },
+    {
+      "address": "885 Walnut St, Cary, NC 27511 US",
+      "phone": "919-481-4251",
+      "id": "430"
+    },
+    {
+      "address": "1800 Martin Luther King Jr Blvd, Chapel Hill, NC 27514 US",
+      "phone": "919-968-0110",
+      "id": "223"
+    },
+    {
+      "address": "88 Chatham Downs Dr, Chapel Hill, NC 27517 US",
+      "phone": "919-960-0275",
+      "id": "137"
+    },
+    {
+      "address": "116 West Barbee Chapel Rd, Chapel Hill, NC 27517 US",
+      "phone": "919-932-5020",
+      "id": "120"
+    },
+    {
+      "address": "2110 S Estes Dr, Chapel Hill, NC 27514 US",
+      "phone": "919-933-5700",
+      "id": "117"
+    },
+    {
+      "address": "3333 Pineville-Matthews Rd, Charlotte, NC 28226 US",
+      "phone": "704-544-3340",
+      "id": "30"
+    },
+    {
+      "address": "15007 John J. Delaney Dr, Charlotte, NC 28277 US",
+      "phone": "704-716-2000",
+      "id": "11"
+    },
+    {
+      "address": "4821 Berewick Town Center, Charlotte, NC 28278 US",
+      "phone": "704-587-1011",
+      "id": "3"
+    },
+    {
+      "address": "9641 Brookdale Drive, Charlotte, NC 28215 US",
+      "phone": "704-599-8449",
+      "id": "46"
+    },
+    {
+      "address": "1704 Central Ave, Charlotte, NC 28205 US",
+      "phone": "704-375-8491",
+      "id": "401"
+    },
+    {
+      "address": "2720 West Mallard Creek Church Rd, Charlotte, NC 28262 US",
+      "phone": "704-717-7501",
+      "id": "220"
+    },
+    {
+      "address": "7823 Colony Road, Charlotte, NC 28226 US",
+      "phone": "704-341-3688",
+      "id": "4"
+    },
+    {
+      "address": "112 S Sharon Amity, Charlotte, NC 28211 US",
+      "phone": "704-366-1675",
+      "id": "208"
+    },
+    {
+      "address": "1227 East Blvd, Charlotte, NC 28203 US",
+      "phone": "704-375-5071",
+      "id": "61"
+    },
+    {
+      "address": "5706 Wyalong Dr, Charlotte, NC 28227 US",
+      "phone": "704-545-0229",
+      "id": "174"
+    },
+    {
+      "address": "6701 Morrison Blvd, Charlotte, NC 28211 US",
+      "phone": "704-364-1245",
+      "id": "160"
+    },
+    {
+      "address": "1015 Providence Rd, Charlotte, NC 28207 US",
+      "phone": "704-338-9100",
+      "id": "412"
+    },
+    {
+      "address": "4100 Carmel Rd, Charlotte, NC 28226 US",
+      "phone": "704-542-6228",
+      "id": "294"
+    },
+    {
+      "address": "Harris Teeter, 4101 Park Rd",
+      "phone": "704-523-8106",
+      "id": "218"
+    },
+    {
+      "address": "5030 Park Rd., Charlotte, NC 28209 US",
+      "phone": "704-521-8394",
+      "id": "35"
+    },
+    {
+      "address": "10616 Providence Rd, Charlotte, NC 28277 US",
+      "phone": "704-849-2776",
+      "id": "45"
+    },
+    {
+      "address": "8538 Park Rd, Charlotte, NC 28210 US",
+      "phone": "704-552-7212",
+      "id": "204"
+    },
+    {
+      "address": "11135 Golf Links Dr, Charlotte, NC 28277 US",
+      "phone": "704-303-8601",
+      "id": "440"
+    },
+    {
+      "address": "4701 Smith Farm Road, Charlotte, NC 28216 US",
+      "phone": "704-949-2220",
+      "id": "366"
+    },
+    {
+      "address": "1621 N Sardis Rd, Charlotte, NC 28270 US",
+      "phone": "704-846-4885",
+      "id": "171"
+    },
+    {
+      "address": "2717 South Blvd., Charlotte, NC 28209 US",
+      "phone": "704-527-1018",
+      "id": "305"
+    },
+    {
+      "address": "8445 Davis Lake Pkwy, Charlotte, NC 28269 US",
+      "phone": "704-597-7014",
+      "id": "472"
+    },
+    {
+      "address": "13000 South Tryon St, Charlotte, NC 28278 US",
+      "phone": "704-587-9970",
+      "id": "88"
+    },
+    {
+      "address": "7852 Rea Rd, Charlotte, NC 28277 US",
+      "phone": "704-341-2061",
+      "id": "66"
+    },
+    {
+      "address": "16625 Lancaster Hwy, Charlotte, NC 28277 US",
+      "phone": "704-714-4795",
+      "id": "317"
+    },
+    {
+      "address": "9720 Rea Rd, Charlotte, NC 28277 US",
+      "phone": "704-752-1013",
+      "id": "27"
+    },
+    {
+      "address": "5810 Highland Shoppes Dr, Charlotte, NC 28269 US",
+      "phone": "704-875-0993",
+      "id": "122"
+    },
+    {
+      "address": "8600 University City Blvd, Charlotte, NC 28213 US",
+      "phone": "704-593-1395",
+      "id": "258"
+    },
+    {
+      "address": "325 W 6th St, Charlotte, NC 28202 US",
+      "phone": "704-332-8479",
+      "id": "205"
+    },
+    {
+      "address": "67 Crossroads Way, Clayton, NC 27527 US",
+      "phone": "919-359-8023",
+      "id": "229"
+    },
+    {
+      "address": "4150 Clemmons Rd, Clemmons, NC 27012 US",
+      "phone": "336-778-1445",
+      "id": "228"
+    },
+    {
+      "address": "9900 Poplar Tent Rd Suite 124, Concord, NC 28027 US",
+      "phone": "704-721-0735",
+      "id": "190"
+    },
+    {
+      "address": "358 George W. Liles Pkwy NW, Concord, NC 28027 US",
+      "phone": "704-786-2510",
+      "id": "68"
+    },
+    {
+      "address": "1245 Concord Parkway North Suite 1, Concord, NC 28025 US",
+      "phone": "704-795-9351",
+      "id": "202"
+    },
+    {
+      "address": "21720 Catawba Avenue, Cornelius, NC 28031 US",
+      "phone": "704-895-5351",
+      "id": "416"
+    },
+    {
+      "address": "19815 North Cove Rd, Cornelius, NC 28031 US",
+      "phone": "704-895-5020",
+      "id": "179"
+    },
+    {
+      "address": "601 Currituck Clubhouse Dr, Corolla, NC 27927 US",
+      "phone": "252-453-0153",
+      "id": "266"
+    },
+    {
+      "address": "431 Peninsula Dr, Davidson, NC 28036 US",
+      "phone": "704-892-0597",
+      "id": "268"
+    },
+    {
+      "address": "601 Griffith St, Davidson, NC 28036 US",
+      "phone": "",
+      "id": "263"
+    },
+    {
+      "address": "11124 Renaissance Dr, Davidson, NC 28036 US",
+      "phone": "704-439-4042",
+      "id": "471"
+    },
+    {
+      "address": "149 Cross Center Drive, Denver, NC 28037 US",
+      "phone": "704-820-0332",
+      "id": "121"
+    },
+    {
+      "address": "1817 Martin Luther King Jr Pkwy, Durham, NC 27707 US",
+      "phone": "919-489-9887",
+      "id": "172"
+    },
+    {
+      "address": "3457 Hillsborough Road, Durham, NC 27705 US",
+      "phone": "919-383-2249",
+      "id": "492"
+    },
+    {
+      "address": "2107 Hillsborough Rd, Durham, NC 27705 US",
+      "phone": "919-286-1500",
+      "id": "394"
+    },
+    {
+      "address": "1125 W NC Highway 54 Suite 310, Durham, NC 27707 US",
+      "phone": "919-403-0794",
+      "id": "224"
+    },
+    {
+      "address": "1802 North Pointe Drive, Durham, NC 27705 US",
+      "phone": "919-220-5761",
+      "id": "497"
+    },
+    {
+      "address": "5116 N. Roxboro Street, Durham, NC 27704 US",
+      "phone": "919-471-6263",
+      "id": "493"
+    },
+    {
+      "address": "202 NC Hwy 54, Durham, NC 27713 US",
+      "phone": "919-361-9893",
+      "id": "491"
+    },
+    {
+      "address": "1501 Horton Rd, Durham, NC 27705 US",
+      "phone": "919-471-1938",
+      "id": "254"
+    },
+    {
+      "address": "2800 Raeford Rd, Fayetteville, NC 28303 US",
+      "phone": "910-484-6000",
+      "id": "25"
+    },
+    {
+      "address": "3050 Traemoor Village Dr, Fayetteville, NC 28306 US",
+      "phone": "910-424-3505",
+      "id": "393"
+    },
+    {
+      "address": "1371 E. Broad Street, Fuquay-Varina, NC 27526 US",
+      "phone": "919-567-7423",
+      "id": "498"
+    },
+    {
+      "address": "8101 Fayetteville Rd, Fuquay Varina, NC 27526 US",
+      "phone": "919-772-0241",
+      "id": "283"
+    },
+    {
+      "address": "1371 E. Broad Street, Fuquay-Varina, NC 27526 US",
+      "phone": "919-567-7423",
+      "id": "498"
+    },
+    {
+      "address": "8101 Fayetteville Rd, Fuquay Varina, NC 27526 US",
+      "phone": "919-772-0241",
+      "id": "283"
+    },
+    {
+      "address": "3350 Robinwood Rd, Gastonia, NC 28054 US",
+      "phone": "704-864-0139",
+      "id": "281"
+    },
+    {
+      "address": "2120 Wayne Memorial Dr, Goldsboro, NC 27534 US",
+      "phone": "919-734-3534",
+      "id": "115"
+    },
+    {
+      "address": "5710-W West Gate City Boulevard, Greensboro, NC 27407 US",
+      "phone": "336-854-4050",
+      "id": "64"
+    },
+    {
+      "address": "1605 New Garden Rd, Greensboro, NC 27410 US",
+      "phone": "336-855-9095",
+      "id": "342"
+    },
+    {
+      "address": "701 Francis King Street, Greensboro, NC 27410 US",
+      "phone": "336-856-8140",
+      "id": "33"
+    },
+    {
+      "address": "2639 Lawndale Dr, Greensboro, NC 27408 US",
+      "phone": "336-545-1354",
+      "id": "347"
+    },
+    {
+      "address": "401 Pisgah Church Rd, Greensboro, NC 27455 US",
+      "phone": "336-545-0236",
+      "id": "91"
+    },
+    {
+      "address": "4010 Battleground Ave, Greensboro, NC 27410 US",
+      "phone": "336-288-2203",
+      "id": "280"
+    },
+    {
+      "address": "3330 W Friendly Ave, Greensboro, NC 27410 US",
+      "phone": "336-297-1361",
+      "id": "306"
+    },
+    {
+      "address": "2120 E Fire Tower Rd, Greenville, NC 27858 US",
+      "phone": "252-355-0125",
+      "id": "287"
+    },
+    {
+      "address": "3040 Evans St, Greenville, NC 27834 US",
+      "phone": "252-353-4400",
+      "id": "362"
+    },
+    {
+      "address": "203 Alston Blvd, Hampstead, NC 28443 US",
+      "phone": "910-329-0711",
+      "id": "135"
+    },
+    {
+      "address": "12190 University City Blvd, Harrisburg, NC 28075 US",
+      "phone": "704-454-9905",
+      "id": "92"
+    },
+    {
+      "address": "636 Spartanburg Hwy, Hendersonville, NC 28792 US",
+      "phone": "828-693-6668",
+      "id": "379"
+    },
+    {
+      "address": "265 Eastchester Dr Suite 121, High Point, NC 27262 US",
+      "phone": "336-869-6317",
+      "id": "341"
+    },
+    {
+      "address": "1589 Skeet Club Rd Suite 140, High Point, NC 27265 US",
+      "phone": "336-841-1144",
+      "id": "173"
+    },
+    {
+      "address": "324 Village Walk Dr, Holly Springs, NC 27540 US",
+      "phone": "919-552-1596",
+      "id": "311"
+    },
+    {
+      "address": "5277 Sunset Lake Rd, Holly Springs, NC 27540 US",
+      "phone": "919-363-3059",
+      "id": "118"
+    },
+    {
+      "address": "9759 Sam Furr Rd, Huntersville, NC 28078 US",
+      "phone": "704-895-2594",
+      "id": "340"
+    },
+    {
+      "address": "7715 Regency Lake Dr, Huntersville, NC 28078 US",
+      "phone": "704-892-1197",
+      "id": "272"
+    },
+    {
+      "address": "9925 Rose Commons Dr, Huntersville, NC 28078 US",
+      "phone": "704-875-9703",
+      "id": "209"
+    },
+    {
+      "address": "6610 Old Monroe Rd, Indian Trail, NC 28079 US",
+      "phone": "704-289-1156",
+      "id": "129"
+    },
+    {
+      "address": "971 S Main St, Kernersville, NC 27284 US",
+      "phone": "336-992-9735",
+      "id": "250"
+    },
+    {
+      "address": "2012 South Croatan Hwy, Kill Devil Hills, NC 27948 US",
+      "phone": "252-449-9191",
+      "id": "175"
+    },
+    {
+      "address": "5400 North Croatan Hwy #A, Kitty Hawk, NC 27949 US",
+      "phone": "252-261-2220",
+      "id": "387"
+    },
+    {
+      "address": "2021 Old Regent Way, Leland, NC 28451 US",
+      "phone": "910-371-3944",
+      "id": "225"
+    },
+    {
+      "address": "1351 Chestnut Ln, Matthews, NC 28104 US",
+      "phone": "704-234-0405",
+      "id": "273"
+    },
+    {
+      "address": "15080-P Idlewild Rd, Matthews, NC 28104 US",
+      "phone": "704-882-2277",
+      "id": "473"
+    },
+    {
+      "address": "1811 Matthews Township Pkwy, Matthews, NC 28105 US",
+      "phone": "704-846-7117",
+      "id": "157"
+    },
+    {
+      "address": "3100 Weddington Rd, Matthews, NC 28105 US",
+      "phone": "704-841-1810",
+      "id": "147"
+    },
+    {
+      "address": "7800 Stevens Mill Rd, Matthews, NC 28104 US",
+      "phone": "704-882-2749",
+      "id": "39"
+    },
+    {
+      "address": "7036 Brighton Park Dr, Mint Hill, NC 28227 US",
+      "phone": "704-545-3281",
+      "id": "474"
+    },
+    {
+      "address": "134-H Town Center Drive, Mooresville, NC 28117 US",
+      "phone": "704-799-1066",
+      "id": "99"
+    },
+    {
+      "address": "118 Argus Ln, Mooresville, NC 28117 US",
+      "phone": "704-799-2004",
+      "id": "274"
+    },
+    {
+      "address": "5000 US Hwy 70 Suite 100, Morehead City, NC 28557 US",
+      "phone": "252-240-3742",
+      "id": "265"
+    },
+    {
+      "address": "4093 Davis Dr, Morrisville, NC 27560 US",
+      "phone": "919-380-0354",
+      "id": "104"
+    },
+    {
+      "address": "2032 Waterscape Way, New Bern, NC 28562 US",
+      "phone": "252-631-5226",
+      "id": "139"
+    },
+    {
+      "address": "3565 ML King Jr. Blvd, New Bern, NC 28562 US",
+      "phone": "252-497-2113",
+      "id": "421"
+    },
+    {
+      "address": "305 Ivey Ln, Pinehurst, NC 28374 US",
+      "phone": "910-255-0104",
+      "id": "80"
+    },
+    {
+      "address": "500 Oberlin Road, Raleigh, NC 27605 US",
+      "phone": "919-828-9216",
+      "id": "21"
+    },
+    {
+      "address": "9600 Falls of Neuse Rd, Raleigh, NC 27615 US",
+      "phone": "919-676-6614",
+      "id": "136"
+    },
+    {
+      "address": "2603 Glenwood Ave Suite 101, Raleigh, NC 27608 US",
+      "phone": "919-787-5526",
+      "id": "289"
+    },
+    {
+      "address": "13210 Strickland Rd, Raleigh, NC 27613 US",
+      "phone": "919-676-3534",
+      "id": "90"
+    },
+    {
+      "address": "120-100 St. Albans Dr, Raleigh, NC 27609 US",
+      "phone": "919-781-4165",
+      "id": "422"
+    },
+    {
+      "address": "6024 Falls of the Neuse Rd, Raleigh, NC 27609 US",
+      "phone": "919-872-5786",
+      "id": "344"
+    },
+    {
+      "address": "3201-123 Edwards Mill Rd, Raleigh, NC 27612 US",
+      "phone": "919-781-8776",
+      "id": "69"
+    },
+    {
+      "address": "5563 Western Blvd, Raleigh, NC 27606 US",
+      "phone": "919-859-0110",
+      "id": "38"
+    },
+    {
+      "address": "7400 Creedmoor Rd, Raleigh, NC 27615 US",
+      "phone": "919-848-1464",
+      "id": "26"
+    },
+    {
+      "address": "4221 Corners Parkway, Raleigh, NC 27617 US",
+      "phone": "919-596-5399",
+      "id": "304"
+    },
+    {
+      "address": "2051 W Millbrook Rd, Raleigh, NC 27612 US",
+      "phone": "919-787-1364",
+      "id": "319"
+    },
+    {
+      "address": "8345 Creedmoor Road, Raleigh, NC 27613 US",
+      "phone": "919-659-8221",
+      "id": "495"
+    },
+    {
+      "address": "14520 John Rex Blvd, Raleigh, NC 27614 US",
+      "phone": "919-554-4167",
+      "id": "367"
+    },
+    {
+      "address": "3679 Sunset Ave, Rocky Mount, NC 27804 US",
+      "phone": "252-937-2535",
+      "id": "63"
+    },
+    {
+      "address": "850 Jake Alexander Blvd W, Salisbury, NC 28144 US",
+      "phone": "704-633-1658",
+      "id": "178"
+    },
+    {
+      "address": "1432 Brogden Woods Dr, Wake Forest, NC 27587 US",
+      "phone": "919-870-4980",
+      "id": "395"
+    },
+    {
+      "address": "13686 Capital Blvd, Wake Forest, NC 27587 US",
+      "phone": "919-554-3608",
+      "id": "353"
+    },
+    {
+      "address": "3638 Rogers Road, Wake Forest, NC 27587 US",
+      "phone": "919-562-9521",
+      "id": "43"
+    },
+    {
+      "address": "8157 Kensington Dr, Waxhaw, NC 28173 US",
+      "phone": "704-243-1238",
+      "id": "182"
+    },
+    {
+      "address": "13639 Providence Rd, Weddington, NC 28104 US",
+      "phone": "704-847-5955",
+      "id": "343"
+    },
+    {
+      "address": "5939 Weddington-Monroe Rd, Wesley Chapel, NC 28104 US",
+      "phone": "704-821-2686",
+      "id": "477"
+    },
+    {
+      "address": "5920 Weddington-Monroe Rd, Wesley Chapel, NC 28104 US",
+      "phone": "704-843-4100",
+      "id": "249"
+    },
+    {
+      "address": "5920 Carolina Beach Rd, Wilmington, NC 28412 US",
+      "phone": "910-796-3091",
+      "id": "96"
+    },
+    {
+      "address": "820 S College Rd, Wilmington, NC 28403 US",
+      "phone": "910-452-9242",
+      "id": "158"
+    },
+    {
+      "address": "3501 Oleander Drive #18, Wilmington, NC 28403 US",
+      "phone": "910-343-4216",
+      "id": "162"
+    },
+    {
+      "address": "2800 S College Rd, Wilmington, NC 28412 US",
+      "phone": "910-791-4505",
+      "id": "441"
+    },
+    {
+      "address": "1940 Eastwood Rd, Wilmington, NC 28403 US",
+      "phone": "910-256-2015",
+      "id": "301"
+    },
+    {
+      "address": "6805 Parker Farm Rd, Wilmington, NC 28405 US",
+      "phone": "910-256-1071",
+      "id": "210"
+    },
+    {
+      "address": "8260 Market St, Wilmington, NC 28411 US",
+      "phone": "910-681-0571",
+      "id": "191"
+    },
+    {
+      "address": "3401 Raleigh Road Pkwy W Suite 10A, Wilson, NC 27896 US",
+      "phone": "252-206-0831",
+      "id": "354"
+    },
+    {
+      "address": "2281 Cloverdale Ave, Winston-Salem, NC 27103 US",
+      "phone": "336-777-1075",
+      "id": "216"
+    },
+    {
+      "address": "150 Grant Hill Lane, Winston-Salem, NC 27104 US",
+      "phone": "336-245-0467",
+      "id": "37"
+    },
+    {
+      "address": "2835 Reynolda Rd, Winston-Salem, NC 27106 US",
+      "phone": "36-761-0734",
+      "id": "346"
+    },
+    {
+      "address": "5365 Robinhood Village Dr, Winston-Salem, NC 27106 US",
+      "phone": "336-923-2441",
+      "id": "334"
+    },
+    {
+      "address": "420-22 S Stratford Rd, Winston-Salem, NC 27103 US",
+      "phone": "336-723-2305",
+      "id": "155"
+    },
+    {
+      "address": "1955 N Peacehaven Rd, Winston-Salem, NC 27106 US",
+      "phone": "336-760-0116",
+      "id": "127"
+    },
+    {
+      "address": "3865 West Ashley Circle, Charleston, SC 29414 US",
+      "phone": "843-619-2901",
+      "id": "406"
+    },
+    {
+      "address": "290 E Bay St, Charleston, SC 29401 US",
+      "phone": "843-722-6821",
+      "id": "277"
+    },
+    {
+      "address": "1985 Folly Rd, Charleston, SC 29412 US",
+      "phone": "843-762-6255",
+      "id": "453"
+    },
+    {
+      "address": "1005 Harborview Rd, Charleston, SC 29412 US",
+      "phone": "843-762-2124",
+      "id": "456"
+    },
+    {
+      "address": "1985 Folly Rd, Charleston, SC 29412 US",
+      "phone": "843-762-6255",
+      "id": "454"
+    },
+    {
+      "address": "1739 Maybank Highway, Charleston, SC 29412 US",
+      "phone": "843-795-9091",
+      "id": "455"
+    },
+    {
+      "address": "675 Folly Rd, Charleston, SC 29412 US",
+      "phone": "843-406-8977",
+      "id": "28"
+    },
+    {
+      "address": "975 Savannah Hwy Suite 135, Charleston, SC 29407 US",
+      "phone": "843-556-5351",
+      "id": "365"
+    },
+    {
+      "address": "1812 Sam Rittenberg Blvd., Charleston, SC 29407 US",
+      "phone": "843-763-7283",
+      "id": "410"
+    },
+    {
+      "address": "1930 W Palmetto St, Florence, SC 29501 US",
+      "phone": "843-678-9525",
+      "id": "124"
+    },
+    {
+      "address": "500 Mercantile Place, Fort Mill, SC 29715 US",
+      "phone": "803-547-0520",
+      "id": "370"
+    },
+    {
+      "address": "867 Stockbridge Dr, Fort Mill, SC 29708 US",
+      "phone": "803-548-6612",
+      "id": "475"
+    },
+    {
+      "address": "1750 Highway 160 W, Fort Mill, SC 29708 US",
+      "phone": "803-396-0440",
+      "id": "82"
+    },
+    {
+      "address": "1720 Augusta St., Greenville, SC 29605 US",
+      "phone": "864-977-8041",
+      "id": "420"
+    },
+    {
+      "address": "100 Wade Hampton Blvd., Greenville, SC 29609 US",
+      "phone": "864-900-6150",
+      "id": "357"
+    },
+    {
+      "address": "301 Main St, Hilton Head, SC 29926 US",
+      "phone": "843-689-6255",
+      "id": "152"
+    },
+    {
+      "address": "33 Office Park Rd Suite 100, Hilton Head, SC 29928 US",
+      "phone": "843-785-6185",
+      "id": "423"
+    },
+    {
+      "address": "6271 Carolina Commons Dr, Indian Land, SC 29707 US",
+      "phone": "803-802-5300",
+      "id": "372"
+    },
+    {
+      "address": "1513 Palm Blvd, Isle of Palms, SC 29451 US",
+      "phone": "843-886-6506",
+      "id": "452"
+    },
+    {
+      "address": "515 Freshfields Dr, Johns Island, SC 29455 US",
+      "phone": "843-243-3276",
+      "id": "451"
+    },
+    {
+      "address": "620 Long Point Rd., Mount Pleasant, SC 29464 US",
+      "phone": "843-856-4631",
+      "id": "87"
+    },
+    {
+      "address": "2035 Hwy 41, Mount Pleasant, SC 29466 US",
+      "phone": "843-971-3611",
+      "id": "131"
+    },
+    {
+      "address": "2195 Tea Planter Ln, Mount Pleasant, SC 29466 US",
+      "phone": "843-881-2622",
+      "id": "385"
+    },
+    {
+      "address": "920 Houston Northcutt Blvd, Mount Pleasant, SC 29464 US",
+      "phone": "843-881-1983",
+      "id": "19"
+    },
+    {
+      "address": "1220 Ben Sawyer Blvd Suite C, Mt Pleasant, SC 29464 US",
+      "phone": "843-884-4489",
+      "id": "457"
+    },
+    {
+      "address": "1981 Riviera Dr, Mt Pleasant, SC 29464 US",
+      "phone": "843-881-8939",
+      "id": "450"
+    },
+    {
+      "address": "2750 Celanese Rd, Rock Hill, SC 29730 US",
+      "phone": "803-329-6220",
+      "id": "149"
+    },
+    {
+      "address": "680 Bacons Bridge Rd, Summerville, SC 29485 US",
+      "phone": "843-486-0578",
+      "id": "355"
+    },
+    {
+      "address": "9500 Dorchester Rd, Summerville, SC 29485 US",
+      "phone": "843-875-2524",
+      "id": "363"
+    },
+    {
+      "address": "42015 Village Center Plaza #110, Aldie, VA 20105 US",
+      "phone": "703-542-8340",
+      "id": "238"
+    },
+    {
+      "address": "735 N. Saint Asaph St, Alexandria, VA 22314 US",
+      "phone": "703-419-3837",
+      "id": "398"
+    },
+    {
+      "address": "4641 Duke St, Alexandria, VA 22304 US",
+      "phone": "703-461-7082",
+      "id": "133"
+    },
+    {
+      "address": "954 South George Mason, Arlington, VA 22204 US",
+      "phone": "571-384-1610",
+      "id": "371"
+    },
+    {
+      "address": "600 North Glebe Rd, Arlington, VA 22203 US",
+      "phone": "703-526-9100",
+      "id": "86"
+    },
+    {
+      "address": "2425 N. Harrison St, Arlington, VA 22207 US",
+      "phone": "703-532-8663",
+      "id": "23"
+    },
+    {
+      "address": "900 Army Navy Dr, Arlington, VA 22202 US",
+      "phone": "703-413-7112",
+      "id": "83"
+    },
+    {
+      "address": "3600 S Glebe Rd, Arlington, VA 22202 US",
+      "phone": "703-412-1544",
+      "id": "262"
+    },
+    {
+      "address": "4250 Campbell Ave, Arlington, VA 22206 US",
+      "phone": "703-379-2003",
+      "id": "235"
+    },
+    {
+      "address": "20070 Ashbrook Commons Plaza Suite 151, Ashburn, VA 20147 US",
+      "phone": "571-223-0110",
+      "id": "242"
+    },
+    {
+      "address": "42415 Ryan Rd, Ashburn, VA 20148 US",
+      "phone": "703-542-8300",
+      "id": "230"
+    },
+    {
+      "address": "43300 Southern Walk Plaza Suite 130, Ashburn, VA 20148 US",
+      "phone": "703-723-0842",
+      "id": "284"
+    },
+    {
+      "address": "42780 Creek View Plaza, Ashburn, VA 20147 US",
+      "phone": "571-223-2245",
+      "id": "310"
+    },
+    {
+      "address": "10438 Bristow Center Dr, Bristow, VA 20136 US",
+      "phone": "703-257-1367",
+      "id": "313"
+    },
+    {
+      "address": "25401 Eastern Marketplace Plaza Suite 150, Chantilly, VA 20152 US",
+      "phone": "703-722-2126",
+      "id": "309"
+    },
+    {
+      "address": "975 Emmet St, Charlottesville, VA 22903 US",
+      "phone": "434-984-2900",
+      "id": "177"
+    },
+    {
+      "address": "545 Radford Ln Building A, Charlottesville, VA 22903 US",
+      "phone": "434-823-1184",
+      "id": "332"
+    },
+    {
+      "address": "159 Community St, Charlottesville, VA 22911 US",
+      "phone": "434-872-0009",
+      "id": "132"
+    },
+    {
+      "address": "1216 Greenbrier Parkway, Chesapeake, VA 23320 US",
+      "phone": "757-382-7300",
+      "id": "176"
+    },
+    {
+      "address": "237 Hanbury Rd East, Chesapeake, VA 23322 US",
+      "phone": "757-546-9074",
+      "id": "51"
+    },
+    {
+      "address": "1400 Kempsville Road, Chesapeake, VA 23320 US",
+      "phone": "757-217-0376",
+      "id": "465"
+    },
+    {
+      "address": "3905 Fair Ridge Dr, Fairfax, VA 22033 US",
+      "phone": "703-877-0580",
+      "id": "253"
+    },
+    {
+      "address": "6351 Columbia Pike, Falls Church, VA 22041 US",
+      "phone": "703-256-6615",
+      "id": "279"
+    },
+    {
+      "address": "301 West Broad, Falls Church, VA 22046 US",
+      "phone": "571-419-6869",
+      "id": "307"
+    },
+    {
+      "address": "13901 Heathcote Blvd, Gainesville, VA 20155 US",
+      "phone": "703-754-7736",
+      "id": "338"
+    },
+    {
+      "address": "227 Fox Hill Road, Hampton, VA 23669 US",
+      "phone": "757-850-0156",
+      "id": "460"
+    },
+    {
+      "address": "12960 Highland Crossing Dr, Herndon, VA 20171 US",
+      "phone": "703-464-7934",
+      "id": "85"
+    },
+    {
+      "address": "19350 Winmeade Dr, Leesburg, VA 20176 US",
+      "phone": "571-333-2495",
+      "id": "100"
+    },
+    {
+      "address": "10060 Market Circle, Manassas, VA 20110 US",
+      "phone": "703-257-4685",
+      "id": "303"
+    },
+    {
+      "address": "12745 Galveston Ct, Manassas, VA 20112 US",
+      "phone": "703-580-0251",
+      "id": "316"
+    },
+    {
+      "address": "8200 Crestwood Heights Dr, McLean, VA 22102 US",
+      "phone": "703-448-0132",
+      "id": "302"
+    },
+    {
+      "address": "12404 Warwick Blvd, Newport News, VA 23606 US",
+      "phone": "757-595-6000",
+      "id": "6"
+    },
+    {
+      "address": "1320 Colonial Ave, Norfolk, VA 23517 US",
+      "phone": "757-533-9284",
+      "id": "378"
+    },
+    {
+      "address": "179 West Ocean View Ave., Norfolk, VA 23503 US",
+      "phone": "757-587-0200",
+      "id": "461"
+    },
+    {
+      "address": "7550 Granby St, Norfolk, VA 23505 US",
+      "phone": "757-588-4260",
+      "id": "407"
+    },
+    {
+      "address": "3249 Tyre Neck Rd, Portsmouth, VA 23703 US",
+      "phone": "757-483-9235",
+      "id": "315"
+    },
+    {
+      "address": "105 Purcellville Gateway Dr, Purcellville, VA 20132 US",
+      "phone": "540-338-8995",
+      "id": "388"
+    },
+    {
+      "address": "11806 Spectrum Center, Reston, VA 20190 US",
+      "phone": "703-435-5800",
+      "id": "81"
+    },
+    {
+      "address": "21399 Epicerie Plaza, Sterling, VA 20164 US",
+      "phone": "571-526-4835",
+      "id": "326"
+    },
+    {
+      "address": "3575 Shoulder Hill Bridge Rd, Suffolk, VA 23435 US",
+      "phone": "757-947-0230",
+      "id": "463"
+    },
+    {
+      "address": "2675 Avenir Place, Vienna, VA 22180 US",
+      "phone": "703-204-0840",
+      "id": "308"
+    },
+    {
+      "address": "2800 Arctic Ave, Virginia Beach, VA 23451 US",
+      "phone": "757-422-4595",
+      "id": "181"
+    },
+    {
+      "address": "4540 Princess Anne Rd Suite 117, Virginia Beach, VA 23462 US",
+      "phone": "757-467-4387",
+      "id": "369"
+    },
+    {
+      "address": "2476 Nimmo Parkway, Virginia Beach, VA 23456 US",
+      "phone": "757-563-9410",
+      "id": "239"
+    },
+    {
+      "address": "2110 N. Great Neck Square, Virginia Beach, VA 23454 US",
+      "phone": "757-481-6254",
+      "id": "459"
+    },
+    {
+      "address": "1069 Independence Blvd., Virginia Beach, VA 23455 US",
+      "phone": "757-217-0240",
+      "id": "464"
+    },
+    {
+      "address": "5060 Ferrell Parkway, Virginia Beach, VA 23464 US",
+      "phone": "757-467-0529",
+      "id": "350"
+    },
+    {
+      "address": "3333 Virginia Beach Blvd Suite 101, Virginia Beach, VA 23452 US",
+      "phone": "757-631-6750",
+      "id": "161"
+    },
+    {
+      "address": "2105 Princess Anne Rd Suite 100, Virginia Beach, VA 23456 US",
+      "phone": "757-721-2396",
+      "id": "419"
+    },
+    {
+      "address": "2129 General Booth Blvd., Virginia Beach, VA 23454 US",
+      "phone": "757-427-6220",
+      "id": "467"
+    },
+    {
+      "address": "530 Fletcher Dr, Warrenton, VA 20186 US",
+      "phone": "540-349-9500",
+      "id": "329"
+    },
+    {
+      "address": "4511 John Tyler Highway, Williamsburg, VA 23185 US",
+      "phone": "757-941-1680",
+      "id": "462"
+    },
+    {
+      "address": "6485 Centerville Rd, Williamsburg, VA 23188 US",
+      "phone": "757-903-4350",
+      "id": "356"
+    },
+    {
+      "address": "1470 Quarterpath Rd, Williamsburg, VA 23185 US",
+      "phone": "757-253-0182",
+      "id": "320"
+    }
+  ]
+}
