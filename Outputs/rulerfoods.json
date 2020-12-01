@@ -1,0 +1,245 @@
+{
+  "name": "Ruler Foods",
+  "stores": [
+    {
+      "address": "805 S MAIN ST SALEM, IN 47167",
+      "phone": "812-883-8092",
+      "id": "8128838092"
+    },
+    {
+      "address": "624 E 16TH ST BEDFORD, IN 47421",
+      "phone": "812-275-3616",
+      "id": "8122753616"
+    },
+    {
+      "address": "1240 W MAIN ST MITCHELL, IN 47446",
+      "phone": "812-849-3442",
+      "id": "8128493442"
+    },
+    {
+      "address": "360 E MAIN ST BLOOMFIELD, IN 47424",
+      "phone": "812-384-3220",
+      "id": "8123843220"
+    },
+    {
+      "address": "600 W BROADWAY ST LOOGOOTEE, IN 47553",
+      "phone": "812-295-3030",
+      "id": "8122953030"
+    },
+    {
+      "address": "5771 GODFREY RD GODFREY, IL 62035",
+      "phone": "618-466-0402",
+      "id": "6184660402"
+    },
+    {
+      "address": "2458 WEST CLAY STREET ST. CHARLES, MO 63301",
+      "phone": "636-925-8553",
+      "id": "6369258553"
+    },
+    {
+      "address": "11050 ST CHARLES ROCK RD SAINT ANN, MO 63074",
+      "phone": "314-738-0151",
+      "id": "3147380151"
+    },
+    {
+      "address": "10009 BELLEFONTAINE RD ST. LOUIS, MO 63137",
+      "phone": "314-869-7884",
+      "id": "3148697884"
+    },
+    {
+      "address": "3047 E MARKET ST LOGANSPORT, IN 46947",
+      "phone": "574-732-0978",
+      "id": "5747320978"
+    },
+    {
+      "address": "612 W LINCOLN AVE CHARLESTON, IL 61920",
+      "phone": "217-345-2224",
+      "id": "2173452224"
+    },
+    {
+      "address": "3801 NAMEOKIE RD STE 22 GRANITE CITY, IL 62040",
+      "phone": "618-451-8150",
+      "id": "6184518150"
+    },
+    {
+      "address": "1984 VANDALIA STREET COLLINSVILLE, IL 62234",
+      "phone": "618-344-4412",
+      "id": "6183444412"
+    },
+    {
+      "address": "2700 S GRAND BLVD ST. LOUIS, MO 63118",
+      "phone": "314-772-1410",
+      "id": "3147721410"
+    },
+    {
+      "address": "2675 NORTHTOWN WAY HIGHLAND, IL 62249",
+      "phone": "618-651-0514",
+      "id": "6186510514"
+    },
+    {
+      "address": "10850 LINCOLN TRAIL FAIRVIEW HIGHTS, ILLINOIS 62208",
+      "phone": ":00PM",
+      "id": ":00PM"
+    },
+    {
+      "address": "1451 E WABASH ST FRANKFORT, IN 46041",
+      "phone": "765-659-0238",
+      "id": "7656590238"
+    },
+    {
+      "address": "1703 NORTH BELT W BELLEVILLE, IL 62226",
+      "phone": "618-235-8501",
+      "id": "6182358501"
+    },
+    {
+      "address": "1129 N. BALDWIN AVE. MARION, INDIANA 46925",
+      "phone": "765-662-9660",
+      "id": "7656629660"
+    },
+    {
+      "address": "1404 EAST MAIN STREET ROBINSON, IL 62454",
+      "phone": "618-544-9486",
+      "id": "6185449486"
+    },
+    {
+      "address": "535 N WEST STREET OLNEY, IL 62450",
+      "phone": "618-392-0815",
+      "id": "6183920815"
+    },
+    {
+      "address": "3500 N MORRISON RD MUNCIE, IN 47304",
+      "phone": "765-284-3617",
+      "id": "7652843617"
+    },
+    {
+      "address": "360 E MAIN ST BLOOMFIELD, IN 47424",
+      "phone": "812-384-3220",
+      "id": "8123843220"
+    },
+    {
+      "address": "1118 S SHANNON ST VAN WERT, OH 45891",
+      "phone": "419-232-3243",
+      "id": "4192323243"
+    },
+    {
+      "address": "1955 HAVEMANN RD CELINA, OH 45822",
+      "phone": "419-268-0284",
+      "id": "4192680284"
+    },
+    {
+      "address": "1503 W BROADWAY PRINCETON, IN 47670",
+      "phone": "812-386-6533",
+      "id": "8123866533"
+    },
+    {
+      "address": "600 W BROADWAY ST LOOGOOTEE, IN 47553",
+      "phone": "812-295-3030",
+      "id": "8122953030"
+    },
+    {
+      "address": "2154 ELIDA RD SUITE 4 LIMA, OH 45805",
+      "phone": "419-222-0181",
+      "id": "4192220181"
+    },
+    {
+      "address": "624 E 16TH ST BEDFORD, IN 47421",
+      "phone": "812-275-3616",
+      "id": "8122753616"
+    },
+    {
+      "address": "515 WEST ELM STREET LIMA, OH 45801",
+      "phone": "M519-221-6076",
+      "id": "M5192216076"
+    },
+    {
+      "address": "1240 W MAIN ST MITCHELL, IN 47446",
+      "phone": "812-849-3442",
+      "id": "8128493442"
+    },
+    {
+      "address": "155 E 30TH ST JASPER, IN 47546",
+      "phone": "812-481-0030",
+      "id": "8124810030"
+    },
+    {
+      "address": "2103 WILLIAM ST CAPE GIRARDEAU, MO 63703",
+      "phone": "573-322-0960",
+      "id": "5733220960"
+    },
+    {
+      "address": "4624 N 1ST AVE EVANSVILLE, IN 47710",
+      "phone": "812-423-5751",
+      "id": "8124235751"
+    },
+    {
+      "address": "2040 E MORGAN AVE EVANSVILLE, IN 47711",
+      "phone": "812-471-9970",
+      "id": "8124719970"
+    },
+    {
+      "address": "730 S. GREEN RIVER ROAD EVANSVILLE, IN 47715",
+      "phone": "812-476-0716",
+      "id": "8124760716"
+    },
+    {
+      "address": "7844 IN-66 NEWBURGH, IN 47630",
+      "phone": "812-853-8547",
+      "id": "8128538547"
+    },
+    {
+      "address": "2480 US HIGHWAY 41 N, STE B HENDERSON, KY 42420",
+      "phone": "270-844-8081",
+      "id": "2708448081"
+    },
+    {
+      "address": "805 S MAIN ST SALEM, IN 47167",
+      "phone": "812-883-8092",
+      "id": "8128838092"
+    },
+    {
+      "address": "1102 S MAIN ST SIKESTON, MO 63801",
+      "phone": "573-481-0022",
+      "id": "5734810022"
+    },
+    {
+      "address": "500 US 62 SUITE A PRINCETON, KY 42445",
+      "phone": "270-365-3753",
+      "id": "2703653753"
+    },
+    {
+      "address": "1107 PARIS RD MAYFIELD, KY 42066",
+      "phone": "270-247-3705",
+      "id": "2702473705"
+    },
+    {
+      "address": "1418 N MAIN ST WILLIAMSTOWN, KY 41097",
+      "phone": "859-823-0467",
+      "id": "8598230467"
+    },
+    {
+      "address": "144 UNIVERSITY PLAZA DRIVE MARTIN, TN 38237",
+      "phone": "731-587-0620",
+      "id": "7315870620"
+    },
+    {
+      "address": "111 RIVERSIDE DR SUITE 1 CYNTHIANA, KY 41031",
+      "phone": "859-234-6154",
+      "id": "8592346154"
+    },
+    {
+      "address": "1124 WEST 9TH STREET RUSSELLVILLE, KY 42276",
+      "phone": "270-725-3835",
+      "id": "2707253835"
+    },
+    {
+      "address": "5024 S FIRST MILAN, TN 38358",
+      "phone": "731-686-1716",
+      "id": "7316861716"
+    },
+    {
+      "address": "347 N L ROGERS WELLS BLVD GLASGOW, KY 42141",
+      "phone": "270-659-0262",
+      "id": "2706590262"
+    }
+  ]
+}
