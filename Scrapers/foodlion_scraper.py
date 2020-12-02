@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from selenium.common import exceptions
 
-driver = webdriver.Chrome('D:\\Programs\\webdrivers\\chromedriver.exe')
+driver = webdriver.Chrome('../chromedriver.exe')
 driver.get("https://www.foodlion.com/stores/")
 
 with open('../postals.json', 'r') as file:

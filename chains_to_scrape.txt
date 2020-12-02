@@ -9,9 +9,8 @@ City Market
 Kroger
 Mariano's
 Ralph's
-Target
-Walmart
-Whole Foods
+--Walmart
+! Whole Foods
 Sam's Club
 Costco
 Hy-Vee
