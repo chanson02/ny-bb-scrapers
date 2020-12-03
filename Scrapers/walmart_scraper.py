@@ -1,3 +1,5 @@
+import traceback
+import sys
 import pdb
 import time
 import json
@@ -11,111 +13,117 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from selenium.common import exceptions
 
-# Load in postal data
-with open('../postals.json', 'r') as file:
-    postals = json.load(file)["Postal Codes"]
+import re
 
-# Load in previously found walmarts
-file = "../Outputs/walmarts.json"
-with open(file, "r") as f:
-    chain = json.load(f)
+last_written_postal = "23456"
 
-# Open webdriver and wait for page to load
-driver = webdriver.Chrome('../chromedriver.exe')
-driver.get("https://walmart.com/store/finder?location=00501&distance=10")
-base_path = "/html/body/div[1]/div/div/div[2]/div/div[2]/div/div[1]/div[1]/div/"
 
-nearby_stores = base_path + "div[2]/div/div/span/div/div/ol"
-WebDriverWait(driver, 10).until(
-    EC.presence_of_element_located((By.XPATH, nearby_stores)))
+def load_postals():
+    # Load in postal data
+    with open('../postals.json', 'r') as file:
+        postals = json.load(file)["Postal Codes"]
+    return postals[postals.index(last_written_postal):]
 
-# To change the zipcode
-location_button_path = base_path + \
-    "div[1]/div/div[2]/section/div[1]/p[1]/span"
-# when clicking on the info button
-details_path = base_path + "div/div/div/div/div/div[2]"
-# Find stores in each postal code
-for postal_code in postals:
-    # Click on location (to change it)
-    location_button = driver.find_element_by_xpath(location_button_path)
-    location_button.click()
 
-    # Empty / Fill zipcode area
-    text_input_path = base_path + "div[1]/div/div[2]/div/span/form/label/input"
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, text_input_path)))
-    text_input = driver.find_element_by_xpath(text_input_path)
-    time.sleep(0.3)
-    text_input.send_keys(Keys.BACKSPACE * 5)
-    time.sleep(0.3)
-    text_input.send_keys(postal_code)
-    time.sleep(0.3)
-    text_input.send_keys(Keys.RETURN)
-    time.sleep(0.3)
+def load_chain():
+    # Load in previously found walmarts
+    file = "../Outputs/walmarts.json"
+    with open(file, "r") as f:
+        chain = json.load(f)
+    return chain
 
+
+def write_output(chain, postal):
+    with open("../Outputs/walmarts.json", "w") as file:
+        json.dump(chain, file, indent=2)
+    global last_written_postal
+    last_written_postal = postal
+
+
+def lookup(driver, postal):
+    # Open the search box
+    driver.find_element_by_class_name("current-zip").click()
+    search_box = driver.find_element_by_class_name("field-input")
+    search_box.send_keys(Keys.BACKSPACE * 5)  # Remove old zip
+    search_box.send_keys(postal)
+    search_box.send_keys(Keys.RETURN)
+
+
+def scrape_location(driver):
+    address = driver.find_element_by_class_name("store-address").text
+    phone = driver.find_element_by_id("store-phone").text
+
+    id_html = driver.find_element_by_class_name(
+        "store-type-name-and-number").get_attribute("innerHTML")
+    id_span = id_html.split("span")[-2]
+    remote_id = re.sub("[^0-9]", "", id_span.split("-->")[-2])
+
+    store_object = {
+        "address": address,
+        "phone": phone,
+        "id": remote_id,
+    }
+
+    return store_object
+
+
+def main():
+    last_percent = 0
+    chain = load_chain()
+    postals = load_postals()
+    postal_count = len(postals)
+
+    # Open webdriver
+    driver = webdriver.Chrome('../chromedriver.exe')
+    driver.get("https://walmart.com/store/finder?location=00501&distance=10")
+
+    for postal in postals:
+        lookup(driver, postal)
+        time.sleep(1)
+
+        location_count = len(
+            driver.find_elements_by_class_name("store-details-icon-link"))
+        for location_index in range(location_count):
+            # The item must be selected for the data to appear
+            items = driver.find_elements_by_class_name("store-list-item")
+            items[location_index].click()
+            time.sleep(1)
+
+            location = driver.find_elements_by_class_name(
+                "store-details-icon-link")[location_index]
+            location.click()
+            time.sleep(1)
+
+            store_object = scrape_location(driver)
+            if store_object not in chain["stores"]:
+                chain["stores"].append(store_object)
+                print("Added", store_object)
+
+            # Go back to locations
+            driver.find_element_by_class_name("icon-button-children").click()
+            time.sleep(1)
+
+        current_index = postals.index(postal)
+        percent = round(current_index / postal_count * 100, 2)
+        if percent - last_percent >= 0.5:
+            last_percent = percent
+            print(f"{percent}%")
+            write_output(chain, postal)
+
+    write_output(chain, "99950")
+    exit()
+
+
+# main()
+while True:
     try:
-        # Wait for nearby to appear
-        WebDriverWait(driver, 1).until(
-            EC.presence_of_element_located((By.XPATH, nearby_stores)))
-    except exceptions.TimeoutException:
-        # No stores at this location
-        continue
-
-    # Look for all nearby stores
-    store_index = 0
-    while True:
-        store_index += 1
-
-        # Wait for page to load
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, nearby_stores)))
-
-        store_path = nearby_stores + f"/li[{store_index}]"
-        try:
-            time.sleep(0.3)
-            driver.find_element_by_xpath(store_path).click()
-        except exceptions.NoSuchElementException:
-            break
-
-        # Click to see store info
-        info_button_path = store_path + "/div/div[2]/span[2]/span"
-        driver.find_element_by_xpath(info_button_path).click()
-
-        # Looking at store info. Grab data
-        id_path = details_path + \
-            "/div[3]/div/div[2]/div/div[1]/div/div[1]/span[2]"
-        phone_path = details_path + "/div[3]/div/div[3]/div/div/div[3]/a/div"
-        city_path = details_path + "/div[2]/div/h3/span[1]"
-        address_path = details_path + \
-            "/div[3]/div/div[2]/div/div[1]/div/div[2]"
-
-        # Wait for page to load
-        WebDriverWait(driver, 2).until(
-            EC.presence_of_element_located((By.XPATH, id_path)))
-
-        # Pulling text data from elements
-        remote_id = driver.find_element_by_xpath(id_path).text[2:]
-        phone = driver.find_element_by_xpath(phone_path).text
-        city = driver.find_element_by_xpath(city_path).text
-        address = driver.find_element_by_xpath(
-            address_path).text.replace(",  ", f", {city}, ")
-
-        # Creating store object
-        store = {"address": address, "phone": phone, "id": remote_id}
-
-        # Check for redundancy
-        if store not in chain["stores"]:
-            chain["stores"].append(store)
-            print("Added", store)
-
-        # Go back to nearby stores list
-        back_button_path = base_path + "div/div/div/div/div/div[1]/button"
-        driver.find_element_by_xpath(back_button_path).click()
-
-    print(f"{round(postals.index(postal_code) / len(postals) * 100, 2)}%")
-
-    # After each postal code, backup to file
-    with open(file, "w") as f:
-        json.dump(chain, f, indent=2)
-
-driver.quit()
+        main()
+    except KeyboardInterrupt:
+        print("Last Postal Write", last_written_postal)
+        exit()
+    except Exception as e:
+        print("Last Postal Write", last_written_postal)
+        print(sys.exc_info())
+        print(e)
+        traceback.print_exc()
+        print("RESTARTING")
