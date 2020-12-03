@@ -9,9 +9,9 @@ City Market
 Kroger
 Mariano's
 Ralph's
---Walmart
+? Walmart
 ! Whole Foods
-Sam's Club
+? Sam's Club
 Costco
 ! Hy-Vee
 Meijer
