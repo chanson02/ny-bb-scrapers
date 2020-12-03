@@ -1,21 +1,21 @@
-King Soopers
-Roundy's
-Smith's Food and Drug
-Fred Meyer
-QFC
+*King Soopers
+*Roundy's
+*Smith's Food and Drug
+*Fred Meyer
+*QFC
 ! Ruler Foods
-Food 4 Less
-City Market
-Kroger
-Mariano's
-Ralph's
+*Food 4 Less
+*City Market
+*Kroger
+*Mariano's
+*Ralph's
 ? Walmart
 ! Whole Foods
 ? Sam's Club
-Costco
+*Costco
 ! Hy-Vee
-Meijer
-Fareway
+*Meijer
+! Fareway
 Schnucks
 SpartanNash
 Giant Eagle
