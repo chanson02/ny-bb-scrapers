@@ -16,7 +16,7 @@
 ! Hy-Vee
 *Meijer
 ! Fareway
-Schnucks
+! Schnucks
 SpartanNash
 Giant Eagle
 Market Basket
