@@ -1,0 +1,660 @@
+{
+  "name": "Price Chopper",
+  "stores": [
+    {
+      "address": "121 Farmington Ave., Bristol, CT 06010",
+      "phone": "860-582-2876",
+      "id": "204"
+    },
+    {
+      "address": "1220 Storrs Road, Mansfield, CT 06268",
+      "phone": "860-553-6555",
+      "id": "243"
+    },
+    {
+      "address": "855 Washington Street, Middletown, CT 06457",
+      "phone": "860-740-7700",
+      "id": "232"
+    },
+    {
+      "address": "2985 Berlin Turnpike, Newington, CT 06111",
+      "phone": "860-665-8342",
+      "id": "209"
+    },
+    {
+      "address": "300 Oxford Rd, Oxford, CT 06478",
+      "phone": "203-463-7990",
+      "id": "32248"
+    },
+    {
+      "address": "251 Kennedy Drive, Putnam, CT 06260",
+      "phone": "860-928-3030",
+      "id": "189"
+    },
+    {
+      "address": "410 Queen Street, Southington, CT 06489",
+      "phone": "860-621-2128",
+      "id": "203"
+    },
+    {
+      "address": "990 Torringford Street, Torrington, CT 06790",
+      "phone": "860-496-5051",
+      "id": "32156"
+    },
+    {
+      "address": "675 Poquonock Ave., Windsor, CT 06095",
+      "phone": "860-687-1411",
+      "id": "221"
+    },
+    {
+      "address": "560 Main Street, Gardner, MA 01440",
+      "phone": "978-730-1040",
+      "id": "239"
+    },
+    {
+      "address": "300 Stockbridge Road, Great Barrington, MA 01230",
+      "phone": "413-528-8415",
+      "id": "155"
+    },
+    {
+      "address": "167 W. Main Street, Hopkinton, MA 01748",
+      "phone": "508-625-3263",
+      "id": "231"
+    },
+    {
+      "address": "495 Pittsfield Road, Lenox, MA 01240",
+      "phone": "413-443-5449",
+      "id": "233"
+    },
+    {
+      "address": "240 East Main Street, Marlborough, MA 01752",
+      "phone": "508-480-0109",
+      "id": "162"
+    },
+    {
+      "address": "555 Hubbard Ave., Pittsfield, MA 01201",
+      "phone": "413-442-7696",
+      "id": "32140"
+    },
+    {
+      "address": "731 Boston Turnpike, Shrewsbury, MA 01545",
+      "phone": "508-791-7142",
+      "id": "229"
+    },
+    {
+      "address": "133 Main Street, Spencer, MA 01562",
+      "phone": "508-885-3199",
+      "id": "150"
+    },
+    {
+      "address": "21 Galaxy Pass, Sutton, MA 01590",
+      "phone": "508-865-5168",
+      "id": "32244"
+    },
+    {
+      "address": "East Village Square at 2 Worcester Road, Webster, MA 01570",
+      "phone": "508-943-7232",
+      "id": "240"
+    },
+    {
+      "address": "564 Southwest Cutoff, Worcester, MA 01610",
+      "phone": "508-752-3737",
+      "id": "160"
+    },
+    {
+      "address": "221-223 Park Ave, Worcester, MA 01609",
+      "phone": "508-798-5178",
+      "id": "148"
+    },
+    {
+      "address": "50 Cambridge Street, Worcester, MA 01603",
+      "phone": "508-363-4870",
+      "id": "179"
+    },
+    {
+      "address": "29 Sunderland Road, Worcester, MA 01604",
+      "phone": "508-752-7061",
+      "id": "151"
+    },
+    {
+      "address": "72 Pullman Street, Worcester, MA 01606",
+      "phone": "508-854-8474",
+      "id": "194"
+    },
+    {
+      "address": "16 Ash Brook Road, Keene, NH 03431",
+      "phone": "603-352-0957",
+      "id": "208"
+    },
+    {
+      "address": "370 Miracle Mile Road, Lebanon, NH 03784",
+      "phone": "603-448-3970",
+      "id": "227"
+    },
+    {
+      "address": "10 Lumberyard Road, Lincoln, NH 03251",
+      "phone": "603-745-3969",
+      "id": "4"
+    },
+    {
+      "address": "285 Plainfield Road, West Lebanon, NH 03784",
+      "phone": "603-298-9670",
+      "id": "167"
+    },
+    {
+      "address": "40 Delaware Ave., Albany, NY 12210",
+      "phone": "518-465-2603",
+      "id": "3245"
+    },
+    {
+      "address": "1060 Madison Ave., Albany, NY 12210",
+      "phone": "518-438-6241",
+      "id": "3223"
+    },
+    {
+      "address": "911 Central Ave., Albany, NY 12206",
+      "phone": "518-482-0280",
+      "id": "133"
+    },
+    {
+      "address": "475 Shaker Road, Albany, NY 12211",
+      "phone": "518-459-8720",
+      "id": "188"
+    },
+    {
+      "address": "1892 Central Ave., Albany, NY 12205",
+      "phone": "518-456-9314",
+      "id": "224"
+    },
+    {
+      "address": "43615 NYS Route 12, Alexandria Bay, NY 13607",
+      "phone": "315-215-7008",
+      "id": "241"
+    },
+    {
+      "address": "141 Sanford Farms Plaza, Amsterdam, NY 12010",
+      "phone": "518-843-0056",
+      "id": "32139"
+    },
+    {
+      "address": "33 Chenango Bridge Road, Binghamton, NY 13901",
+      "phone": "607-235-7240",
+      "id": "234"
+    },
+    {
+      "address": "10 Glenwood Ave., Binghamton, NY 13905",
+      "phone": "607-770-7151",
+      "id": "237"
+    },
+    {
+      "address": "111 East Main Street, Canton, NY 13617",
+      "phone": "315-379-9696",
+      "id": "46"
+    },
+    {
+      "address": "320 West Bridge Street, Catskill, NY 12414",
+      "phone": "518-943-3239",
+      "id": "42"
+    },
+    {
+      "address": "860 State Route 11, PO Box 2332, Champlain, NY 12919",
+      "phone": "518-298-4200",
+      "id": "220"
+    },
+    {
+      "address": "2614 Route 66, Chatham, NY 12075",
+      "phone": "518-392-9007",
+      "id": "246"
+    },
+    {
+      "address": "5701 East Circle Dr. Suite 100, Cicero, NY 13039",
+      "phone": "315-458-2056",
+      "id": "199"
+    },
+    {
+      "address": "Route 146 and Plank Road, Clifton Park, NY 12065",
+      "phone": "518-371-3521",
+      "id": "32112"
+    },
+    {
+      "address": "Routes 146 & 146A, Clifton Park, NY 12065",
+      "phone": "518-371-3521",
+      "id": "32250"
+    },
+    {
+      "address": "105 Plaza Lane, Cobleskill, NY 12043",
+      "phone": "518-234-7845",
+      "id": "116"
+    },
+    {
+      "address": "240 Congress Street, Cohoes, NY 12047",
+      "phone": "518-237-6050",
+      "id": "36"
+    },
+    {
+      "address": "113 Chestnut Street, Cooperstown, NY 13326",
+      "phone": "607-547-2527",
+      "id": "235"
+    },
+    {
+      "address": "854 State Route 13, Cortland, NY 13045",
+      "phone": "607-756-4994",
+      "id": "178"
+    },
+    {
+      "address": "3 Main Street, Delhi, NY 13753",
+      "phone": "607-746-8001",
+      "id": "218"
+    },
+    {
+      "address": "1001 North Street, Endicott, NY 13760",
+      "phone": "607-748-8080",
+      "id": "130"
+    },
+    {
+      "address": "354 Broadway, Fort Edward, NY 12828",
+      "phone": "518-832-6236",
+      "id": "32249"
+    },
+    {
+      "address": "12 W First St South, Fulton, NY 13069",
+      "phone": "315-598-4000",
+      "id": "214"
+    },
+    {
+      "address": "329 Glenmont Road, Glenmont, NY 12077",
+      "phone": "518-433-4700",
+      "id": "196"
+    },
+    {
+      "address": "358 North Main Street, Gloversville, NY 12078",
+      "phone": "518-775-1464",
+      "id": "195"
+    },
+    {
+      "address": "389 East Main Street, Gouverneur, NY 13642",
+      "phone": "315-287-4200",
+      "id": "37"
+    },
+    {
+      "address": "8648 State Route 22, Granville, NY 12832",
+      "phone": "518-642-9755",
+      "id": "157"
+    },
+    {
+      "address": "1706 Western Ave., Guilderland, NY 12203",
+      "phone": "518-456-0403",
+      "id": "32183"
+    },
+    {
+      "address": "Routes 20 and 155, Guilderland, NY 12084",
+      "phone": "518-456-5115",
+      "id": "3228"
+    },
+    {
+      "address": "2422 Highway 12B, Hamilton, NY 13346",
+      "phone": "315-824-6040",
+      "id": "225"
+    },
+    {
+      "address": "North Comrie Ave., Johnstown, NY 12095",
+      "phone": "518-762-8981",
+      "id": "12"
+    },
+    {
+      "address": "Amherst and Iroquois Street, Lake George, NY 12845",
+      "phone": "518-668-2337",
+      "id": "170"
+    },
+    {
+      "address": "1930 Saranac Ave., Lake Placid, NY 12946",
+      "phone": "518-523-2790",
+      "id": "180"
+    },
+    {
+      "address": "873 New Loudon Road, Latham, NY 12110",
+      "phone": "518-782-0441",
+      "id": "138"
+    },
+    {
+      "address": "555 East Main Street, Little Falls, NY 13365",
+      "phone": "315-508-3333",
+      "id": "242"
+    },
+    {
+      "address": "3863 State Rte 31, Liverpool, NY 13090",
+      "phone": "315-622-6008",
+      "id": "182"
+    },
+    {
+      "address": "53 Finney Blvd, Malone, NY 12953",
+      "phone": "518-483-8476",
+      "id": "166"
+    },
+    {
+      "address": "One Kendall Way, Malta, NY 12020",
+      "phone": "518-899-2438",
+      "id": "184"
+    },
+    {
+      "address": "152 Harte Haven Plaza, Massena, NY 13662",
+      "phone": "315-769-0042",
+      "id": "32"
+    },
+    {
+      "address": "1 Price Chopper Plaza, Mechanicville, NY 12118",
+      "phone": "518-664-1112",
+      "id": "94"
+    },
+    {
+      "address": "511 Schutt Road Ext., Middletown, NY 10940",
+      "phone": "845-344-0300",
+      "id": "114"
+    },
+    {
+      "address": "4535 Commercial Drive, New Hartford, NY 13413",
+      "phone": "315-736-8376",
+      "id": "207"
+    },
+    {
+      "address": "115 Temple Hill Road, New Windsor, NY 12553",
+      "phone": "845-565-8637",
+      "id": "142"
+    },
+    {
+      "address": "39 North Plank Road, Newburgh, NY 12550",
+      "phone": "845-569-2620",
+      "id": "198"
+    },
+    {
+      "address": "5631 State Highway 12, Norwich, NY 13815",
+      "phone": "607-336-2774",
+      "id": "161"
+    },
+    {
+      "address": "710 Gateway Ctr, 981 Ford St, Ogdensburg, NY 13669",
+      "phone": "315-393-7153",
+      "id": "30"
+    },
+    {
+      "address": "142 Genesee Street, Oneida, NY 13421",
+      "phone": "315-363-8927",
+      "id": "213"
+    },
+    {
+      "address": "1000 Main Street, Oneonta, NY 13820",
+      "phone": "607-432-8905",
+      "id": "134"
+    },
+    {
+      "address": "137 State Route 104, Oswego, NY 13126",
+      "phone": "315-342-0571",
+      "id": "226"
+    },
+    {
+      "address": "42 W Main St, Owego, NY 13827",
+      "phone": "607-687-5449",
+      "id": "216"
+    },
+    {
+      "address": "6025 NY State Route 5, Palatine Bridge, NY 13428",
+      "phone": "518-673-2333",
+      "id": "164"
+    },
+    {
+      "address": "19 Centre Dr, Plattsburg, NY 12901",
+      "phone": "518-562-3560",
+      "id": "32168"
+    },
+    {
+      "address": "201 Market Street, Potsdam, NY 13676",
+      "phone": "315-265-2165",
+      "id": "29"
+    },
+    {
+      "address": "2585 South Road, Poughkeepsie, NY 12601",
+      "phone": "845-452-1005",
+      "id": "129"
+    },
+    {
+      "address": "677 Upper Glen Street, Queensbury, NY 12804",
+      "phone": "518-792-7456",
+      "id": "40"
+    },
+    {
+      "address": "501 Columbia Turnpike, Rennselaer, NY 12144",
+      "phone": "518-479-4380",
+      "id": "32111"
+    },
+    {
+      "address": "1 Main Street, Richfield Springs, NY 13439",
+      "phone": "315-858-1171",
+      "id": "210"
+    },
+    {
+      "address": "1790 Black River Blvd., Rome, NY 13440",
+      "phone": "315-337-5086",
+      "id": "206"
+    },
+    {
+      "address": "115 Ballston Ave., Saratoga Springs, NY 12866",
+      "phone": "518-580-9172",
+      "id": "3250158"
+    },
+    {
+      "address": "3045 Route 50, Saratoga Springs, NY 12866",
+      "phone": "518-583-7551",
+      "id": "3239"
+    },
+    {
+      "address": "55 Railroad Place, Saratoga Springs, NY 12866",
+      "phone": "518-584-9400",
+      "id": "238"
+    },
+    {
+      "address": "138 Ulster Ave., Saugerties, NY 12477",
+      "phone": "845-247-4500",
+      "id": "193"
+    },
+    {
+      "address": "1640 Eastern Parkway, Schenectady, NY 12309",
+      "phone": "518-372-6553",
+      "id": "321"
+    },
+    {
+      "address": "442 Balltown Road, Schenectady, NY 12304",
+      "phone": "518-346-0182",
+      "id": "191"
+    },
+    {
+      "address": "1879 Altamont Ave., Schenectady, NY 12303",
+      "phone": "518-357-4050",
+      "id": "175"
+    },
+    {
+      "address": "290 Saratoga Road, Scotia, NY 12302",
+      "phone": "518-399-4011",
+      "id": "3238"
+    },
+    {
+      "address": "165 Delaware Ave., Sidney, NY 13838",
+      "phone": "607-563-2733",
+      "id": "215"
+    },
+    {
+      "address": "1395 New Scotland Ave., Slingerlands, NY 12159",
+      "phone": "518-478-0688",
+      "id": "159"
+    },
+    {
+      "address": "4713 Onondaga Blvd., Syracuse, NY 13219",
+      "phone": "315-472-3812",
+      "id": "174"
+    },
+    {
+      "address": "2515 Erie Blvd., Syracuse, NY 13224",
+      "phone": "315-449-2314",
+      "id": "172"
+    },
+    {
+      "address": "716 Hoosick Road, Troy, NY 12180",
+      "phone": "518-266-9035",
+      "id": "323"
+    },
+    {
+      "address": "79 Vandenburg Place, Troy, NY 12180",
+      "phone": "518-266-8711",
+      "id": "32181"
+    },
+    {
+      "address": "1917 Genesee Street, Utica, NY 13501",
+      "phone": "315-732-1031",
+      "id": "26"
+    },
+    {
+      "address": "North Utica Shopping Center, Auert Ave., Utica, NY 13501",
+      "phone": "315-732-0507",
+      "id": "44"
+    },
+    {
+      "address": "16 Lake George Plaza, Warrensburg, NY 12845",
+      "phone": "518-964-6500",
+      "id": "247"
+    },
+    {
+      "address": "142 State Highway 94, Warwick, NY 10990",
+      "phone": "845-987-6333",
+      "id": "223"
+    },
+    {
+      "address": "1283 Arsenal St, Watertown, NY 13601",
+      "phone": "315-788-1645",
+      "id": "102"
+    },
+    {
+      "address": "515 19th Street, Watervliet, NY 12189",
+      "phone": "518-271-7446",
+      "id": "245"
+    },
+    {
+      "address": "60 High Street, West Carthage, NY 13619",
+      "phone": "315-493-6668",
+      "id": "24"
+    },
+    {
+      "address": "1228 O'Neill H'way, Dunmore, PA 18512",
+      "phone": "570-346-4538",
+      "id": "135"
+    },
+    {
+      "address": "4547 Milford Road, East Stroudsburg, PA 18302",
+      "phone": "570-223-2410",
+      "id": "236"
+    },
+    {
+      "address": "180 Westside Mall, Edwardsville, PA 18704",
+      "phone": "570-287-7244",
+      "id": "32190"
+    },
+    {
+      "address": "1025 Pennsylvania Ave., Matamoras, PA 18336",
+      "phone": "570-491-5612",
+      "id": "202"
+    },
+    {
+      "address": "16750 State Route 706, Montrose, PA 18801",
+      "phone": "570-278-2817",
+      "id": "185"
+    },
+    {
+      "address": "1510 South Main Ave., Scranton, PA 18504",
+      "phone": "570-969-4920",
+      "id": "169"
+    },
+    {
+      "address": "245 Wilkes-Barre Township Blvd., Wilkes Barre, PA 18702",
+      "phone": "570-825-0830",
+      "id": "222"
+    },
+    {
+      "address": "Midway Shop Ctr, 1026 Wyoming Ave, Wyoming, PA 18644",
+      "phone": "570-693-3997",
+      "id": "173"
+    },
+    {
+      "address": "168 Ames Drive, Barre, VT 05641",
+      "phone": "802-479-9078",
+      "id": "123"
+    },
+    {
+      "address": "214 Northside Drive, Bennington, VT 05201",
+      "phone": "802-447-9940",
+      "id": "171"
+    },
+    {
+      "address": "499 Canal Street, Brattleboro, VT 05301",
+      "phone": "802-254-3424",
+      "id": "136"
+    },
+    {
+      "address": "595 Shelburne Rd, Burlington, VT 05401",
+      "phone": "802-651-9826",
+      "id": "32165"
+    },
+    {
+      "address": "1184 Prim Road, Colchester, VT 05446",
+      "phone": "802-651-9409",
+      "id": "230"
+    },
+    {
+      "address": "56 Commons Drive, Derby, VT 05829",
+      "phone": "802-334-1475",
+      "id": "219"
+    },
+    {
+      "address": "90 Center Road, Essex Junction, VT 05452",
+      "phone": "802-878-5163",
+      "id": "192"
+    },
+    {
+      "address": "Routes 11 and 30, Manchester, VT 05255",
+      "phone": "802-362-9896",
+      "id": "125"
+    },
+    {
+      "address": "Rt 15 & Munson Ave, Morrisville, VT 05661",
+      "phone": "802-888-1220",
+      "id": "137"
+    },
+    {
+      "address": "38 Rutland Shopping Plaza, Rutland, VT 05701",
+      "phone": "802-747-7880",
+      "id": "131"
+    },
+    {
+      "address": "41 Hinesburg Road, South Burlington, VT 05403",
+      "phone": "802-864-9176",
+      "id": "228"
+    },
+    {
+      "address": "170 Swanton Rd, Rte 7, St Albans, VT 05478",
+      "phone": "802-524-2033",
+      "id": "127"
+    },
+    {
+      "address": "857 Memorial Drive, St Johnsbury, VT 05819",
+      "phone": "802-748-1109",
+      "id": "141"
+    },
+    {
+      "address": "Route 4A, Westway Mall, West Rutland, VT 05777",
+      "phone": "802-438-6119",
+      "id": "122"
+    },
+    {
+      "address": "2725 Route 5 North, Windsor, VT 05089",
+      "phone": "802-674-3470",
+      "id": "177"
+    }
+  ]
+}
