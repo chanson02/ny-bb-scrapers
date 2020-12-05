@@ -62,6 +62,6 @@ while not done:
         # Go back to first tab
         driver.switch_to.window(driver.window_handles[0])
 
-with open("../Outputs/priceshopper.json", "w") as file:
+with open("../Outputs/pricechopper.json", "w") as file:
     json.dump(chain, file, indent=2)
 driver.close()
