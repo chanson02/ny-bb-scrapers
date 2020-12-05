@@ -40,6 +40,7 @@ def main():
     global last_written_postal
     postals = load_postals()
     chain = load_chain()
+    driver.get("https://www.samsclub.com/locator")
 
     for postal in postals:
 
