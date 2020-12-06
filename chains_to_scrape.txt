@@ -24,7 +24,7 @@ Market Basket
 Price Rite
 ! ShopRite
 ! Tops
-Weis
+! Weis
 Wegmans
 Brookshire's
 Brookshire Brothers

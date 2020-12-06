@@ -1,0 +1,995 @@
+{
+  "name": "Weis",
+  "stores": [
+    {
+      "address": "501 North Centre Street, Philipsburg, PA, 16866",
+      "phone": "814-342-6451",
+      "id": "118"
+    },
+    {
+      "address": "601 Pleasant Valley Blvd, Altoona, PA, 16602",
+      "phone": "814-944-5455",
+      "id": "64"
+    },
+    {
+      "address": "275 Park Hills Plaza, Altoona, PA, 16602",
+      "phone": "814-941-5441",
+      "id": "40"
+    },
+    {
+      "address": "17600 Old National Pike SW, Frostburg, MD, 21532",
+      "phone": "301-689-6847",
+      "id": "293"
+    },
+    {
+      "address": "15300 Mcmullen Highway SW Ste 101, Cumberland, MD, 21502",
+      "phone": "301-729-3419",
+      "id": "291"
+    },
+    {
+      "address": "16 Bedford Square, Everett, PA, 15537",
+      "phone": "814-623-7770",
+      "id": "140"
+    },
+    {
+      "address": "1471 Martin Street, State College, PA, 16803",
+      "phone": "814-237-2500",
+      "id": "51"
+    },
+    {
+      "address": "560 Westerly Parkway, State College, PA, 16801",
+      "phone": "814-238-1821",
+      "id": "33"
+    },
+    {
+      "address": "611 Fifteenth Street, Huntingdon, PA, 16652",
+      "phone": "814-643-2743",
+      "id": "30"
+    },
+    {
+      "address": "110 Rolling Ridge Drive Suite 1, State College, PA, 16801",
+      "phone": "814-231-8397",
+      "id": "137"
+    },
+    {
+      "address": "170 Buckaroo Lane, Bellefonte, PA, 16823",
+      "phone": "814-355-1989",
+      "id": "187"
+    },
+    {
+      "address": "11798 Route 6, Wellsboro, PA, 16901",
+      "phone": "570-724-6364",
+      "id": "198"
+    },
+    {
+      "address": "6 Millbrook Plaza, Mill Hall, PA, 17751",
+      "phone": "570-748-1015",
+      "id": "203"
+    },
+    {
+      "address": "313-327 West Bald Eagle Street, Lock Haven, PA, 17745",
+      "phone": "570-748-6066",
+      "id": "22"
+    },
+    {
+      "address": "62 East Shirley Street, Mount Union, PA, 17066",
+      "phone": "814-542-9745",
+      "id": "48"
+    },
+    {
+      "address": "1440 Allegheny Street, Jersey Shore, PA, 17740",
+      "phone": "570-398-4606",
+      "id": "14"
+    },
+    {
+      "address": "401 North Main Street, Elmira, NY, 14901",
+      "phone": "607-733-2226",
+      "id": "116"
+    },
+    {
+      "address": "224 North Logan Boulevard, Burnham, PA, 17009",
+      "phone": "717-248-2762",
+      "id": "35"
+    },
+    {
+      "address": "1916 Lycoming Creek Road, Williamsport, PA, 17701",
+      "phone": "570-326-5802",
+      "id": "52"
+    },
+    {
+      "address": "801 Loyalsock Avenue, Montoursville, PA, 17754",
+      "phone": "570-368-5585",
+      "id": "37"
+    },
+    {
+      "address": "305 River Avenue, Williamsport, PA, 17701",
+      "phone": "570-322-3827",
+      "id": "9"
+    },
+    {
+      "address": "4521 William Penn Highway, Mifflintown, PA, 17059",
+      "phone": "717-436-6048",
+      "id": "176"
+    },
+    {
+      "address": "65 Meadow Green Drive, Mifflinburg, PA, 17844",
+      "phone": "570-966-6500",
+      "id": "197"
+    },
+    {
+      "address": "2186 State Route 54, Montgomery, PA, 17752",
+      "phone": "570-547-2156",
+      "id": "24"
+    },
+    {
+      "address": "1056 Wayne Avenue, Chambersburg, PA, 17201",
+      "phone": "717-261-5757",
+      "id": "56"
+    },
+    {
+      "address": "1075 West King Street, Shippensburg, PA, 17257",
+      "phone": "717-532-2161",
+      "id": "38"
+    },
+    {
+      "address": "1102 North Queen Street, Martinsburg, WV, 25401",
+      "phone": "304-263-1515",
+      "id": "108"
+    },
+    {
+      "address": "1272 East Penn Street, Muncy, PA, 17756",
+      "phone": "570-546-5472",
+      "id": "177"
+    },
+    {
+      "address": "6901 Westbranch Highway, Lewisburg, PA, 17837",
+      "phone": "570-524-2915",
+      "id": "31"
+    },
+    {
+      "address": "555 Mahoning Street, Milton, PA, 17847",
+      "phone": "570-742-9184",
+      "id": "7"
+    },
+    {
+      "address": "12817 Shank Farm Way, Hagerstown, MD, 21742",
+      "phone": "301-665-9485",
+      "id": "167"
+    },
+    {
+      "address": "316 Walnut Street, Newport, PA, 17074",
+      "phone": "717-567-6040",
+      "id": "20"
+    },
+    {
+      "address": "31 Eastern Boulevard North, Hagerstown, MD, 21740",
+      "phone": "240-420-0472",
+      "id": "81"
+    },
+    {
+      "address": "719 Route 522, Selinsgrove, PA, 17870",
+      "phone": "570-374-8552",
+      "id": "226"
+    },
+    {
+      "address": "217 Oak Lee Drive, Ranson, WV, 25438",
+      "phone": "304-725-9559",
+      "id": "183"
+    },
+    {
+      "address": "135-147 Market Street, Sunbury, PA, 17801",
+      "phone": "570-286-4121",
+      "id": "21"
+    },
+    {
+      "address": "1100 North Fourth Street, Sunbury, PA, 17801",
+      "phone": "570-286-5791",
+      "id": "36"
+    },
+    {
+      "address": "351 East High Street, Carlisle, PA, 17013",
+      "phone": "717-243-8535",
+      "id": "95"
+    },
+    {
+      "address": "700 Chase Six Blvd, Boonsboro, MD, 21713",
+      "phone": "301-432-3950",
+      "id": "178"
+    },
+    {
+      "address": "1571 Route 209, Millersburg, PA, 17061",
+      "phone": "717-692-2019",
+      "id": "19"
+    },
+    {
+      "address": "412 Day Hollow Road, Endicott, NY, 13760",
+      "phone": "607-741-1214",
+      "id": "215"
+    },
+    {
+      "address": "Park Manor Plaza 840 Hooper Road, Endwell, NY, 13760",
+      "phone": "607-484-0017",
+      "id": "217"
+    },
+    {
+      "address": "925 Main Street, Vestal, NY, 13850",
+      "phone": "607-484-0008",
+      "id": "218"
+    },
+    {
+      "address": "140 Continental Boulevard, Danville, PA, 17821",
+      "phone": "570-275-0999",
+      "id": "10"
+    },
+    {
+      "address": "100 Rano Boulevard, Vestal, NY, 13850",
+      "phone": "607-763-8712",
+      "id": "222"
+    },
+    {
+      "address": "1290 Front Street, Binghamton, NY, 13901",
+      "phone": "607-762-5404",
+      "id": "214"
+    },
+    {
+      "address": "4525 Valley Road, Enola, PA, 17025",
+      "phone": "717-728-2825",
+      "id": "225"
+    },
+    {
+      "address": "1201 Dutchman's Creek Drive, Brunswick, MD, 21716",
+      "phone": "301-834-4800",
+      "id": "239"
+    },
+    {
+      "address": "2 Thurmont Blvd, Thurmont, MD, 21788",
+      "phone": "301-271-4028",
+      "id": "179"
+    },
+    {
+      "address": "5140 Simpson Ferry Road, Mechanicsburg, PA, 17050",
+      "phone": "717-697-1230",
+      "id": "58"
+    },
+    {
+      "address": "735 Old Harrisburg Road, Gettysburg, PA, 17325",
+      "phone": "717-337-1753",
+      "id": "120"
+    },
+    {
+      "address": "2150 Bumble Bee Hollow Road, Mechanicsburg, PA, 17055",
+      "phone": "717-796-0397",
+      "id": "199"
+    },
+    {
+      "address": "50 Pennsylvania Avenue, Binghamton, NY, 13903",
+      "phone": "607-762-5410",
+      "id": "220"
+    },
+    {
+      "address": "160 Robinson Street, Binghamton, NY, 13904",
+      "phone": "607-762-5409",
+      "id": "219"
+    },
+    {
+      "address": "307 Conklin Avenue, Binghamton, NY, 13903",
+      "phone": "607-762-5403",
+      "id": "213"
+    },
+    {
+      "address": "725 Columbia Boulevard, Bloomsburg, PA, 17815",
+      "phone": "570-387-6183",
+      "id": "192"
+    },
+    {
+      "address": "339 West Walnut Street, Shamokin, PA, 17872",
+      "phone": "570-644-0642",
+      "id": "4"
+    },
+    {
+      "address": "235 Main Street, Catawissa, PA, 17820",
+      "phone": "570-356-2082",
+      "id": "28"
+    },
+    {
+      "address": "1195 Lowther Road, Camp Hill, PA, 17011",
+      "phone": "717-737-7091",
+      "id": "125"
+    },
+    {
+      "address": "2 Old Camp Road, Frederick, MD, 21702",
+      "phone": "301-473-5385",
+      "id": "100"
+    },
+    {
+      "address": "4300 Linglestown Road, Linglestown, PA, 17112",
+      "phone": "717-540-6010",
+      "id": "127"
+    },
+    {
+      "address": "2 Anthra Plaza Rt 61 & 901, Coal Township, PA, 17866",
+      "phone": "570-644-3980",
+      "id": "205"
+    },
+    {
+      "address": "199 Thomas Johnson Drive, Frederick, MD, 21702",
+      "phone": "301-662-8065",
+      "id": "110"
+    },
+    {
+      "address": "3885 Union Deposit Road, Harrisburg, PA, 17109",
+      "phone": "717-558-9343",
+      "id": "131"
+    },
+    {
+      "address": "448 Prospect Boulevard, Frederick, MD, 21701",
+      "phone": "301-663-9075",
+      "id": "60"
+    },
+    {
+      "address": "30 Primrose Lane, East Berlin, PA, 17316",
+      "phone": "717-259-4868",
+      "id": "200"
+    },
+    {
+      "address": "6093 Spring Ridge Parkway, Frederick, MD, 21701",
+      "phone": "301-631-8162",
+      "id": "149"
+    },
+    {
+      "address": "1130 Mae Street, Hummelstown, PA, 17036",
+      "phone": "717-533-2447",
+      "id": "67"
+    },
+    {
+      "address": "1105 Chestnut Street, Berwick, PA, 18603",
+      "phone": "570-759-1592",
+      "id": "8"
+    },
+    {
+      "address": "860 Carlisle Street, Hanover, PA, 17331",
+      "phone": "717-632-0237",
+      "id": "16"
+    },
+    {
+      "address": "600 Hunter Highway, Tunkhannock, PA, 18657",
+      "phone": "570-836-3650",
+      "id": "154"
+    },
+    {
+      "address": "505 Meadowbrook Shopping Ctr, Culpeper, VA, 22701",
+      "phone": "540-825-9448",
+      "id": "305"
+    },
+    {
+      "address": "1424 Baltimore Street, Hanover, PA, 17331",
+      "phone": "717-637-0700",
+      "id": "240"
+    },
+    {
+      "address": "2850 Carlisle Road, Dover, PA, 17315",
+      "phone": "717-767-5152",
+      "id": "92"
+    },
+    {
+      "address": "901 East Main Street, Palmyra, PA, 17078",
+      "phone": "717-838-6823",
+      "id": "94"
+    },
+    {
+      "address": "2859 State Route 309 Suite 75, Dallas, PA, 18612",
+      "phone": "570-674-3000",
+      "id": "75"
+    },
+    {
+      "address": "495 Memorial Highway Rt 415, Dallas, PA, 18612",
+      "phone": "570-675-4111",
+      "id": "74"
+    },
+    {
+      "address": "1800 Roosevelt Avenue, York, PA, 17404",
+      "phone": "717-767-2649",
+      "id": "71"
+    },
+    {
+      "address": "Carlisle Comm Ctr 2160 White Street, York, PA, 17404",
+      "phone": "717-845-1013",
+      "id": "43"
+    },
+    {
+      "address": "1 Weis Plaza, Nanticoke, PA, 18634",
+      "phone": "570-735-2458",
+      "id": "152"
+    },
+    {
+      "address": "1001 Twin Arch Road, Mount Airy, MD, 21771",
+      "phone": "301-829-1071",
+      "id": "119"
+    },
+    {
+      "address": "26075 Ridge Road, Damascus, MD, 20872",
+      "phone": "301-253-9787",
+      "id": "129"
+    },
+    {
+      "address": "1629 South Market Street, Elizabethtown, PA, 17022",
+      "phone": "717-361-0171",
+      "id": "80"
+    },
+    {
+      "address": "630 Baltimore Boulevard, Westminster, MD, 21157",
+      "phone": "410-848-2717",
+      "id": "111"
+    },
+    {
+      "address": "2400 East Market Street, York, PA, 17402",
+      "phone": "717-757-5942",
+      "id": "5"
+    },
+    {
+      "address": "2065 Springwood Road, York, PA, 17403",
+      "phone": "717-848-2257",
+      "id": "104"
+    },
+    {
+      "address": "800 South 12th Street, Lebanon, PA, 17042",
+      "phone": "717-273-4231",
+      "id": "29"
+    },
+    {
+      "address": "500 Pottsville Park Plaza, Pottsville, PA, 17901",
+      "phone": "570-622-8112",
+      "id": "72"
+    },
+    {
+      "address": "5 North River Street, Plains, PA, 18705",
+      "phone": "570-829-0116",
+      "id": "161"
+    },
+    {
+      "address": "1651 East Cumberland St, Lebanon, PA, 17042",
+      "phone": "717-270-1010",
+      "id": "148"
+    },
+    {
+      "address": "2205 Hanover Pike, Hampstead, MD, 21074",
+      "phone": "410-374-1745",
+      "id": "128"
+    },
+    {
+      "address": "100 Weis Lane, Hazleton, PA, 18201",
+      "phone": "570-455-0612",
+      "id": "68"
+    },
+    {
+      "address": "883 Russell Avenue, Gaithersburg, MD, 20879",
+      "phone": "301-963-9775",
+      "id": "289"
+    },
+    {
+      "address": "237 South Mountain Blvd., Mountain Top, PA, 18707",
+      "phone": "570-474-5903",
+      "id": "91"
+    },
+    {
+      "address": "441 West Main Street, Mount Joy, PA, 17552",
+      "phone": "717-653-1762",
+      "id": "63"
+    },
+    {
+      "address": "70 Phoenix Street, Duryea, PA, 18642",
+      "phone": "570-451-0190",
+      "id": "156"
+    },
+    {
+      "address": "693 Lombard Road, Red Lion, PA, 17356",
+      "phone": "717-246-0671",
+      "id": "173"
+    },
+    {
+      "address": "1020 Northern Boulevard, Clarks Summit, PA, 18411",
+      "phone": "570-587-2781",
+      "id": "190"
+    },
+    {
+      "address": "720 Hanover Pike, Hampstead, MD, 21074",
+      "phone": "410-374-1440",
+      "id": "139"
+    },
+    {
+      "address": "578 Carbondale Road, Scott Township, PA, 18447",
+      "phone": "570-585-4007",
+      "id": "165"
+    },
+    {
+      "address": "6375 Monroe Ave, Eldersburg, MD, 21784",
+      "phone": "410-549-5213",
+      "id": "292"
+    },
+    {
+      "address": "75 Doe Run Road, Manheim, PA, 17545",
+      "phone": "717-665-2315",
+      "id": "77"
+    },
+    {
+      "address": "1786 Columbia Avenue, Columbia, PA, 17512",
+      "phone": "717-285-5864",
+      "id": "98"
+    },
+    {
+      "address": "10 Village Center RD, Reisterstown, MD, 21136",
+      "phone": "410-517-0204",
+      "id": "295"
+    },
+    {
+      "address": "1400 Stoney Battery Road, Lancaster, PA, 17601",
+      "phone": "717-285-7720",
+      "id": "138"
+    },
+    {
+      "address": "97 Brooklyn Street, Carbondale, PA, 18407",
+      "phone": "570-281-3300",
+      "id": "171"
+    },
+    {
+      "address": "10825 Birmingham Way, Woodstock, MD, 21163",
+      "phone": "410-461-4439",
+      "id": "62"
+    },
+    {
+      "address": "740 South Broad Street, Lititz, PA, 17543",
+      "phone": "717-626-7865",
+      "id": "49"
+    },
+    {
+      "address": "1643 Manheim Pike, Lancaster, PA, 17601",
+      "phone": "717-569-5311",
+      "id": "88"
+    },
+    {
+      "address": "1700A Fruitville Pike, Lancaster, PA, 17601",
+      "phone": "717-397-8127",
+      "id": "17"
+    },
+    {
+      "address": "9251 Lakeside BLVD, Owings Mills, MD, 21117",
+      "phone": "410-356-9214",
+      "id": "294"
+    },
+    {
+      "address": "1204 Millersville Pike, Lancaster, PA, 17603",
+      "phone": "717-392-6511",
+      "id": "41"
+    },
+    {
+      "address": "552 State Street, Hamburg, PA, 19526",
+      "phone": "610-562-3828",
+      "id": "181"
+    },
+    {
+      "address": "331 North Reading Road, Ephrata, PA, 17522",
+      "phone": "717-733-9089",
+      "id": "79"
+    },
+    {
+      "address": "905 Garrisonville Road, Stafford, VA, 22554",
+      "phone": "540-720-4692",
+      "id": "307"
+    },
+    {
+      "address": "1603 Lincoln Highway East, Lancaster, PA, 17602",
+      "phone": "717-394-8473",
+      "id": "55"
+    },
+    {
+      "address": "2600 Willow Street Pike, Willow Street, PA, 17584",
+      "phone": "717-464-9480",
+      "id": "133"
+    },
+    {
+      "address": "7005 Security Boulevard, Windsor Mill, MD, 21244",
+      "phone": "410-298-0630",
+      "id": "229"
+    },
+    {
+      "address": "7100 Salem Fields Boulevard, Fredericksburg, VA, 22407",
+      "phone": "540-785-5898",
+      "id": "303"
+    },
+    {
+      "address": "589 Hamlin Highway, Hamlin, PA, 18427",
+      "phone": "570-689-9921",
+      "id": "106"
+    },
+    {
+      "address": "2612 Jefferson Davis Highway, Stafford, VA, 22554",
+      "phone": "540-720-6521",
+      "id": "308"
+    },
+    {
+      "address": "4153 Plank Road, Fredericksburg, VA, 22401",
+      "phone": "540-786-5122",
+      "id": "298"
+    },
+    {
+      "address": "9270 All Saints Road, Laurel, MD, 20723",
+      "phone": "301-725-2140",
+      "id": "122"
+    },
+    {
+      "address": "6551 Waterloo Road, Elkridge, MD, 21075",
+      "phone": "410-799-3760",
+      "id": "287"
+    },
+    {
+      "address": "2759 Paper Mill Road, Wyomissing, PA, 19610",
+      "phone": "610-736-9330",
+      "id": "189"
+    },
+    {
+      "address": "9250 Washington Boulevard, Laurel, MD, 20723",
+      "phone": "301-362-7301",
+      "id": "45"
+    },
+    {
+      "address": "1112 West Wyomissing Blvd, West Lawn, PA, 19609",
+      "phone": "610-775-0427",
+      "id": "175"
+    },
+    {
+      "address": "9801 Courthouse Road, Spotsylvania, VA, 22553",
+      "phone": "540-891-0784",
+      "id": "304"
+    },
+    {
+      "address": "1080 Maiden Choice Lane, Baltimore, MD, 21229",
+      "phone": "410-247-7842",
+      "id": "89"
+    },
+    {
+      "address": "282 Deacon Road, Fredericksburg, VA, 22405",
+      "phone": "540-371-3258",
+      "id": "297"
+    },
+    {
+      "address": "1238 Putty Hill Ave, Towson, MD, 21286",
+      "phone": "410-339-5700",
+      "id": "228"
+    },
+    {
+      "address": "10601 Spotsylvania Avenue, Fredericksburg, VA, 22405",
+      "phone": "540-891-4260",
+      "id": "301"
+    },
+    {
+      "address": "2020 North 13th Street, Reading, PA, 19604",
+      "phone": "610-929-2452",
+      "id": "50"
+    },
+    {
+      "address": "1199 Texas Palmyra Highway Suite N, Honesdale, PA, 18431",
+      "phone": "570-253-9797",
+      "id": "170"
+    },
+    {
+      "address": "9613 Harford Road, Parkville, MD, 21234",
+      "phone": "410-882-5238",
+      "id": "87"
+    },
+    {
+      "address": "15260 Kutztown Road Unit 100, Kutztown, PA, 19530",
+      "phone": "610-683-5263",
+      "id": "78"
+    },
+    {
+      "address": "10871 Tidewater Trail, Fredericksburg, VA, 22408",
+      "phone": "540-361-2618",
+      "id": "296"
+    },
+    {
+      "address": "2294 Blue Water Blvd, Odenton, MD, 21113",
+      "phone": "410-672-1877",
+      "id": "70"
+    },
+    {
+      "address": "7927 Bel Air Road Suite S, Nottingham, MD, 21236",
+      "phone": "410-661-0039",
+      "id": "206"
+    },
+    {
+      "address": "4126 East Joppa Road, Baltimore, MD, 21236",
+      "phone": "410-529-3048",
+      "id": "123"
+    },
+    {
+      "address": "3236 Route 940 Suite 116, Mount Pocono, PA, 18344",
+      "phone": "570-839-0172",
+      "id": "155"
+    },
+    {
+      "address": "61 King's Plaza, Oley, PA, 19547",
+      "phone": "610-987-3101",
+      "id": "184"
+    },
+    {
+      "address": "5020 Route 873, Schnecksville, PA, 18078",
+      "phone": "610-799-5481",
+      "id": "182"
+    },
+    {
+      "address": "9400 Scott Moore Way, Perry Hall, MD, 21128",
+      "phone": "410-529-0378",
+      "id": "180"
+    },
+    {
+      "address": "15789 Livingston Road, Accokeek, MD, 20607",
+      "phone": "301-203-8321",
+      "id": "276"
+    },
+    {
+      "address": "550 West MacPhail Road, Bel Air, MD, 21014",
+      "phone": "410-638-5800",
+      "id": "172"
+    },
+    {
+      "address": "5360 Lincoln Highway, Gap, PA, 17527",
+      "phone": "717-442-8784",
+      "id": "191"
+    },
+    {
+      "address": "7200 Holabird Ave, Dundalk, MD, 21222",
+      "phone": "410-284-5555",
+      "id": "84"
+    },
+    {
+      "address": "7801 Glenlivet Drive West, Fogelsville, PA, 18051",
+      "phone": "610-530-3114",
+      "id": "188"
+    },
+    {
+      "address": "12100 Central Avenue, Mitchellville, MD, 20721",
+      "phone": "301-218-5830",
+      "id": "290"
+    },
+    {
+      "address": "7848 Wise Ave, Dundalk, MD, 21222",
+      "phone": "410-282-0218",
+      "id": "85"
+    },
+    {
+      "address": "924 Weir Lake Road, Brodheadsville, PA, 18322",
+      "phone": "570-992-8009",
+      "id": "151"
+    },
+    {
+      "address": "165 Orville Road, Essex, MD, 21221",
+      "phone": "410-686-1354",
+      "id": "86"
+    },
+    {
+      "address": "8115 Ritchie Highway, Pasadena, MD, 21122",
+      "phone": "410-421-9309",
+      "id": "44"
+    },
+    {
+      "address": "2836 PA-611, Tannersville, PA, 18372",
+      "phone": "570-619-5300",
+      "id": "166"
+    },
+    {
+      "address": "3644 MacArthur Road, Whitehall, PA, 18052",
+      "phone": "610-261-2500",
+      "id": "39"
+    },
+    {
+      "address": "1500 N. Cedar Crest Blvd, Allentown, PA, 18104",
+      "phone": "610-395-0345",
+      "id": "142"
+    },
+    {
+      "address": "100 Drury Drive, La Plata, MD, 20646",
+      "phone": "301-934-6429",
+      "id": "278"
+    },
+    {
+      "address": "3369 Route 100, Macungie, PA, 18062",
+      "phone": "484-232-6072",
+      "id": "132"
+    },
+    {
+      "address": "365 South Cedar Crest Blvd, Allentown, PA, 18103",
+      "phone": "610-821-4550",
+      "id": "195"
+    },
+    {
+      "address": "5715 Crain Highway, Upper Marlboro, MD, 20772",
+      "phone": "301-574-1591",
+      "id": "280"
+    },
+    {
+      "address": "1220 Chestnut Street, Emmaus, PA, 18049",
+      "phone": "610-965-9298",
+      "id": "76"
+    },
+    {
+      "address": "123 Village Center Drive, Hawley, PA, 18428",
+      "phone": "570-775-0391",
+      "id": "157"
+    },
+    {
+      "address": "1050 East Philadelphia Avenue, Gilbertsville, PA, 19525",
+      "phone": "610-367-6294",
+      "id": "83"
+    },
+    {
+      "address": "1070 North 9th Street, Stroudsburg, PA, 18360",
+      "phone": "570-421-7070",
+      "id": "159"
+    },
+    {
+      "address": "5580 Crawford Drive, Bethlehem, PA, 18017",
+      "phone": "610-954-8320",
+      "id": "144"
+    },
+    {
+      "address": "2305 Schoenersville Road, Bethlehem, PA, 18017",
+      "phone": "610-691-8260",
+      "id": "186"
+    },
+    {
+      "address": "943 Pulaski Highway, Havre De Grace, MD, 21078",
+      "phone": "410-939-4020",
+      "id": "193"
+    },
+    {
+      "address": "3261 Solomons Island Road, Edgewater, MD, 21037",
+      "phone": "410-956-6498",
+      "id": "277"
+    },
+    {
+      "address": "695 North Courtland Street, East Stroudsburg, PA, 18301",
+      "phone": "570-421-8181",
+      "id": "158"
+    },
+    {
+      "address": "1309 Blue Valley Drive, Pen Argyl, PA, 18072",
+      "phone": "610-863-6689",
+      "id": "164"
+    },
+    {
+      "address": "498 Pottstown Avenue, Pennsburg, PA, 18073",
+      "phone": "215-679-3986",
+      "id": "196"
+    },
+    {
+      "address": "3825 Sullivan Trail, Easton, PA, 18040",
+      "phone": "610-252-6539",
+      "id": "168"
+    },
+    {
+      "address": "3011 William Penn Highway, Easton, PA, 18045",
+      "phone": "610-923-7501",
+      "id": "169"
+    },
+    {
+      "address": "112 Atlantic Avenue, Dingmans Ferry, PA, 18328",
+      "phone": "570-832-0399",
+      "id": "135"
+    },
+    {
+      "address": "750 Prince Frederick Boulevard, Prince Frederick, MD, 20678",
+      "phone": "410-414-3702",
+      "id": "279"
+    },
+    {
+      "address": "1551 South Valley Forge Road, Lansdale, PA, 19446",
+      "phone": "215-362-5984",
+      "id": "112"
+    },
+    {
+      "address": "431 Dublin Pike, Perkasie, PA, 18944",
+      "phone": "215-249-1440",
+      "id": "227"
+    },
+    {
+      "address": "25 W Germantown Pike, Norristown, PA, 19401",
+      "phone": "610-278-2990",
+      "id": "233"
+    },
+    {
+      "address": "121 Water Street, Newton, NJ, 07860",
+      "phone": "973-383-1912",
+      "id": "143"
+    },
+    {
+      "address": "200 Ridge Pike Suite 110, Conshohocken, PA, 19428",
+      "phone": "610-276-1000",
+      "id": "231"
+    },
+    {
+      "address": "73 Old Dublin Pike, Doylestown, PA, 18901",
+      "phone": "215-345-1830",
+      "id": "232"
+    },
+    {
+      "address": "Mansfield Village Square 2045 State Route 57, Hackettstown, NJ, 07840",
+      "phone": "908-850-8800",
+      "id": "145"
+    },
+    {
+      "address": "13300 H G Trueman Road, Solomons, MD, 20688",
+      "phone": "410-394-6236",
+      "id": "285"
+    },
+    {
+      "address": "210 H G Trueman Road, Lusby, MD, 20657",
+      "phone": "410-326-9361",
+      "id": "284"
+    },
+    {
+      "address": "140 State Highway 23, Franklin, NJ, 07416",
+      "phone": "973-209-4498",
+      "id": "147"
+    },
+    {
+      "address": "20995 Point Lookout Road, Callaway, MD, 20620",
+      "phone": "301-994-2127",
+      "id": "282"
+    },
+    {
+      "address": "219 Marlboro Avenue, Easton, MD, 21601",
+      "phone": "410-819-3234",
+      "id": "275"
+    },
+    {
+      "address": "293 US Highway 206, Flanders, NJ, 07836",
+      "phone": "973-598-8910",
+      "id": "234"
+    },
+    {
+      "address": "2100 County Line Road, Huntingdon Valley, PA, 19006",
+      "phone": "215-355-2141",
+      "id": "237"
+    },
+    {
+      "address": "19 St. Mary's Square, Lexington Park, MD, 20653",
+      "phone": "301-863-5445",
+      "id": "283"
+    },
+    {
+      "address": "146 Center Grove Road, Randolph, NJ, 07869",
+      "phone": "973-442-3088",
+      "id": "136"
+    },
+    {
+      "address": "146 Center Grove Road, Randolph, NJ, 07869",
+      "phone": "973-366-3096",
+      "id": "126"
+    },
+    {
+      "address": "315 Route 206, Hillsborough, NJ, 08844",
+      "phone": "908-431-0115",
+      "id": "230"
+    },
+    {
+      "address": "17232 North Village Main Boulevard, Lewes, DE, 19958",
+      "phone": "302-645-6933",
+      "id": "271"
+    },
+    {
+      "address": "24832 John J Williams Highway, Millsboro, DE, 19966",
+      "phone": "302-947-1113",
+      "id": "272"
+    },
+    {
+      "address": "19287 Miller Road, Rehoboth Beach, DE, 19971",
+      "phone": "302-227-5756",
+      "id": "274"
+    },
+    {
+      "address": "36731 Old Mill Road, Millville, DE, 19967",
+      "phone": "302-537-5994",
+      "id": "273"
+    }
+  ]
+}
