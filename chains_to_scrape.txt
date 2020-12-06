@@ -22,8 +22,8 @@ SpartanNash
 Market Basket
 ! Price Chopper
 Price Rite
-ShopRite
-Tops
+! ShopRite
+! Tops
 Weis
 Wegmans
 Brookshire's
