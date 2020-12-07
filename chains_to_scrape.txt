@@ -1,33 +1,33 @@
-King Soopers
-Roundy's
-Smith's Food and Drug
-Fred Meyer
-QFC
+*King Soopers
+*Roundy's
+*Smith's Food and Drug
+*Fred Meyer
+*QFC
 ! Ruler Foods
-Food 4 Less
-City Market
-Kroger
-Mariano's
-Ralph's
+*Food 4 Less
+*City Market
+*Kroger
+*Mariano's
+*Ralph's
 ? Walmart
 ! Whole Foods
 ? Sam's Club
-Costco
+*Costco
 ! Hy-Vee
-Meijer
-Fareway
-Schnucks
+*Meijer
+! Fareway
+! Schnucks
 SpartanNash
-Giant Eagle
+-BROKE- Giant Eagle
 Market Basket
-Price Chopper
+! Price Chopper
 Price Rite
-ShopRite
-Tops
-Weis
-Wegmans
-Brookshire's
-Brookshire Brothers
+! ShopRite
+! Tops
+! Weis
+! Wegmans
+! Brookshire's
+? Brookshire Brothers
 Food City
 Harps Food Stores
 Ingles Markets
