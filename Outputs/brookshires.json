@@ -1,0 +1,540 @@
+{
+  "name": "Weis",
+  "stores": [
+    {
+      "address": "8929 S State Highway 34, Quinlan, TX, 75474",
+      "phone": "903-356-5990",
+      "id": "87"
+    },
+    {
+      "address": "959 E Lennon Dr, Emory, TX, 75440",
+      "phone": "903-473-4519",
+      "id": "4"
+    },
+    {
+      "address": "1105 W South Commerce St, Wills Point, TX, 75169",
+      "phone": "903-873-2940",
+      "id": "19"
+    },
+    {
+      "address": "6410 Wesley St, Greenville, TX, 75402",
+      "phone": "903-455-1358",
+      "id": "74"
+    },
+    {
+      "address": "205 W Frank St, Grand Saline, TX, 75140",
+      "phone": "903-962-3761",
+      "id": "33"
+    },
+    {
+      "address": "1400 W Moore Ave, Terrell, TX, 75160",
+      "phone": "972-563-3390",
+      "id": "23"
+    },
+    {
+      "address": "1603 Culver St, Commerce, TX, 75428",
+      "phone": "903-886-3252",
+      "id": "52"
+    },
+    {
+      "address": "880 E Hwy 243, Canton, TX, 75103",
+      "phone": "903-567-6523",
+      "id": "32"
+    },
+    {
+      "address": "809 Gilmer Rd, Sulphur Springs, TX, 75482",
+      "phone": "903-885-4921",
+      "id": "13"
+    },
+    {
+      "address": "502 E Goode St, Quitman, TX, 75783",
+      "phone": "903-763-4541",
+      "id": "60"
+    },
+    {
+      "address": "2235 S Washington St, Kaufman, TX, 75142",
+      "phone": "972-932-3815",
+      "id": "35"
+    },
+    {
+      "address": "1224 N Pacific Ave, Mineola, TX, 75773",
+      "phone": "903-569-3176",
+      "id": "31"
+    },
+    {
+      "address": "706 W Main St, Van, TX, 75790",
+      "phone": "903-963-8334",
+      "id": "2"
+    },
+    {
+      "address": "1705 Audie Murphy Pkwy W, Farmersville, TX, 75442",
+      "phone": "972-782-8475",
+      "id": "79"
+    },
+    {
+      "address": "427 Pinson Rd, Forney, TX, 75126",
+      "phone": "972-564-0244",
+      "id": "89"
+    },
+    {
+      "address": "212 E Coke Rd, Winnsboro, TX, 75494",
+      "phone": "903-342-3731",
+      "id": "6"
+    },
+    {
+      "address": "1200 S 3rd St, Mabank, TX, 75147",
+      "phone": "903-887-0126",
+      "id": "64"
+    },
+    {
+      "address": "521 S Main St, Lindale, TX, 75771",
+      "phone": "903-882-3167",
+      "id": "3"
+    },
+    {
+      "address": "210 S Seven Points Blvd, Seven Points, TX, 75143",
+      "phone": "903-432-2385",
+      "id": "68"
+    },
+    {
+      "address": "306 Hwy 37 S, Mount Vernon, TX, 75457",
+      "phone": "903-537-4471",
+      "id": "58"
+    },
+    {
+      "address": "1325 W White St, Anna, TX, 75409",
+      "phone": "972-924-8088",
+      "id": "131"
+    },
+    {
+      "address": "1477 N Beulah St, Hawkins, TX, 75765",
+      "phone": "903-769-5959",
+      "id": "15"
+    },
+    {
+      "address": "807 E Tyler St, Athens, TX, 75751",
+      "phone": "903-675-6680",
+      "id": "11"
+    },
+    {
+      "address": "703 Hwy 31 E, Chandler, TX, 75758",
+      "phone": "903-849-3663",
+      "id": "84"
+    },
+    {
+      "address": "415 W Royall Blvd, Malakoff, TX, 75148",
+      "phone": "903-489-0538",
+      "id": "20"
+    },
+    {
+      "address": "2228 Island Bayou Rd, Bonham, TX, 75418",
+      "phone": "903-583-8822",
+      "id": "54"
+    },
+    {
+      "address": "2020 Roseland Blvd, Tyler, TX, 75701",
+      "phone": "903-593-1411",
+      "id": "9"
+    },
+    {
+      "address": "2734 E 5th St, Tyler, TX, 75701",
+      "phone": "903-593-7208",
+      "id": "28"
+    },
+    {
+      "address": "100 Rice Rd, Tyler, TX, 75703",
+      "phone": "903-561-6247",
+      "id": "51"
+    },
+    {
+      "address": "675 Sunset Blvd, Celina, TX, 75009",
+      "phone": "972-382-3553",
+      "id": "73"
+    },
+    {
+      "address": "105 E Ovilla Rd, Red Oak, TX, 75154",
+      "phone": "972-617-8465",
+      "id": "108"
+    },
+    {
+      "address": "20100 Hwy 155 S, Flint, TX, 75762",
+      "phone": "903-825-7302",
+      "id": "39"
+    },
+    {
+      "address": "102 N Greer Blvd, Pittsburg, TX, 75686",
+      "phone": "903-856-0277",
+      "id": "46"
+    },
+    {
+      "address": "925 Clarksville St, Paris, TX, 75460",
+      "phone": "903-785-2740",
+      "id": "14"
+    },
+    {
+      "address": "308 Ferguson Rd, Mount Pleasant, TX, 75455",
+      "phone": "903-572-1947",
+      "id": "16"
+    },
+    {
+      "address": "1075 US Hwy 271 N, Gilmer, TX, 75644",
+      "phone": "903-843-5181",
+      "id": "80"
+    },
+    {
+      "address": "601 Hwy 110 N, Whitehouse, TX, 75791",
+      "phone": "903-839-4956",
+      "id": "61"
+    },
+    {
+      "address": "800 N Main St, Corsicana, TX, 75110",
+      "phone": "903-874-7434",
+      "id": "77"
+    },
+    {
+      "address": "213 N US Hwy 69, Bullard, TX, 75757",
+      "phone": "903-894-9384",
+      "id": "70"
+    },
+    {
+      "address": "1300 E Broadway Ave, Gladewater, TX, 75647",
+      "phone": "903-845-2189",
+      "id": "7"
+    },
+    {
+      "address": "1400 E Main St, Midlothian, TX, 76065",
+      "phone": "972-775-6817",
+      "id": "69"
+    },
+    {
+      "address": "200 W Hwy 80, White Oak, TX, 75693",
+      "phone": "903-297-9894",
+      "id": "50"
+    },
+    {
+      "address": "506 W Duval St, Troup, TX, 75789",
+      "phone": "903-842-3040",
+      "id": "71"
+    },
+    {
+      "address": "200 W Henderson St, Overton, TX, 75684",
+      "phone": "903-834-3189",
+      "id": "44"
+    },
+    {
+      "address": "3354 Gilmer Rd, Longview, TX, 75604",
+      "phone": "903-759-4740",
+      "id": "45"
+    },
+    {
+      "address": "609 Linda Dr, Daingerfield, TX, 75638",
+      "phone": "903-645-4540",
+      "id": "109"
+    },
+    {
+      "address": "747 US 259 N, Kilgore, TX, 75662",
+      "phone": "903-983-2576",
+      "id": "8"
+    },
+    {
+      "address": "11205 N Hwy 289, Pottsboro, TX, 75076",
+      "phone": "903-786-3025",
+      "id": "127"
+    },
+    {
+      "address": "1048 W Hwy 67, Alvarado, TX, 76009",
+      "phone": "817-790-6427",
+      "id": "135"
+    },
+    {
+      "address": "2107 S Loop 256, Palestine, TX, 75801",
+      "phone": "903-729-0626",
+      "id": "30"
+    },
+    {
+      "address": "590 W Main St, Hallsville, TX, 75650",
+      "phone": "903-668-1410",
+      "id": "130"
+    },
+    {
+      "address": "1001 Joshua Station Blvd, Joshua, TX, 76058",
+      "phone": "817-558-4422",
+      "id": "133"
+    },
+    {
+      "address": "120 S Waco St, Hillsboro, TX, 76645",
+      "phone": "254-582-7130",
+      "id": "53"
+    },
+    {
+      "address": "511 N Stewart St, Azle, TX, 76020",
+      "phone": "817-444-1147",
+      "id": "125"
+    },
+    {
+      "address": "404 E Broadway St, Jefferson, TX, 75657",
+      "phone": "903-665-3601",
+      "id": "110"
+    },
+    {
+      "address": "210 N McCoy Blvd, New Boston, TX, 75570",
+      "phone": "903-628-5549",
+      "id": "72"
+    },
+    {
+      "address": "5118 E I-20 Service Rd S, Aledo, TX, 76008",
+      "phone": "817-441-5980",
+      "id": "97"
+    },
+    {
+      "address": "501 E Hwy 199, Springtown, TX, 76082",
+      "phone": "817-220-1177",
+      "id": "126"
+    },
+    {
+      "address": "519 E Yeagua St, Groesbeck, TX, 76642",
+      "phone": "254-729-2797",
+      "id": "75"
+    },
+    {
+      "address": "1310 N Brazos Ave, Whitney, TX, 76692",
+      "phone": "254-694-4402",
+      "id": "36"
+    },
+    {
+      "address": "402 E Main, Atlanta, TX, 75551",
+      "phone": "903-796-7918",
+      "id": "43"
+    },
+    {
+      "address": "1203 Hwy 380, Bridgeport, TX, 76426",
+      "phone": "940-683-1500",
+      "id": "5"
+    },
+    {
+      "address": "601 W Palo Pinto St, Weatherford, TX, 76086",
+      "phone": "817-596-8151",
+      "id": "119"
+    },
+    {
+      "address": "1301 S Morgan St, Granbury, TX, 76048",
+      "phone": "817-579-0552",
+      "id": "94"
+    },
+    {
+      "address": "607 SW Big Bend Trail, Glen Rose, TX, 76043",
+      "phone": "254-897-4190",
+      "id": "132"
+    },
+    {
+      "address": "1310 Constitution Ave, Ashdown, AR, 71822",
+      "phone": "870-898-3301",
+      "id": "62"
+    },
+    {
+      "address": "1524 Hwy 59 N, Bowie, TX, 76230",
+      "phone": "940-872-3261",
+      "id": "136"
+    },
+    {
+      "address": "100 Peplow Dr, Robinson, TX, 76706",
+      "phone": "254-662-3303",
+      "id": "90"
+    },
+    {
+      "address": "900 FM 3220, Clifton, TX, 76634",
+      "phone": "254-675-3111",
+      "id": "92"
+    },
+    {
+      "address": "3620 Pines Rd, Shreveport, LA, 71119",
+      "phone": "318-631-9610",
+      "id": "67"
+    },
+    {
+      "address": "3000 N Market St #140, Shreveport, LA, 71107",
+      "phone": "318-424-5560",
+      "id": "24"
+    },
+    {
+      "address": "6280 Louisiana 3, Benton, LA, 71006",
+      "phone": "318-965-3667",
+      "id": "17"
+    },
+    {
+      "address": "9250 Mansfield Rd, Shreveport, LA, 71118",
+      "phone": "318-686-1937",
+      "id": "37"
+    },
+    {
+      "address": "510 Kings Hwy, Shreveport, LA, 71104",
+      "phone": "318-424-0853",
+      "id": "78"
+    },
+    {
+      "address": "5828 Line Ave, Shreveport, LA, 71106",
+      "phone": "318-869-3545",
+      "id": "18"
+    },
+    {
+      "address": "388 W Bert Kouns Industrial Loop, Shreveport, LA, 71106",
+      "phone": "318-686-6829",
+      "id": "25"
+    },
+    {
+      "address": "4918 Barksdale Blvd, Bossier City, LA, 71112",
+      "phone": "318-549-2100",
+      "id": "107"
+    },
+    {
+      "address": "1125 Hwy 80 E, Haughton, LA, 71037",
+      "phone": "318-949-4131",
+      "id": "57"
+    },
+    {
+      "address": "1117 Polk St, Mansfield, LA, 71052",
+      "phone": "318-871-5511",
+      "id": "91"
+    },
+    {
+      "address": "400 Butler St, Springhill, LA, 71075",
+      "phone": "318-539-2062",
+      "id": "26"
+    },
+    {
+      "address": "205 Homer Rd, Minden, LA, 71055",
+      "phone": "318-377-7720",
+      "id": "21"
+    },
+    {
+      "address": "1623 E Main St, Magnolia, AR, 71753",
+      "phone": "870-234-1542",
+      "id": "81"
+    },
+    {
+      "address": "817 W Main St, Homer, LA, 71040",
+      "phone": "318-927-9651",
+      "id": "66"
+    },
+    {
+      "address": "404 W Central Ave, Comanche, TX, 76442",
+      "phone": "325-356-3248",
+      "id": "93"
+    },
+    {
+      "address": "111 N Seaman St, Eastland, TX, 76448",
+      "phone": "254-629-1667",
+      "id": "98"
+    },
+    {
+      "address": "1335 N Hazel St, Arcadia, LA, 71001",
+      "phone": "318-263-8691",
+      "id": "55"
+    },
+    {
+      "address": "1010 Avenue E, Cisco, TX, 76437",
+      "phone": "254-442-1126",
+      "id": "99"
+    },
+    {
+      "address": "1345 US 278, Camden, AR, 71701",
+      "phone": "870-836-3900",
+      "id": "85"
+    },
+    {
+      "address": "2750 Pine St #5, Arkadelphia, AR, 71923",
+      "phone": "870-246-6167",
+      "id": "96"
+    },
+    {
+      "address": "220 S West Ave, El Dorado, AR, 71730",
+      "phone": "870-863-4081",
+      "id": "40"
+    },
+    {
+      "address": "2202 N West Ave, El Dorado, AR, 71730",
+      "phone": "870-862-8381",
+      "id": "48"
+    },
+    {
+      "address": "325 E Main St, Jonesboro, LA, 71251",
+      "phone": "318-259-7603",
+      "id": "137"
+    },
+    {
+      "address": "204 Walnut St, Albany, TX, 76430",
+      "phone": "325-762-2792",
+      "id": "100"
+    },
+    {
+      "address": "1400 Austin Ave, Brownwood, TX, 76801",
+      "phone": "325-643-2234",
+      "id": "116"
+    },
+    {
+      "address": "817 W Court St, Winnfield, LA, 71483",
+      "phone": "318-628-2877",
+      "id": "138"
+    },
+    {
+      "address": "4545 N State Hwy 7, Hot Springs, AR, 71909",
+      "phone": "501-984-6141",
+      "id": "41"
+    },
+    {
+      "address": "1018 Sterlington Hwy, Farmerville, LA, 71241",
+      "phone": "318-368-2244",
+      "id": "38"
+    },
+    {
+      "address": "3426 Cypress St #16, West Monroe, LA, 71291",
+      "phone": "318-396-7090",
+      "id": "42"
+    },
+    {
+      "address": "1801 N 18th St, Monroe, LA, 71201",
+      "phone": "318-361-9991",
+      "id": "34"
+    },
+    {
+      "address": "4070 Sterlington Rd, Monroe, LA, 71203",
+      "phone": "318-343-3300",
+      "id": "56"
+    },
+    {
+      "address": "7920 Desiard St, Monroe, LA, 71203",
+      "phone": "318-345-2680",
+      "id": "22"
+    },
+    {
+      "address": "1600 Dr. Martin Luther King Jr. Dr, Crossett, AR, 71635",
+      "phone": "870-364-2511",
+      "id": "82"
+    },
+    {
+      "address": "7713 U.S. 165, Columbia, LA, 71418",
+      "phone": "318-649-2822",
+      "id": "139"
+    },
+    {
+      "address": "8503 Dollarway Rd, White Hall, AR, 71602",
+      "phone": "870-247-2141",
+      "id": "10"
+    },
+    {
+      "address": "1952 Julia St, Rayville, LA, 71269",
+      "phone": "318-728-4004",
+      "id": "111"
+    },
+    {
+      "address": "501 E Broadway St, Sweetwater, TX, 79556",
+      "phone": "325-235-8426",
+      "id": "117"
+    },
+    {
+      "address": "902 Broadway St, Delhi, LA, 71232",
+      "phone": "318-878-3000",
+      "id": "83"
+    }
+  ]
+}
