@@ -3,7 +3,6 @@
 *Smith's Food and Drug
 *Fred Meyer
 *QFC
-! Ruler Foods
 *Food 4 Less
 *City Market
 *Kroger
@@ -11,22 +10,15 @@
 *Ralph's
 ? Walmart
 ! Whole Foods
-? Sam's Club
+BUSTED Sam's Club
 *Costco
-! Hy-Vee
+BUSTED Hy-Vee
 *Meijer
-! Fareway
-! Schnucks
+BUSTED Schnucks
 SpartanNash
 -BROKE- Giant Eagle
 Market Basket
-! Price Chopper
 Price Rite
-! ShopRite
-! Tops
-! Weis
-! Wegmans
-! Brookshire's
 ? Brookshire Brothers
 Food City
 Harps Food Stores
