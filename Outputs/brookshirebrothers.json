@@ -1,4 +1,510 @@
 {
-    "name": "Brookshire Brothers",
-    "stores": []
+  "name": "Brookshire Brothers",
+  "stores": [
+    {
+      "address": "5249 Franz Rd., Katy, TX 77493",
+      "phone": "281-391-7029",
+      "id": "90"
+    },
+    {
+      "address": "14100 Ranch Rd. 12, Wimberley, TX 78676",
+      "phone": "512-847-2296",
+      "id": "670"
+    },
+    {
+      "address": "18535 FM 1488, Magnolia, TX 77355",
+      "phone": "281-259-0166",
+      "id": "48"
+    },
+    {
+      "address": "5249 Franz Rd., Katy, TX 77493",
+      "phone": "281-391-7029",
+      "id": "9"
+    },
+    {
+      "address": "3523 Front St., Brookshire, TX 77423",
+      "phone": "281-934-2462",
+      "id": "40"
+    },
+    {
+      "address": "18535 FM 1488, Magnolia, TX 77355",
+      "phone": "281-259-0166",
+      "id": "480"
+    },
+    {
+      "address": "21005 Eva St., Montgomery, TX 77356",
+      "phone": "936-597-8000",
+      "id": "73"
+    },
+    {
+      "address": "309 N. LaSalle, Navasota, TX 77868",
+      "phone": "936-825-6205",
+      "id": "6"
+    },
+    {
+      "address": "603 E. Houston, Cleveland, TX 77327",
+      "phone": "281-592-6421",
+      "id": "16"
+    },
+    {
+      "address": "603 E. Houston, Cleveland, TX 77327",
+      "phone": "281-592-6421",
+      "id": "160"
+    },
+    {
+      "address": "3523 Front St., Brookshire, TX 77423",
+      "phone": "281-934-2462",
+      "id": "400"
+    },
+    {
+      "address": "750 South Hwy 377, Pilot Point, TX 76258",
+      "phone": "940-686-2036",
+      "id": "109"
+    },
+    {
+      "address": "113 W. HWY 67, Venus, TX 76084",
+      "phone": "972-366-9992",
+      "id": "99"
+    },
+    {
+      "address": "109 N Main St, Maypearl, TX 76064",
+      "phone": "972-435-2197",
+      "id": "86"
+    },
+    {
+      "address": "403 East Hwy. 90, Dayton, TX 77535",
+      "phone": "936-258-7638",
+      "id": "43"
+    },
+    {
+      "address": "300 Business 290 E., Hempstead, TX 77445",
+      "phone": "979-826-9841",
+      "id": "61"
+    },
+    {
+      "address": "1612 S. Ruth St., Sulphur, LA 70663",
+      "phone": "337-527-0011",
+      "id": "470"
+    },
+    {
+      "address": "300 W. Fourth St., DeQuincy, LA 70633",
+      "phone": "337-786-5859",
+      "id": "310"
+    },
+    {
+      "address": "820 E. First St., DeRidder, LA 70634",
+      "phone": "337-463-7333",
+      "id": "270"
+    },
+    {
+      "address": "1203 W. First St., DeRidder, LA 70634",
+      "phone": "337-462-1021",
+      "id": "500"
+    },
+    {
+      "address": "609 W. Court St., Newton, TX 75966",
+      "phone": "409-379-2001",
+      "id": "140"
+    },
+    {
+      "address": "1005 S. Margaret, Kirbyville, TX 75956",
+      "phone": "409-423-6123",
+      "id": "530"
+    },
+    {
+      "address": "34692 US HWY 96 S, Buna, TX 77612",
+      "phone": "409-994-3231",
+      "id": "640"
+    },
+    {
+      "address": "113 Haslam, Joaquin, TX 75954",
+      "phone": "936-269-3189",
+      "id": "570"
+    },
+    {
+      "address": "175 San Antonio Ave, Many, LA 71449",
+      "phone": "318-256-9256",
+      "id": "1160"
+    },
+    {
+      "address": "245 Mann St., Hemphill, TX 75948",
+      "phone": "409-787-2611",
+      "id": "200"
+    },
+    {
+      "address": "805 N. Union, Whitesboro, TX 76273",
+      "phone": "903-564-6536",
+      "id": "920"
+    },
+    {
+      "address": "805 N. Union, Whitesboro, TX 76273",
+      "phone": "903-564-6536",
+      "id": "92"
+    },
+    {
+      "address": "102 West Gleason, Crandall, TX 75114",
+      "phone": "972-472-8611",
+      "id": "87"
+    },
+    {
+      "address": "509 E. Hwy 34, Italy, TX 76651",
+      "phone": "972-483-7233",
+      "id": "90"
+    },
+    {
+      "address": "610 S. Central, Ferris, TX 75125",
+      "phone": "972-544-8733",
+      "id": "93"
+    },
+    {
+      "address": "100 S. Houston, Edgewood, TX 75117",
+      "phone": "903-896-2556",
+      "id": "98"
+    },
+    {
+      "address": "313 E. Criner St., Grandview, TX 76050",
+      "phone": "817-866-3372",
+      "id": "88"
+    },
+    {
+      "address": "420 N. Hill Street, Tatum, TX 75691",
+      "phone": "903-947-2257",
+      "id": "56"
+    },
+    {
+      "address": "412 W. Panola, Carthage, TX 75633",
+      "phone": "903-693-3232",
+      "id": "8"
+    },
+    {
+      "address": "113 Haslam, Joaquin, TX 75954",
+      "phone": "936-269-3189",
+      "id": "57"
+    },
+    {
+      "address": "839 N. First St., Timpson, TX 75975",
+      "phone": "936-254-2731",
+      "id": "4"
+    },
+    {
+      "address": "210 Cherokee St., Jacksonville, TX 75766",
+      "phone": "903-586-9333",
+      "id": "17"
+    },
+    {
+      "address": "272 N. Marcus, Alto, TX 75925",
+      "phone": "936-858-5900",
+      "id": "7"
+    },
+    {
+      "address": "425 N. Main Street, Rusk, TX 75785",
+      "phone": "903-683-4212",
+      "id": "22"
+    },
+    {
+      "address": "1216 South St., Nacogdoches, TX 75961",
+      "phone": "936-564-1275",
+      "id": "2"
+    },
+    {
+      "address": "1420 N. University Dr., Nacogdoches, TX 75961",
+      "phone": "936-569-1716",
+      "id": "42"
+    },
+    {
+      "address": "1220 W. Commerce St., Buffalo, TX 75831",
+      "phone": "903-322-4245",
+      "id": "54"
+    },
+    {
+      "address": "1117 N. Main St., Jewett, TX 75846",
+      "phone": "903-626-5112",
+      "id": "26"
+    },
+    {
+      "address": "220 E. Loop 255, Teague, TX 75860",
+      "phone": "254-739-5230",
+      "id": "41"
+    },
+    {
+      "address": "300 West Hwy. 84, Fairfield, TX 75840",
+      "phone": "903-389-2931",
+      "id": "10"
+    },
+    {
+      "address": "435 S Robb St., Groveton, TX 75845",
+      "phone": "936-642-1120",
+      "id": "62"
+    },
+    {
+      "address": "221 N. Temple, Diboll, TX 75941",
+      "phone": "936-829-4366",
+      "id": "35"
+    },
+    {
+      "address": "1807 W. Frank St., Lufkin, TX 75904",
+      "phone": "936-639-3128",
+      "id": "25"
+    },
+    {
+      "address": "301 S. Chestnut, Lufkin, TX 75901",
+      "phone": "936-637-7086",
+      "id": "1"
+    },
+    {
+      "address": "816 N. Timberland Dr., Lufkin, TX 75901",
+      "phone": "936-634-3715",
+      "id": "5"
+    },
+    {
+      "address": "401 N. Fourth St., Crockett, TX 75835",
+      "phone": "936-544-9621",
+      "id": "85"
+    },
+    {
+      "address": "100 S. Home St., Corrigan, TX 75939",
+      "phone": "936-398-4704",
+      "id": "24"
+    },
+    {
+      "address": "403 E. Main, Madisonville, TX 77864",
+      "phone": "936-348-5511",
+      "id": "30"
+    },
+    {
+      "address": "209 Main St., Normangee, TX 77871",
+      "phone": "936-396-2371",
+      "id": "75"
+    },
+    {
+      "address": "515 S. Robb St., Trinity, TX 75862",
+      "phone": "936-594-2151",
+      "id": "23"
+    },
+    {
+      "address": "14658 U.S. Hwy. 190 W., Onalaska, TX 77360",
+      "phone": "936-646-2414",
+      "id": "71"
+    },
+    {
+      "address": "104 Main, Huntington, TX 75949",
+      "phone": "936-422-4282",
+      "id": "52"
+    },
+    {
+      "address": "1005 S. Margaret, Kirbyville, TX 75956",
+      "phone": "409-423-6123",
+      "id": "53"
+    },
+    {
+      "address": "609 W. Court St., Newton, TX 75966",
+      "phone": "409-379-2001",
+      "id": "14"
+    },
+    {
+      "address": "245 Mann St., Hemphill, TX 75948",
+      "phone": "409-787-2611",
+      "id": "20"
+    },
+    {
+      "address": "705 W. Columbia, San Augustine, TX 75972",
+      "phone": "936-275-2283",
+      "id": "28"
+    },
+    {
+      "address": "1125 S. Wheeler, Jasper, TX 75951",
+      "phone": "409-384-5738",
+      "id": "45"
+    },
+    {
+      "address": "34692 US HWY 96 S, Buna, TX 77612",
+      "phone": "409-994-3231",
+      "id": "64"
+    },
+    {
+      "address": "1253 W. Church, Livingston, TX 77351",
+      "phone": "936-327-8217",
+      "id": "21"
+    },
+    {
+      "address": "105 Hurst St., Center, TX 75935",
+      "phone": "936-598-7656",
+      "id": "32"
+    },
+    {
+      "address": "520 S. Magnolia, Woodville, TX 75979",
+      "phone": "409-283-3333",
+      "id": "18"
+    },
+    {
+      "address": "208 N. Patrick, Dublin, TX 76446",
+      "phone": "254-445-3229",
+      "id": "95"
+    },
+    {
+      "address": "1004 E. Main Street, Hamilton, TX 76531",
+      "phone": "254-386-8744",
+      "id": "84"
+    },
+    {
+      "address": "982 US Hwy 77, Rosebud, TX 76570",
+      "phone": "254-583-2824",
+      "id": "82"
+    },
+    {
+      "address": "1810 Ave D, Moody, TX 76557",
+      "phone": "254-853-9072",
+      "id": "97"
+    },
+    {
+      "address": "215 Mill Creek Dr. #100, Salado, TX 76571",
+      "phone": "254-947-8922",
+      "id": "69"
+    },
+    {
+      "address": "1250 McGregor Dr., McGregor, TX 76657",
+      "phone": "254-840-6040",
+      "id": "68"
+    },
+    {
+      "address": "406 N Interstate 35 Frontage Rd., Lorena, TX 76655",
+      "phone": "254-857-3002",
+      "id": "63"
+    },
+    {
+      "address": "180 Town Center Blvd, Jarrell, TX 76537",
+      "phone": "512-598-3260",
+      "id": "115"
+    },
+    {
+      "address": "1701 W. Fourth, Cameron, TX 76520",
+      "phone": "254-697-4435",
+      "id": "46"
+    },
+    {
+      "address": "725 W. Cameron Ave., Rockdale, TX 76567",
+      "phone": "512-446-2491",
+      "id": "19"
+    },
+    {
+      "address": "400 Second St., Hearne, TX 77859",
+      "phone": "979-279-3434",
+      "id": "13"
+    },
+    {
+      "address": "16800 State Hwy. 36 S., Somerville, TX 77879",
+      "phone": "979-596-2650",
+      "id": "65"
+    },
+    {
+      "address": "455 State Hwy. 36 N., Caldwell, TX 77836",
+      "phone": "979-567-9515",
+      "id": "44"
+    },
+    {
+      "address": "305 N. E. 4th Street, Hubbard, TX 76648",
+      "phone": "254-576-2005",
+      "id": "94"
+    },
+    {
+      "address": "9265 Hwy 6, Meridian, TX 76665",
+      "phone": "254-435-2507",
+      "id": "100"
+    },
+    {
+      "address": "2601 Eleventh St., Huntsville, TX 77340",
+      "phone": "936-435-1209",
+      "id": "33"
+    },
+    {
+      "address": "14761 State Hwy. 150 W., Coldspring, TX 77331",
+      "phone": "936-653-8200",
+      "id": "72"
+    },
+    {
+      "address": "2325 N. Main, Liberty, TX 77575",
+      "phone": "936-336-7501",
+      "id": "51"
+    },
+    {
+      "address": "90 W. Monroe St., Kountze, TX 77625",
+      "phone": "409-246-3804",
+      "id": "36"
+    },
+    {
+      "address": "801 S. McCarty, Eagle Lake, TX 77434",
+      "phone": "979-234-2023",
+      "id": "66"
+    },
+    {
+      "address": "1400 Fannin, Columbus, TX 78934",
+      "phone": "979-732-8208",
+      "id": "34"
+    },
+    {
+      "address": "720 S. Front St., Bellville, TX 77418",
+      "phone": "979-865-9143",
+      "id": "39"
+    },
+    {
+      "address": "303 N. Austin Pkwy., Brenham, TX 77833",
+      "phone": "979-836-2617",
+      "id": "11"
+    },
+    {
+      "address": "305 W. York, Ganado, TX 77962",
+      "phone": "361-771-2655",
+      "id": "76"
+    },
+    {
+      "address": "1514 N. Texana, Hallettsville, TX 77964",
+      "phone": "361-798-1477",
+      "id": "74"
+    },
+    {
+      "address": "1200 Miller Street, Anahuac, TX 77514",
+      "phone": "409-267-3431",
+      "id": "77"
+    },
+    {
+      "address": "285 Hwy. 105 E., Sour Lake, TX 77659",
+      "phone": "409-287-3289",
+      "id": "59"
+    },
+    {
+      "address": "1380 N. Main St., Vidor, TX 77662",
+      "phone": "409-769-8950",
+      "id": "270"
+    },
+    {
+      "address": "333 S. Fifth, Silsbee, TX 77656",
+      "phone": "409-385-9100",
+      "id": "29"
+    },
+    {
+      "address": "421 S Main St., Lumberton, TX 77657",
+      "phone": "409-755-1977",
+      "id": "89"
+    },
+    {
+      "address": "513 E. Austin, Giddings, TX 78942",
+      "phone": "979-542-5025",
+      "id": "37"
+    },
+    {
+      "address": "18275 FM 306, Canyon Lake, TX 78133",
+      "phone": "830-935-3130",
+      "id": "79"
+    },
+    {
+      "address": "14100 Ranch Rd. 12, Wimberley, TX 78676",
+      "phone": "512-847-2296",
+      "id": "67"
+    },
+    {
+      "address": "501 N.W. Loop 230, Smithville, TX 78957",
+      "phone": "512-237-4401",
+      "id": "55"
+    }
+  ]
 }
