@@ -1,0 +1,195 @@
+{
+  "name": "United Grocery Outlet",
+  "stores": [
+    {
+      "address": "1000 Dekalb Plaza Blvd. SW, Fort Payne, Al 35967",
+      "phone": "256-997-0722",
+      "id": "2569970722"
+    },
+    {
+      "address": "918 Glenwood Ave, Dalton, Ga 30721",
+      "phone": "706-226-9190",
+      "id": "7062269190"
+    },
+    {
+      "address": "47 Legion St., Ringgold, Ga 30736",
+      "phone": "706-965-6505",
+      "id": "7069656505"
+    },
+    {
+      "address": "11610 Hwy 27, Summerville, GA 30747",
+      "phone": "706-857-7299",
+      "id": "7068577299"
+    },
+    {
+      "address": "410 Village Lane, Hazard Village Shopping Center, Hazard, KY 41701",
+      "phone": "606-435-0543",
+      "id": "6064350543"
+    },
+    {
+      "address": "121 New Leicester Hwy, Asheville, NC 28806",
+      "phone": "828-254-5100",
+      "id": "8282545100"
+    },
+    {
+      "address": "1380 Tunnel Rd, Asheville, NC 28805",
+      "phone": "828-298-6636",
+      "id": "8282986636"
+    },
+    {
+      "address": "1232 Asheville Hwy, Brevard, NC 28712",
+      "phone": "828-883-4620",
+      "id": "8288834620"
+    },
+    {
+      "address": "Banks Family Square, 631 W. Hwy 19E Bypass, Burnsville, NC 28714",
+      "phone": "828-682-4339",
+      "id": "8286824339"
+    },
+    {
+      "address": "3937 Hendersonville Rd, Fletcher, NC 28732",
+      "phone": "828-681-5459",
+      "id": "8286815459"
+    },
+    {
+      "address": "115 Four Seasons Mall, Hendersonville, NC 28792",
+      "phone": "828-697-1287",
+      "id": "8286971287"
+    },
+    {
+      "address": "Lady Marion Plaza, 1155 N Main St,, Marion, NC 28752",
+      "phone": "828-659-0318",
+      "id": "8286590318"
+    },
+    {
+      "address": "1476 Andrews Road, Murphy, NC 28906",
+      "phone": "828-837-2941",
+      "id": "8288372941"
+    },
+    {
+      "address": "257 Waynesville Plaza, Waynesville, NC 28786",
+      "phone": "828-456-9818",
+      "id": "8284569818"
+    },
+    {
+      "address": "Midland Plaza, 148 Calderwood St, Alcoa, Tn 37701",
+      "phone": "865-379-2375",
+      "id": "8653792375"
+    },
+    {
+      "address": "1625 Decatur Pike, Athens, TN 37303",
+      "phone": "423-745-7204",
+      "id": "4237457204"
+    },
+    {
+      "address": "4758 Hwy 58, Chattanooga, TN 37416",
+      "phone": "423-892-5183",
+      "id": "4238925183"
+    },
+    {
+      "address": "222 Grove Ave., Cleveland, TN 37311",
+      "phone": "423-476-1615",
+      "id": "4234761615"
+    },
+    {
+      "address": "1115 Unit A, North Charles G Seivers Boulevard, Clinton, TN 37716",
+      "phone": "865-457-7030",
+      "id": "8654577030"
+    },
+    {
+      "address": "106 Woodmere Mall, Crossville, TN 38555",
+      "phone": "931-484-5268",
+      "id": "9314845268"
+    },
+    {
+      "address": "4009 Rhea County Hwy Unit 105, Dayton, TN 37321",
+      "phone": "423-570-9666",
+      "id": "4235709666"
+    },
+    {
+      "address": "2108 Decherd Blvd., Decherd, TN 37324",
+      "phone": "931-962-0227",
+      "id": "9319620227"
+    },
+    {
+      "address": "701 West Elk Ave., Elizabethton, TN 37643",
+      "phone": "423-542-3669",
+      "id": "4235423669"
+    },
+    {
+      "address": "508 Tennessee Ave., Etowah, TN 37331",
+      "phone": "423-263-1406",
+      "id": "4232631406"
+    },
+    {
+      "address": "East Gate Shopping Center, 839 Tusculum Blvd, Greeneville, TN 37743",
+      "phone": "423-525-4252",
+      "id": "4235254252"
+    },
+    {
+      "address": "508 Ruritan Road, Harriman, TN 37748",
+      "phone": "865-882-7100",
+      "id": "8658827100"
+    },
+    {
+      "address": "1103 N. Roan St., Johnson City, TN 37601",
+      "phone": "423-328-9142",
+      "id": "4233289142"
+    },
+    {
+      "address": "4225 Chapman Highway, Knoxville, TN 37920",
+      "phone": "865-573-8000",
+      "id": "8655738000"
+    },
+    {
+      "address": "6818 Maynardville Pike, Knoxville, TN 37918",
+      "phone": "865-922-4800",
+      "id": "8659224800"
+    },
+    {
+      "address": "2616 Jacksboro Pike, Jacksboro, TN 37757",
+      "phone": "423-562-7658",
+      "id": "4235627658"
+    },
+    {
+      "address": "1210 East Broadway, Lenoir City, TN 37772",
+      "phone": "865-986-2471",
+      "id": "8659862471"
+    },
+    {
+      "address": "4249 Hwy. 411 North, Madisonville, TN 37354",
+      "phone": "423-420-1721",
+      "id": "4234201721"
+    },
+    {
+      "address": "722 Smithville Hwy., McMinnville, TN 37110",
+      "phone": "931-473-0693",
+      "id": "9314730693"
+    },
+    {
+      "address": "117 South East Broad St., Murfreesboro, TN 37130",
+      "phone": "615-849-3545",
+      "id": "6158493545"
+    },
+    {
+      "address": "507 Cross Street, New Tazewell, TN 37825",
+      "phone": "423-626-1619",
+      "id": "4236261619"
+    },
+    {
+      "address": "108 Lane Pkwy., Shelbyville, TN 37160",
+      "phone": "931-680-2505",
+      "id": "9316802505"
+    },
+    {
+      "address": "783 New Highway 68, Plaza 68 S/C, Sweetwater, TN 37874",
+      "phone": "423-351-9846",
+      "id": "4233519846"
+    },
+    {
+      "address": "700 Hwy 58 East, Norton, VA 24273",
+      "phone": "276-679-2625",
+      "id": "2766792625"
+    }
+  ]
+}

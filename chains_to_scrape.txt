@@ -8,9 +8,9 @@
 *Kroger
 *Mariano's
 *Ralph's
-? Walmart
+! Walmart
 ! Whole Foods
-BUSTED Sam's Club
+|Fixed| Sam's Club
 *Costco
 BUSTED Hy-Vee
 *Meijer
@@ -19,7 +19,7 @@ SpartanNash
 -BROKE- Giant Eagle
 Market Basket
 Price Rite
-? Brookshire Brothers
+! Brookshire Brothers
 Food City
 Harps Food Stores
 Ingles Markets
@@ -71,4 +71,4 @@ Food 4 Less
 Grocer Outlet
 PriceRite
 Saves-A-Lot
-United Grocery Outlet
+! United Grocery Outlet
