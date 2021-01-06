@@ -1,0 +1,1790 @@
+{
+  "name": "Grocery Outlet",
+  "stores": [
+    {
+      "address": "1574 W Branch Street Suite C, Arroyo Grande, CA 93420",
+      "phone": "805-668-2076",
+      "id": "428"
+    },
+    {
+      "address": "2100 El Camino Real, Atascadero, CA 93422",
+      "phone": "805-466-3346",
+      "id": "186"
+    },
+    {
+      "address": "6421 Ming Avenue, Bakersfield, CA 93309",
+      "phone": "661-833-2180",
+      "id": "18"
+    },
+    {
+      "address": "2249 Las Posas Road, Camarillo, CA 93010",
+      "phone": "805-384-3258",
+      "id": "403"
+    },
+    {
+      "address": "1848 Clovis Avenue, Clovis, CA 93612",
+      "phone": "559-297-8369",
+      "id": "80"
+    },
+    {
+      "address": "667 N. Alta Avenue, Dinuba, CA 93618",
+      "phone": "559-591-0900",
+      "id": "260"
+    },
+    {
+      "address": "2820 Tulare Street, Fresno, CA 93721",
+      "phone": "559-499-1400",
+      "id": "258"
+    },
+    {
+      "address": "1825 E Ashlan Avenue, Suite A, Fresno, CA 93726",
+      "phone": "559-226-3663",
+      "id": "56"
+    },
+    {
+      "address": "333 E 10th Street, Gilroy, CA 95020",
+      "phone": "408-848-2700",
+      "id": "184"
+    },
+    {
+      "address": "410 West 7th Street, Hanford, CA 93230",
+      "phone": "559-582-5771",
+      "id": "70"
+    },
+    {
+      "address": "550 Tres Pinos Road, Hollister, CA 95023",
+      "phone": "831-313-1567",
+      "id": "281"
+    },
+    {
+      "address": "1160 N Lemoore Avenue, Lemoore, CA 93245",
+      "phone": "559-423-5118",
+      "id": "415"
+    },
+    {
+      "address": "316 E. Ocean Avenue, Lompoc, CA 93436",
+      "phone": "805-740-2800",
+      "id": "17"
+    },
+    {
+      "address": "1130 Los Osos Valley Road, Los Osos, CA 93402",
+      "phone": "805-534-9778",
+      "id": "324"
+    },
+    {
+      "address": "1930 W. Cleveland Avenue, Madera, CA 93637",
+      "phone": "559-673-4400",
+      "id": "270"
+    },
+    {
+      "address": "215 Reservation Road, Marina Village Center, Marina, CA 93933",
+      "phone": "831-384-4411",
+      "id": "75"
+    },
+    {
+      "address": "425 Los Angeles Ave., Moorpark, CA 93021",
+      "phone": "805-517-1922",
+      "id": "363"
+    },
+    {
+      "address": "11200 Brimhall Road, Bakersfield, CA 93312",
+      "phone": "661-695-6977",
+      "id": "332"
+    },
+    {
+      "address": "3566 W Shaw Avenue, Fresno, CA 93711",
+      "phone": "559-271-1577",
+      "id": "191"
+    },
+    {
+      "address": "1121 Olive Drive, Bakersfield, CA 93308",
+      "phone": "661-679-4667",
+      "id": "436"
+    },
+    {
+      "address": "920 N. Ventura Road, Oxnard, CA 93030",
+      "phone": "805-973-8863",
+      "id": "341"
+    },
+    {
+      "address": "2800 Riverside Ave Ste 102, Paso Robles, CA 93446",
+      "phone": "805-369-2230",
+      "id": "284"
+    },
+    {
+      "address": "50 W Olive Ave, Porterville, CA 93257",
+      "phone": "559-781-1788",
+      "id": "278"
+    },
+    {
+      "address": "7925 San Miguel Canyon Road, Salinas, CA 93907",
+      "phone": "831-789-9226",
+      "id": "438"
+    },
+    {
+      "address": "1415 N Main Street, Salinas, CA 93906",
+      "phone": "831-442-3666",
+      "id": "68"
+    },
+    {
+      "address": "1314 Madonna Road, San Luis Obispo, CA 93405",
+      "phone": "805-594-1314",
+      "id": "254"
+    },
+    {
+      "address": "2664 Jensen Avenue, Sanger, CA 93657",
+      "phone": "559-399-3083",
+      "id": "442"
+    },
+    {
+      "address": "2840 De La Vina Street, Santa Barbara, CA 93105",
+      "phone": "805-324-5124",
+      "id": "326"
+    },
+    {
+      "address": "120 Morrissey Blvd, Santa Cruz, CA 95062",
+      "phone": "831-425-6533",
+      "id": "257"
+    },
+    {
+      "address": "1948 South Broadway, Santa Maria, CA 93454",
+      "phone": "805-922-0109",
+      "id": "63"
+    },
+    {
+      "address": "5175 E Belmont Avenue, Fresno, CA 93727",
+      "phone": "559-252-2856",
+      "id": "248"
+    },
+    {
+      "address": "1523 Fremont Boulevard, Seaside, CA 93955",
+      "phone": "831-583-9133",
+      "id": "234"
+    },
+    {
+      "address": "2974 Cochran St, Units K And L, Simi Valley, CA 93065",
+      "phone": "805-624-4300",
+      "id": "387"
+    },
+    {
+      "address": "170 E. Cross Avenue, Tulare, CA 93274",
+      "phone": "559-684-1953",
+      "id": "237"
+    },
+    {
+      "address": "9372 Telephone Road, Ventura, CA 93004",
+      "phone": "805-303-6282",
+      "id": "343"
+    },
+    {
+      "address": "2323 S Mooney Boulevard, Visalia, CA 93277",
+      "phone": "559-739-2953",
+      "id": "113"
+    },
+    {
+      "address": "1000 Main Street, Watsonville, CA 95076",
+      "phone": "831-728-6506",
+      "id": "188"
+    },
+    {
+      "address": "1950 14th Avenue Se, Albany, OR 97322",
+      "phone": "541-791-1588",
+      "id": "148"
+    },
+    {
+      "address": "8620 Sw Hall Boulevard, Beaverton, OR 97008",
+      "phone": "503-641-2970",
+      "id": "235"
+    },
+    {
+      "address": "694-b Se Third Street, Bend, OR 97702",
+      "phone": "541-389-3095",
+      "id": "79"
+    },
+    {
+      "address": "1755 Nw 9th Street Suite 110, Corvallis, OR 97330",
+      "phone": "541-752-3045",
+      "id": "198"
+    },
+    {
+      "address": "200 Gateway Boulevard, Cottage Grove, OR 97424",
+      "phone": "541-942-5400",
+      "id": "251"
+    },
+    {
+      "address": "258 W Ellendale Avenue, ., Dallas, OR 97338",
+      "phone": "503-751-1951",
+      "id": "370"
+    },
+    {
+      "address": "12102 SE Division Street, Portland, OR 97266",
+      "phone": "503-802-6072",
+      "id": "27"
+    },
+    {
+      "address": "2879 Lancaster Drive Ne, Salem, OR 97305",
+      "phone": "503-370-8500",
+      "id": "150"
+    },
+    {
+      "address": "2060 River Road, Eugene, OR 97404",
+      "phone": "541-689-1132",
+      "id": "180"
+    },
+    {
+      "address": "7120 SE Flavel Street, Portland, OR 97206",
+      "phone": "503-445-0425",
+      "id": "183"
+    },
+    {
+      "address": "2925 NW Division Street, Gresham, OR 97030",
+      "phone": "503-492-2044",
+      "id": "108"
+    },
+    {
+      "address": "14800 Se Sunnyside Road, Happy Valley, OR 97015",
+      "phone": "503-855-3534",
+      "id": "323"
+    },
+    {
+      "address": "354 South First Avenue, Hillsboro, OR 97123",
+      "phone": "503-693-1100",
+      "id": "104"
+    },
+    {
+      "address": "94582 Highway 99 East, Junction City, OR 97448",
+      "phone": "541-234-2794",
+      "id": "369"
+    },
+    {
+      "address": "15705 SW 116th Avenue, King City, OR 97224",
+      "phone": "503-968-8991",
+      "id": "23"
+    },
+    {
+      "address": "51420 Us-97, Suite 200, La Pine, OR 97739",
+      "phone": "541-876-6336",
+      "id": "327"
+    },
+    {
+      "address": "2540 S Santiam Highway, Lebanon, OR 97355",
+      "phone": "541-258-8800",
+      "id": "252"
+    },
+    {
+      "address": "1537 Sw Hwy 97, Madras, OR 97741",
+      "phone": "541-475-0188",
+      "id": "308"
+    },
+    {
+      "address": "568 NE Highway 99W, McMinnville, OR 97128",
+      "phone": "503-434-4490",
+      "id": "83"
+    },
+    {
+      "address": "15810 Se Mcloughlin Boulevard, Milwaukie, OR 97267",
+      "phone": "503-652-8515",
+      "id": "156"
+    },
+    {
+      "address": "130 Petite Street, Exit 103, Myrtle Creek, OR 97457",
+      "phone": "541-860-7631",
+      "id": "399"
+    },
+    {
+      "address": "1510 Portland Road, Newberg, OR 97132",
+      "phone": "503-538-3224",
+      "id": "25"
+    },
+    {
+      "address": "878 Molalla Avenue, Oregon City, OR 97045",
+      "phone": "503-655-7975",
+      "id": "72"
+    },
+    {
+      "address": "1951 Ne 3rd Street, P. O. Box 1595, Prineville, OR 97754",
+      "phone": "541-416-1202",
+      "id": "147"
+    },
+    {
+      "address": "798 NW 5th St, Redmond, OR 97756",
+      "phone": "541-548-1662",
+      "id": "7"
+    },
+    {
+      "address": "930 W Harvard Ave, Roseburg, OR 97471",
+      "phone": "541-672-8440",
+      "id": "9"
+    },
+    {
+      "address": "299 D Street NE, Salem, OR 97301",
+      "phone": "503-581-1728",
+      "id": "28"
+    },
+    {
+      "address": "36701 Highway 26, Sandy, OR 97055",
+      "phone": "503-668-6950",
+      "id": "114"
+    },
+    {
+      "address": "160 S 14th St, Springfield, OR 97477",
+      "phone": "541-726-1306",
+      "id": "5"
+    },
+    {
+      "address": "1815 West Ida Street, Stayton, OR 97383",
+      "phone": "503-769-3110",
+      "id": "20"
+    },
+    {
+      "address": "25110 Jeans Road, Veneta, OR 97487",
+      "phone": "458-207-9186",
+      "id": "430"
+    },
+    {
+      "address": "151 Nw Douglas Blvd., Winston, OR 97496",
+      "phone": "541-679-7000",
+      "id": "267"
+    },
+    {
+      "address": "1340 E. 7th Street, Long Beach, CA 90813",
+      "phone": "562-349-0393",
+      "id": "319"
+    },
+    {
+      "address": "730 Buena Vista Avenue, Alameda, CA 94501",
+      "phone": "510-239-4439",
+      "id": "280"
+    },
+    {
+      "address": "2270 Lake Ave., Altadena, CA 91001",
+      "phone": "626-314-2700",
+      "id": "362"
+    },
+    {
+      "address": "3430 W Lincoln Avenue, Anaheim, CA 92801",
+      "phone": "714-226-9245",
+      "id": "414"
+    },
+    {
+      "address": "414 Grass Valley Hwy, Auburn, CA 95603",
+      "phone": "530-885-0250",
+      "id": "87"
+    },
+    {
+      "address": "520 Workman Mill Road, La Puente, CA 91746",
+      "phone": "626-626-8500",
+      "id": "291"
+    },
+    {
+      "address": "355 N. Citrus Avenue, Azusa, CA 91702",
+      "phone": "626-334-6355",
+      "id": "301"
+    },
+    {
+      "address": "4249 Maine Avenue, Baldwin Park, CA 91706",
+      "phone": "626-498-0707",
+      "id": "311"
+    },
+    {
+      "address": "1575 E 2nd Street, Beaumont, CA 92223",
+      "phone": "951-439-0070",
+      "id": "406"
+    },
+    {
+      "address": "1320 North Main Street, Bishop, CA 93514",
+      "phone": "760-872-1505",
+      "id": "349"
+    },
+    {
+      "address": "3160 Buchanan Rd, Antioch, CA 94509",
+      "phone": "925-776-5722",
+      "id": "268"
+    },
+    {
+      "address": "1615 W. Verdugo Avenue, Burbank, CA 91506",
+      "phone": "747-283-1129",
+      "id": "330"
+    },
+    {
+      "address": "8230 Topanga Canyon Boulevard, Canoga Park, CA 91304",
+      "phone": "818-440-0795",
+      "id": "433"
+    },
+    {
+      "address": "1831 North Carson Street, Carson City, NV 89701",
+      "phone": "775-882-6199",
+      "id": "50"
+    },
+    {
+      "address": "2157 Pillsbury Road, Chico, CA 95926",
+      "phone": "530-345-2666",
+      "id": "178"
+    },
+    {
+      "address": "4022 Chino Hills Parkway, Chino Hills, CA 91709",
+      "phone": "909-606-9196",
+      "id": "448"
+    },
+    {
+      "address": "6059 Greenback Lane, Citrus Heights, CA 95621",
+      "phone": "916-729-3600",
+      "id": "134"
+    },
+    {
+      "address": "5410 Ygnacio Valley Road, Concord, CA 94521",
+      "phone": "925-524-0004",
+      "id": "297"
+    },
+    {
+      "address": "14806 Olympic Drive, Clearlake, CA 95422",
+      "phone": "707-994-4475",
+      "id": "110"
+    },
+    {
+      "address": "111 Treadway Drive, Cloverdale, CA 95425",
+      "phone": "707-894-6254",
+      "id": "325"
+    },
+    {
+      "address": "2175 West Rosecrans Avenue, Compton, CA 90222",
+      "phone": "310-667-5527",
+      "id": "304"
+    },
+    {
+      "address": "1840 Willow Pass Road, Concord, CA 94520",
+      "phone": "925-363-3421",
+      "id": "181"
+    },
+    {
+      "address": "1800 E 8th Street Suite B, Davis, CA 95616",
+      "phone": "530-757-4430",
+      "id": "190"
+    },
+    {
+      "address": "7 Dayton Village Parkway, Dayton, NV 89403",
+      "phone": "775-350-7092",
+      "id": "391"
+    },
+    {
+      "address": "14677 Palm Drive, Desert Hot Springs, CA 92240",
+      "phone": "760-428-9700",
+      "id": "392"
+    },
+    {
+      "address": "2400 N First Street, Dixon, CA 95620",
+      "phone": "707-676-5556",
+      "id": "455"
+    },
+    {
+      "address": "8320 Firestone Blvd, Downey, CA 90241",
+      "phone": "562-231-2333",
+      "id": "318"
+    },
+    {
+      "address": "1120 West 6th Street, Ste 103, Los Angeles, CA 90017",
+      "phone": "213-372-5003",
+      "id": "335"
+    },
+    {
+      "address": "272 E Santa Clara Street, San Jose, CA 95113",
+      "phone": "408-477-8350",
+      "id": "231"
+    },
+    {
+      "address": "350 S. Palm Canyon Dr, Palm Springs, CA 92262",
+      "phone": "760-548-0629",
+      "id": "394"
+    },
+    {
+      "address": "1322 Huntington Drive, Duarte, CA 91010",
+      "phone": "626-531-7334",
+      "id": "309"
+    },
+    {
+      "address": "22660 Vermont Street, Hayward, CA 94541",
+      "phone": "510-881-8020",
+      "id": "82"
+    },
+    {
+      "address": "832 Oakdale Road, Modesto, CA 95355",
+      "phone": "209-525-9370",
+      "id": "117"
+    },
+    {
+      "address": "6720 Folsom Boulevard, Sacramento, CA 95819",
+      "phone": "916-400-3057",
+      "id": "408"
+    },
+    {
+      "address": "331 North Capitol Ave Suite B, San Jose, CA 95133",
+      "phone": "408-684-5955",
+      "id": "130"
+    },
+    {
+      "address": "8517 Bond Rd, Elk Grove, CA 95624",
+      "phone": "916-714-6088",
+      "id": "6"
+    },
+    {
+      "address": "200 Travis Boulevard, Fairfield, CA 94533",
+      "phone": "707-428-9721",
+      "id": "19"
+    },
+    {
+      "address": "1305 Chisholm Trail, Fernley, NV 89408",
+      "phone": "775-302-3498",
+      "id": "396"
+    },
+    {
+      "address": "671 East Bidwell, Folsom, CA 95630",
+      "phone": "916-986-9131",
+      "id": "165"
+    },
+    {
+      "address": "4949 Stevenson Blvd Suite F, Fremont, CA 94538",
+      "phone": "510-651-2005",
+      "id": "33"
+    },
+    {
+      "address": "120 N. Raymond Ave., Fullerton, CA 92831",
+      "phone": "714-526-4345",
+      "id": "350"
+    },
+    {
+      "address": "1329 Us Highway 395n, Ste.12-3, Gardnerville, NV 89410",
+      "phone": "775-783-0017",
+      "id": "264"
+    },
+    {
+      "address": "6333 Geary Boulevard, San Francisco, CA 94121",
+      "phone": "415-876-5576",
+      "id": "245"
+    },
+    {
+      "address": "22441 Barton Road, Grand Terrace, CA 92313",
+      "phone": "909-370-1001",
+      "id": "407"
+    },
+    {
+      "address": "616 Sutton Way, Grass Valley, CA 95945",
+      "phone": "530-477-6961",
+      "id": "84"
+    },
+    {
+      "address": "426 West Harder Road, Hayward, CA 94544",
+      "phone": "510-723-3336",
+      "id": "52"
+    },
+    {
+      "address": "5461 N Figueroa Street, Los Angeles, CA 90042",
+      "phone": "323-739-6285",
+      "id": "450"
+    },
+    {
+      "address": "2810 W. Imperial Highway, Inglewood, CA 90303",
+      "phone": "323-451-3070",
+      "id": "360"
+    },
+    {
+      "address": "#9 No. State Highway 49-88, Jackson, CA 95642",
+      "phone": "209-257-0722",
+      "id": "37"
+    },
+    {
+      "address": "2001 W Whittier Blvd, La Habra, CA 90631",
+      "phone": "562-691-7744",
+      "id": "299"
+    },
+    {
+      "address": "15745 Imperial Highway,suite B, La Mirada, CA 90638",
+      "phone": "562-475-5395",
+      "id": "358"
+    },
+    {
+      "address": "6415 Lake Isabella Boulevard, Lake Isabella, CA 93240",
+      "phone": "760-379-0009",
+      "id": "417"
+    },
+    {
+      "address": "1155 South Main Street, Lakeport, CA 95453",
+      "phone": "707-263-0316",
+      "id": "132"
+    },
+    {
+      "address": "5615 Woodruff Avenue, Lakewood, CA 90713",
+      "phone": "562-920-2900",
+      "id": "300"
+    },
+    {
+      "address": "200 Lemmon Drive Suite 101, Reno, NV 89506",
+      "phone": "775-870-4544",
+      "id": "120"
+    },
+    {
+      "address": "1320 Railroad Avenue, Livermore, CA 94550",
+      "phone": "925-961-0019",
+      "id": "35"
+    },
+    {
+      "address": "520 S. Cherokee Lane, Ste #102, Lodi, CA 95240",
+      "phone": "209-625-8320",
+      "id": "347"
+    },
+    {
+      "address": "6436 East Spring Street, Long Beach, CA 90815",
+      "phone": "562-425-5550",
+      "id": "296"
+    },
+    {
+      "address": "8145 E Wardlow Road, Long Beach, CA 90808",
+      "phone": "562-588-9473",
+      "id": "425"
+    },
+    {
+      "address": "37 Old Mammoth Road, Mammoth Lakes, CA 93546",
+      "phone": "760-934-1510",
+      "id": "339"
+    },
+    {
+      "address": "1391 E. Yosemite Avenue, Manteca, CA 95336",
+      "phone": "209-239-4295",
+      "id": "43"
+    },
+    {
+      "address": "1125 West Main Street, Merced, CA 95340",
+      "phone": "209-384-0441",
+      "id": "49"
+    },
+    {
+      "address": "1700 Capitol Avenue, Sacramento, CA 95811",
+      "phone": "916-930-0899",
+      "id": "81"
+    },
+    {
+      "address": "215 W Calaveras Boulevard, Milpitas, CA 95035",
+      "phone": "408-586-8205",
+      "id": "196"
+    },
+    {
+      "address": "1800 Prescott Road, Suite 8, Modesto, CA 95350",
+      "phone": "209-523-5349",
+      "id": "22"
+    },
+    {
+      "address": "1491 W. Imola Avenue, Napa, CA 94559",
+      "phone": "707-294-2054",
+      "id": "271"
+    },
+    {
+      "address": "36601 Newark Boulevard Ste. 25, Newark, CA 94560",
+      "phone": "510-791-5124",
+      "id": "133"
+    },
+    {
+      "address": "1428 Sixth Street, Norco, CA 92860",
+      "phone": "951-444-6443",
+      "id": "384"
+    },
+    {
+      "address": "3643 Elkhorn Boulevard, North Highlands, CA 95660",
+      "phone": "916-550-1106",
+      "id": "423"
+    },
+    {
+      "address": "3385 Solano Avenue, Napa, CA 94558",
+      "phone": "707-819-2850",
+      "id": "435"
+    },
+    {
+      "address": "2308 Del Paso Blvd., Sacramento, CA 95815",
+      "phone": "916-561-2355",
+      "id": "321"
+    },
+    {
+      "address": "6618 Pacific Ave, Stockton, CA 95207",
+      "phone": "209-951-2200",
+      "id": "282"
+    },
+    {
+      "address": "14027 Pioneer Blvd., Norwalk, CA 90650",
+      "phone": "562-584-4216",
+      "id": "342"
+    },
+    {
+      "address": "1535 South Novato Boulevard, Novato, CA 94947",
+      "phone": "415-898-1779",
+      "id": "166"
+    },
+    {
+      "address": "808 N Yosemite Avenue, Oakdale, CA 95361",
+      "phone": "209-848-1778",
+      "id": "192"
+    },
+    {
+      "address": "40301 Junction Drive, Oakhurst, CA 93644",
+      "phone": "559-683-2400",
+      "id": "249"
+    },
+    {
+      "address": "2900 Broadway, Oakland, CA 94611",
+      "phone": "510-465-5649",
+      "id": "3"
+    },
+    {
+      "address": "3110 Main Street, Oakley, CA 94561",
+      "phone": "925-684-7439",
+      "id": "269"
+    },
+    {
+      "address": "2275 South Euclid Ave, Ontario, CA 91762",
+      "phone": "909-391-9111",
+      "id": "303"
+    },
+    {
+      "address": "4420 Ontario Mills Parkway, Ontario, CA 91764",
+      "phone": "909-204-4100",
+      "id": "411"
+    },
+    {
+      "address": "1803 East Chapman Avenue, Orange, CA 92867",
+      "phone": "714-919-8100",
+      "id": "274"
+    },
+    {
+      "address": "8835 Greenback Lane, Orangevale, CA 95662",
+      "phone": "916-293-9901",
+      "id": "376"
+    },
+    {
+      "address": "1026 South Street, Orland, CA 95963",
+      "phone": "530-865-4235",
+      "id": "247"
+    },
+    {
+      "address": "1060 Oroville Dam Blvd. E, Oroville, CA 95965",
+      "phone": "530-534-3940",
+      "id": "161"
+    },
+    {
+      "address": "5550 Coast Highway, Pacifica, CA 94044",
+      "phone": "650-355-5100",
+      "id": "294"
+    },
+    {
+      "address": "3445 Alma Street, Palo Alto, CA 94306",
+      "phone": "650-561-4394",
+      "id": "253"
+    },
+    {
+      "address": "15719 Downey Ave, Paramount, CA 90723",
+      "phone": "562-333-4080",
+      "id": "312"
+    },
+    {
+      "address": "80 E Washington, Petaluma, CA 94952",
+      "phone": "707-763-2700",
+      "id": "109"
+    },
+    {
+      "address": "1460 Fitzgerald Drive, Pinole, CA 94564",
+      "phone": "510-223-3404",
+      "id": "31"
+    },
+    {
+      "address": "1820 N. Placentia Ave, Ste. B, Placentia, CA 92870",
+      "phone": "714-982-5282",
+      "id": "364"
+    },
+    {
+      "address": "1426 Broadway, Placerville, CA 95667",
+      "phone": "530-642-1533",
+      "id": "103"
+    },
+    {
+      "address": "1671 Contra Costa Boulevard, Pleasant Hill, CA 94523",
+      "phone": "925-676-3660",
+      "id": "11"
+    },
+    {
+      "address": "1390 Silver Avenue, San Francisco, CA 94134",
+      "phone": "415-825-5678",
+      "id": "305"
+    },
+    {
+      "address": "2801 Zinfandel Drive, Rancho Cordova, CA 95670",
+      "phone": "916-858-2801",
+      "id": "57"
+    },
+    {
+      "address": "2115 Artesia Blvd., Redondo Beach, CA 90278",
+      "phone": "424-383-1018",
+      "id": "368"
+    },
+    {
+      "address": "1833 Broadway St, Redwood City, CA 94063",
+      "phone": "650-364-7406",
+      "id": "4"
+    },
+    {
+      "address": "3800 S Kietzke Lane #130, Reno, NV 89502",
+      "phone": "775-826-7688",
+      "id": "170"
+    },
+    {
+      "address": "1145 West Renaissance Parkway, Rialto, CA 92376",
+      "phone": "909-667-5245",
+      "id": "359"
+    },
+    {
+      "address": "12010 San Pablo Avenue, Richmond, CA 94805",
+      "phone": "510-619-2640",
+      "id": "242"
+    },
+    {
+      "address": "120 North China Lake Boulevard, Ridgecrest, CA 93555",
+      "phone": "760-371-7731",
+      "id": "446"
+    },
+    {
+      "address": "3550 Madison Street, Riverside, CA 92504",
+      "phone": "951-406-1252",
+      "id": "345"
+    },
+    {
+      "address": "6652 Lonetree Boulevard, Rocklin, CA 95765",
+      "phone": "916-773-1888",
+      "id": "239"
+    },
+    {
+      "address": "6335 Commerce Boulevard, Rohnert Park, CA 94928",
+      "phone": "707-588-9485",
+      "id": "39"
+    },
+    {
+      "address": "9026 East Valley Blvd., Rosemead, CA 91770",
+      "phone": "626-782-7828",
+      "id": "317"
+    },
+    {
+      "address": "3615 Bradshaw Road, Ste 3615a, Sacramento, CA 95827",
+      "phone": "916-368-9447",
+      "id": "366"
+    },
+    {
+      "address": "424 Roseville Square, Roseville, CA 95678",
+      "phone": "916-772-2600",
+      "id": "121"
+    },
+    {
+      "address": "3431 Watt Avenue, Sacramento, CA 95821",
+      "phone": "916-486-7920",
+      "id": "85"
+    },
+    {
+      "address": "6419 Riverside Boulevard, Sacramento, CA 95831",
+      "phone": "916-391-2725",
+      "id": "143"
+    },
+    {
+      "address": "7260 Rosemead Blvd., San Gabriel, CA 91775",
+      "phone": "626-656-6520",
+      "id": "338"
+    },
+    {
+      "address": "2300 Monterey Highway, San Jose, CA 95112",
+      "phone": "408-292-2132",
+      "id": "168"
+    },
+    {
+      "address": "2179 E 14th Street, San Leandro, CA 94577",
+      "phone": "510-895-3605",
+      "id": "138"
+    },
+    {
+      "address": "15590 Hesperian Boulevard, San Lorenzo, CA 94580",
+      "phone": "510-397-1734",
+      "id": "439"
+    },
+    {
+      "address": "2079 23rd Street, San Pablo, CA 94806",
+      "phone": "510-965-1020",
+      "id": "65"
+    },
+    {
+      "address": "75 Bellam Boulevard, Suite A, San Rafael, CA 94901",
+      "phone": "415-747-8636",
+      "id": "459"
+    },
+    {
+      "address": "3520 Homestead Road, Santa Clara, CA 95051",
+      "phone": "408-249-9046",
+      "id": "238"
+    },
+    {
+      "address": "1116 4th St, Santa Rosa, CA 95404",
+      "phone": "707-566-0530",
+      "id": "10"
+    },
+    {
+      "address": "7076 Santa Teresa Blvd., San Jose, CA 95139",
+      "phone": "669-234-3465",
+      "id": "410"
+    },
+    {
+      "address": "685 South Washington Street, Sonora, CA 95370",
+      "phone": "209-536-1400",
+      "id": "135"
+    },
+    {
+      "address": "125 Hickey Boulevard, South San Francisco, CA 94080",
+      "phone": "650-550-1100",
+      "id": "139"
+    },
+    {
+      "address": "31049 Mission Blvd., Hayward, CA 94544",
+      "phone": "510-400-9524",
+      "id": "382"
+    },
+    {
+      "address": "2358 Lake Tahoe Boulevard, South Lake Tahoe, CA 96150",
+      "phone": "530-542-1077",
+      "id": "160"
+    },
+    {
+      "address": "1630 W. El Camino Avenue, Sacramento, CA 95833",
+      "phone": "916-923-9879",
+      "id": "393"
+    },
+    {
+      "address": "1401 Huntington Drive, South Pasadena, CA 91030",
+      "phone": "626-399-0975",
+      "id": "444"
+    },
+    {
+      "address": "7923 E Stockton Boulevard, Sacramento, CA 95823",
+      "phone": "916-405-6081",
+      "id": "46"
+    },
+    {
+      "address": "1665 Foxworthy Avenue, San Jose, CA 95124",
+      "phone": "408-440-5920",
+      "id": "151"
+    },
+    {
+      "address": "1300 Disc Drive, Sparks, NV 89436",
+      "phone": "775-683-9906",
+      "id": "346"
+    },
+    {
+      "address": "2020 Oddie Boulevard, Sparks, NV 89431",
+      "phone": "775-356-7400",
+      "id": "86"
+    },
+    {
+      "address": "1060 N Wilson Way, Stockton, CA 95205",
+      "phone": "209-466-3900",
+      "id": "177"
+    },
+    {
+      "address": "8920 Glenoaks Blvd., Sun Valley, CA 91352",
+      "phone": "818-351-4100",
+      "id": "290"
+    },
+    {
+      "address": "1180 N. Fair Oaks Avenue, Sunnyvale, CA 94089",
+      "phone": "408-962-0297",
+      "id": "320"
+    },
+    {
+      "address": "1245 South Van Ness Avenue, San Francisco, CA 94110",
+      "phone": "415-872-7170",
+      "id": "306"
+    },
+    {
+      "address": "825 W 11th Street, Tracy, CA 95376",
+      "phone": "209-836-2182",
+      "id": "112"
+    },
+    {
+      "address": "11213 Donner Pass Road, Suite 200, Truckee, CA 96161",
+      "phone": "530-536-3983",
+      "id": "380"
+    },
+    {
+      "address": "1330 W. Main Street, Turlock, CA 95380",
+      "phone": "209-656-6600",
+      "id": "262"
+    },
+    {
+      "address": "1203 North State Street, Ukiah, CA 95482",
+      "phone": "707-463-2129",
+      "id": "69"
+    },
+    {
+      "address": "176 South Mountain Avenue, Upland, CA 91786",
+      "phone": "909-949-6155",
+      "id": "302"
+    },
+    {
+      "address": "130 Nut Tree Parkway, Vacaville, CA 95687",
+      "phone": "707-447-1791",
+      "id": "236"
+    },
+    {
+      "address": "66 Admiral Callaghan Lane, Vallejo, CA 94591",
+      "phone": "707-644-6581",
+      "id": "169"
+    },
+    {
+      "address": "50 Jean Street, Valley Springs, CA 95252",
+      "phone": "209-920-3126",
+      "id": "378"
+    },
+    {
+      "address": "2630 Bayshore Boulevard, San Francisco, CA 94134",
+      "phone": "415-715-1030",
+      "id": "244"
+    },
+    {
+      "address": "845 Harbor Boulevard, West Sacramento, CA 95691",
+      "phone": "916-372-6575",
+      "id": "123"
+    },
+    {
+      "address": "3140 Williams Road, San Jose, CA 95117",
+      "phone": "408-241-2182",
+      "id": "125"
+    },
+    {
+      "address": "401 Marin St, Vallejo, CA 94590",
+      "phone": "707-648-7041",
+      "id": "283"
+    },
+    {
+      "address": "10831 W Sr 2 Highway, Airway Heights, WA 99001",
+      "phone": "509-244-9330",
+      "id": "310"
+    },
+    {
+      "address": "2533 1st Street, Cheney, WA 99004",
+      "phone": "509-559-3171",
+      "id": "402"
+    },
+    {
+      "address": "1617 West 3rd Avenue, Spokane, WA 99201",
+      "phone": "509-624-4222",
+      "id": "193"
+    },
+    {
+      "address": "315 Valley Mall Parkway, #315, East Wenatchee, WA 98802",
+      "phone": "509-470-8477",
+      "id": "337"
+    },
+    {
+      "address": "705 North Ruby Street, Ellensburg, WA 98926",
+      "phone": "509-933-2385",
+      "id": "195"
+    },
+    {
+      "address": "1460 SW Basin Street, Ephrata, WA 98823",
+      "phone": "509-398-8962",
+      "id": "420"
+    },
+    {
+      "address": "1875 N 1st Street, Suite E, Hermiston, OR 97838",
+      "phone": "541-701-0428",
+      "id": "422"
+    },
+    {
+      "address": "1325 West 4th Avenue, Kennewick, WA 99336",
+      "phone": "509-586-6306",
+      "id": "119"
+    },
+    {
+      "address": "1177 N Stratford Road, Moses Lake, WA 98837",
+      "phone": "509-766-7650",
+      "id": "111"
+    },
+    {
+      "address": "7810 N Division Street, Spokane, WA 99208",
+      "phone": "509-484-4850",
+      "id": "171"
+    },
+    {
+      "address": "5710 Road 68, Suite 103, Pasco, WA 99301",
+      "phone": "509-492-4564",
+      "id": "367"
+    },
+    {
+      "address": "1810 Sw Court Avenue, Pendleton, OR 97801",
+      "phone": "541-429-4210",
+      "id": "255"
+    },
+    {
+      "address": "1450 S Grand Avenue, Pullman, WA 99163",
+      "phone": "509-336-2274",
+      "id": "461"
+    },
+    {
+      "address": "2901 Queensgate Drive, Richland, WA 99352",
+      "phone": "509-627-6051",
+      "id": "421"
+    },
+    {
+      "address": "800 North Park Ctr, Selah, WA 98942",
+      "phone": "509-697-3434",
+      "id": "395"
+    },
+    {
+      "address": "12115 E. Sprague Ave., Spokane Valley, WA 99206",
+      "phone": "509-703-7185",
+      "id": "265"
+    },
+    {
+      "address": "2600 Yakima Valley Highway, Sunnyside, WA 98944",
+      "phone": "509-515-7185",
+      "id": "383"
+    },
+    {
+      "address": "910 South 9th Avenue, Walla Walla, WA 99362",
+      "phone": "509-525-5753",
+      "id": "61"
+    },
+    {
+      "address": "1616 North Wenatchee Avenue, Wenatchee, WA 98801",
+      "phone": "509-663-4477",
+      "id": "77"
+    },
+    {
+      "address": "2109 S 1st Street, Yakima, WA 98903",
+      "phone": "509-452-1777",
+      "id": "137"
+    },
+    {
+      "address": "603west 12th Street, Alturas, CA 96101",
+      "phone": "530-233-1127",
+      "id": "381"
+    },
+    {
+      "address": "1981 Highway 273, Anderson, CA 96007",
+      "phone": "530-776-6966",
+      "id": "329"
+    },
+    {
+      "address": "123 East Burke Ave., Arlington, WA 98223",
+      "phone": "360-322-6172",
+      "id": "287"
+    },
+    {
+      "address": "102 Cross Street Se, Auburn, WA 98002",
+      "phone": "253-333-0442",
+      "id": "158"
+    },
+    {
+      "address": "297 Campbell Street, Baker City, OR 97814",
+      "phone": "541-523-1126",
+      "id": "379"
+    },
+    {
+      "address": "1600 Ellis Street, Bellingham, WA 98225",
+      "phone": "360-650-9655",
+      "id": "115"
+    },
+    {
+      "address": "5544 W Fairview Avenue, Boise, ID 83706",
+      "phone": "208-376-2953",
+      "id": "38"
+    },
+    {
+      "address": "6355 Main Street, Bonners Ferry, ID 83805",
+      "phone": "208-267-2507",
+      "id": "434"
+    },
+    {
+      "address": "18318 Sr 410 E, Bonney Lake, WA 98391",
+      "phone": "253-299-6999",
+      "id": "172"
+    },
+    {
+      "address": "3445 Wheaton Way, Bremerton, WA 98310",
+      "phone": "360-377-1142",
+      "id": "88"
+    },
+    {
+      "address": "6625 132nd Avenue NE, Kirkland, WA 98033",
+      "phone": "425-896-8385",
+      "id": "354"
+    },
+    {
+      "address": "236 Sw 152nd Street, Burien, WA 98166",
+      "phone": "206-241-6005",
+      "id": "127"
+    },
+    {
+      "address": "37505 Hwy. 299 East, Burney, CA 96013",
+      "phone": "530-335-5526",
+      "id": "386"
+    },
+    {
+      "address": "627 Hwy 20 N., Hines, OR 97738",
+      "phone": "541-573-1637",
+      "id": "353"
+    },
+    {
+      "address": "4907 Cleveland Blvd., Caldwell, ID 83605",
+      "phone": "208-459-1099",
+      "id": "277"
+    },
+    {
+      "address": "3308 NE 3rd Avenue, Camas, WA 98607",
+      "phone": "360-335-0520",
+      "id": "173"
+    },
+    {
+      "address": "1369 Nw Louisiana Avenue, Chehalis, WA 98532",
+      "phone": "360-767-0139",
+      "id": "128"
+    },
+    {
+      "address": "410 W Neider Avenue, Coeur D Alene, ID 83814",
+      "phone": "208-765-3141",
+      "id": "41"
+    },
+    {
+      "address": "980 S. Main Street, Colville, WA 99114",
+      "phone": "509-685-7255",
+      "id": "307"
+    },
+    {
+      "address": "15625 Ne 8th Street, Bellevue, WA 98008",
+      "phone": "425-633-1640",
+      "id": "243"
+    },
+    {
+      "address": "8700 15th Avenue Nw, Seattle, WA 98117",
+      "phone": "206-782-1079",
+      "id": "47"
+    },
+    {
+      "address": "1410 E 72nd Street, Tacoma, WA 98404",
+      "phone": "253-327-1586",
+      "id": "377"
+    },
+    {
+      "address": "960 Roosevelt Avenue, Enumclaw, WA 98022",
+      "phone": "360-825-9142",
+      "id": "124"
+    },
+    {
+      "address": "710 Se Everett Mall Way, Everett, WA 98208",
+      "phone": "425-353-6224",
+      "id": "54"
+    },
+    {
+      "address": "5209 Evergreen Way, Everett, WA 98203",
+      "phone": "425-512-9282",
+      "id": "375"
+    },
+    {
+      "address": "32945 Pacific Hwy S, Po Box 3125, Federal Way, WA 98003",
+      "phone": "253-835-9025",
+      "id": "154"
+    },
+    {
+      "address": "1750 Labounty Dr., Unit 101, Ferndale, WA 98248",
+      "phone": "360-922-7350",
+      "id": "275"
+    },
+    {
+      "address": "350 Ne Agness Avenue, Grants Pass, OR 97526",
+      "phone": "541-476-2245",
+      "id": "105"
+    },
+    {
+      "address": "9915 Ne Hazel Dell Avenue, Vancouver, WA 98685",
+      "phone": "360-574-5155",
+      "id": "16"
+    },
+    {
+      "address": "4420 Ne Hancock Street, Portland, OR 97213",
+      "phone": "503-282-5248",
+      "id": "71"
+    },
+    {
+      "address": "7800 Ne Bothell Way Suite 140, Kenmore, WA 98028",
+      "phone": "425-481-1345",
+      "id": "185"
+    },
+    {
+      "address": "23910 104th Avenue Se, Kent, WA 98031",
+      "phone": "253-856-1057",
+      "id": "197"
+    },
+    {
+      "address": "4333 S 6th Street, Klamath Falls, OR 97603",
+      "phone": "541-884-0622",
+      "id": "149"
+    },
+    {
+      "address": "11301 Island Avenue, Island City, OR 97850",
+      "phone": "541-963-6666",
+      "id": "179"
+    },
+    {
+      "address": "8221 Martin Way E, Lacey, WA 98516",
+      "phone": "360-456-3939",
+      "id": "142"
+    },
+    {
+      "address": "3020 Ne 127th Street, Seattle, WA 98125",
+      "phone": "206-971-0192",
+      "id": "118"
+    },
+    {
+      "address": "11011 Pacific Highway Sw, Lakewood, WA 98499",
+      "phone": "253-581-5333",
+      "id": "44"
+    },
+    {
+      "address": "117 Thain Road, Lewiston, ID 83501",
+      "phone": "208-746-1003",
+      "id": "59"
+    },
+    {
+      "address": "920 Ocean Beach Hwy, Longview, WA 98632",
+      "phone": "360-577-3663",
+      "id": "45"
+    },
+    {
+      "address": "144 Bay Lyn Drive, Lynden, WA 98264",
+      "phone": "360-526-2989",
+      "id": "374"
+    },
+    {
+      "address": "19800 44th Avenue W, Lynnwood, WA 98036",
+      "phone": "425-774-0198",
+      "id": "157"
+    },
+    {
+      "address": "1126 Martin Luther King Jr Way, Seattle, WA 98122",
+      "phone": "206-302-1005",
+      "id": "176"
+    },
+    {
+      "address": "26525 Maple Valley Blk Diamond, Road Se, Maple Valley, WA 98038",
+      "phone": "425-413-0244",
+      "id": "233"
+    },
+    {
+      "address": "9620-b State Avenue, Marysville, WA 98270",
+      "phone": "360-659-9909",
+      "id": "175"
+    },
+    {
+      "address": "35 East Stewart Avenue, Medford, OR 97501",
+      "phone": "541-773-8740",
+      "id": "29"
+    },
+    {
+      "address": "405 Butler Avenue, Monroe, WA 98272",
+      "phone": "360-794-4519",
+      "id": "129"
+    },
+    {
+      "address": "1333 Riverside Drive, Mount Vernon, WA 98273",
+      "phone": "360-428-4770",
+      "id": "74"
+    },
+    {
+      "address": "1215 12th Avenue S, Nampa, ID 83651",
+      "phone": "208-468-2229",
+      "id": "441"
+    },
+    {
+      "address": "6425 6th Avenue, Tacoma, WA 98406",
+      "phone": "253-565-2441",
+      "id": "122"
+    },
+    {
+      "address": "31270 State Route 20 Bldg B, Oak Harbor, WA 98277",
+      "phone": "360-639-0060",
+      "id": "427"
+    },
+    {
+      "address": "2100 Harrison Avenue Nw, Olympia, WA 98502",
+      "phone": "360-570-9449",
+      "id": "66"
+    },
+    {
+      "address": "918 Engh Rd, Omak, WA 98841",
+      "phone": "509-826-1506",
+      "id": "373"
+    },
+    {
+      "address": "2670 Southwest 4th Avenue, Ontario, OR 97914",
+      "phone": "541-889-3738",
+      "id": "24"
+    },
+    {
+      "address": "6969 W Overland Rd., Boise, ID 83709",
+      "phone": "208-323-5321",
+      "id": "279"
+    },
+    {
+      "address": "10721 Ne Sandy Blvd, Portland, OR 97220",
+      "phone": "971-255-0459",
+      "id": "286"
+    },
+    {
+      "address": "1730 Se Mile Hill Dr, Ste 110, Port Orchard, WA 98366",
+      "phone": "360-519-3680",
+      "id": "412"
+    },
+    {
+      "address": "4423 S. Meridian, Ste 723, Puyallup, WA 98373",
+      "phone": "253-604-4364",
+      "id": "404"
+    },
+    {
+      "address": "1715 East Main Street, Quincy, CA 95971",
+      "phone": "530-283-2706",
+      "id": "388"
+    },
+    {
+      "address": "215 West B Street, Rainier, OR 97048",
+      "phone": "503-395-2018",
+      "id": "351"
+    },
+    {
+      "address": "580 S Main Street, Red Bluff, CA 96080",
+      "phone": "530-529-2130",
+      "id": "398"
+    },
+    {
+      "address": "2235 Churn Creek Road, Redding, CA 96002",
+      "phone": "530-221-6138",
+      "id": "34"
+    },
+    {
+      "address": "2809 Ne Sunset Boulevard, Renton, WA 98056",
+      "phone": "425-988-2515",
+      "id": "101"
+    },
+    {
+      "address": "52115 SW Chinook Way, Scappoose, OR 97056",
+      "phone": "503-543-2776",
+      "id": "159"
+    },
+    {
+      "address": "1045 W. Washington St, Sequim, WA 98382",
+      "phone": "360-683-1466",
+      "id": "8"
+    },
+    {
+      "address": "9451 Silverdale Way Nw, Silverdale, WA 98383",
+      "phone": "360-516-4140",
+      "id": "126"
+    },
+    {
+      "address": "11656 68th Avenue S, Seattle, WA 98178",
+      "phone": "425-728-1870",
+      "id": "240"
+    },
+    {
+      "address": "3510 S 56th Street, Tacoma, WA 98409",
+      "phone": "253-830-5141",
+      "id": "189"
+    },
+    {
+      "address": "7741 N Lombard, Portland, OR 97203",
+      "phone": "503-688-5565",
+      "id": "187"
+    },
+    {
+      "address": "26905 92nd Avenue N. W., Stanwood, WA 98292",
+      "phone": "360-572-3300",
+      "id": "292"
+    },
+    {
+      "address": "1616 Main Street, Susanville, CA 96130",
+      "phone": "530-251-2581",
+      "id": "107"
+    },
+    {
+      "address": "1355 Nw 185th Avenue, Beaverton, OR 97006",
+      "phone": "503-531-3660",
+      "id": "194"
+    },
+    {
+      "address": "1300 West 6th Street, The Dalles, OR 97058",
+      "phone": "541-506-5055",
+      "id": "152"
+    },
+    {
+      "address": "2318 Addison Avenue East, Twin Falls, ID 83301",
+      "phone": "208-734-0293",
+      "id": "76"
+    },
+    {
+      "address": "5800 NE Fourth Plain Blvd, Vancouver, WA 98661",
+      "phone": "360-695-9257",
+      "id": "48"
+    },
+    {
+      "address": "268 Vista Drive, Weed, CA 96094",
+      "phone": "530-938-4778",
+      "id": "314"
+    },
+    {
+      "address": "26104 Pacific Hwy S, Kent, WA 98032",
+      "phone": "206-592-2962",
+      "id": "289"
+    },
+    {
+      "address": "3685 Eureka Way, Redding, CA 96001",
+      "phone": "530-768-1379",
+      "id": "389"
+    },
+    {
+      "address": "7571 Highway 62, Bldg #1, White City, OR 97503",
+      "phone": "541-879-3096",
+      "id": "348"
+    },
+    {
+      "address": "880 Hanson Street, Winnemucca, NV 89445",
+      "phone": "775-375-3030",
+      "id": "405"
+    },
+    {
+      "address": "1325 Lewis River Rd, Woodland, WA 98674",
+      "phone": "360-841-8375",
+      "id": "365"
+    },
+    {
+      "address": "1000 East Yelm Avenue, Yelm, WA 98597",
+      "phone": "360-400-0488",
+      "id": "445"
+    },
+    {
+      "address": "121 Montague Rd, Yreka, CA 96097",
+      "phone": "530-842-7700",
+      "id": "266"
+    },
+    {
+      "address": "1835 Newport Blvd, Costa Mesa, CA 92627",
+      "phone": "949-642-5800",
+      "id": "295"
+    },
+    {
+      "address": "18920 Brookhurst Street, Fountain Valley, CA 92708",
+      "phone": "714-500-2295",
+      "id": "352"
+    },
+    {
+      "address": "16672 Beach Blvd., Suite I, Huntington Beach, CA 92647",
+      "phone": "714-369-6301",
+      "id": "361"
+    },
+    {
+      "address": "22475 El Toro Road, Lake Forest, CA 92630",
+      "phone": "949-900-8140",
+      "id": "355"
+    },
+    {
+      "address": "12932 Newport Ave., Suite 20, Tustin, CA 92780",
+      "phone": "657-247-0470",
+      "id": "333"
+    },
+    {
+      "address": "15412 Goldenwest Street, Westminster, CA 92683",
+      "phone": "714-892-8922",
+      "id": "298"
+    },
+    {
+      "address": "13301 Whittier Blvd, Whittier, CA 90602",
+      "phone": "562-464-0466",
+      "id": "316"
+    },
+    {
+      "address": "4730 Barranca Pkwy, Suite 4730, Irvine, CA 92604",
+      "phone": "949-732-3876",
+      "id": "344"
+    },
+    {
+      "address": "435 Vada Court, Williams, CA 95987",
+      "phone": "530-473-5105",
+      "id": "390"
+    },
+    {
+      "address": "1366 E. Main Street, Woodland, CA 95776",
+      "phone": "530-662-1891",
+      "id": "73"
+    },
+    {
+      "address": "1721 Colusa Avenue, Yuba City, CA 95993",
+      "phone": "530-674-5231",
+      "id": "167"
+    },
+    {
+      "address": "1718 S. Main Street, Willits, CA 95490",
+      "phone": "707-456-0400",
+      "id": "261"
+    },
+    {
+      "address": "1124 - 3rd Street, Crescent City, CA 95531",
+      "phone": "707-464-3131",
+      "id": "62"
+    },
+    {
+      "address": "625 Commercial Street, Eureka, CA 95501",
+      "phone": "707-442-5802",
+      "id": "136"
+    },
+    {
+      "address": "1085 S Fortuna Blvd, Fortuna, CA 95540",
+      "phone": "707-725-7010",
+      "id": "285"
+    },
+    {
+      "address": "1581 Central Ave, Mckinleyville, CA 95519",
+      "phone": "707-630-5262",
+      "id": "313"
+    },
+    {
+      "address": "2715 Pacific Avenue, Aberdeen, WA 98520",
+      "phone": "360-538-1153",
+      "id": "106"
+    },
+    {
+      "address": "906 Chetco Avenue, Brookings, OR 97415",
+      "phone": "541-412-7264",
+      "id": "432"
+    },
+    {
+      "address": "330 S. Redwood Highway, Cave Junction, OR 97523",
+      "phone": "541-592-2767",
+      "id": "372"
+    },
+    {
+      "address": "1385 Newmark Avenue, Coos Bay, OR 97420",
+      "phone": "541-888-6702",
+      "id": "67"
+    },
+    {
+      "address": "2066 Hywy 101, Florence, OR 97439",
+      "phone": "541-997-0343",
+      "id": "12"
+    },
+    {
+      "address": "4157 NW Highway 101 Suite 101, LIGHTHOUSE SQUARE SHOPPING CTR, Lincoln City, OR 97367",
+      "phone": "541-994-6828",
+      "id": "153"
+    },
+    {
+      "address": "721 N. Coast Hwy, Newport, OR 97365",
+      "phone": "541-272-5207",
+      "id": "315"
+    },
+    {
+      "address": "825 Avenue N, Seaside, OR 97138",
+      "phone": "503-741-3143",
+      "id": "401"
+    },
+    {
+      "address": "4628B Broadway, Allentown, PA 18104",
+      "phone": "484-223-2900",
+      "id": "711"
+    },
+    {
+      "address": "1695 Lincoln Way E, Ste 2, Chambersburg, PA 17202",
+      "phone": "717-496-8485",
+      "id": "720"
+    },
+    {
+      "address": "1851 E Lincoln Highway, Coatesville, PA 19320",
+      "phone": "610-466-1400",
+      "id": "708"
+    },
+    {
+      "address": "2451 Nazareth Road Suite 12, Easton, PA 18045",
+      "phone": "610-438-1652",
+      "id": "726"
+    },
+    {
+      "address": "1150 Carlisle Street, Hanover, PA 17331",
+      "phone": "717-634-2982",
+      "id": "719"
+    },
+    {
+      "address": "1951 Lincoln Highway East, Lancaster, PA 17602",
+      "phone": "717-392-0635",
+      "id": "702"
+    },
+    {
+      "address": "703 Lancaster Road (rt 72), Manheim, PA 17545",
+      "phone": "717-665-7500",
+      "id": "705"
+    },
+    {
+      "address": "3260 North 5th Street, Reading, PA 19605",
+      "phone": "610-985-0501",
+      "id": "717"
+    },
+    {
+      "address": "110 Old York Rd, New Cumberland, PA 17070",
+      "phone": "717-317-9197",
+      "id": "722"
+    },
+    {
+      "address": "685 West Main Street, New Holland, PA 17557",
+      "phone": "717-354-8600",
+      "id": "701"
+    },
+    {
+      "address": "1500 North George Street Ste13, York, PA 17404",
+      "phone": "717-900-1865",
+      "id": "724"
+    },
+    {
+      "address": "66 N Londonderry Sq Ste 300, Palmyra, PA 17078",
+      "phone": "717-473-5164",
+      "id": "721"
+    },
+    {
+      "address": "70 N. West End Boulevard, Quakertown, PA 18951",
+      "phone": "267-490-5195",
+      "id": "723"
+    },
+    {
+      "address": "2108 Spring Valley Rd., Lancaster, PA 17601",
+      "phone": "717-209-7060",
+      "id": "707"
+    },
+    {
+      "address": "1130 Chester Pike, Sharon Hill, PA 19079",
+      "phone": "610-200-4606",
+      "id": "718"
+    },
+    {
+      "address": "4200 Shillington Plaza, Shillington, PA 19607",
+      "phone": "610-775-6507",
+      "id": "716"
+    },
+    {
+      "address": "1023 West County Line Road, Warminster, PA 18974",
+      "phone": "215-259-6985",
+      "id": "727"
+    },
+    {
+      "address": "1936 Mac Dade Boulevard, Woodlyn, PA 19094",
+      "phone": "610-876-6700",
+      "id": "713"
+    },
+    {
+      "address": "1244 Greensprings Drive, York, PA 17402",
+      "phone": "717-751-0600",
+      "id": "715"
+    }
+  ]
+}
