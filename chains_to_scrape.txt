@@ -63,7 +63,7 @@ Trader Joe's
 Total Wine
 Aldi
 Lidl
-Big Lots
+! Big Lots
 ? Dollar General
 ? Dollar Tree
 ! Family Dollar
