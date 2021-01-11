@@ -55,7 +55,7 @@ Woodman's Food Market
 Yoke's Fresh Market
 Earth Fare
 The Fresh Market
-Market of Choice
+! Market of Choice
 ! New Seasons Market
 ! Spec's Wine
 ! Trader Joe's
