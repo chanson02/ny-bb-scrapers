@@ -57,8 +57,7 @@ Earth Fare
 The Fresh Market
 Market of Choice
 New Seasons Market
-Spec's Wine
-Sprouts Farmers Market
+! Spec's Wine
 ! Trader Joe's
 |IFrame| Total Wine
 Aldi
