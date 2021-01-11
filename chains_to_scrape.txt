@@ -59,13 +59,13 @@ Market of Choice
 New Seasons Market
 Spec's Wine
 Sprouts Farmers Market
-Trader Joe's
-Total Wine
+! Trader Joe's
+|IFrame| Total Wine
 Aldi
 Lidl
 ! Big Lots
 ? Dollar General
-? Dollar Tree
+? |Banned| Dollar Tree
 ! Family Dollar
 *Food 4 Less
 ! Grocer Outlet
