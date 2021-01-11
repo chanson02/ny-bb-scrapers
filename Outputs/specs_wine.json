@@ -1,0 +1,765 @@
+{
+  "name": "Spec's Wine",
+  "stores": [
+    {
+      "address": "15055 Inwood Rd, Addison, TX 75001",
+      "phone": "972-239-5891",
+      "id": "9722395891"
+    },
+    {
+      "address": "1839 Central Expy N, Allen, TX 75013",
+      "phone": "972-908-3488",
+      "id": "9729083488"
+    },
+    {
+      "address": "11130 Gulf Frwy Suite 500, Houston, TX 77034",
+      "phone": "713-910-3941",
+      "id": "7139103941"
+    },
+    {
+      "address": "1201 N. Velasco Suite B, Angelton, TX 77515",
+      "phone": "979-864-3904",
+      "id": "9798643904"
+    },
+    {
+      "address": "10515 N Mopac Expy Suite K, Austin, TX 78759",
+      "phone": "512-342-6893",
+      "id": "5123426893"
+    },
+    {
+      "address": "3909 S Cooper St., Arlington, TX 76015",
+      "phone": "817-375-5982",
+      "id": "8173755982"
+    },
+    {
+      "address": "7034 FM 1960, Atascocita, TX 77346",
+      "phone": "281-812-3100",
+      "id": "2818123100"
+    },
+    {
+      "address": "11751 Bandera Rd, San Antonio, TX 78250",
+      "phone": "210-647-7812",
+      "id": "2106477812"
+    },
+    {
+      "address": "17996 FM 529, Houston, TX 77095",
+      "phone": "281-656-4200",
+      "id": "2816564200"
+    },
+    {
+      "address": "739 Hwy 71 W, Bastrop, TX 78602",
+      "phone": "512-308-0250",
+      "id": "5123080250"
+    },
+    {
+      "address": "1033 Bay Area Blvd, Houston, TX 77062",
+      "phone": "281-486-9558",
+      "id": "2814869558"
+    },
+    {
+      "address": "3100 7th Street, Bay City, TX 77414",
+      "phone": "979-323-9898",
+      "id": "9793239898"
+    },
+    {
+      "address": "4665 Garth Rd Suite 800, Baytown, TX 77521",
+      "phone": "281-422-6218",
+      "id": "2814226218"
+    },
+    {
+      "address": "4820 Hwy 6 N, Houston, TX 77084",
+      "phone": "281-656-4104",
+      "id": "2816564104"
+    },
+    {
+      "address": "5876 Eastex Fwy, Beaumont, TX 77708",
+      "phone": "409-835-5931",
+      "id": "4098355931"
+    },
+    {
+      "address": "13015 Shops Pkwy, Bee Cave, TX 78738",
+      "phone": "512-263-9981",
+      "id": "5122639981"
+    },
+    {
+      "address": "19210 W Bellfort Street, Richmond, TX 77407",
+      "phone": "281-277-0275",
+      "id": "2812770275"
+    },
+    {
+      "address": "24603 IH 10 West, San Antonio, 78257",
+      "phone": "210-310-3200",
+      "id": "2103103200"
+    },
+    {
+      "address": "280 W Hwy 290, Brenham, TX 77833",
+      "phone": "979-251-7043",
+      "id": "9792517043"
+    },
+    {
+      "address": "4970 W US Hwy 290, Austin, TX 78735",
+      "phone": "512-366-8260",
+      "id": "5123668260"
+    },
+    {
+      "address": "971 J. Elmer Weaver Freeway, Suite 400, Cedar Hill, TX 75104",
+      "phone": "972-291-5499",
+      "id": "9722915499"
+    },
+    {
+      "address": "13530 Ronald Regan Blvd., Ste 100, Cedar Park, TX 78613",
+      "phone": "512-986-7681",
+      "id": "5129867681"
+    },
+    {
+      "address": "23702 Westheimer Pkwy Suite 1, Katy, TX 77494",
+      "phone": "281-392-5554",
+      "id": "2813925554"
+    },
+    {
+      "address": "35W Heritage Trace Pkwy, Fort Worth, TX 76177",
+      "phone": "",
+      "id": ""
+    },
+    {
+      "address": "1729 Texas Ave, College Station, TX 77840",
+      "phone": "979-696-7100",
+      "id": "9796967100"
+    },
+    {
+      "address": "1505 University Dr E #700, College Station, TX 77840",
+      "phone": "979-260-0448",
+      "id": "9792600448"
+    },
+    {
+      "address": "1304 W Davis St Suite F, Conroe, TX 77304",
+      "phone": "936-539-8787",
+      "id": "9365398787"
+    },
+    {
+      "address": "3588 FM 1488 Rd, Conroe, TX 77384",
+      "phone": "936-271-9606",
+      "id": "9362719606"
+    },
+    {
+      "address": "5625 S Padre Island Dr, Corpus Christi, TX 78412",
+      "phone": "361-980-1976",
+      "id": "3619801976"
+    },
+    {
+      "address": "650 S. W.E Crawford Ave., Fate, TX 75189",
+      "phone": "7135177654",
+      "id": "7135177654"
+    },
+    {
+      "address": "14315 Cypress Rosehill Rd Suite 140, Cypress, TX 77429",
+      "phone": "281-373-2999",
+      "id": "2813732999"
+    },
+    {
+      "address": "9500 N Central Expy #200, Dallas, TX 75231",
+      "phone": "214-369-2800",
+      "id": "2143692800"
+    },
+    {
+      "address": "5959 Royal Ln #635, Dallas, TX 75230",
+      "phone": "469-232-2200",
+      "id": "4692322200"
+    },
+    {
+      "address": "3200 W Pioneer Pkwy, Dalworthington Gardens, TX 76013",
+      "phone": "817-542-0200",
+      "id": "8175420200"
+    },
+    {
+      "address": "2315 Colorado Blvd Suite 160, Denton, TX 76205",
+      "phone": "940-243-2929",
+      "id": "9402432929"
+    },
+    {
+      "address": "2410 Smith Street, Houston, TX 77006",
+      "phone": "713-526-8787",
+      "id": "7135268787"
+    },
+    {
+      "address": "166 Hargraves Drive, Suite B400, Austin, TX 78737",
+      "phone": "512-432-0186",
+      "id": "5124320186"
+    },
+    {
+      "address": "3404 N Central Expy, Plano, TX 75074",
+      "phone": "972-423-6688",
+      "id": "9724236688"
+    },
+    {
+      "address": "7933 N Mesa St Suite A, El Paso, TX 79932",
+      "phone": "915-584-3300",
+      "id": "9155843300"
+    },
+    {
+      "address": "655 Sunland Park Dr Suite F, El Paso, TX 79912",
+      "phone": "915-584-1008",
+      "id": "9155841008"
+    },
+    {
+      "address": "1100 W Hwy 290, Elgin, TX 78621",
+      "phone": "512-285-2741",
+      "id": "5122852741"
+    },
+    {
+      "address": "5788 FM 879, Garrett, TX 75119",
+      "phone": "972-875-9808",
+      "id": "9728759808"
+    },
+    {
+      "address": "900 E Harwood, Euless, TX 76039",
+      "phone": "817-545-2184",
+      "id": "8175452184"
+    },
+    {
+      "address": "5100 Montana Ave, El Paso, TX 79903",
+      "phone": "915-887-0970",
+      "id": "9158870970"
+    },
+    {
+      "address": "3335 Hwy 6, Sugar Land, TX 77478",
+      "phone": "281-313-4446",
+      "id": "2813134446"
+    },
+    {
+      "address": "4720 Bryant Irvin Rd, Fort Worth, TX 76132",
+      "phone": "817-423-8400",
+      "id": "8174238400"
+    },
+    {
+      "address": "1600 Eastchase Pkwy, Fort Worth, TX 76120",
+      "phone": "817-801-3000",
+      "id": "8178013000"
+    },
+    {
+      "address": "2750 S Hulen St, Fort Worth, TX 76109",
+      "phone": "817-923-2700",
+      "id": "8179232700"
+    },
+    {
+      "address": "10601 RR 620 N, Austin, TX 78726",
+      "phone": "512-506-8316",
+      "id": "5125068316"
+    },
+    {
+      "address": "3100 FM 528, Webster, TX 77598",
+      "phone": "281-648-5473",
+      "id": "2816485473"
+    },
+    {
+      "address": "1743 Fry Rd, Katy, TX 77449",
+      "phone": "281-579-7000",
+      "id": "2815797000"
+    },
+    {
+      "address": "3811 N Fry Rd, Katy, TX 77449",
+      "phone": "281-578-0916",
+      "id": "2815780916"
+    },
+    {
+      "address": "24940 FM 1093, Richmond, TX 77494",
+      "phone": "281-391-4008",
+      "id": "2813914008"
+    },
+    {
+      "address": "5130 Richmond Ave, Houston, TX 77056",
+      "phone": "832-518-2850",
+      "id": "8325182850"
+    },
+    {
+      "address": "2711 61st St, Galveston, TX 77551",
+      "phone": "409-744-6327",
+      "id": "4097446327"
+    },
+    {
+      "address": "1013 W University Ave #200, Georgetown, TX 78628",
+      "phone": "512-868-6696",
+      "id": "5128686696"
+    },
+    {
+      "address": "8306 SW Fwy Service Rd, Houston, TX 77027",
+      "phone": "713-777-0187",
+      "id": "7137770187"
+    },
+    {
+      "address": "24527 Gosling Rd. BLDG-C #101, Spring, TX 77389",
+      "phone": "281-516-9404",
+      "id": "2815169404"
+    },
+    {
+      "address": "1150 E Hwy 377, Granbury, TX 76048",
+      "phone": "817-579-9103",
+      "id": "8175799103"
+    },
+    {
+      "address": "2401 Parker Road, Carrolton, TX 75010",
+      "phone": "972-395-2522",
+      "id": "9723952522"
+    },
+    {
+      "address": "5775 Airport Blvd, Austin, TX 78752",
+      "phone": "512-366-8300",
+      "id": "5123668300"
+    },
+    {
+      "address": "8945 Hwy 6 N, Houston, TX 77095",
+      "phone": "281-859-5879",
+      "id": "2818595879"
+    },
+    {
+      "address": "9430 Addicks-Howell Rd, Houston, TX 77083",
+      "phone": "832-327-3660",
+      "id": "8323273660"
+    },
+    {
+      "address": "9733 Buffalo Speedway, Houston, TX 77025",
+      "phone": "713-838-7486",
+      "id": "7138387486"
+    },
+    {
+      "address": "14110 Stuebner Airline Rd, Houston, TX 77069",
+      "phone": "281-440-8895",
+      "id": "2814408895"
+    },
+    {
+      "address": "19322 US-59, Humble, TX 77338",
+      "phone": "281-540-7202",
+      "id": "2815407202"
+    },
+    {
+      "address": "207 I-45, Huntsville, TX 77340",
+      "phone": "936-435-1817",
+      "id": "9364351817"
+    },
+    {
+      "address": "12611 Hymeadow Dr, Austin, TX 78729",
+      "phone": "512-506-8401",
+      "id": "5125068401"
+    },
+    {
+      "address": "6065 NW Loop 410 Suite 108, San Antonio, TX 78238",
+      "phone": "210-647-7873",
+      "id": "2106477873"
+    },
+    {
+      "address": "17414 Northwest Fwy, Jersey Village, TX 77040",
+      "phone": "713-983-8827",
+      "id": "7139838827"
+    },
+    {
+      "address": "9722 Gaston Road, Suite 130, Katy, TX 77494",
+      "phone": "281-574-3008",
+      "id": "2815743008"
+    },
+    {
+      "address": "1640 S Mason Rd, Katy, TX 77450",
+      "phone": "281-395-6262",
+      "id": "2813956262"
+    },
+    {
+      "address": "24417 Katy Freeway, Katy, TX 77494",
+      "phone": "281-394-5780",
+      "id": "2813945780"
+    },
+    {
+      "address": "243 Marina Bay Drive, Kemah, TX 77565",
+      "phone": "281-538-9095",
+      "id": "2815389095"
+    },
+    {
+      "address": "1305 Sidney Baker St, Kerrville, TX 78028",
+      "phone": "830-895-8757",
+      "id": "8308958757"
+    },
+    {
+      "address": "2500 E Central Texas Expy, Killeen, TX 76543",
+      "phone": "254-616-5871",
+      "id": "2546165871"
+    },
+    {
+      "address": "1420 Kingwood Dr, Kingwood, TX 77339",
+      "phone": "281-359-7115",
+      "id": "2813597115"
+    },
+    {
+      "address": "13313 Kuykendahl Rd, Houston, TX 77090",
+      "phone": "281-873-5220",
+      "id": "2818735220"
+    },
+    {
+      "address": "715 New Dallas Hwy, Waco, TX 76705",
+      "phone": "254-799-5390",
+      "id": "2547995390"
+    },
+    {
+      "address": "5506 San Bernardo Ave, Laredo, TX 78041",
+      "phone": "956-727-2890",
+      "id": "9567272890"
+    },
+    {
+      "address": "196 Gulf Fwy S, League City, TX 77573",
+      "phone": "281-316-2140",
+      "id": "2813162140"
+    },
+    {
+      "address": "2003 N Loop 1604 E, Suite 111, San Antonio, TX 78232",
+      "phone": "210-494-8600",
+      "id": "2104948600"
+    },
+    {
+      "address": "2416 S Stemmons Fwy, Lewisville, TX 75067",
+      "phone": "214-488-0888",
+      "id": "2144880888"
+    },
+    {
+      "address": "27100 Hwy 380, Denton, TX 75068",
+      "phone": "972-347-9630",
+      "id": "9723479630"
+    },
+    {
+      "address": "14623 IH 35 N, Live Oak, TX 78154",
+      "phone": "210-651-1911",
+      "id": "2106511911"
+    },
+    {
+      "address": "1614 Louetta Rd, Spring, TX 77388",
+      "phone": "281-350-1198",
+      "id": "2813501198"
+    },
+    {
+      "address": "7314 Louetta Rd, Spring, TX 77379",
+      "phone": "281-370-1986",
+      "id": "2813701986"
+    },
+    {
+      "address": "4100 E University Dr, McKinney, TX 75069",
+      "phone": "972-540-2500",
+      "id": "9725402500"
+    },
+    {
+      "address": "6816 Slide Rd #12, Lubbock, TX 79424",
+      "phone": "806-794-3500",
+      "id": "8067943500"
+    },
+    {
+      "address": "2510 Hwy 281 Suite 201, Marble Falls, TX 78654",
+      "phone": "830-693-4930",
+      "id": "8306934930"
+    },
+    {
+      "address": "9972 Marsh Ln, Dallas, TX 75220",
+      "phone": "214-353-2701",
+      "id": "2143532701"
+    },
+    {
+      "address": "2700 Expressway 83, Suite 200, McAllen, TX 78501",
+      "phone": "956-994-9414",
+      "id": "9569949414"
+    },
+    {
+      "address": "2314 W Holcombe Blvd, Houston, TX 77030",
+      "phone": "713-669-1722",
+      "id": "7136691722"
+    },
+    {
+      "address": "14635 Memorial Dr, Houston, TX 77079",
+      "phone": "281-870-9778",
+      "id": "2818709778"
+    },
+    {
+      "address": "5418 Texas 6, Missouri City, TX 77489",
+      "phone": "281-403-0400",
+      "id": "2814030400"
+    },
+    {
+      "address": "18434 Texas 105, Montgomery, TX 77356",
+      "phone": "936-582-5407",
+      "id": "9365825407"
+    },
+    {
+      "address": "1420 N Loop 336 W #100, Conroe, TX 77304",
+      "phone": "936-441-7161",
+      "id": "9364417161"
+    },
+    {
+      "address": "263 Creekside Crossing, New Braunfels, TX 78130",
+      "phone": "830-608-1969",
+      "id": "8306081969"
+    },
+    {
+      "address": "1671 N Interstate 35 Frontage Rd, Suite 302, New Braunfels, TX 78130",
+      "phone": "830-629-0434",
+      "id": "8306290434"
+    },
+    {
+      "address": "5720 New Territory Blvd, Sugar Land, TX 77479",
+      "phone": "281-491-0811",
+      "id": "2814910811"
+    },
+    {
+      "address": "1613 W Northwest Hwy, Dallas, TX 75220",
+      "phone": "972-506-8193",
+      "id": "9725068193"
+    },
+    {
+      "address": "27490 I-45 N, Oak Ridge North, TX 77385",
+      "phone": "281-296-6000",
+      "id": "2812966000"
+    },
+    {
+      "address": "4122 Fairmont Pkwy, Pasadena, 77054",
+      "phone": "281-991-1612",
+      "id": "2819911612"
+    },
+    {
+      "address": "10555 Pearland Pkwy, Houston, TX 77089",
+      "phone": "713-987-9205",
+      "id": "7139879205"
+    },
+    {
+      "address": "1453 Coit Rd, Plano, TX 75075",
+      "phone": "972-867-2821",
+      "id": "9728672821"
+    },
+    {
+      "address": "5930 W Park Blvd, Plano, TX 75093",
+      "phone": "972-250-0500",
+      "id": "9722500500"
+    },
+    {
+      "address": "23611 Highway 59, Ste 500, Porter, TX 77365",
+      "phone": "281-354-0733",
+      "id": "2813540733"
+    },
+    {
+      "address": "8123 Preston Rd, Dallas, TX 75225",
+      "phone": "214-361-6697",
+      "id": "2143616697"
+    },
+    {
+      "address": "819 E Rector Dr, San Antonio, TX 78216",
+      "phone": "210-340-2244",
+      "id": "2103402244"
+    },
+    {
+      "address": "15540 Northwest Blvd, Robstown, TX 78380",
+      "phone": "361-387-7997",
+      "id": "3613877997"
+    },
+    {
+      "address": "3505 Longmire Dr, College Station, TX 77845",
+      "phone": "979-696-2002",
+      "id": "9796962002"
+    },
+    {
+      "address": "4102 FM 762 Rd, Rosenberg, TX 77469",
+      "phone": "281-238-0776",
+      "id": "2812380776"
+    },
+    {
+      "address": "201 University Oaks Blvd #600, Round Rock, TX 78664",
+      "phone": "512-341-9066",
+      "id": "5123419066"
+    },
+    {
+      "address": "8505 Lakeview Pkwy, Suite 320, Rowlett, TX 75088",
+      "phone": "214-607-0257",
+      "id": "2146070257"
+    },
+    {
+      "address": "8110 Highway 78, Sachse, TX 75048",
+      "phone": "972-429-4456",
+      "id": "9724294456"
+    },
+    {
+      "address": "1309 N Loop 1604 W, San Antonio, TX 78258",
+      "phone": "210-408-8206",
+      "id": "2104088206"
+    },
+    {
+      "address": "5219 De Zavala Rd #101, San Antonio, TX 78249",
+      "phone": "210-561-0900",
+      "id": "2105610900"
+    },
+    {
+      "address": "510 Barnes Dr, San Marcos, TX 78666",
+      "phone": "512-392-0366",
+      "id": "5123920366"
+    },
+    {
+      "address": "3126 E NASA Road 1, Seabrook, TX 77586",
+      "phone": "281-326-5127",
+      "id": "2813265127"
+    },
+    {
+      "address": "1900 South Shepherd Dr, Houston, TX 77019",
+      "phone": "713-529-4849",
+      "id": "7135294849"
+    },
+    {
+      "address": "3606 Loy Lake Road, Sherman, TX 75090",
+      "phone": "903-421-0070",
+      "id": "9034210070"
+    },
+    {
+      "address": "9034 Sienna Crossing Drive, Missouri City, TX 77479",
+      "phone": "281-778-9959",
+      "id": "2817789959"
+    },
+    {
+      "address": "4200 S Alameda St, Corpus Christi, TX 78412",
+      "phone": "361-906-0073",
+      "id": "3619060073"
+    },
+    {
+      "address": "10529 S Padre Island Dr, Corpus Christi, TX 78418",
+      "phone": "361-937-3620",
+      "id": "3619373620"
+    },
+    {
+      "address": "9900 S IH 35 Frontage Rd, Austin, TX 78748",
+      "phone": "512-280-7400",
+      "id": "5122807400"
+    },
+    {
+      "address": "2501 N Mesa St, El Paso, TX 79902",
+      "phone": "915-633-1317",
+      "id": "9156331317"
+    },
+    {
+      "address": "6603 Spring Stuebner Road #135, Spring, TX 77389",
+      "phone": "281-288-0239",
+      "id": "2812880239"
+    },
+    {
+      "address": "22508 Highway 249, Houston, TX 77070",
+      "phone": "281-379-7383",
+      "id": "2813797383"
+    },
+    {
+      "address": "8416 Katy Fwy, Spring Valley Village, TX 77024",
+      "phone": "713-463-8111",
+      "id": "7134638111"
+    },
+    {
+      "address": "8622 Stella Link Rd, Houston, TX 77025",
+      "phone": "713-667-7277",
+      "id": "7136677277"
+    },
+    {
+      "address": "23026 US Hwy 281 N, San Antonio, TX 78258",
+      "phone": "210-497-1322",
+      "id": "2104971322"
+    },
+    {
+      "address": "13827 Southwest Fwy, Sugar Land, TX 77478",
+      "phone": "281-491-8628",
+      "id": "2814918628"
+    },
+    {
+      "address": "3550 S General Bruce Dr, Temple, TX 76504",
+      "phone": "254-771-1518",
+      "id": "2547711518"
+    },
+    {
+      "address": "535 American Way, Terrell, TX 75160",
+      "phone": "972-551-0862",
+      "id": "9725510862"
+    },
+    {
+      "address": "4901 State Hwy 121, The Colony, TX 75056",
+      "phone": "214-469-2113",
+      "id": "2144692113"
+    },
+    {
+      "address": "10491 Kuykendahl Rd, Spring, TX 77382",
+      "phone": "281-681-9110",
+      "id": "2816819110"
+    },
+    {
+      "address": "28595 Tomball Parkway, Tomball, TX 77375",
+      "phone": "281-290-7810",
+      "id": "2812907810"
+    },
+    {
+      "address": "12901 Queensbury Ln, Houston, TX 77079",
+      "phone": "713-467-5515",
+      "id": "7134675515"
+    },
+    {
+      "address": "5108 N Navarro St, Victoria, TX 77904",
+      "phone": "361-576-5400",
+      "id": "3615765400"
+    },
+    {
+      "address": "1434 S Valley Mills Dr, Waco, TX 76711",
+      "phone": "254-754-2221",
+      "id": "2547542221"
+    },
+    {
+      "address": "106 Cleburne Ave, Weatherford, TX 76086",
+      "phone": "817-594-7810",
+      "id": "8175947810"
+    },
+    {
+      "address": "6401 Weber Rd, Corpus Christi, TX 78413",
+      "phone": "361-854-6452",
+      "id": "3618546452"
+    },
+    {
+      "address": "3902 Bissonnet St, Houston, TX 77005",
+      "phone": "713-218-8144",
+      "id": "7132188144"
+    },
+    {
+      "address": "5818 Memorial Dr, Houston, TX 77007",
+      "phone": "713-861-4161",
+      "id": "7138614161"
+    },
+    {
+      "address": "8102 Westheimer Rd, Houston, TX 77063",
+      "phone": "713-780-2573",
+      "id": "7137802573"
+    },
+    {
+      "address": "11990 Westheimer Rd, Houston, TX 77077",
+      "phone": "281-497-0413",
+      "id": "2814970413"
+    },
+    {
+      "address": "2341 US Hwy 377, Westlake, TX 76262",
+      "phone": "817-490-9072",
+      "id": "8174909072"
+    },
+    {
+      "address": "9618 W FM 1097, Willis, TX 77318",
+      "phone": "936-228-0385",
+      "id": "9362280385"
+    },
+    {
+      "address": "6927 Fm 1960 W, Houston, TX 77066",
+      "phone": "281-580-1734",
+      "id": "2815801734"
+    },
+    {
+      "address": "14650 Woodforest Blvd, Houston, TX 77015",
+      "phone": "713-637-7327",
+      "id": "7136377327"
+    },
+    {
+      "address": "25044 I-45, Spring, TX 77386",
+      "phone": "281-362-9131",
+      "id": "2813629131"
+    },
+    {
+      "address": "2036 N Zaragoza Rd, El Paso, TX 79938",
+      "phone": "915-857-5240",
+      "id": "9158575240"
+    }
+  ]
+}
