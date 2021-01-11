@@ -1,0 +1,100 @@
+{
+  "name": "New Seasons Market",
+  "stores": [
+    {
+      "address": "6300 North Lombard Street",
+      "phone": "503-289-0834",
+      "id": "5032890834"
+    },
+    {
+      "address": "4500 Southeast Woodstock Boulevard",
+      "phone": "503-771-9663",
+      "id": "5037719663"
+    },
+    {
+      "address": "2170 Northwest Raleigh Street",
+      "phone": "503-224-7522",
+      "id": "5032247522"
+    },
+    {
+      "address": "1954 Southeast Division Street",
+      "phone": "503-445-2888",
+      "id": "5034452888"
+    },
+    {
+      "address": "1214 Southeast Tacoma Street",
+      "phone": "503-230-4949",
+      "id": "5032304949"
+    },
+    {
+      "address": "7300 Southwest Beaverton Hillsdale Highway",
+      "phone": "503-292-6838",
+      "id": "5032926838"
+    },
+    {
+      "address": "14805 Southwest Barrows Road",
+      "phone": "503-597-6777",
+      "id": "5035976777"
+    },
+    {
+      "address": "1453 Northeast 61st Avenue",
+      "phone": "503-648-6968",
+      "id": "5036486968"
+    },
+    {
+      "address": "7703 Southwest Nyberg Street",
+      "phone": "503-692-3535",
+      "id": "5036923535"
+    },
+    {
+      "address": "3 Monroe Parkway",
+      "phone": "503-496-1155",
+      "id": "5034961155"
+    },
+    {
+      "address": "4034 Southeast Hawthorne Boulevard",
+      "phone": "503-236-4800",
+      "id": "5032364800"
+    },
+    {
+      "address": "15861 Southeast Happy Valley Town Center Drive",
+      "phone": "503-558-9214",
+      "id": "5035589214"
+    },
+    {
+      "address": "3210 Northeast Broadway Street",
+      "phone": "503-282-2080",
+      "id": "5032822080"
+    },
+    {
+      "address": "5320 Northeast 33rd Avenue",
+      "phone": "503-288-3838",
+      "id": "5032883838"
+    },
+    {
+      "address": "5667 Silver Creek Valley Road",
+      "phone": "408-513-8200",
+      "id": "4085138200"
+    },
+    {
+      "address": "2100b Southeast 164th Avenue",
+      "phone": "360-760-5005",
+      "id": "3607605005"
+    },
+    {
+      "address": "3495 Southwest Cedar Hills Boulevard",
+      "phone": "503-641-4181",
+      "id": "5036414181"
+    },
+    {
+      "address": "6400 North Interstate Avenue",
+      "phone": "503-467-4777",
+      "id": "5034674777"
+    },
+    {
+      "address": "3445 North Williams Avenue",
+      "phone": "503-528-2888",
+      "id": "5035282888"
+    }
+  ]
+}

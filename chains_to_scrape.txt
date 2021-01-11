@@ -56,7 +56,7 @@ Yoke's Fresh Market
 Earth Fare
 The Fresh Market
 Market of Choice
-New Seasons Market
+! New Seasons Market
 ! Spec's Wine
 ! Trader Joe's
 |IFrame| Total Wine
