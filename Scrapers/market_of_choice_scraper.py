@@ -21,7 +21,6 @@ driver.get("https://www.marketofchoice.com/about-market-of-choice/locations")
 chain = {"name": "Market of Choice", "stores": []}
 default_delay = 0.5
 
-# //*[@id="content"]/div[2]/div[2]/table/tbody/tr[1]/td[1]/p
 table = driver.find_element_by_xpath("//*[@id='content']/div[2]/div[2]/table")
 rows = table.find_elements(By.TAG_NAME, "tr")
 for row in rows:
