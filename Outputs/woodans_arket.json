@@ -1,0 +1,95 @@
+{
+  "name": "Woodman's Market",
+  "stores": [
+    {
+      "address": "2855 Woodman Drive, Altoona, WI, 54720",
+      "phone": "715-598-7255",
+      "id": "7155987255"
+    },
+    {
+      "address": "595 N. Westhill Blvd., Appleton, WI, 54914",
+      "phone": "920-735-6655",
+      "id": "9207356655"
+    },
+    {
+      "address": "1877 Madison Rd., Beloit, WI, 53511",
+      "phone": "608-362-0420",
+      "id": "6083620420"
+    },
+    {
+      "address": "1550 Deerfield Parkway, Buffalo Grove, IL, 60089",
+      "phone": "847-243-4736",
+      "id": "8472434736"
+    },
+    {
+      "address": "2100 Randall Rd., Carpentersville, IL, 60110",
+      "phone": "847-649-9005",
+      "id": "8476499005"
+    },
+    {
+      "address": "2400 Duck Parkway, Green Bay, WI, 54303",
+      "phone": "920-499-1480",
+      "id": "9204991480"
+    },
+    {
+      "address": "2819 N. Lexington Dr., Janesville, WI, 53545",
+      "phone": "608-754-3373",
+      "id": "6087543373"
+    },
+    {
+      "address": "7145 120th Ave., Kenosha, WI, 53142",
+      "phone": "262-857-3801",
+      "id": "2628573801"
+    },
+    {
+      "address": "27555 IL Route 120, Lakemoor, IL, 60051",
+      "phone": "779-704-4220",
+      "id": "7797044220"
+    },
+    {
+      "address": "3817 Milwaukee St., Madison, WI, 53714",
+      "phone": "608-244-6630",
+      "id": "6082446630"
+    },
+    {
+      "address": "725 S. Gammon Rd., Madison, WI, 53719",
+      "phone": "608-274-8944",
+      "id": "6082748944"
+    },
+    {
+      "address": "W124 N18145 Hwy 145, Menomonee Falls, WI, 53051",
+      "phone": "262-415-4001",
+      "id": "2624154001"
+    },
+    {
+      "address": "151 Hansen Blvd., North Aurora, IL, 60542",
+      "phone": "630-723-3900",
+      "id": "6307233900"
+    },
+    {
+      "address": "8131 S. Howell Ave., Oak Creek, WI, 53154",
+      "phone": "414-376-4023",
+      "id": "4143764023"
+    },
+    {
+      "address": "9515 Hwy. 16, Onalaska, WI, 54650",
+      "phone": "608-783-2233",
+      "id": "6087832233"
+    },
+    {
+      "address": "3155 McFarland Rd., Rockford, IL, 61114",
+      "phone": "815-986-0220",
+      "id": "8159860220"
+    },
+    {
+      "address": "1099 South Grand Ave., Sun Prairie, WI, 53590",
+      "phone": "608-825-1511",
+      "id": "6088251511"
+    },
+    {
+      "address": "1600 E. Main St., Waukesha, WI, 53186",
+      "phone": "262-408-5231",
+      "id": "2624085231"
+    }
+  ]
+}

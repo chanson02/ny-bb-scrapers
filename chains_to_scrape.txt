@@ -51,7 +51,7 @@ Sendik's Food Market
 Sentry Foods
 Shoppers Food
 Super One Foods
-Woodman's Food Market
+! Woodman's Food Market
 ! Yoke's Fresh Market
 ! Earth Fare
 ! The Fresh Market
