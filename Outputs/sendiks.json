@@ -1,0 +1,90 @@
+{
+  "name": "Sendik's Food Market",
+  "stores": [
+    {
+      "address": "280 N. 18th Avenue, West Bend, WI 53095",
+      "phone": "262-335-9525",
+      "id'": "2623359525"
+    },
+    {
+      "address": "600 Hartbrook Drive, Hartland, WI 53029",
+      "phone": "262-369-0900",
+      "id'": "2623690900"
+    },
+    {
+      "address": "701 Meadowbrook Rd, Waukesha, WI 53188",
+      "phone": "262-875-4707",
+      "id'": "2628754707"
+    },
+    {
+      "address": "N112 W15800 Mequon Road, Germantown, WI 53022",
+      "phone": "262-250-9525",
+      "id'": "2622509525"
+    },
+    {
+      "address": "20222 Lower Union St, Brookfield, WI 53045",
+      "phone": "262-439-8930",
+      "id'": "2624398930"
+    },
+    {
+      "address": "2195 1st Avenue, Grafton, WI 53024",
+      "phone": "262-376-9525",
+      "id'": "2623769525"
+    },
+    {
+      "address": "13425 Watertown Plank Rd., Elm Grove, WI 53122",
+      "phone": "262-784-9525",
+      "id'": "2627849525"
+    },
+    {
+      "address": "3600 S. Moorland Road, New Berlin, WI 53151",
+      "phone": "262-439-9269",
+      "id'": "2624399269"
+    },
+    {
+      "address": "10930 N. Port Washington Road, Mequon, WI 53092",
+      "phone": "262-241-9525",
+      "id'": "2622419525"
+    },
+    {
+      "address": "8616 W. North Avenue, Wauwatosa, WI 53226",
+      "phone": "414-456-9525",
+      "id'": "4144569525"
+    },
+    {
+      "address": "500 E. Silver Spring Drive, Whitefish Bay, WI 53217",
+      "phone": "414-962-9525",
+      "id'": "4149629525"
+    },
+    {
+      "address": "7901 W. Layton Ave., Greenfield, WI 53220",
+      "phone": "414-329-9525",
+      "id'": "4143299525"
+    },
+    {
+      "address": "5200 W. Rawson Ave, Franklin, WI 53132",
+      "phone": "414-817-9525",
+      "id'": "4148179525"
+    },
+    {
+      "address": "340 W Brown Deer Rd., Bayside, WI 53217",
+      "phone": "414-352-9525",
+      "id'": "4143529525"
+    },
+    {
+      "address": "5101 S. 108th St, Hales Corners, WI 53130",
+      "phone": "414-235-4305",
+      "id'": "4142354305"
+    },
+    {
+      "address": "824 N 16th St, Milwaukee, WI 53233",
+      "phone": "414-797-4950",
+      "id'": "4147974950"
+    },
+    {
+      "address": "6200 W. Loomis Rd., Greendale, WI 53129",
+      "phone": "414-235-3550",
+      "id'": "4142353550"
+    }
+  ]
+}

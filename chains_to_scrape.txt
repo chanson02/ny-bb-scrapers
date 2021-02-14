@@ -47,7 +47,7 @@ Price Chopper
 New Seasons Market
 Raley's Supermarkets
 Rosauers Supermarkets
-Sendik's Food Market
+! Sendik's Food Market
 ! Sentry Foods
 ! Shoppers Food
 ! Super One Foods
