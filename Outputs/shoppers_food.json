@@ -1,0 +1,120 @@
+{
+  "name": "Shoppers Food",
+  "stores": [
+    {
+      "address": "2801 Smith Ave, Baltimore, MD 21209",
+      "phone": "410-653-9670",
+      "id": "2285"
+    },
+    {
+      "address": "1200 Eastern Blvd, Baltimore, MD 21221",
+      "phone": "410-574-2020",
+      "id": "2286"
+    },
+    {
+      "address": "5457 Baltimore National Pike, Baltimore, MD 21229",
+      "phone": "410-744-8065",
+      "id": "2287"
+    },
+    {
+      "address": "857 E Fort Ave, Baltimore, MD 21230",
+      "phone": "410-727-1246",
+      "id": "2288"
+    },
+    {
+      "address": "1955 E Joppa Rd, Baltimore, MD 21234",
+      "phone": "410-882-1404",
+      "id": "2290"
+    },
+    {
+      "address": "2000 Gwynns Falls Parkway, Baltimore, MD 21216",
+      "phone": "443-627-2285",
+      "id": "2299"
+    },
+    {
+      "address": "10501 Martin Luther King Jr. Hwy, Bowie, MD 20720",
+      "phone": "240-544-0180",
+      "id": "2383"
+    },
+    {
+      "address": "6300 Coventry Way, Clinton, MD 20735",
+      "phone": "301-868-7765",
+      "id": "2342"
+    },
+    {
+      "address": "4720 Cherry Hill Rd, College Park, MD 20740",
+      "phone": "301-345-5996",
+      "id": "2366"
+    },
+    {
+      "address": "1649 Crofton Center, Crofton, MD 21114",
+      "phone": "410-793-0532",
+      "id": "2332"
+    },
+    {
+      "address": "5820 Silver Hill Rd, Forestville, MD 20747",
+      "phone": "301-568-0351",
+      "id": "2350"
+    },
+    {
+      "address": "2950 Donnell St, Forestville, MD 20747",
+      "phone": "240-492-0180",
+      "id": "2377"
+    },
+    {
+      "address": "18066 Mateny Rd, Germantown, MD 20874",
+      "phone": "301-353-8904",
+      "id": "2362"
+    },
+    {
+      "address": "806 Largo Center Dr, Largo, MD 20774",
+      "phone": "301-808-0129",
+      "id": "2353"
+    },
+    {
+      "address": "3441 Fort Meade Rd, Laurel, MD 20724",
+      "phone": "301-206-3490",
+      "id": "2347"
+    },
+    {
+      "address": "13600 Baltimore Ave, Suite 100, Laurel, MD 20707",
+      "phone": "301-575-0260",
+      "id": "2379"
+    },
+    {
+      "address": "670 Old Mill Rd, Millersville, MD 21108",
+      "phone": "410-987-3232",
+      "id": "2284"
+    },
+    {
+      "address": "7790 Riverdale Rd, New Carrollton, MD 20784",
+      "phone": "301-577-8407",
+      "id": "2339"
+    },
+    {
+      "address": "551 Jermor Ln, Westminster, MD 21157",
+      "phone": "410-848-6772",
+      "id": "2374"
+    },
+    {
+      "address": "7660 Richmond Hwy, Alexandria, VA 22306",
+      "phone": "703-765-5014",
+      "id": "2358"
+    },
+    {
+      "address": "4174 Fortuna Center Plaza, Dumfries, VA 22025",
+      "phone": "703-580-1164",
+      "id": "2381"
+    },
+    {
+      "address": "9622 Main St, Fairfax, VA 22031",
+      "phone": "703-978-1256",
+      "id": "2336"
+    },
+    {
+      "address": "1505 Stafford Market Place, Stafford, VA 22554",
+      "phone": "540-288-3182",
+      "id": "2372"
+    }
+  ]
+}

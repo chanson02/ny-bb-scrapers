@@ -49,7 +49,7 @@ Raley's Supermarkets
 Rosauers Supermarkets
 Sendik's Food Market
 Sentry Foods
-Shoppers Food
+! Shoppers Food
 ! Super One Foods
 ! Woodman's Food Market
 ! Yoke's Fresh Market
