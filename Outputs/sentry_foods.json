@@ -1,0 +1,60 @@
+{
+  "name": "Sentry Foods",
+  "stores": [
+    {
+      "address": "115 South Superior St., Antigo, WI 54409",
+      "phone": "715-623-5417",
+      "id": "1003389"
+    },
+    {
+      "address": "3255 Golf Road, Delafield, WI 53018",
+      "phone": "262-646-9483",
+      "id": "1001031"
+    },
+    {
+      "address": "323 E Main Street, Hortonville, WI 54944",
+      "phone": "920-779-4471",
+      "id": "1182872"
+    },
+    {
+      "address": "125 Meadow Rd, Iola, WI 54945",
+      "phone": "715-445-3316",
+      "id": "1003182"
+    },
+    {
+      "address": "2501 West Court Street, Janesville, WI 53545",
+      "phone": "608-752-0501",
+      "id": "1001023"
+    },
+    {
+      "address": "9210 W Lisbon Ave, Milwaukee, WI 53222",
+      "phone": "414-461-5305",
+      "id": "1001003"
+    },
+    {
+      "address": "7101 West Lisbon Avenue, Milwaukee, WI 53210",
+      "phone": "414-871-1700",
+      "id": "1001016"
+    },
+    {
+      "address": "645 3rd Street, Prairie du Sac, WI 53578",
+      "phone": "608-643-2227",
+      "id": "1182871"
+    },
+    {
+      "address": "474 Hwy 70, St Germain, WI 54558",
+      "phone": "715-479-9150",
+      "id": "1001501"
+    },
+    {
+      "address": "681 Kenosha Street, Walworth, WI 53184",
+      "phone": "262-275-0458",
+      "id": "1001024"
+    },
+    {
+      "address": "110 S. Mission Street, Wittenberg, WI 54499",
+      "phone": "715-253-2161",
+      "id": "1004755"
+    }
+  ]
+}
