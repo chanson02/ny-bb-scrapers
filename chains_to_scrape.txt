@@ -12,9 +12,9 @@
 ! Whole Foods
 |Fixed| Sam's Club
 *Costco
-BUSTED Hy-Vee
+|BUSTED| Hy-Vee
 *Meijer
-BUSTED Schnucks
+|BUSTED| Schnucks
 SpartanNash
 -BROKE- Giant Eagle
 Market Basket
@@ -53,7 +53,7 @@ Shoppers Food
 Super One Foods
 Woodman's Food Market
 Yoke's Fresh Market
-Earth Fare
+! Earth Fare
 ! The Fresh Market
 ! Market of Choice
 ! New Seasons Market

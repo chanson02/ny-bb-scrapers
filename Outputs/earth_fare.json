@@ -1,0 +1,90 @@
+{
+  "name": "Earth Fare",
+  "stores": [
+    {
+      "address": "66 Westgate Parkway, Asheville, NC 28806",
+      "phone": "828-255-2999",
+      "id": "8282552999"
+    },
+    {
+      "address": "1689 South Lumpkin Street, Athens, GA 30606",
+      "phone": "706-353-2170",
+      "id": "7063532170"
+    },
+    {
+      "address": "178 West King Street, Boone, NC 28607",
+      "phone": "828-528-4226",
+      "id": "8285284226"
+    },
+    {
+      "address": "3939 Everhard Rd NW, Canton, OH 44709",
+      "phone": "234-215-5500",
+      "id": "2342155500"
+    },
+    {
+      "address": "74 Folly Road Boulevard, Charleston, SC 29407",
+      "phone": "843-277-0001",
+      "id": "8432770001"
+    },
+    {
+      "address": "12235 N. Community House Rd, Charlotte, NC 28277",
+      "phone": "704-672-5011",
+      "id": "7046725011"
+    },
+    {
+      "address": "721 Governor Morrison Boulevard Ste110, Charlotte, NC 28211",
+      "phone": "704-626-2007",
+      "id": "7046262007"
+    },
+    {
+      "address": "3620 Pelham Rd., Greenville, SC 2965",
+      "phone": "864-248-4188",
+      "id": "8642484188"
+    },
+    {
+      "address": "2351 Len Patterson Road, Fort Mill, SC 29708",
+      "phone": "803-650-3823",
+      "id": "8036503823"
+    },
+    {
+      "address": "1735 W. State of Franklin Road, Johnson City, TN 37604",
+      "phone": "423-900-2800",
+      "id": "4239002800"
+    },
+    {
+      "address": "10903 Parkside Drive, Knoxville, TN 37934",
+      "phone": "865-329-6757",
+      "id": "8653296757"
+    },
+    {
+      "address": "2405 SW 27th Ave Ste 101, Ocala, FL 34471",
+      "phone": "352-484-1710",
+      "id": "3524841710"
+    },
+    {
+      "address": "5070 Westnedge Ave., Portage, MI 49002",
+      "phone": "269-290-1020",
+      "id": "2692901020"
+    },
+    {
+      "address": "2203 Franklin Road SW, Roanoke, VA 24014-1109",
+      "phone": "540-266-3669",
+      "id": "5402663669"
+    },
+    {
+      "address": "7774 113th Street,, North Seminole, FL 3772",
+      "phone": "727-369-6767",
+      "id": "7273696767"
+    },
+    {
+      "address": "1101 North Main Street, Summerville, SC 29483",
+      "phone": "843-970-1909",
+      "id": "8439701909"
+    },
+    {
+      "address": "208 Monticello Ave., Williamsburg, VA 23185",
+      "phone": "757-383-8990",
+      "id": "7573838990"
+    }
+  ]
+}
