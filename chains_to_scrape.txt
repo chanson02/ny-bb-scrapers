@@ -54,7 +54,7 @@ Super One Foods
 Woodman's Food Market
 Yoke's Fresh Market
 Earth Fare
-|DO THIS ON SERVER| The Fresh Market
+! The Fresh Market
 ! Market of Choice
 ! New Seasons Market
 ! Spec's Wine
