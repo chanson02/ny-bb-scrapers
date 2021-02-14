@@ -1,0 +1,90 @@
+{
+  "name": "Yoke's Fresh Market",
+  "stores": [
+    {
+      "address": "12825 W Sunset Highway\nAirway Heights, WA 99001",
+      "phone": "509-244-3633",
+      "id": "5092443633"
+    },
+    {
+      "address": "9329 E. Montgomery\nSpokane Valley, WA 99206",
+      "phone": "509-343-8888",
+      "id": "5093438888"
+    },
+    {
+      "address": "4 Cheney Spokane Rd.\nCheney, WA, 99004",
+      "phone": "509-235-6310",
+      "id": "5092356310"
+    },
+    {
+      "address": "810 S Main St.\nDeer Park, WA 99006",
+      "phone": "509-276-7775",
+      "id": "5092767775"
+    },
+    {
+      "address": "3321 W Indian Trail Rd.\nSpokane, WA 99208",
+      "phone": "509-326-3840",
+      "id": "5093263840"
+    },
+    {
+      "address": "117 N Hill St.\nKellogg, ID. 83837",
+      "phone": "208-783-1171",
+      "id": "2087831171"
+    },
+    {
+      "address": "1410 W. 27th Ave\nKennewick, WA 99337",
+      "phone": "509-585-0888",
+      "id": "5095850888"
+    },
+    {
+      "address": "4235 Cheney Spokane Rd.\nSpokane, WA, 99224",
+      "phone": "509-838-1198",
+      "id": "5098381198"
+    },
+    {
+      "address": "1233 N. Liberty Lake Rd.\nLiberty Lake, WA, 99019",
+      "phone": "509-927-0300",
+      "id": "5099270300"
+    },
+    {
+      "address": "14202 N. Market\nMead, WA 99021",
+      "phone": "509-242-0200",
+      "id": "5092420200"
+    },
+    {
+      "address": "210 N Foothills Dr.\nSpokane, WA 99207",
+      "phone": "509-325-5611",
+      "id": "5093255611"
+    },
+    {
+      "address": "4905 Road 68\nPasco, WA 99301",
+      "phone": "509-545-5600",
+      "id": "5095455600"
+    },
+    {
+      "address": "1501 E. Seltice Way\nPost Falls, ID, 83854",
+      "phone": "208-773-3383",
+      "id": "2087733383"
+    },
+    {
+      "address": "212 Bonner Mall Way\nPonderay, ID 83852",
+      "phone": "208-263-4613",
+      "id": "2082634613"
+    },
+    {
+      "address": "454 Keene Rd.\nRichland, WA 99352",
+      "phone": "509-491-3336",
+      "id": "5094913336"
+    },
+    {
+      "address": "13014 E. Sprague Ave\nSpokane Valley, WA, 99216",
+      "phone": "509-928-9122",
+      "id": "5099289122"
+    },
+    {
+      "address": "1401 Bombing Range Rd\nWest Richland, WA 99353",
+      "phone": "509-967-8000",
+      "id": "5099678000"
+    }
+  ]
+}

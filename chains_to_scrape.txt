@@ -52,7 +52,7 @@ Sentry Foods
 Shoppers Food
 Super One Foods
 Woodman's Food Market
-Yoke's Fresh Market
+! Yoke's Fresh Market
 ! Earth Fare
 ! The Fresh Market
 ! Market of Choice
