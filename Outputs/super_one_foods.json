@@ -1,0 +1,160 @@
+{
+  "name": "Super One Foods",
+  "stores": [
+    {
+      "address": "1316 W. Arrowhead Road, Duluth , MN 55811",
+      "phone": "218-724-8885",
+      "id": "2187248885"
+    },
+    {
+      "address": "15 S. 13th Ave. East, Duluth , MN 55802",
+      "phone": "218-724-6427",
+      "id": "2187246427"
+    },
+    {
+      "address": "4020 Woodland Avenue, Duluth , MN 55803",
+      "phone": "218-724-4745",
+      "id": "2187244745"
+    },
+    {
+      "address": "5401 Burning Tree Road, Duluth , MN 55811",
+      "phone": "218-722-6019",
+      "id": "2187226019"
+    },
+    {
+      "address": "5928 E. Superior St., Duluth , MN 55804",
+      "phone": "218-525-1969",
+      "id": "2185251969"
+    },
+    {
+      "address": "5300 Bristol Street, Duluth , MN 55807 ",
+      "phone": "218-628-1965",
+      "id": "2186281965"
+    },
+    {
+      "address": "1515 Oakes Avenue, Superior , WI 54880",
+      "phone": "715-392-6218",
+      "id": "7153926218"
+    },
+    {
+      "address": "2202 East 2nd St, Superior , WI 54880 ",
+      "phone": "715-398-0078",
+      "id": "7153980078"
+    },
+    {
+      "address": "5698 Miller Trunk Highway, Duluth , MN 55811 ",
+      "phone": "218-729-7364",
+      "id": "2187297364"
+    },
+    {
+      "address": "707 Highway 33 South, Cloquet , MN 55720 ",
+      "phone": "218-879-4624",
+      "id": "2188794624"
+    },
+    {
+      "address": "802 11th St, Two Harbors , MN 55616",
+      "phone": "218-834-5651",
+      "id": "2188345651"
+    },
+    {
+      "address": "317 Main Street N, Biwabik , MN 55708",
+      "phone": "218-865-6702",
+      "id": "2188656702"
+    },
+    {
+      "address": "1111 17th Street South, Virginia , MN 55792 ",
+      "phone": "218-741-7202",
+      "id": "2187417202"
+    },
+    {
+      "address": "601 4th St. North, Virginia , MN 55792 ",
+      "phone": "218-741-3229",
+      "id": "2187413229"
+    },
+    {
+      "address": "1101 East 37th Street, Hibbing , MN 55746 ",
+      "phone": "218-262-5275",
+      "id": "2182625275"
+    },
+    {
+      "address": "401 Ellis Avenue, Ashland , WI 54806 ",
+      "phone": "715-682-8475",
+      "id": "7156828475"
+    },
+    {
+      "address": "2410 South Pokegama Ave., Grand Rapids , MN 55744 ",
+      "phone": "218-326-8528",
+      "id": "2183268528"
+    },
+    {
+      "address": "503 NW 4th Street, Grand Rapids , MN 55744 ",
+      "phone": "218-326-9695",
+      "id": "2183269695"
+    },
+    {
+      "address": "210 Main Avenue East, Deer River , MN 56636",
+      "phone": "218-246-8293",
+      "id": "2182468293"
+    },
+    {
+      "address": "101 E Main Street, Crosby , MN 56441",
+      "phone": "218-546-6020",
+      "id": "2185466020"
+    },
+    {
+      "address": "1480 East Cloverland Drive, Ironwood , MI 49938 ",
+      "phone": "906-932-0620",
+      "id": "9069320620"
+    },
+    {
+      "address": "1347 S. 4th Avenue, Park Falls , WI 54552 ",
+      "phone": "715-762-4272",
+      "id": "7157624272"
+    },
+    {
+      "address": "7895 Excelsior Rd., Baxter , MN 56425 ",
+      "phone": "218-828-2160",
+      "id": "2188282160"
+    },
+    {
+      "address": "701 Michigan Ave., Walker , MN 56484",
+      "phone": "218-547-1624",
+      "id": "2185471624"
+    },
+    {
+      "address": "1907 Valley Pine Circle, International Falls , MN 56649 ",
+      "phone": "218-283-4475",
+      "id": "2182834475"
+    },
+    {
+      "address": "1313 3rd Street, International Falls , MN 56649",
+      "phone": "218-283-8440",
+      "id": "2182838440"
+    },
+    {
+      "address": "15 Aldrich Ave. SW, Wadena , MN 56482",
+      "phone": "218-631-3410",
+      "id": "2186313410"
+    },
+    {
+      "address": "1118 Stephenson Avenue, Iron Mountain , MI 49801 ",
+      "phone": "906-774-6990",
+      "id": "9067746990"
+    },
+    {
+      "address": "440 U.S. Highway 41 East, Negaunee , MI 49866 ",
+      "phone": "906-475-4132",
+      "id": "9064754132"
+    },
+    {
+      "address": "610 3rd Street NW, Roseau , MN 56751",
+      "phone": "218-463-3151",
+      "id": "2184633151"
+    },
+    {
+      "address": "3070 West Highway 41, Marquette , MI 49855 ",
+      "phone": "906-228-6777",
+      "id": "9062286777"
+    }
+  ]
+}
