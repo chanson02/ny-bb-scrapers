@@ -1,21 +1,10 @@
-*King Soopers
-*Roundy's
-*Smith's Food and Drug
-*Fred Meyer
-*QFC
-*Food 4 Less
-*City Market
-*Kroger
-*Mariano's
-*Ralph's
 ! Walmart
 ! Whole Foods
 |Fixed| Sam's Club
-*Costco
+*Costco--https://www.costco.com/WarehouseListByStateDisplayView
 |BUSTED| Hy-Vee
-*Meijer
 |BUSTED| Schnucks
-SpartanNash
+|No ID?| SpartanNash
 -BROKE- Giant Eagle
 Market Basket
 Price Rite
@@ -66,9 +55,27 @@ Lidl
 ? Dollar General
 ? |Banned| Dollar Tree
 ! Family Dollar
-*Food 4 Less
 ! Grocer Outlet
-|IFrame| PriceRite
 |BROKE| Saves-A-Lot
 ! United Grocery Outlet
 ! Edible Arrangements
+
+Selenium blocked:
+*King Soopers
+*Roundy's
+    Pick n Save
+    Copps
+    Metro Market
+    Mariano's
+*Smith's Food and Drug
+*Fred Meyer
+*QFC
+*Food 4 Less
+*City Market
+*Kroger
+*Mariano's
+*Ralph's
+*Meijer
+
+IFrame chains:
+PriceRite
