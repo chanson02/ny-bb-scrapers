@@ -1,0 +1,615 @@
+{
+  "name": "Raley's Supermarkets",
+  "stores": [
+    {
+      "address": "10001 Soaring Way, Truckee CA, 96161",
+      "phone": "530-587-0125",
+      "id": "5305870125"
+    },
+    {
+      "address": "7315 Murieta Drive, Rancho Murieta CA, 95683",
+      "phone": "916-354-1002",
+      "id": "9163541002"
+    },
+    {
+      "address": "4690 Freeport Blvd., Sacramento CA, 95822",
+      "phone": "916-451-0126",
+      "id": "9164510126"
+    },
+    {
+      "address": "1601 West Capitol Ave., West Sacramento CA, 95691",
+      "phone": "916-372-3000",
+      "id": "9163723000"
+    },
+    {
+      "address": "1400 US Highway 95A North, Fernley NV, 89408",
+      "phone": "775-575-1381",
+      "id": "7755751381"
+    },
+    {
+      "address": "Hwy 95, Air Force Rd, Tonopah NV, 89049",
+      "phone": "775-482-6791",
+      "id": "7754826791"
+    },
+    {
+      "address": "176 W Goldfield Ave., Yerington NV, 89447",
+      "phone": "775-463-4431",
+      "id": "7754634431"
+    },
+    {
+      "address": "4788 Caughlin Pkwy., Reno NV, 89519",
+      "phone": "775-828-2424",
+      "id": "7758282424"
+    },
+    {
+      "address": "3555 Monroe Street, Santa Clara CA, 95051",
+      "phone": "408-557-0115",
+      "id": "4085570115"
+    },
+    {
+      "address": "3310 S. McCarran Blvd., Reno NV, 89502",
+      "phone": "775-825-5201",
+      "id": "7758255201"
+    },
+    {
+      "address": "4030 Sunrise Blvd, Rancho Cordova CA, 95742",
+      "phone": "916-351-8324",
+      "id": "9163518324"
+    },
+    {
+      "address": "1441 Mayberry Drive, Reno NV, 89509",
+      "phone": "775-786-0270",
+      "id": "7757860270"
+    },
+    {
+      "address": "2323 West Hammer Lane, Stockton CA, 95209",
+      "phone": "209-955-1475",
+      "id": "2099551475"
+    },
+    {
+      "address": "26905 Mission Blvd., Hayward CA, 94544",
+      "phone": "510-728-0240",
+      "id": "5107280240"
+    },
+    {
+      "address": "6061 Snell Avenue, San Jose CA, 95123",
+      "phone": "408-225-0546",
+      "id": "4082250546"
+    },
+    {
+      "address": "1250 Grant Road, Mountain View CA, 94040",
+      "phone": "650-390-9222",
+      "id": "6503909222"
+    },
+    {
+      "address": "2531 Blanding Avenue, Alameda CA, 94501",
+      "phone": "510-814-8800",
+      "id": "5108148800"
+    },
+    {
+      "address": "919 East Stanley, Livermore CA, 94550",
+      "phone": "925-443-9500",
+      "id": "9254439500"
+    },
+    {
+      "address": "130 Market Place, San Ramon CA, 94583",
+      "phone": "925-866-1022",
+      "id": "9258661022"
+    },
+    {
+      "address": "270 Redwood Shores Pkwy., Redwood City CA, 94065",
+      "phone": "650-654-2106",
+      "id": "6506542106"
+    },
+    {
+      "address": "2270 Oak Grove Road, Walnut Creek CA, 94598",
+      "phone": "925-256-7188",
+      "id": "9252567188"
+    },
+    {
+      "address": "611 Trancas Street, Napa CA, 94558",
+      "phone": "707-224-8583",
+      "id": "7072248583"
+    },
+    {
+      "address": "520 Center Avenue, Martinez CA, 94553",
+      "phone": "925-370-9400",
+      "id": "9253709400"
+    },
+    {
+      "address": "222 Mt. Hermon Road, Scotts Valley CA, 95066",
+      "phone": "831-438-1611",
+      "id": "8314381611"
+    },
+    {
+      "address": "1912 Main Street, Watsonville CA, 95076",
+      "phone": "831-728-9555",
+      "id": "8317289555"
+    },
+    {
+      "address": "809 Bay Avenue, Capitola CA, 95010",
+      "phone": "831-476-5600",
+      "id": "8314765600"
+    },
+    {
+      "address": "1320 S. Main Street, Salinas CA, 93901",
+      "phone": "831-758-8481",
+      "id": "8317588481"
+    },
+    {
+      "address": "1602 W. Campbell Ave., Campbell CA, 95008",
+      "phone": "408-379-6650",
+      "id": "4083796650"
+    },
+    {
+      "address": "1700 Airline Hwy., Hollister CA, 95023",
+      "phone": "831-637-7447",
+      "id": "8316377447"
+    },
+    {
+      "address": "451 Vineyard Town Center, Morgan Hill CA, 95037",
+      "phone": "408-779-8485",
+      "id": "4087798485"
+    },
+    {
+      "address": "15710 Los Gatos Blvd., Los Gatos CA, 95030",
+      "phone": "408-356-0421",
+      "id": "4083560421"
+    },
+    {
+      "address": "777 First Street, Gilroy CA, 95020",
+      "phone": "408-847-4857",
+      "id": "4088474857"
+    },
+    {
+      "address": "1945 N Street, Newman CA, 95360",
+      "phone": "209-862-1002",
+      "id": "2098621002"
+    },
+    {
+      "address": "1885 East Gibson Road, Woodland CA, 95776",
+      "phone": "530-668-4422",
+      "id": "5306684422"
+    },
+    {
+      "address": "3250 Arena Blvd, Sacramento CA, 95834",
+      "phone": "916-419-8844",
+      "id": "9164198844"
+    },
+    {
+      "address": "9435 Elk Grove Blvd, Elk Grove CA, 95624",
+      "phone": "916-714-6996",
+      "id": "9167146996"
+    },
+    {
+      "address": "2760 East Bidwell, Folsom CA, 95630",
+      "phone": "916-983-8844",
+      "id": "9169838844"
+    },
+    {
+      "address": "8425 Elk Grove Florin, Elk Grove CA, 95624",
+      "phone": "916-681-5775",
+      "id": "9166815775"
+    },
+    {
+      "address": "2155 Golden Centre Lane, Gold River CA, 95670",
+      "phone": "916-858-0494",
+      "id": "9168580494"
+    },
+    {
+      "address": "1286 Stabler Lane, Yuba City CA, 95993",
+      "phone": "530-755-3991",
+      "id": "5307553991"
+    },
+    {
+      "address": "7901 Walerga Rd., Antelope CA, 95843",
+      "phone": "916-725-0333",
+      "id": "9167250333"
+    },
+    {
+      "address": "2341 Sunset Blvd., Rocklin CA, 95765",
+      "phone": "916-632-0180",
+      "id": "9166320180"
+    },
+    {
+      "address": "2222 Grass Valley Hwy., Auburn CA, 95603",
+      "phone": "530-889-8626",
+      "id": "5308898626"
+    },
+    {
+      "address": "3510 Palmer Dr., Cameron Park CA, 95682",
+      "phone": "530-676-0512",
+      "id": "5306760512"
+    },
+    {
+      "address": "5100 Laguna Blvd., Elk Grove CA, 95758",
+      "phone": "916-684-7000",
+      "id": "9166847000"
+    },
+    {
+      "address": "7465 Rush River Dr., Sacramento CA, 95831",
+      "phone": "916-399-9091",
+      "id": "9163999091"
+    },
+    {
+      "address": "4008 Foothills Blvd., Roseville CA, 95747",
+      "phone": "916-783-1173",
+      "id": "9167831173"
+    },
+    {
+      "address": "4005 Manzanita Ave., Carmichael CA, 95608",
+      "phone": "916-483-2691",
+      "id": "9164832691"
+    },
+    {
+      "address": "1540 W. El Camino Ave., Sacramento CA, 95833",
+      "phone": "916-920-2493",
+      "id": "9169202493"
+    },
+    {
+      "address": "1039 Sunrise Ave., Roseville CA, 95661",
+      "phone": "916-786-6101",
+      "id": "9167866101"
+    },
+    {
+      "address": "1301 Florin Rd., Sacramento CA, 95831",
+      "phone": "916-421-6766",
+      "id": "9164216766"
+    },
+    {
+      "address": "4320 Arden Way, Sacramento CA, 95864",
+      "phone": "916-972-0555",
+      "id": "9169720555"
+    },
+    {
+      "address": "6231 Fruitridge Rd., Sacramento CA, 95820",
+      "phone": "916-739-8647",
+      "id": "9167398647"
+    },
+    {
+      "address": "4650 Natomas Blvd., Sacramento CA, 95835",
+      "phone": "916-419-6633",
+      "id": "9164196633"
+    },
+    {
+      "address": "311 S Lower Sacramento Rd., Lodi CA, 95242",
+      "phone": "209-369-1917",
+      "id": "2093691917"
+    },
+    {
+      "address": "4900 Elk Grove Blvd., Elk Grove CA, 95758",
+      "phone": "916-683-0700",
+      "id": "9166830700"
+    },
+    {
+      "address": "2075 Fair Oaks Blvd, Sacramento CA, 95825",
+      "phone": "916-648-2003",
+      "id": "9166482003"
+    },
+    {
+      "address": "5159 Fair Oaks Blvd., Carmichael CA, 95608",
+      "phone": "916-483-9033",
+      "id": "9164839033"
+    },
+    {
+      "address": "781 South Highway 49, Jackson CA, 95642",
+      "phone": "209-223-9650",
+      "id": "2092239650"
+    },
+    {
+      "address": "3935 Park Dr., El Dorado Hills CA, 95762",
+      "phone": "916-933-0518",
+      "id": "9169330518"
+    },
+    {
+      "address": "166 Placerville Dr., Placerville CA, 95667",
+      "phone": "530-622-6800",
+      "id": "5306226800"
+    },
+    {
+      "address": "8870 Madison Ave., Fair Oaks CA, 95628",
+      "phone": "916-966-2201",
+      "id": "9169662201"
+    },
+    {
+      "address": "8391 Folsom Blvd., Sacramento CA, 95826",
+      "phone": "916-383-6622",
+      "id": "9163836622"
+    },
+    {
+      "address": "4840 San Juan Ave., Fair Oaks CA, 95628",
+      "phone": "916-967-4718",
+      "id": "9169674718"
+    },
+    {
+      "address": "3518 Marconi Avenue, Sacramento CA, 95821",
+      "phone": "916-972-7177",
+      "id": "9169727177"
+    },
+    {
+      "address": "6845 Douglas Blvd., Granite Bay CA, 95746",
+      "phone": "916-791-8000",
+      "id": "9167918000"
+    },
+    {
+      "address": "25025 Blue Ravine Road, Folsom CA, 95630",
+      "phone": "916-351-1151",
+      "id": "9163511151"
+    },
+    {
+      "address": "715 East Bidwell St., Folsom CA, 95630",
+      "phone": "916-983-7267",
+      "id": "9169837267"
+    },
+    {
+      "address": "3061 Alamo Dr., Vacaville CA, 95687",
+      "phone": "707-446-8707",
+      "id": "7074468707"
+    },
+    {
+      "address": "890 Southampton Rd., Benicia CA, 94510",
+      "phone": "707-746-1203",
+      "id": "7077461203"
+    },
+    {
+      "address": "8852 Lakewood Dr., Windsor CA, 95492",
+      "phone": "707-838-6604",
+      "id": "7078386604"
+    },
+    {
+      "address": "40041 Hwy. 49, Oakhurst CA, 93644",
+      "phone": "559-683-8300",
+      "id": "5596838300"
+    },
+    {
+      "address": "3020 Floyd Avenue, Suite 139, Modesto CA, 95355",
+      "phone": "209-551-2050",
+      "id": "2095512050"
+    },
+    {
+      "address": "1550 East F Street, Oakdale CA, 95361",
+      "phone": "209-845-9800",
+      "id": "2098459800"
+    },
+    {
+      "address": "100 Raley's Town Center, Rohnert Park CA, 94928",
+      "phone": "707-585-3222",
+      "id": "7075853222"
+    },
+    {
+      "address": "2400 Sand Creek Road, Brentwood CA, 94513",
+      "phone": "925-513-9400",
+      "id": "9255139400"
+    },
+    {
+      "address": "3632 Lone Tree Way, Antioch CA, 94509",
+      "phone": "925-754-2522",
+      "id": "9257542522"
+    },
+    {
+      "address": "3001 Travis Blvd., Fairfield CA, 94534",
+      "phone": "707-429-8410",
+      "id": "7074298410"
+    },
+    {
+      "address": "3330 North Texas Street, Fairfield CA, 94533",
+      "phone": "707-421-9990",
+      "id": "7074219990"
+    },
+    {
+      "address": "270 Sunset Ave., Suisun City CA, 94585",
+      "phone": "707-426-1023",
+      "id": "7074261023"
+    },
+    {
+      "address": "157 N. McDowell Blvd., Petaluma CA, 94954",
+      "phone": "707-766-6700",
+      "id": "7077666700"
+    },
+    {
+      "address": "1315 N. State St., Ukiah CA, 95482",
+      "phone": "707-468-5178",
+      "id": "7074685178"
+    },
+    {
+      "address": "3360 San Pablo Dam Rd., San Pablo CA, 94806",
+      "phone": "510-222-5935",
+      "id": "5102225935"
+    },
+    {
+      "address": "217 Soscol Avenue, Napa CA, 94559",
+      "phone": "707-224-7897",
+      "id": "7072247897"
+    },
+    {
+      "address": "2550 South Tracy Blvd., Tracy CA, 95376",
+      "phone": "209-830-7700",
+      "id": "2098307700"
+    },
+    {
+      "address": "5420 Sunol Blvd., Pleasanton CA, 94566",
+      "phone": "925-846-4471",
+      "id": "9258464471"
+    },
+    {
+      "address": "39200 Paseo Padre Parkway, Fremont CA, 94538",
+      "phone": "510-791-0233",
+      "id": "5107910233"
+    },
+    {
+      "address": "1407 Fulton Rd., Santa Rosa CA, 95403",
+      "phone": "707-546-3435",
+      "id": "7075463435"
+    },
+    {
+      "address": "1280 Lathrop Rd., Manteca CA, 95336",
+      "phone": "209-825-0242",
+      "id": "2098250242"
+    },
+    {
+      "address": "2900 Geer Rd., Turlock CA, 95380",
+      "phone": "209-667-5253",
+      "id": "2096675253"
+    },
+    {
+      "address": "3550 N. G St., Merced CA, 95340",
+      "phone": "209-722-3689",
+      "id": "2097223689"
+    },
+    {
+      "address": "3430 Tully Rd., Suite #40, Modesto CA, 95350",
+      "phone": "209-527-2201",
+      "id": "2095272201"
+    },
+    {
+      "address": "4255 East Morada Lane, Stockton CA, 95212",
+      "phone": "209-956-9300",
+      "id": "2099569300"
+    },
+    {
+      "address": "2077 Main St., Oakley CA, 94561",
+      "phone": "925-625-0744",
+      "id": "9256250744"
+    },
+    {
+      "address": "10430 Twin Cities Road, Galt CA, 95632",
+      "phone": "209-745-4668",
+      "id": "2097454668"
+    },
+    {
+      "address": "2485 Notre Dame Blvd., Chico CA, 95928",
+      "phone": "530-895-0933",
+      "id": "5308950933"
+    },
+    {
+      "address": "201 Lake Blvd., Redding CA, 96003",
+      "phone": "530-246-3508",
+      "id": "5302463508"
+    },
+    {
+      "address": "1842 Fort Jones St., Yreka CA, 96097",
+      "phone": "530-842-4307",
+      "id": "5308424307"
+    },
+    {
+      "address": "211 West East Ave, Chico CA, 95926",
+      "phone": "530-899-3300",
+      "id": "5308993300"
+    },
+    {
+      "address": "700 W. Onstott Frontage Road, Yuba City CA, 95991",
+      "phone": "530-673-5931",
+      "id": "5306735931"
+    },
+    {
+      "address": "7847 Lichen Drive, Citrus Heights CA, 95621",
+      "phone": "916-722-4535",
+      "id": "9167224535"
+    },
+    {
+      "address": "2325 Meyers St., Oroville CA, 95966",
+      "phone": "530-533-2515",
+      "id": "5305332515"
+    },
+    {
+      "address": "725 S. Main St., Red Bluff CA, 96080",
+      "phone": "530-527-6902",
+      "id": "5305276902"
+    },
+    {
+      "address": "6119 Horseshoe Bar Road, Loomis CA, 95650",
+      "phone": "916-652-5737",
+      "id": "9166525737"
+    },
+    {
+      "address": "39 Lincoln Blvd., Lincoln CA, 95648",
+      "phone": "916-408-5775",
+      "id": "9164085775"
+    },
+    {
+      "address": "13384 Lincoln Way, Auburn CA, 95603",
+      "phone": "530-885-0669",
+      "id": "5308850669"
+    },
+    {
+      "address": "4051 Woodcreek Oaks Blvd., Roseville CA, 95747",
+      "phone": "916-771-0880",
+      "id": "9167710880"
+    },
+    {
+      "address": "1915 Douglas Blvd., Roseville CA, 95661",
+      "phone": "916-781-7845",
+      "id": "9167817845"
+    },
+    {
+      "address": "692 Freeman Lane, Grass Valley CA, 95949",
+      "phone": "530-272-1958",
+      "id": "5302721958"
+    },
+    {
+      "address": "367 West Main St., Woodland CA, 95695",
+      "phone": "530-666-1156",
+      "id": "5306661156"
+    },
+    {
+      "address": "4000 Lake Tahoe Blvd. #6, South Lake Tahoe CA, 96150",
+      "phone": "530-544-3417",
+      "id": "5305443417"
+    },
+    {
+      "address": "1040 Emerald Bay Rd., South Lake Tahoe CA, 96150",
+      "phone": "530-541-5160",
+      "id": "5305415160"
+    },
+    {
+      "address": "2505 Mountain City Hwy., Elko NV, 89801",
+      "phone": "775-738-2775",
+      "id": "7757382775"
+    },
+    {
+      "address": "1075 N. Hills Blvd., Reno NV, 89506",
+      "phone": "775-677-8777",
+      "id": "7756778777"
+    },
+    {
+      "address": "3701 S. Carson St., Carson City NV, 89701",
+      "phone": "775-883-8301",
+      "id": "7758838301"
+    },
+    {
+      "address": "930 Tahoe Blvd., Incline Village NV, 89451",
+      "phone": "775-831-3400",
+      "id": "7758313400"
+    },
+    {
+      "address": "2389 Wingfield Hills Road, Spanish Springs NV, 89436",
+      "phone": "775-626-8300",
+      "id": "7756268300"
+    },
+    {
+      "address": "1363 Highway 395 North, Gardnerville NV, 89410",
+      "phone": "775-782-5130",
+      "id": "7757825130"
+    },
+    {
+      "address": "18144 Wedge Parkway, Reno NV, 89511",
+      "phone": "775-850-8900",
+      "id": "7758508900"
+    },
+    {
+      "address": "1630 Robb Drive, Reno NV, 89523",
+      "phone": "775-746-6400",
+      "id": "7757466400"
+    },
+    {
+      "address": "701 Keystone Ave., Reno NV, 89503",
+      "phone": "775-747-5267",
+      "id": "7757475267"
+    },
+    {
+      "address": "2895 North McCarran Blvd., Sparks NV, 89431",
+      "phone": "775-353-8800",
+      "id": "7753538800"
+    }
+  ]
+}

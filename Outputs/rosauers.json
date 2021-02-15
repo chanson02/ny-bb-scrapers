@@ -1,0 +1,115 @@
+{
+  "name": "Rosauers Supermarkets",
+  "stores": [
+    {
+      "address": "926 South Monroe, Spokane, WA 99204",
+      "phone": "509-624-1349",
+      "id": "5096241349"
+    },
+    {
+      "address": "9414 N. Division Street, Spokane, WA 99218",
+      "phone": "509-467-6812",
+      "id": "5094676812"
+    },
+    {
+      "address": "1724 West Francis Avenue, Spokane, WA 99205",
+      "phone": "509-328-1260",
+      "id": "5093281260"
+    },
+    {
+      "address": "1808 West 3rd Avenue, Spokane, WA 99201",
+      "phone": "509-838-3618",
+      "id": "5098383618"
+    },
+    {
+      "address": "907 West 14th Avenue, Spokane, WA 99204",
+      "phone": "509-624-1282",
+      "id": "5096241282"
+    },
+    {
+      "address": "2610 East 29th Avenue, Spokane, WA 99223",
+      "phone": "509-535-3683",
+      "id": "5095353683"
+    },
+    {
+      "address": "10618 E. Sprague Avenue, Spokane Valley, WA 99206",
+      "phone": "509-924-3700",
+      "id": "5099243700"
+    },
+    {
+      "address": "5912 Washington Highway 291, 9 Mile Falls, WA 99026",
+      "phone": "509-315-5562",
+      "id": "5093155562"
+    },
+    {
+      "address": "830 E. 29th, Spokane, WA 99203",
+      "phone": "509-455-5122",
+      "id": "5094555122"
+    },
+    {
+      "address": "101 S. 47th Avenue, Ridgefield , WA 98642",
+      "phone": "360-887-6119",
+      "id": "3608876119"
+    },
+    {
+      "address": "410 S. 72nd Avenue, Yakima, WA 98908",
+      "phone": "509-972-2327",
+      "id": "5099722327"
+    },
+    {
+      "address": "632 N. Main Street, Colfax, WA 99111",
+      "phone": "509-397-4651",
+      "id": "5093974651"
+    },
+    {
+      "address": "200 East Mt. View Avenue, Ellensburg, WA 98926",
+      "phone": "509-962-7770",
+      "id": "5099627770"
+    },
+    {
+      "address": "1250 North Hwy, Colville, WA 99114",
+      "phone": "509-684-9788",
+      "id": "5096849788"
+    },
+    {
+      "address": "710 South 9th, Walla Walla, WA 99362",
+      "phone": "509-525-8790",
+      "id": "5095258790"
+    },
+    {
+      "address": "411 North Main Street, Moscow, ID 83843",
+      "phone": "208-882-5574",
+      "id": "2088825574"
+    },
+    {
+      "address": "332 Thain Road, Lewiston, ID 83501",
+      "phone": "208-746-2377",
+      "id": "2087462377"
+    },
+    {
+      "address": "1867 12th Street, Hood River, OR 97031",
+      "phone": "541-386-1119",
+      "id": "5413861119"
+    },
+    {
+      "address": "703 West 9th, Libby, MT 59923",
+      "phone": "406-293-2743",
+      "id": "4062932743"
+    },
+    {
+      "address": "2150 U.S. Highway 93 S, Kalispell, MT 59901",
+      "phone": "406-755-5088",
+      "id": "4067555088"
+    },
+    {
+      "address": "2350 South Reserve, Missoula, MT 59801",
+      "phone": "406-721-5430",
+      "id": "4067215430"
+    },
+    {
+      "address": "3255 Technology Blvd, Bozeman, MT 59718",
+      "phone": "406-587-0637",
+      "id": "4065870637"
+    }
+  ]
+}
