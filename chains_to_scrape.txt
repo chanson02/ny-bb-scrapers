@@ -1,14 +1,12 @@
 ! Walmart
-! Whole Foods
-|Fixed| Sam's Club
+? Whole Foods -geofail
 *Costco--https://www.costco.com/WarehouseListByStateDisplayView
-|BUSTED| Hy-Vee
-|BUSTED| Schnucks
+|BUSTED| Hy-Vee -geofail
+|BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
 -BROKE- Giant Eagle
 Market Basket
 Price Rite
-! Brookshire Brothers
 Food City
 Harps Food Stores
 Ingles Markets
@@ -34,17 +32,7 @@ Lunds & Byerlys
 Market Choice
 Price Chopper
 New Seasons Market
-! Raley's Supermarkets
-! Rosauers Supermarkets
-! Sendik's Food Market
-! Sentry Foods
-! Shoppers Food
-! Super One Foods
-! Woodman's Food Market
-! Yoke's Fresh Market
-! Earth Fare
 ! The Fresh Market
-! Market of Choice
 ! New Seasons Market
 ! Spec's Wine
 ! Trader Joe's
@@ -57,8 +45,6 @@ Lidl
 ! Family Dollar
 ! Grocer Outlet
 |BROKE| Saves-A-Lot
-! United Grocery Outlet
-! Edible Arrangements
 
 Selenium blocked:
 *King Soopers
