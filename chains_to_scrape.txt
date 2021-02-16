@@ -1,6 +1,6 @@
 ! Walmart
 ? Whole Foods -geofail
-*Costco--https://www.costco.com/WarehouseListByStateDisplayView
+! Costco
 |BUSTED| Hy-Vee -geofail
 |BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
