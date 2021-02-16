@@ -30,7 +30,7 @@ for location in locations:
         "[^0-9]", "", location.find_element_by_class_name("fp-store-phone").text)
     phone = f"{remote_id[:3]}-{remote_id[3:6]}-{remote_id[6:]}"
 
-    store = {"address": address, "phone": phone, "id'": remote_id}
+    store = {"address": address, "phone": phone, "id": remote_id}
     chain["stores"].append(store)
     print("Added", store)
 
