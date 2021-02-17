@@ -6,7 +6,7 @@
 |No ID?| SpartanNash
 ? Giant Eagle - run on server
 ! Price Rite
-Food City
+! Food City
 Harps Food Stores
 Ingles Markets
 Piggly Wiggly
@@ -29,7 +29,6 @@ Lowes Foods
 Lowe's Market
 Lunds & Byerlys
 Market Choice
-Price Chopper
 New Seasons Market
 ! The Fresh Market
 ! New Seasons Market
