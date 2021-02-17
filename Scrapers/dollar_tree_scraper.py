@@ -16,7 +16,8 @@ from selenium.webdriver.support.ui import Select
 
 from selenium.common import exceptions
 
-chain = {"name": "Dollar Tree", "stores": []}
+with open("../Outputs/dollar_tree.json", "r") as f:
+    chain = json.load(f)
 
 driver = webdriver.Chrome('../chromedriver.exe')
 driver.get("https://www.dollartree.com/locations/")
@@ -32,8 +33,11 @@ def scrape():
     remote_id = re.sub("[^0-9]", "", data[0])
 
     store = {"address": address, "phone": phone, "id": remote_id}
-    chain["stores"].append(store)
-    print("Added", store)
+    if store not in chain["stores"]:
+        chain["stores"].append(store)
+        print("Added", store)
+    else:
+        print("Skipped", store)
 
 
 def move(element):
@@ -51,6 +55,8 @@ state_table = driver.find_element_by_xpath(state_table_path)
 
 # Search states
 for state_index in range(len(get_list(state_table))):
+    if state_index < 9: #CHANGE THIS TO START ON IN (Indiana)
+        continue
     view = "state"
     time.sleep(1)
     state_table = driver.find_element_by_xpath(state_table_path)
@@ -64,7 +70,11 @@ for state_index in range(len(get_list(state_table))):
     for city_index in range(len(get_list(city_table))):
         view = "city"
         time.sleep(1)
-        city_table = driver.find_element_by_xpath(city_table_path)
+        try:
+            city_table = driver.find_element_by_xpath(city_table_path)
+        except Exception as e:
+            print(e)
+            pdb.set_trace()
         cities = get_list(city_table)
         city = cities[city_index]
         move(city)
