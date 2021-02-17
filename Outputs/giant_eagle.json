@@ -1,0 +1,1095 @@
+{
+  "name": "Giant eagle",
+  "stores": [
+    {
+      "address": "1275 West Patrick Street, Frederick, MD 21702",
+      "phone": "301-668-8712",
+      "id": "06701234"
+    },
+    {
+      "address": "4927 E 146th Street, Carmel, IN 46033",
+      "phone": "317-689-6804",
+      "id": "07161105"
+    },
+    {
+      "address": "11505 N Illinois Street, Carmel, IN 46032",
+      "phone": "317-569-0377",
+      "id": "C7001075"
+    },
+    {
+      "address": "6990 Pendleton Pike, Indianapolis, IN 46226",
+      "phone": "317-612-0021",
+      "id": "B8991099"
+    },
+    {
+      "address": "8249 Rockville Road, Indianapolis, IN 46214",
+      "phone": "317-510-8779",
+      "id": "ADC01100"
+    },
+    {
+      "address": "3061 E Main Street, Plainfield, IN 46168",
+      "phone": "317-204-6620",
+      "id": "C9CC1102"
+    },
+    {
+      "address": "2801 East Waterloo Road, Akron, OH 44312",
+      "phone": "330-475-1478",
+      "id": "FFBC1242"
+    },
+    {
+      "address": "484 East Waterloo Road, Akron, OH 44319",
+      "phone": "330-773-7322",
+      "id": "C09F1265"
+    },
+    {
+      "address": "3750 W Market Street, Akron, OH 44333",
+      "phone": "330-665-5332",
+      "id": "27391278"
+    },
+    {
+      "address": "1800 W. State, Alliance, OH 44601",
+      "phone": "330-821-9015",
+      "id": "DDD01227"
+    },
+    {
+      "address": "2201 Kresge Drive, Amherst, OH 44001",
+      "phone": "440-282-7614",
+      "id": "BD751173"
+    },
+    {
+      "address": "2390 Prospect Avenue, Ashtabula, OH 44004",
+      "phone": "440-992-0260",
+      "id": "33C51189"
+    },
+    {
+      "address": "31990 Walker Road, Avon Lake, OH 44012",
+      "phone": "440-933-5670",
+      "id": "3CCA1222"
+    },
+    {
+      "address": "8515 Tanglewood Square, Bainbridge Township, OH 44023",
+      "phone": "440-543-9141",
+      "id": "B4AD1181"
+    },
+    {
+      "address": "41 5th Street S.E., Barberton, OH 44203",
+      "phone": "330-745-9200",
+      "id": "D2891244"
+    },
+    {
+      "address": "24601 Chagrin Blvd., Beachwood, OH 44122",
+      "phone": "216-831-3535",
+      "id": "494E1273"
+    },
+    {
+      "address": "900 Northfield Road, Bedford, OH 44146",
+      "phone": "440-439-1800",
+      "id": "B3071169"
+    },
+    {
+      "address": "50 West Bridge Street, Berea, OH 44017",
+      "phone": "440-234-6616",
+      "id": "E8F31236"
+    },
+    {
+      "address": "11031 State Rt. 212 - N.E., Bolivar, OH 44612",
+      "phone": "330-874-3511",
+      "id": "9EB61239"
+    },
+    {
+      "address": "4343 Royalton Road, Broadview Heights, OH 44147",
+      "phone": "440-526-6223",
+      "id": "27C01257"
+    },
+    {
+      "address": "14650 Snow Road, Brook Park, OH 44142",
+      "phone": "216-267-0404",
+      "id": "9A591180"
+    },
+    {
+      "address": "6300 Biddulph Road, Brooklyn, OH 44144",
+      "phone": "216-351-5180",
+      "id": "8ECF1285"
+    },
+    {
+      "address": "3440 Center Road, Brunswick, OH 44212",
+      "phone": "330-220-7617",
+      "id": "53E41175"
+    },
+    {
+      "address": "2275 Locust Street, Canal Fulton, OH 44614",
+      "phone": "330-854-2239",
+      "id": "47B21231"
+    },
+    {
+      "address": "525 East Main Street, Canfield, OH 44406",
+      "phone": "330-702-0626",
+      "id": "7F3C1291"
+    },
+    {
+      "address": "3100 Cromer Avenue, N.W., Canton, OH 44709",
+      "phone": "330-492-5160",
+      "id": "95A11268"
+    },
+    {
+      "address": "608 Raff Road, SW, Canton, OH 44710",
+      "phone": "330-456-5757",
+      "id": "21F71246"
+    },
+    {
+      "address": "351 Center Street, Chardon, OH 44024",
+      "phone": "440-286-4228",
+      "id": "4AFB1264"
+    },
+    {
+      "address": "12692 Chillicothe Road, Chesterland, OH 44026",
+      "phone": "440-729-9587",
+      "id": "26001166"
+    },
+    {
+      "address": "3050 W. 117th Street, Cleveland, OH 44111",
+      "phone": "216-941-5012",
+      "id": "CBD71176"
+    },
+    {
+      "address": "7939 Day Drive, Cleveland, OH 44129",
+      "phone": "440-888-7367",
+      "id": "09D01272"
+    },
+    {
+      "address": "15325 Edgecliff Avenue, Cleveland, OH 44111",
+      "phone": "216-476-2292",
+      "id": "4FC41221"
+    },
+    {
+      "address": "6867 East Broad Street, Columbus, OH 43213",
+      "phone": "614-866-1468",
+      "id": "B8811301"
+    },
+    {
+      "address": "280 E. Whittier Street, Columbus, OH 43206",
+      "phone": "614-443-6575",
+      "id": "38D01298"
+    },
+    {
+      "address": "1250 N. Hamilton Road, Columbus, OH 43230",
+      "phone": "614-939-5261",
+      "id": "6F571085"
+    },
+    {
+      "address": "4780 West Broad Street, Columbus, OH 43228",
+      "phone": "614-878-8710",
+      "id": "27301303"
+    },
+    {
+      "address": "2900 Stelzer Road, Columbus, OH 43219",
+      "phone": "614-337-0365",
+      "id": "C38D1083"
+    },
+    {
+      "address": "2801 N. High Street, Columbus, OH 43202",
+      "phone": "614-268-0976",
+      "id": "B28E1300"
+    },
+    {
+      "address": "4747 Sawmill Road, Columbus, OH 43220",
+      "phone": "614-923-0475",
+      "id": "0BD61296"
+    },
+    {
+      "address": "840 W 3rd Avenue, Columbus, OH 43212",
+      "phone": "614-291-1256",
+      "id": "50671081"
+    },
+    {
+      "address": "3061 Kingsdale Center, Columbus, OH 43221",
+      "phone": "614-586-0404",
+      "id": "EFE21080"
+    },
+    {
+      "address": "230 Howe Avenue, Cuyahoga Falls, OH 44221",
+      "phone": "330-922-0131",
+      "id": "46F51280"
+    },
+    {
+      "address": "2687 State Road, Cuyahoga Falls, OH 44223",
+      "phone": "330-849-2436",
+      "id": "08BA1089"
+    },
+    {
+      "address": "515 Union Avenue, Dover, OH 44622",
+      "phone": "330-364-5301",
+      "id": "B8D61258"
+    },
+    {
+      "address": "6700 Perimeter Loop Road, Dublin, OH 43017",
+      "phone": "614-588-0095",
+      "id": "84171076"
+    },
+    {
+      "address": "15937 State Route 170, East Liverpool, OH 43920",
+      "phone": "330-385-2650",
+      "id": "2C4D1191"
+    },
+    {
+      "address": "619 Bradshaw Avenue, East Liverpool, OH 43920",
+      "phone": "330-385-9845",
+      "id": "38741194"
+    },
+    {
+      "address": "320 Market Drive, Elyria, OH 44035",
+      "phone": "440-366-5110",
+      "id": "AC961284"
+    },
+    {
+      "address": "2775 West Market Street, Fairlawn, OH 44333",
+      "phone": "330-836-1504",
+      "id": "2F341241"
+    },
+    {
+      "address": "21593 Lorain Road, Fairview Park, OH 44126",
+      "phone": "440-356-3666",
+      "id": "7B741271"
+    },
+    {
+      "address": "5744 Transportation Blvd, Garfield Heights, OH 44125",
+      "phone": "216-662-8419",
+      "id": "832F1172"
+    },
+    {
+      "address": "755 South Broadway Avenue, Geneva, OH 44041",
+      "phone": "440-466-5100",
+      "id": "B4EC1187"
+    },
+    {
+      "address": "2173 Stringtown Road, Grove City, OH 43123",
+      "phone": "614-594-0070",
+      "id": "536B1078"
+    },
+    {
+      "address": "3841 S. Hamilton Road, Groveport, OH 43125",
+      "phone": "614-836-8258",
+      "id": "90AD1307"
+    },
+    {
+      "address": "907 West Maple Street, Hartville, OH 44632",
+      "phone": "330-877-3664",
+      "id": "244C1230"
+    },
+    {
+      "address": "4001 Britton Parkway, Hilliard, OH 43026",
+      "phone": "614-921-8250",
+      "id": "C4451077"
+    },
+    {
+      "address": "6700 Hayden Run Road, Hilliard, OH 43026",
+      "phone": "614-529-5327",
+      "id": "49F91306"
+    },
+    {
+      "address": "14100 Detroit Ave., Lakewood, OH 44107",
+      "phone": "216-226-2698",
+      "id": "CD7E1274"
+    },
+    {
+      "address": "1394 Ety Shops Way, Lancaster, OH 43130",
+      "phone": "740-654-4765",
+      "id": "39241308"
+    },
+    {
+      "address": "55 Meadow Park Ave, Lewis Center, OH 43035",
+      "phone": "740-888-1206",
+      "id": "E9DA1082"
+    },
+    {
+      "address": "108 West Main Street, Louisville, OH 44641",
+      "phone": "330-875-1451",
+      "id": "A88B1210"
+    },
+    {
+      "address": "25105 Cedar Road, Lyndhurst, OH 44124",
+      "phone": "216-920-3305",
+      "id": "925B1168"
+    },
+    {
+      "address": "5321 Warrensville Center Road, Maple Heights, OH 44137",
+      "phone": "216-714-7700",
+      "id": "11A51294"
+    },
+    {
+      "address": "128 Gross Street, Marietta, OH 45750",
+      "phone": "740-373-5567",
+      "id": "BAC81299"
+    },
+    {
+      "address": "2032 Lincoln Way, Massillon, OH 44646",
+      "phone": "330-833-2733",
+      "id": "44A41267"
+    },
+    {
+      "address": "6259 Mayfield Road, Mayfield Heights, OH 44124",
+      "phone": "440-446-1628",
+      "id": "841B1275"
+    },
+    {
+      "address": "870 N. Court, Medina, OH 44256",
+      "phone": "330-764-4632",
+      "id": "1E9B1276"
+    },
+    {
+      "address": "7960 Plaza Boulevard, Mentor, OH 44060",
+      "phone": "440-946-1346",
+      "id": "FA061164"
+    },
+    {
+      "address": "6079 Andrew Road, Mentor On The Lake, OH 44060",
+      "phone": "440-257-7271",
+      "id": "68501217"
+    },
+    {
+      "address": "6869 Southland Drive, Middleburg Heights, OH 44130",
+      "phone": "440-842-0060",
+      "id": "D90C1171"
+    },
+    {
+      "address": "15400 West High Street, Middlefield, OH 44062",
+      "phone": "440-632-1200",
+      "id": "446F1266"
+    },
+    {
+      "address": "5461 New Albany Road West, New Albany, OH 43054",
+      "phone": "614-939-4112",
+      "id": "64D41305"
+    },
+    {
+      "address": "553 Hebron Road, Newark, OH 43056",
+      "phone": "740-522-1138",
+      "id": "B51C1304"
+    },
+    {
+      "address": "48 Vienna Avenue, Niles, OH 44446",
+      "phone": "330-652-2519",
+      "id": "32141215"
+    },
+    {
+      "address": "6493 Strip Avenue N.W., North Canton, OH 44720",
+      "phone": "330-497-0582",
+      "id": "DBA41252"
+    },
+    {
+      "address": "1955 East Maple Street, North Canton, OH 44720",
+      "phone": "330-966-2781",
+      "id": "DAB71287"
+    },
+    {
+      "address": "6556 North Ridge Road, North Madison, OH 44057",
+      "phone": "440-428-1156",
+      "id": "6B131263"
+    },
+    {
+      "address": "27264 Lorain Road, North Olmsted, OH 44070",
+      "phone": "440-777-6007",
+      "id": "3DD61283"
+    },
+    {
+      "address": "34325 Center Ridge Road, North Ridgeville, OH 44039",
+      "phone": "440-327-1901",
+      "id": "57FC1165"
+    },
+    {
+      "address": "6000 Royalton Road, North Royalton, OH 44133",
+      "phone": "440-237-3061",
+      "id": "60451167"
+    },
+    {
+      "address": "290 East Aurora Road, Northfield, OH 44067",
+      "phone": "330-468-3242",
+      "id": "8E151281"
+    },
+    {
+      "address": "1201 Mentor Avenue, Painesville, OH 44077",
+      "phone": "440-358-7768",
+      "id": "ED6A1286"
+    },
+    {
+      "address": "7400 Broadview Road, Parma, OH 44134",
+      "phone": "216-328-8095",
+      "id": "30141293"
+    },
+    {
+      "address": "1825 Snow Road, Parma, OH 44134",
+      "phone": "216-398-8646",
+      "id": "49E51277"
+    },
+    {
+      "address": "873 Refugee Road, Pickerington, OH 43147",
+      "phone": "614-522-0052",
+      "id": "45B41086"
+    },
+    {
+      "address": "3130 Center Road, Poland, OH 44514",
+      "phone": "330-757-0081",
+      "id": "1BF81209"
+    },
+    {
+      "address": "4000 W. Powell Road, Powell, OH 43065",
+      "phone": "614-889-8415",
+      "id": "A4DF1079"
+    },
+    {
+      "address": "909 East Main Street, Ravenna, OH 44266",
+      "phone": "330-296-7115",
+      "id": "781F1282"
+    },
+    {
+      "address": "22160 Center Ridge Road, Rocky River, OH 44116",
+      "phone": "440-356-3279",
+      "id": "9DDF1223"
+    },
+    {
+      "address": "4260 State Route 44, Rootstown, OH 44272",
+      "phone": "330-325-7965",
+      "id": "73971261"
+    },
+    {
+      "address": "2401 East State Street, Salem, OH 44460",
+      "phone": "330-337-0439",
+      "id": "EDA61199"
+    },
+    {
+      "address": "5231 Detroit Road, Sheffield Lake, OH 44054",
+      "phone": "440-934-5271",
+      "id": "72AD1177"
+    },
+    {
+      "address": "34310 Aurora Road, Solon, OH 44139",
+      "phone": "440-498-7192",
+      "id": "AA411088"
+    },
+    {
+      "address": "4401 Mayfield Road, South Euclid, OH 44121",
+      "phone": "216-382-6500",
+      "id": "2C231179"
+    },
+    {
+      "address": "4300 Kent Road State Rd. #59, Stow, OH 44224",
+      "phone": "330-686-0987",
+      "id": "B22C1262"
+    },
+    {
+      "address": "1700 Norton Road, Stow, OH 44224",
+      "phone": "330-342-7468",
+      "id": "76BC1245"
+    },
+    {
+      "address": "1280 State Route 303, Streetsboro, OH 44241",
+      "phone": "330-626-1085",
+      "id": "788F1279"
+    },
+    {
+      "address": "15919 Pearl Road, Strongsville, OH 44136",
+      "phone": "440-238-6449",
+      "id": "31051087"
+    },
+    {
+      "address": "205 West Avenue, Tallmadge, OH 44278",
+      "phone": "330-633-7088",
+      "id": "0D881243"
+    },
+    {
+      "address": "8960 Darrow Road, Twinsburg, OH 44087",
+      "phone": "330-405-1900",
+      "id": "18061174"
+    },
+    {
+      "address": "1700 Corporate Woods Parkway, Uniontown, OH 44685",
+      "phone": "330-896-4456",
+      "id": "20A71090"
+    },
+    {
+      "address": "4453 Liberty Avenue, Vermilion, OH 44089",
+      "phone": "440-967-2920",
+      "id": "AC151220"
+    },
+    {
+      "address": "825 Ambassador Drive, Wadsworth, OH 44281",
+      "phone": "330-334-0156",
+      "id": "5A721269"
+    },
+    {
+      "address": "8202 East Market Street, Warren, OH 44484",
+      "phone": "330-856-1521",
+      "id": "13B91250"
+    },
+    {
+      "address": "2700 Mahoning Avenue N.W., Warren, OH 44483",
+      "phone": "330-399-4175",
+      "id": "AA411251"
+    },
+    {
+      "address": "2061 Elm Road, Warren, OH 44483",
+      "phone": "330-372-6020",
+      "id": "D6F81218"
+    },
+    {
+      "address": "4428 Broadview Road, West Richfield, OH 44286",
+      "phone": "330-659-6134",
+      "id": "0B611162"
+    },
+    {
+      "address": "650 N. State Street, Westerville, OH 43082",
+      "phone": "614-865-0577",
+      "id": "A5301084"
+    },
+    {
+      "address": "30275 Detroit Road, Westlake, OH 44145",
+      "phone": "440-617-5767",
+      "id": "2E7D1216"
+    },
+    {
+      "address": "30664 Detroit Rd, Westlake, OH 44145",
+      "phone": "440-892-2110",
+      "id": "95E81161"
+    },
+    {
+      "address": "36475 Euclid Avenue, Willoughby, OH 44094",
+      "phone": "440-946-7661",
+      "id": "75651289"
+    },
+    {
+      "address": "27505 Chardon Road, Willoughby Hills, OH 44092",
+      "phone": "440-944-9820",
+      "id": "64421219"
+    },
+    {
+      "address": "30320 Lakeshore Boulevard, Willowick, OH 44095",
+      "phone": "440-944-8900",
+      "id": "ADF01170"
+    },
+    {
+      "address": "5220 Mahoning Avenue, Youngstown, OH 44515",
+      "phone": "330-793-4834",
+      "id": "D1581255"
+    },
+    {
+      "address": "476 Boardman-Canfield Road, Youngstown, OH 44512",
+      "phone": "330-758-5367",
+      "id": "9F8B1240"
+    },
+    {
+      "address": "4700 Belmont Avenue, Youngstown, OH 44505",
+      "phone": "330-759-9459",
+      "id": "EF801290"
+    },
+    {
+      "address": "1201 Doral Drive, Youngstown, OH 44514",
+      "phone": "330-726-7111",
+      "id": "440F1253"
+    },
+    {
+      "address": "1 University Plaza, Youngstown, OH 44505",
+      "phone": "330-759-9459",
+      "id": "BE241310"
+    },
+    {
+      "address": "3113 Green Garden Road, Aliquippa, PA 15001",
+      "phone": "724-378-3298",
+      "id": "99E61190"
+    },
+    {
+      "address": "1600 West State Street, Baden, PA 15005",
+      "phone": "724-869-8420",
+      "id": "15ED1150"
+    },
+    {
+      "address": "2650 Constitution Boulevard, Beaver Falls, PA 15010",
+      "phone": "724-843-9034",
+      "id": "73811143"
+    },
+    {
+      "address": "510 East Pitt Street, Bedford, PA 15522",
+      "phone": "814-623-2775",
+      "id": "05621225"
+    },
+    {
+      "address": "300 Tri County Lane, Belle Vernon, PA 15012",
+      "phone": "724-929-6750",
+      "id": "FC3C1133"
+    },
+    {
+      "address": "155 Wilson Road, Bentleyville, PA 15314",
+      "phone": "724-239-2300",
+      "id": "E4681226"
+    },
+    {
+      "address": "5055 Library Road, Suite 5, Bethel Park, PA 15102",
+      "phone": "412-347-0054",
+      "id": "DD521110"
+    },
+    {
+      "address": "7000 Oxford Drive Village Square, Bethel Park, PA 15102",
+      "phone": "412-831-5377",
+      "id": "F6BA1094"
+    },
+    {
+      "address": "1025 Washington Pike, Bridgeville, PA 15017",
+      "phone": "412-221-1422",
+      "id": "11A91192"
+    },
+    {
+      "address": "3239 Washington Pike, Bridgeville, PA 15017",
+      "phone": "412-914-0651",
+      "id": "9EB91119"
+    },
+    {
+      "address": "40 White Street, Brookville, PA 15825",
+      "phone": "814-849-2356",
+      "id": "3D9F1155"
+    },
+    {
+      "address": "1521 North Main Street, Butler, PA 16001",
+      "phone": "724-285-5761",
+      "id": "7BEE1228"
+    },
+    {
+      "address": "700 Moraine Pointe Plaza, Butler, PA 16001",
+      "phone": "724-287-5001",
+      "id": "C44B1229"
+    },
+    {
+      "address": "5990 University Blvd Suite 4, Coraopolis, PA 15108",
+      "phone": "412-264-1300",
+      "id": "F5AD1145"
+    },
+    {
+      "address": "20111 Route 19, Cranberry Township, PA 16066",
+      "phone": "724-772-1755",
+      "id": "8F361200"
+    },
+    {
+      "address": "100 N Main Street, Dubois, PA 15801",
+      "phone": "814-375-3708",
+      "id": "3DA91158"
+    },
+    {
+      "address": "881 College Plaza, Ebensburg, PA 15931",
+      "phone": "814-472-4710",
+      "id": "2D1E1232"
+    },
+    {
+      "address": "606 Erie Street, Edinboro, PA 16412",
+      "phone": "814-734-7236",
+      "id": "75601247"
+    },
+    {
+      "address": "800 McKeesport Rd, Elizabeth, PA 15037",
+      "phone": "412-384-3884",
+      "id": "BE261183"
+    },
+    {
+      "address": "289 State Route 288, Ellwood City, PA 16117",
+      "phone": "724-752-1100",
+      "id": "0D5C1163"
+    },
+    {
+      "address": "4265 Buffalo Road, Erie, PA 16510",
+      "phone": "814-899-8032",
+      "id": "39851248"
+    },
+    {
+      "address": "2067 Interchange Rd, Erie, PA 16509",
+      "phone": "814-844-6398",
+      "id": "08731309"
+    },
+    {
+      "address": "2501 West 12th Street, Erie, PA 16505",
+      "phone": "814-838-6990",
+      "id": "FC471260"
+    },
+    {
+      "address": "4810 Old William Penn Hwy, Export, PA 15632",
+      "phone": "724-327-7866",
+      "id": "9D141123"
+    },
+    {
+      "address": "3701 Route 88, Finleyville, PA 15332",
+      "phone": "724-348-4051",
+      "id": "1E121201"
+    },
+    {
+      "address": "541 Allegheny Boulevard, Franklin, PA 16323",
+      "phone": "814-437-1878",
+      "id": "FE171206"
+    },
+    {
+      "address": "5600 William Flynn Highway, Gibsonia, PA 15044",
+      "phone": "724-443-7400",
+      "id": "63851233"
+    },
+    {
+      "address": "9125 West Ridge Road Box 162, Girard, PA 16417",
+      "phone": "814-774-2656",
+      "id": "D9E91249"
+    },
+    {
+      "address": "1671 Butler Plank Road, Glenshaw, PA 15116",
+      "phone": "412-492-2734",
+      "id": "22781117"
+    },
+    {
+      "address": "5142 Route 30, Greensburg, PA 15601",
+      "phone": "724-836-7541",
+      "id": "65721156"
+    },
+    {
+      "address": "6204 Route 30 Hempfield Square SC, Greensburg, PA 15601",
+      "phone": "724-836-6493",
+      "id": "A6031112"
+    },
+    {
+      "address": "50 Hadley Road, Greenville, PA 16125",
+      "phone": "724-588-4553",
+      "id": "98201197"
+    },
+    {
+      "address": "2365 East State Street, Hermitage, PA 16148",
+      "phone": "724-981-1662",
+      "id": "46B41238"
+    },
+    {
+      "address": "420 East Waterfront Drive, Homestead, PA 15120",
+      "phone": "412-462-5026",
+      "id": "E0B71288"
+    },
+    {
+      "address": "475 Ben Franklin Rd S, Indiana, PA 15701",
+      "phone": "724-465-5661",
+      "id": "40581205"
+    },
+    {
+      "address": "2000 Penny Lane Drive, Jeannette, PA 15644",
+      "phone": "724-744-6113",
+      "id": "B2311108"
+    },
+    {
+      "address": "1233 Broad Street, Johnstown, PA 15906",
+      "phone": "814-535-6711",
+      "id": "D6EB1118"
+    },
+    {
+      "address": "344 Goucher Street, Johnstown, PA 15905",
+      "phone": "814-288-6918",
+      "id": "2ACB1131"
+    },
+    {
+      "address": "1451 Scalp Avenue, Johnstown, PA 15904",
+      "phone": "814-266-7940",
+      "id": "C8831115"
+    },
+    {
+      "address": "1050 Mt. Laurel Plaza Route 30, Latrobe, PA 15650",
+      "phone": "724-537-0610",
+      "id": "1F031157"
+    },
+    {
+      "address": "41 Towne Center Drive, Leechburg, PA 15656",
+      "phone": "724-845-9298",
+      "id": "07DC1128"
+    },
+    {
+      "address": "5 Quaker Village S.C., Leetsdale, PA 15056",
+      "phone": "412-741-6040",
+      "id": "2C3C1125"
+    },
+    {
+      "address": "117 South Walnut Street, Ligonier, PA 15658",
+      "phone": "724-238-8405",
+      "id": "BB8D1184"
+    },
+    {
+      "address": "200 Station Street, Mcdonald, PA 15057",
+      "phone": "724-926-2830",
+      "id": "212C1213"
+    },
+    {
+      "address": "1800 McKees Rocks Road, Mckees Rocks, PA 15136",
+      "phone": "412-771-7707",
+      "id": "5F4B1109"
+    },
+    {
+      "address": "3812 O'Neil Boulevard, Mckeesport, PA 15132",
+      "phone": "412-672-7392",
+      "id": "089C1141"
+    },
+    {
+      "address": "4007 Washington Road, Mcmurray, PA 15317",
+      "phone": "724-941-1595",
+      "id": "998C1146"
+    },
+    {
+      "address": "18511 Smock Highway, Meadville, PA 16335",
+      "phone": "814-724-1119",
+      "id": "FC9D1204"
+    },
+    {
+      "address": "1300 Country Club Road, Monongahela, PA 15063",
+      "phone": "724-258-5011",
+      "id": "4F221185"
+    },
+    {
+      "address": "4010 Monroeville Boulevard, Monroeville, PA 15146",
+      "phone": "412-372-1221",
+      "id": "1E3D1137"
+    },
+    {
+      "address": "1700 New Butler Road, New Castle, PA 16101",
+      "phone": "724-652-3822",
+      "id": "CE2C1292"
+    },
+    {
+      "address": "3230 Wilmington Road, New Castle, PA 16105",
+      "phone": "724-652-5595",
+      "id": "79891254"
+    },
+    {
+      "address": "200 Tarentum Bridge Road, New Kensington, PA 15068",
+      "phone": "724-889-0114",
+      "id": "6B711111"
+    },
+    {
+      "address": "8901 Route 30 North Huntingdon Square, North Huntingdon, PA 15642",
+      "phone": "724-864-2063",
+      "id": "BAE21113"
+    },
+    {
+      "address": "1701 Lincoln Highway, North Versailles, PA 15137",
+      "phone": "412-823-3133",
+      "id": "FF1A1114"
+    },
+    {
+      "address": "7 Cottonwood Street, Northern Cambria, PA 15714",
+      "phone": "814-948-8360",
+      "id": "EEFF1207"
+    },
+    {
+      "address": "602 East 2nd Street, Oil City, PA 16301",
+      "phone": "814-676-6121",
+      "id": "A86E1159"
+    },
+    {
+      "address": "254 Yost Boulevard-Braddock, Pittsburgh, PA 15221",
+      "phone": "412-271-3505",
+      "id": "39761152"
+    },
+    {
+      "address": "600 Towne Square Way, Pittsburgh, PA 15227",
+      "phone": "412-881-4075",
+      "id": "E62D1186"
+    },
+    {
+      "address": "4110 Brighton Road, Pittsburgh, PA 15212",
+      "phone": "412-761-2240",
+      "id": "6F201142"
+    },
+    {
+      "address": "132 Ben Avon Heights Road, Pittsburgh, PA 15237",
+      "phone": "412-364-2390",
+      "id": "59991132"
+    },
+    {
+      "address": "5260 Grove Road, Pittsburgh, PA 15236",
+      "phone": "412-881-4601",
+      "id": "5B461122"
+    },
+    {
+      "address": "318-320 Cedar Avenue, Pittsburgh, PA 15212",
+      "phone": "412-321-3551",
+      "id": "94C41196"
+    },
+    {
+      "address": "1717 Cochran Road, Pittsburgh, PA 15220",
+      "phone": "412-343-8020",
+      "id": "7EBA1124"
+    },
+    {
+      "address": "51 Walsh Road, Pittsburgh, PA 15205",
+      "phone": "412-921-4504",
+      "id": "8E7B1195"
+    },
+    {
+      "address": "1705 South Braddock Avenue, Pittsburgh, PA 15218",
+      "phone": "412-371-4614",
+      "id": "5E201188"
+    },
+    {
+      "address": "9001 Frankstown Road, Pittsburgh, PA 15235",
+      "phone": "412-371-0858",
+      "id": "67EA1212"
+    },
+    {
+      "address": "4250 Murray Avenue, Pittsburgh, PA 15217",
+      "phone": "412-421-6472",
+      "id": "EABB1140"
+    },
+    {
+      "address": "8080 McIntyre Square Drive, Pittsburgh, PA 15237",
+      "phone": "412-366-9338",
+      "id": "3A881144"
+    },
+    {
+      "address": "1165 McKinney Lane, Pittsburgh, PA 15220",
+      "phone": "412-921-1276",
+      "id": "DE5C1149"
+    },
+    {
+      "address": "230 Rodi Road, Pittsburgh, PA 15235",
+      "phone": "412-241-7744",
+      "id": "B8A31153"
+    },
+    {
+      "address": "6320 Shakespeare Street, Pittsburgh, PA 15206",
+      "phone": "412-361-6220",
+      "id": "A9141116"
+    },
+    {
+      "address": "2021 Wharton Avenue, Pittsburgh, PA 15203",
+      "phone": "412-488-0365",
+      "id": "1AFE1138"
+    },
+    {
+      "address": "1901 Murray Avenue, Pittsburgh, PA 15217",
+      "phone": "412-421-8161",
+      "id": "A2CC1126"
+    },
+    {
+      "address": "9805 McKnight Road, Pittsburgh, PA 15237",
+      "phone": "412-366-7274",
+      "id": "D0171130"
+    },
+    {
+      "address": "2611 Freeport Road, Pittsburgh, PA 15238",
+      "phone": "412-828-3766",
+      "id": "BD1D1270"
+    },
+    {
+      "address": "100 Settlers Ridge Center Drive, Pittsburgh, PA 15205",
+      "phone": "412-490-2902",
+      "id": "33EB1093"
+    },
+    {
+      "address": "5550 Centre Avenue, Pittsburgh, PA 15232",
+      "phone": "412-681-4217",
+      "id": "ACAE1096"
+    },
+    {
+      "address": "910 Freeport Road, Pittsburgh, PA 15238",
+      "phone": "412-449-0051",
+      "id": "71CD1097"
+    },
+    {
+      "address": "999 North Eighty Eight Road, Rices Landing, PA 15357",
+      "phone": "724-592-5565",
+      "id": "98151178"
+    },
+    {
+      "address": "510 S Route 36, Roaring Spring, PA 16673",
+      "phone": "814-224-5128",
+      "id": "3DDD1154"
+    },
+    {
+      "address": "111 West Madison Street, Rochester, PA 15074",
+      "phone": "724-775-0551",
+      "id": "7CDA1139"
+    },
+    {
+      "address": "100 Buffalo Plaza, Sarver, PA 16055",
+      "phone": "724-294-2882",
+      "id": "56A81193"
+    },
+    {
+      "address": "206 Seven Fields Blvd, Seven Fields, PA 16046",
+      "phone": "724-779-3034",
+      "id": "D9481129"
+    },
+    {
+      "address": "223 Grove City Rd., Slippery Rock, PA 16057",
+      "phone": "724-794-8814",
+      "id": "560C1202"
+    },
+    {
+      "address": "1606 North Center Avenue, Somerset, PA 15501",
+      "phone": "814-443-4300",
+      "id": "7DEB1134"
+    },
+    {
+      "address": "4192 Glades Pike, Somerset, PA 15501",
+      "phone": "814-443-6558",
+      "id": "ED801208"
+    },
+    {
+      "address": "110 S Martin Street, Titusville, PA 16354",
+      "phone": "814-827-6066",
+      "id": "076A1160"
+    },
+    {
+      "address": "581 Pittsburgh Road, Uniontown, PA 15401",
+      "phone": "724-438-4600",
+      "id": "6A631214"
+    },
+    {
+      "address": "200 Allegheny River Boulevard, Verona, PA 15147",
+      "phone": "412-828-0284",
+      "id": "F6851211"
+    },
+    {
+      "address": "331 Washington Road, Washington, PA 15301",
+      "phone": "724-228-6537",
+      "id": "53C81127"
+    },
+    {
+      "address": "100 Sugar Run Road, Waynesburg, PA 15370",
+      "phone": "724-627-5556",
+      "id": "E6561203"
+    },
+    {
+      "address": "9901 Mountainview Drive, West Mifflin, PA 15122",
+      "phone": "412-655-9720",
+      "id": "27CC1148"
+    },
+    {
+      "address": "1356 Hoffman Boulevard, West Mifflin, PA 15122",
+      "phone": "412-461-3230",
+      "id": "64B61121"
+    },
+    {
+      "address": "105 Robertson Street, West Newton, PA 15089",
+      "phone": "724-872-5443",
+      "id": "5BEE1198"
+    },
+    {
+      "address": "1029 West View Park Drive, West View, PA 15229",
+      "phone": "412-931-0148",
+      "id": "57561120"
+    },
+    {
+      "address": "155 Towne Centre Drive, Wexford, PA 15090",
+      "phone": "724-934-4367",
+      "id": "BB361095"
+    },
+    {
+      "address": "2001 Lincoln Way, White Oak, PA 15131",
+      "phone": "412-664-3500",
+      "id": "F9231182"
+    },
+    {
+      "address": "130 Greenbag Road, Morgantown, WV 26505",
+      "phone": "304-292-6066",
+      "id": "F3911136"
+    },
+    {
+      "address": "208 Giant Street, Morgantown, WV 26501",
+      "phone": "304-599-2301",
+      "id": "82301135"
+    }
+  ]
+}
