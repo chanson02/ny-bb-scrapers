@@ -1,10 +1,10 @@
 ! Walmart
 ? Whole Foods -geofail
 ! Costco
-|BUSTED| Hy-Vee -geofail
+|BUSTED| Hy-Vee - some of the phone numbers are broken
 |BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
--BROKE- Giant Eagle
+? Giant Eagle - run on server
 Market Basket
 Price Rite
 Food City
