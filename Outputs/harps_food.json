@@ -1,0 +1,495 @@
+{
+  "name": "Harps Food Stores",
+  "stores": [
+    {
+      "address": "25 Highway 64 West, Alma, AR 72921",
+      "phone": "479-632-2152",
+      "id": "194"
+    },
+    {
+      "address": "232 Hwy 167, Bald Knob, AR 72010",
+      "phone": "501-724-2234",
+      "id": "139"
+    },
+    {
+      "address": "1740 Batesville Blvd., Batesville, AR 72501",
+      "phone": "870-251-4082",
+      "id": "143"
+    },
+    {
+      "address": "404 Town Center NE, Bella Vista, AR 72714",
+      "phone": "479-855-1153",
+      "id": "175"
+    },
+    {
+      "address": "1515 Hwy 5 North, Benton, AR 72015",
+      "phone": "501-794-0820",
+      "id": "138"
+    },
+    {
+      "address": "1209 N. Walton Blvd, Bentonville, AR 72712",
+      "phone": "479-273-2245",
+      "id": "127"
+    },
+    {
+      "address": "939 Central Blvd., Bull Shoals, AR 72619",
+      "phone": "870-445-4791",
+      "id": "130"
+    },
+    {
+      "address": "801 N. 2nd Street, Cabot, AR 72023",
+      "phone": "501-843-3515",
+      "id": "114"
+    },
+    {
+      "address": "2002 Hwy 56, Calico Rock, AR 72519",
+      "phone": "870-297-8851",
+      "id": "197"
+    },
+    {
+      "address": "710 West Centerton Blvd., Centerton, AR 72719",
+      "phone": "479-795-0861",
+      "id": "122"
+    },
+    {
+      "address": "814 West Main, Charleston, AR 72933",
+      "phone": "479-965-0813",
+      "id": "201"
+    },
+    {
+      "address": "502 South Crawford Street, Clarksville, AR 72830",
+      "phone": "479-705-8906",
+      "id": "227"
+    },
+    {
+      "address": "1120 E. German Lane, Conway, AR 72032",
+      "phone": "501-329-3758",
+      "id": "144"
+    },
+    {
+      "address": "8810 Market Street, Dover, AR 72837",
+      "phone": "479-331-0100",
+      "id": "398"
+    },
+    {
+      "address": "1951 N. Center Street, Elkins, AR 72727",
+      "phone": "479-643-3434",
+      "id": "115"
+    },
+    {
+      "address": "1189 N Garland, Fayetteville, AR 72703",
+      "phone": "479-444-8009",
+      "id": "176"
+    },
+    {
+      "address": "1274 Colorado Drive, Fayetteville, AR 72704",
+      "phone": "479-251-9100",
+      "id": "124"
+    },
+    {
+      "address": "3055 North College, Fayetteville, AR 72703",
+      "phone": "479-442-7381",
+      "id": "355"
+    },
+    {
+      "address": "1780 N. Crossover Rd., Fayetteville, AR 72703",
+      "phone": "479-571-2555",
+      "id": "177"
+    },
+    {
+      "address": "3401 South 74th Street, Fort Smith, AR 72903",
+      "phone": "479-452-1007",
+      "id": "174"
+    },
+    {
+      "address": "2507 Market Trace, Fort Smith, AR 72908",
+      "phone": "479-646-2510",
+      "id": "137"
+    },
+    {
+      "address": "300 S. Gentry Blvd, Gentry, AR 72734",
+      "phone": "479-736-1396",
+      "id": "109"
+    },
+    {
+      "address": "800 1st AVE SE, Gravette, AR 72736",
+      "phone": "479-787-5674",
+      "id": "311"
+    },
+    {
+      "address": "703 West Main Street, Green Forest, AR 72638",
+      "phone": "870-438-6850",
+      "id": "103"
+    },
+    {
+      "address": "15 North Broadview Street, Greenbrier, AR 72058",
+      "phone": "501-679-0524",
+      "id": "111"
+    },
+    {
+      "address": "611 US-62, Harrison, AR 72061",
+      "phone": "870-741-2104",
+      "id": "146"
+    },
+    {
+      "address": "5015 HWY 62 E, Harrison, AR 72601",
+      "phone": "870-365-0583",
+      "id": "202"
+    },
+    {
+      "address": "6039 Highway 67, Haskell, AR 72015",
+      "phone": "501-776-1158",
+      "id": "112"
+    },
+    {
+      "address": "901 W. Main Street, Heber Springs, AR 72543",
+      "phone": "501-362-0193",
+      "id": "163"
+    },
+    {
+      "address": "2379 Hwy 62-412, Highland, AR 72542",
+      "phone": "870-856-2529",
+      "id": "376"
+    },
+    {
+      "address": "5536 Central Avenue, Hot Springs, AR 71913",
+      "phone": "501-520-0019",
+      "id": "394"
+    },
+    {
+      "address": "146 Thornton Ferry Rd, Hot Springs, AR 71913",
+      "phone": "501-760-1233",
+      "id": "391"
+    },
+    {
+      "address": "115 Lee Street, Huntsville, AR 72740",
+      "phone": "479-738-1221",
+      "id": "133"
+    },
+    {
+      "address": "613 East Highway 7, Jasper, AR 72641",
+      "phone": "870-446-2381",
+      "id": "195"
+    },
+    {
+      "address": "2005 Harrisburg Road, Jonesboro, AR 72401",
+      "phone": "870-935-6860",
+      "id": "190"
+    },
+    {
+      "address": "310 W Pridemore, Lincoln, AR 72744",
+      "phone": "479-824-3229",
+      "id": "179"
+    },
+    {
+      "address": "916 W. Monroe Ave., Lowell, AR 72745",
+      "phone": "479-751-3514",
+      "id": "228"
+    },
+    {
+      "address": "700 Hwy 65 North, Marshall, AR 72650",
+      "phone": "870-448-2113",
+      "id": "188"
+    },
+    {
+      "address": "600 HWY 365, Mayflower, AR 72106",
+      "phone": "501-470-3770",
+      "id": "207"
+    },
+    {
+      "address": "100 S. St. Joseph St, Morrilton, AR 72110",
+      "phone": "501-354-1700",
+      "id": "308"
+    },
+    {
+      "address": "924 East Hwy 62, Mountain Home, AR 72653",
+      "phone": "870-425-6556",
+      "id": "135"
+    },
+    {
+      "address": "2089 HWY 62 West, Mountain Home, AR 72653",
+      "phone": "870-508-0071",
+      "id": "156"
+    },
+    {
+      "address": "907 East Main, Mountain View, AR 72560",
+      "phone": "870-269-3534",
+      "id": "199"
+    },
+    {
+      "address": "700 W 6th St, Newark, AR 72562",
+      "phone": "870-799-3398",
+      "id": "149"
+    },
+    {
+      "address": "112 Houston Ave, Perryville, AR 72126",
+      "phone": "501-889-2341",
+      "id": "276"
+    },
+    {
+      "address": "1020 East Main, Piggott, AR 72454",
+      "phone": "870-598-3418",
+      "id": "495"
+    },
+    {
+      "address": "1609 N Thomasville St, Pocahontas, AR 72455",
+      "phone": "870-248-0060",
+      "id": "230"
+    },
+    {
+      "address": "319 East Buchanan Street, Prairie Grove, AR 72753",
+      "phone": "479-846-3731",
+      "id": "125"
+    },
+    {
+      "address": "807 E. 9th St., Rector, AR 72461",
+      "phone": "870-595-3261",
+      "id": "198"
+    },
+    {
+      "address": "715 North 2nd Street, Rogers, AR 72756",
+      "phone": "479-631-7001",
+      "id": "117"
+    },
+    {
+      "address": "103 North Dixieland Road, Rogers, AR 72756",
+      "phone": "479-631-0210",
+      "id": "357"
+    },
+    {
+      "address": "2525 W. Beebe-Capps Expressway, Searcy, AR 72143",
+      "phone": "501-268-4128",
+      "id": "136"
+    },
+    {
+      "address": "201 Hwy. 412 West, Siloam Springs, AR 72761",
+      "phone": "479-524-4116",
+      "id": "113"
+    },
+    {
+      "address": "2894 West Sunset, Springdale, AR 72762",
+      "phone": "479-751-6850",
+      "id": "119"
+    },
+    {
+      "address": "1308 N. Thompson, Springdale, AR 72764",
+      "phone": "479-751-9027",
+      "id": "186"
+    },
+    {
+      "address": "1007 Jones Road, Springdale, AR 72762",
+      "phone": "479-361-1900",
+      "id": "123"
+    },
+    {
+      "address": "1945 Butterfield Coach Road, Springdale, AR 72764",
+      "phone": "479-927-3300",
+      "id": "170"
+    },
+    {
+      "address": "8848 North HWY 59, Van Buren, AR 72932",
+      "phone": "479-471-1968",
+      "id": "314"
+    },
+    {
+      "address": "120 Cloverleaf Plaza, Van Buren, AR 72956",
+      "phone": "479-474-0772",
+      "id": "352"
+    },
+    {
+      "address": "1086 Main Street, Vilonia, AR 72173",
+      "phone": "501-796-3723",
+      "id": "229"
+    },
+    {
+      "address": "1350 W. 6th Street, Waldron, AR 72958",
+      "phone": "479-637-3303",
+      "id": "180"
+    },
+    {
+      "address": "266 Three Dog Lane, West Fork, AR 72774",
+      "phone": "479-839-3820",
+      "id": "126"
+    },
+    {
+      "address": "200 N. Wickersham Street, Yellville, AR 72687",
+      "phone": "870-449-6515",
+      "id": "189"
+    },
+    {
+      "address": "34040 E Commerce Dr, De Soto, KS 66018",
+      "phone": "913-585-9876",
+      "id": "249"
+    },
+    {
+      "address": "25685 Fir Road, Airport Drive (Joplin), MO 64801",
+      "phone": "417-621-0363",
+      "id": "168"
+    },
+    {
+      "address": "605 West Hwy 160, Alton, MO 65606",
+      "phone": "417-778-6155",
+      "id": "284"
+    },
+    {
+      "address": "224 East HWY 76, Anderson, MO 64831",
+      "phone": "417-845-3340",
+      "id": "266"
+    },
+    {
+      "address": "881 S Walnut Street, Bernie, MO 63822",
+      "phone": "573-293-5348",
+      "id": "390"
+    },
+    {
+      "address": "50 Berry Road, Bonne Terre, MO 63628",
+      "phone": "573-358-0090",
+      "id": "204"
+    },
+    {
+      "address": "104 W Hwy 162, Clarkton, MO 63837",
+      "phone": "573-448-5363",
+      "id": "292"
+    },
+    {
+      "address": "707 Specialty Drive, Dexter, MO 63841",
+      "phone": "573-624-7031",
+      "id": "212"
+    },
+    {
+      "address": "771 US-160 W, Doniphan, MO 63935",
+      "phone": "573-996-2814",
+      "id": "465"
+    },
+    {
+      "address": "1401 Hillcrest Plaza, Doniphan, MO 63935",
+      "phone": "573-996-3112",
+      "id": "285"
+    },
+    {
+      "address": "125 West Karsch Blvd, Farmington, MO 63640",
+      "phone": "573-756-1455",
+      "id": "206"
+    },
+    {
+      "address": "210 E Murta St, Fredericktown, MO 63645",
+      "phone": "573-783-6477",
+      "id": "208"
+    },
+    {
+      "address": "309 East Jackson Blvd, Jackson, MO 63755",
+      "phone": "573-243-8171",
+      "id": "209"
+    },
+    {
+      "address": "1618 St. Francis St, Kennett, MO 63857",
+      "phone": "573-888-6666",
+      "id": "499"
+    },
+    {
+      "address": "1003 N. Douglass, Malden, MO 63863",
+      "phone": "573-276-3353",
+      "id": "287"
+    },
+    {
+      "address": "401 E Main St, Marble Hill, MO 63764",
+      "phone": "573-238-2629",
+      "id": "211"
+    },
+    {
+      "address": "508 North Cliffside Dr, Noel, MO 64854",
+      "phone": "417-475-3434",
+      "id": "171"
+    },
+    {
+      "address": "301 T J Stewart Dr, Park Hills, MO 63601",
+      "phone": "573-431-1702",
+      "id": "205"
+    },
+    {
+      "address": "1301 Shelby Rd, Poplar Bluff, MO 63901",
+      "phone": "573-778-9128",
+      "id": "10"
+    },
+    {
+      "address": "1 Parkway Shopping Center, Potosi, MO 63664",
+      "phone": "573-436-9001",
+      "id": "203"
+    },
+    {
+      "address": "508 Johnny Walker Lane, Richmond, MO 64085",
+      "phone": "816-776-2535",
+      "id": "275"
+    },
+    {
+      "address": "33597 State HWY 112, Seligman, MO 65745",
+      "phone": "417-662-0211",
+      "id": "271"
+    },
+    {
+      "address": "HWY 63 North, Thayer, MO 65791",
+      "phone": "417-264-3737",
+      "id": "413"
+    },
+    {
+      "address": "129 East Walnut, Thayer, MO 65791",
+      "phone": "417-264-3621",
+      "id": "283"
+    },
+    {
+      "address": "300 E. Layton / Hwy 66, Chelsea, OK 74016",
+      "phone": "918-789-2652",
+      "id": "181"
+    },
+    {
+      "address": "1206 South Lee, Fort Gibson, OK 74434",
+      "phone": "918-478-2458",
+      "id": "196"
+    },
+    {
+      "address": "603 N. Main, Gore, OK 74435",
+      "phone": "918-489-2202",
+      "id": "187"
+    },
+    {
+      "address": "1310 South Main, Grove, OK 74344",
+      "phone": "918-786-4087",
+      "id": "165"
+    },
+    {
+      "address": "20941 SE 29th Street, Harrah, OK 73026",
+      "phone": "405-391-3471",
+      "id": "385"
+    },
+    {
+      "address": "30750 South HWY 88, Inola, OK 74036",
+      "phone": "918-543-2140",
+      "id": "152"
+    },
+    {
+      "address": "710 E. Main Street, Locust Grove, OK 74352",
+      "phone": "918-479-8711",
+      "id": "183"
+    },
+    {
+      "address": "18450 OK-9, Norman, OK 73026",
+      "phone": "405-321-1770",
+      "id": "386"
+    },
+    {
+      "address": "2219 N Broadway St, Poteau, OK 74953",
+      "phone": "918-647-9814",
+      "id": "102"
+    },
+    {
+      "address": "111 E. Ferry, Salina, OK 74365",
+      "phone": "918-434-2525",
+      "id": "182"
+    },
+    {
+      "address": "519 HWY 59 North, Westville, OK 74965",
+      "phone": "918-723-3554",
+      "id": "191"
+    }
+  ]
+}

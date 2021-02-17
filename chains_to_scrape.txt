@@ -2,8 +2,8 @@
 |BUSTED| Hy-Vee - some of the phone numbers are broken
 |BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
-? Giant Eagle - run on server
-Harps Food Stores
+! Giant Eagle
+! Harps Food Stores
 Ingles Markets
 Piggly Wiggly
 Publix
@@ -30,7 +30,7 @@ Aldi
 Lidl
 ! Big Lots
 ? Dollar General
-? |Banned| Dollar Tree
+? Dollar Tree - 13/50 states
 ! Family Dollar
 |BROKE| Saves-A-Lot
 
