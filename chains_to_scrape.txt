@@ -1,13 +1,8 @@
 ! Walmart
-? Whole Foods -geofail
-*Costco--https://www.costco.com/WarehouseListByStateDisplayView
-|BUSTED| Hy-Vee -geofail
+|BUSTED| Hy-Vee - some of the phone numbers are broken
 |BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
--BROKE- Giant Eagle
-Market Basket
-Price Rite
-Food City
+? Giant Eagle - run on server
 Harps Food Stores
 Ingles Markets
 Piggly Wiggly
@@ -30,12 +25,6 @@ Lowes Foods
 Lowe's Market
 Lunds & Byerlys
 Market Choice
-Price Chopper
-New Seasons Market
-! The Fresh Market
-! New Seasons Market
-! Spec's Wine
-! Trader Joe's
 |IFrame| Total Wine
 Aldi
 Lidl
@@ -43,7 +32,6 @@ Lidl
 ? Dollar General
 ? |Banned| Dollar Tree
 ! Family Dollar
-! Grocer Outlet
 |BROKE| Saves-A-Lot
 
 Selenium blocked:
@@ -65,3 +53,4 @@ Selenium blocked:
 
 IFrame chains:
 PriceRite
+Market Basket

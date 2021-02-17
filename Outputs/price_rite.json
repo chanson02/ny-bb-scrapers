@@ -1,0 +1,325 @@
+{
+  "name": "Price Rite",
+  "stores": [
+    {
+      "address": "1625 Erie Blvd E, Syracuse, NY 13210",
+      "phone": "315-474-2019",
+      "id": "3154742019"
+    },
+    {
+      "address": "29 Main St., Danbury, CT 06810",
+      "phone": "203-743-2660",
+      "id": "2037432660"
+    },
+    {
+      "address": "395 Lynnway, Lynn, MA 01901",
+      "phone": "781-581-2611",
+      "id": "7815812611"
+    },
+    {
+      "address": "59 Outwater Lane, Garfield, NJ 07026",
+      "phone": "862-225-9717",
+      "id": "8622259717"
+    },
+    {
+      "address": "Saint Stephen Green, Dublin, Dublin D02 H529",
+      "phone": "+35-3 1- 1111111",
+      "id": "+353 1 1111111"
+    },
+    {
+      "address": "150 Columbus Boulevard, New Britain, CT 06051",
+      "phone": "860-826-0588",
+      "id": "8608260588"
+    },
+    {
+      "address": "501 Bleecker Street, Utica, NY 13501",
+      "phone": "315-798-4460",
+      "id": "3157984460"
+    },
+    {
+      "address": "5800 Silver Hill Rd, District Heights, MD 20747",
+      "phone": "301-967-0513",
+      "id": "3019670513"
+    },
+    {
+      "address": "1753 Chesaco Ave, Rosedale, MD 21237",
+      "phone": "410-866-4104",
+      "id": "4108664104"
+    },
+    {
+      "address": "1700 Walden Avenue, Cheektowaga, NY 14225",
+      "phone": "716-892-3723",
+      "id": "7168923723"
+    },
+    {
+      "address": "250 Elmwood Street, Buffalo, NY 14209",
+      "phone": "716-881-0529",
+      "id": "7168810529"
+    },
+    {
+      "address": "3333 W. Henrietta Rd, Rochester, NY 14623",
+      "phone": "585-424-4140",
+      "id": "5854244140"
+    },
+    {
+      "address": "1205 West Pratt Street, Baltimore, MD 21201",
+      "phone": "410-528-0380",
+      "id": "4105280380"
+    },
+    {
+      "address": "1720 South 4th Street, Allentown, PA 18103",
+      "phone": "610-709-0280",
+      "id": "6107090280"
+    },
+    {
+      "address": "4425 Main Street, Bridgeport, CT 06606",
+      "phone": "203-396-0839",
+      "id": "2033960839"
+    },
+    {
+      "address": "951 North 6th Street, Reading, PA 19601",
+      "phone": "610-372-7267",
+      "id": "6103727267"
+    },
+    {
+      "address": "1001 8th Avenue, Bethlehem, PA 18018",
+      "phone": "610-882-2356",
+      "id": "6108822356"
+    },
+    {
+      "address": "136 Berlin Road, Cromwell, CT 06416",
+      "phone": "860-635-0004",
+      "id": "8606350004"
+    },
+    {
+      "address": "866 Pleasant Street, Fall River, MA 02723",
+      "phone": "508-678-8167",
+      "id": "5086788167"
+    },
+    {
+      "address": "1415 Elmwood Avenue, Cranston, RI 02910",
+      "phone": "401-785-4143",
+      "id": "4017854143"
+    },
+    {
+      "address": "1106 Union Street, West Springfield, MA 01089",
+      "phone": "413-731-7344",
+      "id": "4137317344"
+    },
+    {
+      "address": "365 Lincoln St, Manchester, NH 03103",
+      "phone": "603-621-9518",
+      "id": "6036219518"
+    },
+    {
+      "address": "325 Valley Street, Providence, RI 02940",
+      "phone": "401-272-0721",
+      "id": "4012720721"
+    },
+    {
+      "address": "611 Luzerne Street, Scranton, PA 18504",
+      "phone": "570-341-5769",
+      "id": "5703415769"
+    },
+    {
+      "address": "2881 Mount Ephriam Ave, Camden, NJ 08104",
+      "phone": "856-650-9010",
+      "id": "8566509010"
+    },
+    {
+      "address": "465 Lonsdale Avenue, Pawtucket, RI 02860",
+      "phone": "401-726-0073",
+      "id": "4017260073"
+    },
+    {
+      "address": "39 South Street, New Bedford, MA 02740",
+      "phone": "508-990-0317",
+      "id": "5089900317"
+    },
+    {
+      "address": "983 New Britain Ave, West Hartford, CT 06110",
+      "phone": "860-953-5816",
+      "id": "8609535816"
+    },
+    {
+      "address": "590 Windsor Avenue, Windsor, CT 06095",
+      "phone": "860-683-8688",
+      "id": "8606838688"
+    },
+    {
+      "address": "1869 Dixwell Avenue, Hamden, CT 06514",
+      "phone": "203-281-0035",
+      "id": "2032810035"
+    },
+    {
+      "address": "2299 Cumberland St., Lebanon, PA 17042",
+      "phone": "717-274-3730",
+      "id": "7172743730"
+    },
+    {
+      "address": "164 Boston Avenue, Bridgeport, CT 06610",
+      "phone": "203-333-6954",
+      "id": "2033336954"
+    },
+    {
+      "address": "2000 Diamond Hill Road, Woonsocket, RI 02895",
+      "phone": "401-762-6040",
+      "id": "4017626040"
+    },
+    {
+      "address": "542 Southbridge Street, Worcester, MA 01610",
+      "phone": "508-797-6213",
+      "id": "5087976213"
+    },
+    {
+      "address": "3104 Queens Chapel Rd, Hyattsville, MD 20782",
+      "phone": "301-887-1280",
+      "id": "3018871280"
+    },
+    {
+      "address": "140 Taunton Avenue, Seekonk, MA 02771",
+      "phone": "401-435-1851",
+      "id": "4014351851"
+    },
+    {
+      "address": "4224 Maple Road, Amherst, NY 14226",
+      "phone": "716-836-4160",
+      "id": "7168364160"
+    },
+    {
+      "address": "1230 University Avenue, Rochester, NY 14607",
+      "phone": "585-242-1980",
+      "id": "5852421980"
+    },
+    {
+      "address": "2142 South Queen Street, York, PA 17403",
+      "phone": "717-848-4466",
+      "id": "7178484466"
+    },
+    {
+      "address": "1450 Hartford Ave, Johnston, RI 02910",
+      "phone": "401-459-6713",
+      "id": "4014596713"
+    },
+    {
+      "address": "751 Upper Glen Street, Glens Falls, NY 12804",
+      "phone": "518-615-0188",
+      "id": "5186150188"
+    },
+    {
+      "address": "611 South Avenue, Syracuse, NY 13207",
+      "phone": "315-422-2690",
+      "id": "3154222690"
+    },
+    {
+      "address": "1716 Kenmore Avenue, Buffalo, NY 14216",
+      "phone": "716-873-4148",
+      "id": "7168734148"
+    },
+    {
+      "address": "160 Silas Deane Highway, Wethersfield, CT 06109",
+      "phone": "860-258-1951",
+      "id": "8602581951"
+    },
+    {
+      "address": "303 East Main Street, Westfield, MA 01085",
+      "phone": "413-572-6773",
+      "id": "4135726773"
+    },
+    {
+      "address": "923-925 Providence Road, Secane, PA 19018",
+      "phone": "610-394-6573",
+      "id": "6103946573"
+    },
+    {
+      "address": "870 River Street, Hyde Park, MA 02136",
+      "phone": "617-361-6812",
+      "id": "6173616812"
+    },
+    {
+      "address": "695 Main Street, Torrington, CT 06790",
+      "phone": "860-489-3864",
+      "id": "8604893864"
+    },
+    {
+      "address": "375 Driving Park Ave, Rochester, NY 14613",
+      "phone": "585-647-8080",
+      "id": "5856478080"
+    },
+    {
+      "address": "4500 Buffalo Road, Erie, PA 16510-2234",
+      "phone": "814-898-1304",
+      "id": "8148981304"
+    },
+    {
+      "address": "945 Bald Hill Road, Warwick, RI 02886",
+      "phone": "401-823-4044",
+      "id": "4018234044"
+    },
+    {
+      "address": "139 Hathaway Road, New Bedford, MA 02746",
+      "phone": "508-992-3719",
+      "id": "5089923719"
+    },
+    {
+      "address": "666 Washington Street, Stoughton, MA 02072",
+      "phone": "781-847-4022",
+      "id": "7818474022"
+    },
+    {
+      "address": "255 Squire Rd, Revere, MA 02151",
+      "phone": "781-286-6813",
+      "id": "7812866813"
+    },
+    {
+      "address": "1600 Memorial Drive, Chicopee, MA 01020",
+      "phone": "413-538-7700",
+      "id": "4135387700"
+    },
+    {
+      "address": "633 Boston Rd, Springfield, MA 01119",
+      "phone": "413-796-2934",
+      "id": "4137962934"
+    },
+    {
+      "address": "117 Gold Star Blvd, Worcester, MA 01606",
+      "phone": "508-853-7443",
+      "id": "5088537443"
+    },
+    {
+      "address": "301 Main Street, Paterson, NJ 07505",
+      "phone": "973-523-5321",
+      "id": "9735235321"
+    },
+    {
+      "address": "3812 Union Deposit Road, Harrisburg, PA 17109",
+      "phone": "717-545-1689",
+      "id": "7175451689"
+    },
+    {
+      "address": "2330 Watt Street, Schenectady, NY 12304",
+      "phone": "518-243-1100",
+      "id": "5182431100"
+    },
+    {
+      "address": "500 Geneva Ave, Dorchester, MA 02122",
+      "phone": null,
+      "id": null
+    },
+    {
+      "address": "240 E. Ashland Street, Brockton, MA 02302",
+      "phone": "508--58-4-4472",
+      "id": "508-584-4472"
+    },
+    {
+      "address": "333 Martin Luther King Jr Blvd, Roxbury, MA 02119",
+      "phone": "617--42-7-0094",
+      "id": "617-427-0094"
+    },
+    {
+      "address": "600 American Legion Hwy, Roslindale, MA 02131",
+      "phone": "617--52-2-0066",
+      "id": "617-522-0066"
+    }
+  ]
+}

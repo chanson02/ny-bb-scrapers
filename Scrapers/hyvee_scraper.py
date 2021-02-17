@@ -15,7 +15,7 @@ import re
 
 driver = webdriver.Chrome('../chromedriver.exe')
 driver.get("https://www.hy-vee.com/stores/store-finder-results.aspx?zip=&state=&city=&olfloral=False&olcatering=False&olgrocery=False&olpre=False&olbakery=False&diet=False&chef=False")
-
+# USE THIS URL NEXT https://www.hy-vee.com/stores/store-finder-results.aspx
 chain = {"name": "Hy-Vee", "stores": []}
 
 list_path = "/html/body/section/form/div[3]/div[1]/div/div/div/div[3]/div/div[1]/div[2]/table/tbody"
