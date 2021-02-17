@@ -5,8 +5,7 @@
 |BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
 ? Giant Eagle - run on server
-Market Basket
-Price Rite
+! Price Rite
 Food City
 Harps Food Stores
 Ingles Markets
@@ -65,3 +64,4 @@ Selenium blocked:
 
 IFrame chains:
 PriceRite
+Market Basket
