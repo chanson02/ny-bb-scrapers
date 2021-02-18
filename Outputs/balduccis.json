@@ -1,0 +1,50 @@
+{
+  "name": "Balducci's",
+  "stores": [
+    {
+      "address": "600 Franklin Street, Alexandria, VA 22314",
+      "phone": "703-549-6611",
+      "id": "7035496611"
+    },
+    {
+      "address": "10323 Old Georgetown Road, Bethesda, MD 20814",
+      "phone": "301-564-3100",
+      "id": "3015643100"
+    },
+    {
+      "address": "1050 East Putnam Avenue, Greenwich, CT 06878",
+      "phone": "203-637-7600",
+      "id": "2036377600"
+    },
+    {
+      "address": "6655 Old Dominion Drive, McLean, VA 22101",
+      "phone": "703-448-3828",
+      "id": "7034483828"
+    },
+    {
+      "address": "144 South Ridge Street, Rye Brook, NY 10573",
+      "phone": "914-308-3692",
+      "id": "9143083692"
+    },
+    {
+      "address": "15 Palmer Avenue, Scarsdale, NY 10583",
+      "phone": "914-722-0200",
+      "id": "9147220200"
+    },
+    {
+      "address": "1385 Post Rd E, Westport, CT 06880",
+      "phone": "203-254-5200",
+      "id": "2032545200"
+    },
+    {
+      "address": "Bloomberg Children's Center, 1800 Orleans St, Baltimore, MD 21287",
+      "phone": "443-687-7659",
+      "id": "4436877659"
+    },
+    {
+      "address": "Philadelphia International Airport Terminal C, Gate C20, Philadelphia, PA 19153",
+      "phone": "",
+      "id": ""
+    }
+  ]
+}
