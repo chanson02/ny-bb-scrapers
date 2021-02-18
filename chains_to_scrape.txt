@@ -5,7 +5,7 @@
 ! Giant Eagle
 ! Harps Food Stores
 Ingles Markets
-Piggly Wiggly
+! Piggly Wiggly
 Publix
 Winn-Dixie
 BI-LO
