@@ -1,0 +1,1845 @@
+{
+  "name": "Winn-Dixie",
+  "stores": [
+    {
+      "address": "Lakewood Plaza, Jacksonville, FL 32217",
+      "phone": "904-448-5400",
+      "id": "190"
+    },
+    {
+      "address": "5647 Roosevelt Blvd, Jacksonville, FL 32244",
+      "phone": "904-384-0711",
+      "id": "123"
+    },
+    {
+      "address": "Brierwood Village Plaza, Jacksonville, FL 32217",
+      "phone": "904-636-8962",
+      "id": "25"
+    },
+    {
+      "address": "Ft Caroline Trading Post, Jacksonville, FL 32277",
+      "phone": "904-743-0251",
+      "id": "51"
+    },
+    {
+      "address": "Gateway Town Center, Jacksonville, FL 32208",
+      "phone": "904-768-0355",
+      "id": "108"
+    },
+    {
+      "address": "Town Center Village, Jacksonville, FL 32246",
+      "phone": "904-996-0990",
+      "id": "195"
+    },
+    {
+      "address": "Normandy Marketplace, Jacksonville, FL 32205",
+      "phone": "904-786-5181",
+      "id": "191"
+    },
+    {
+      "address": "Cedar Hills Shopping Center, Jacksonville, FL 32210",
+      "phone": "904-779-5906",
+      "id": "177"
+    },
+    {
+      "address": "Monument Point, Jacksonville, FL 32225",
+      "phone": "904-646-0771",
+      "id": "54"
+    },
+    {
+      "address": "11101 Old St Augustine Rd, Jacksonville, FL 32257",
+      "phone": "904-260-0045",
+      "id": "179"
+    },
+    {
+      "address": "Point Meadows Shopping Center, Jacksonville, FL 32256",
+      "phone": "904-519-9952",
+      "id": "7"
+    },
+    {
+      "address": "Normandy Square, Jacksonville, FL 32221",
+      "phone": "904-783-6901",
+      "id": "153"
+    },
+    {
+      "address": "Mandarin South Shopping Center, Jacksonville, FL 32223",
+      "phone": "904-300-0455",
+      "id": "2556"
+    },
+    {
+      "address": "Live Oak Shopping Center, Orange Park, FL 32073",
+      "phone": "904-278-2691",
+      "id": "40"
+    },
+    {
+      "address": "Girvin Plaza, Jacksonville, FL 32225",
+      "phone": "904-221-3062",
+      "id": "174"
+    },
+    {
+      "address": "Oceanway Plaza, Jacksonville, FL 32218",
+      "phone": "904-757-8982",
+      "id": "12"
+    },
+    {
+      "address": "8560 Argyle Forest Blvd, Jacksonville, FL 32244",
+      "phone": "904-779-5000",
+      "id": "176"
+    },
+    {
+      "address": "703 Chaffee Rd., Jacksonville, FL 32221",
+      "phone": "904-693-4404",
+      "id": "199"
+    },
+    {
+      "address": "Penman Plaza, Neptune Beach, FL 32266",
+      "phone": "904-241-4368",
+      "id": "18"
+    },
+    {
+      "address": "Eagle Harbor, Fleming Island, FL 32003",
+      "phone": "904-264-0398",
+      "id": "103"
+    },
+    {
+      "address": "Ponte Vedra Square, Ponte Vedra Beach, FL 32082",
+      "phone": "904-543-8668",
+      "id": "5"
+    },
+    {
+      "address": "Clay Plaza, Orange Park, FL 32065",
+      "phone": "904-272-1547",
+      "id": "8"
+    },
+    {
+      "address": "St. Johns Commons, Jacksonville, FL 32259",
+      "phone": "904-823-2122",
+      "id": "2"
+    },
+    {
+      "address": "3260 Highway 17, Green Cove Springs, FL 32043",
+      "phone": "904-529-8888",
+      "id": "138"
+    },
+    {
+      "address": "Asbury Commons Ltd., Green Cove Springs, FL 32043",
+      "phone": "904-899-6900",
+      "id": "135"
+    },
+    {
+      "address": "Grand Old Plaza, Middleburg, FL 32068",
+      "phone": "904-282-3818",
+      "id": "93"
+    },
+    {
+      "address": "Callahan Shopping Center, Callahan, FL 32011",
+      "phone": "904-879-4833",
+      "id": "151"
+    },
+    {
+      "address": "Lofton Square, Yulee, FL 32097",
+      "phone": "904-261-6100",
+      "id": "180"
+    },
+    {
+      "address": "Amelia Plaza, Fernandina Beach, FL 32034",
+      "phone": "904-277-2539",
+      "id": "84"
+    },
+    {
+      "address": "Macclenny Shopping Center, Macclenny, FL 32063",
+      "phone": "904-259-2204",
+      "id": "144"
+    },
+    {
+      "address": "550969 Us Hwy 1, Hilliard, FL 32046",
+      "phone": "904-845-3782",
+      "id": "142"
+    },
+    {
+      "address": "North Towne Shopping Center, St Augustine, FL 32084",
+      "phone": "904-824-6233",
+      "id": "182"
+    },
+    {
+      "address": "2714 Osborne Rd., Saint Marys, GA 31558",
+      "phone": "912-882-6714",
+      "id": "70"
+    },
+    {
+      "address": "St Johns Plaza, St Augustine, FL 32084",
+      "phone": "904-829-5509",
+      "id": "77"
+    },
+    {
+      "address": "Camden Corners Shopping Center, Kingsland, GA 31548",
+      "phone": "912-729-3621",
+      "id": "166"
+    },
+    {
+      "address": "Starke Plaza, Starke, FL 32091",
+      "phone": "904-964-8673",
+      "id": "85"
+    },
+    {
+      "address": "3905 A1a South, St Augustine, FL 32080",
+      "phone": "904-471-5115",
+      "id": "129"
+    },
+    {
+      "address": "901 Hwy 19 South, Palatka, FL 32177",
+      "phone": "386-325-5743",
+      "id": "163"
+    },
+    {
+      "address": "Palm Coast Corners Shopping Center, Palm Coast, FL 32137",
+      "phone": "386-446-4774",
+      "id": "2247"
+    },
+    {
+      "address": "1115 North Summit Street, Crescent City, FL 32112",
+      "phone": "386-698-4900",
+      "id": "196"
+    },
+    {
+      "address": "284 Hyde Park Commons, Brunswick, GA 31523",
+      "phone": "912-267-1759",
+      "id": "68"
+    },
+    {
+      "address": "1459 Nw 23rd Ave, Gainesville, FL 32605",
+      "phone": "352-565-4327",
+      "id": "2564"
+    },
+    {
+      "address": "Lake City Shopping Center, Lake City, FL 32025",
+      "phone": "386-755-4404",
+      "id": "81"
+    },
+    {
+      "address": "Lanier Plaza, Brunswick, GA 31520",
+      "phone": "912-267-0557",
+      "id": "60"
+    },
+    {
+      "address": "300 S.w. 16th Avenue, Gainesville, FL 32601",
+      "phone": "352-336-9700",
+      "id": "197"
+    },
+    {
+      "address": "Retreat Village, St Simons Island, GA 31522",
+      "phone": "912-638-4805",
+      "id": "19"
+    },
+    {
+      "address": "Flagler Regional Plaza, Palm Coast, FL 32137",
+      "phone": "386-439-4301",
+      "id": "2244"
+    },
+    {
+      "address": "Brunswick West Shopping Center, Brunswick, GA 31525",
+      "phone": "912-264-5429",
+      "id": "159"
+    },
+    {
+      "address": "High Springs Plaza, High Springs, FL 32643",
+      "phone": "386-454-3067",
+      "id": "30"
+    },
+    {
+      "address": "341 Venture Dr., Brunswick, GA 31525",
+      "phone": "912-264-0698",
+      "id": "67"
+    },
+    {
+      "address": "Ormond Beach Shopping Center, Ormond Beach, FL 32174",
+      "phone": "386-677-4070",
+      "id": "2309"
+    },
+    {
+      "address": "7131 N. U.s. Hwy 441, Ocala, FL 34475",
+      "phone": "352-351-0100",
+      "id": "2437"
+    },
+    {
+      "address": "Forest Center, Silver Springs, FL 34488",
+      "phone": "352-625-6253",
+      "id": "2206"
+    },
+    {
+      "address": "Winn Dixie #0171, Williston, FL 32696",
+      "phone": "352-528-5551",
+      "id": "171"
+    },
+    {
+      "address": "Holly Hill Shopping Center, Holly Hill, FL 32117",
+      "phone": "386-257-7774",
+      "id": "2258"
+    },
+    {
+      "address": "911 Pinewood Drive Sw, Live Oak, FL 32064",
+      "phone": "386-362-6300",
+      "id": "198"
+    },
+    {
+      "address": "W-d Plaza, Daytona Beach Shores, FL 32118",
+      "phone": "386-253-7713",
+      "id": "2263"
+    },
+    {
+      "address": "Brandywine Shopping Village, Deland, FL 32720",
+      "phone": "386-738-1272",
+      "id": "2342"
+    },
+    {
+      "address": "11310 Se Hwy 301, Belleview, FL 34420",
+      "phone": "352-245-7215",
+      "id": "2468"
+    },
+    {
+      "address": "Market Place, Deland, FL 32720",
+      "phone": "386-738-5321",
+      "id": "2343"
+    },
+    {
+      "address": "Riverwood Shopping Center, Port Orange, FL 32127",
+      "phone": "386-756-4814",
+      "id": "2311"
+    },
+    {
+      "address": "Chiefland Regional Shopping Ct, Chiefland, FL 32626",
+      "phone": "352-493-0839",
+      "id": "168"
+    },
+    {
+      "address": "Marion Oaks Shopping Center, Ocala, FL 34473",
+      "phone": "352-347-6990",
+      "id": "2229"
+    },
+    {
+      "address": "La Plaza Grande South, Lady Lake, FL 32159",
+      "phone": "352-753-5073",
+      "id": "2337"
+    },
+    {
+      "address": "2880 Howland Boulevard, Deltona, FL 32725",
+      "phone": "386-532-7168",
+      "id": "2313"
+    },
+    {
+      "address": "Coast Plaza Shopping Cntr, New Smyrna Beach, FL 32168",
+      "phone": "386-423-3111",
+      "id": "2304"
+    },
+    {
+      "address": "820 Old Camp Rd., The Villages, FL 32162",
+      "phone": "352-391-1594",
+      "id": "2523"
+    },
+    {
+      "address": "1955 North S.r. 19, Eustis, FL 32726",
+      "phone": "352-589-2644",
+      "id": "2335"
+    },
+    {
+      "address": "Lake Frances Shopping Center, Lake Park, GA 31636",
+      "phone": "229-559-6409",
+      "id": "32"
+    },
+    {
+      "address": "Rainbow Springs Shopping Cente, Dunnellon, FL 34432",
+      "phone": "352-465-4111",
+      "id": "2219"
+    },
+    {
+      "address": "Debary Commons, Debary, FL 32713",
+      "phone": "386-668-8528",
+      "id": "2237"
+    },
+    {
+      "address": "Providence Plaza Shopping Cntr, Deltona, FL 32725",
+      "phone": "386-574-2698",
+      "id": "2249"
+    },
+    {
+      "address": "Florida Shores Plaza, Edgewater, FL 32141",
+      "phone": "386-427-2094",
+      "id": "2203"
+    },
+    {
+      "address": "2500 Burnsed Boulevard, The Villages, FL 32163",
+      "phone": "352-753-5575",
+      "id": "2545"
+    },
+    {
+      "address": "Tavares Shopping Center, Tavares, FL 32778",
+      "phone": "352-343-2002",
+      "id": "2261"
+    },
+    {
+      "address": "Sanford Town Square, Sanford, FL 32771",
+      "phone": "407-323-6664",
+      "id": "2306"
+    },
+    {
+      "address": "Bakers South, Valdosta, GA 31602",
+      "phone": "229-242-0917",
+      "id": "140"
+    },
+    {
+      "address": "Goodings Lake Mary, Lake Mary, FL 32746",
+      "phone": "407-333-9792",
+      "id": "2380"
+    },
+    {
+      "address": "Griffin Farm Shopping Plaza, Lake Mary, FL 32746",
+      "phone": "407-547-3444",
+      "id": "2566"
+    },
+    {
+      "address": "Park Plaza, Beverly Hills, FL 34465",
+      "phone": "352-746-7080",
+      "id": "2220"
+    },
+    {
+      "address": "Madison Square, Madison, FL 32340",
+      "phone": "850-973-2690",
+      "id": "28"
+    },
+    {
+      "address": "Lake Harris Square, Leesburg, FL 34748",
+      "phone": "352-315-4188",
+      "id": "2336"
+    },
+    {
+      "address": "Highland Square, Inverness, FL 34452",
+      "phone": "352-726-4141",
+      "id": "2210"
+    },
+    {
+      "address": "1202 West Main St., Inverness, FL 34450",
+      "phone": "352-726-8143",
+      "id": "2445"
+    },
+    {
+      "address": "Errol Plaza, Apopka, FL 32712",
+      "phone": "407-880-8299",
+      "id": "2246"
+    },
+    {
+      "address": "434 Center, Longwood, FL 32750",
+      "phone": "407-332-8025",
+      "id": "2233"
+    },
+    {
+      "address": "Sun Lake Plaza, Casselberry, FL 32707",
+      "phone": "407-696-9656",
+      "id": "2273"
+    },
+    {
+      "address": "1651 S.e. Hwy 19, Crystal River, FL 34429",
+      "phone": "352-563-0100",
+      "id": "2421"
+    },
+    {
+      "address": "West Town Shopping Center, Altamonte Springs, FL 32714",
+      "phone": "407-682-1703",
+      "id": "2388"
+    },
+    {
+      "address": "Main Street Square, Fern Park, FL 32730",
+      "phone": "407-339-1593",
+      "id": "2266"
+    },
+    {
+      "address": "The Walker Ridge Square, Bushnell, FL 33513",
+      "phone": "352-568-0663",
+      "id": "2320"
+    },
+    {
+      "address": "Lockwood Shopping Center, Oviedo, FL 32765",
+      "phone": "407-977-0066",
+      "id": "2271"
+    },
+    {
+      "address": "Homosassa Regional Shopping Ct, Homosassa, FL 34448",
+      "phone": "352-628-1918",
+      "id": "2223"
+    },
+    {
+      "address": "Taylor Square, Perry, FL 32348",
+      "phone": "850-584-5614",
+      "id": "104"
+    },
+    {
+      "address": "Southlake Plaza, Clermont, FL 34711",
+      "phone": "352-242-2326",
+      "id": "2225"
+    },
+    {
+      "address": "Bridewater Marketplace, Orlando, FL 32826",
+      "phone": "407-380-5445",
+      "id": "2269"
+    },
+    {
+      "address": "Metro West Marketplace, Orlando, FL 32835",
+      "phone": "407-521-9333",
+      "id": "2278"
+    },
+    {
+      "address": "Crystal Lake Shopping Center, Orlando, FL 32806",
+      "phone": "407-897-3579",
+      "id": "2288"
+    },
+    {
+      "address": "Dairy Plaza, Titusville, FL 32796",
+      "phone": "321-267-6977",
+      "id": "2327"
+    },
+    {
+      "address": "Village Square, Titusville, FL 32780",
+      "phone": "321-383-1198",
+      "id": "2326"
+    },
+    {
+      "address": "Sunrise Plaza, Brooksville, FL 34602",
+      "phone": "352-799-7700",
+      "id": "652"
+    },
+    {
+      "address": "South Plaza, Brooksville, FL 34601",
+      "phone": "352-799-2220",
+      "id": "702"
+    },
+    {
+      "address": "Shoppes Of Lake Avenue, Orlando, FL 32836",
+      "phone": "407-465-8600",
+      "id": "2215"
+    },
+    {
+      "address": "Jefferson Square, Monticello, FL 32344",
+      "phone": "850-997-2247",
+      "id": "3"
+    },
+    {
+      "address": "Weeki Wachee Village, Brooksville, FL 34613",
+      "phone": "352-596-6182",
+      "id": "750"
+    },
+    {
+      "address": "4221 Mariner Blvd, Spring Hill, FL 34608",
+      "phone": "352-688-1771",
+      "id": "2484"
+    },
+    {
+      "address": "Port St John Plaza, Port St John, FL 32927",
+      "phone": "321-636-3801",
+      "id": "2329"
+    },
+    {
+      "address": "Mariner Village, Spring Hill, FL 34608",
+      "phone": "352-686-8057",
+      "id": "708"
+    },
+    {
+      "address": "Dade City Market Place, Dade City, FL 33525",
+      "phone": "352-523-2929",
+      "id": "608"
+    },
+    {
+      "address": "Timberhills Plaza, Spring Hill, FL 34606",
+      "phone": "352-688-4800",
+      "id": "711"
+    },
+    {
+      "address": "St. Cloud Plaza, Saint Cloud, FL 34771",
+      "phone": "407-892-3755",
+      "id": "2238"
+    },
+    {
+      "address": "38901 County Road 54 East, Zephyrhills, FL 33540",
+      "phone": "813-782-6465",
+      "id": "2487"
+    },
+    {
+      "address": "Canoe Creek Plaza, Saint Cloud, FL 34772",
+      "phone": "407-891-0634",
+      "id": "2207"
+    },
+    {
+      "address": "Zephyrhills Marketplace, Zephyrhills, FL 33541",
+      "phone": "813-788-3322",
+      "id": "683"
+    },
+    {
+      "address": "Canaveral Plaza Shopping Cntr, Cocoa Beach, FL 32931",
+      "phone": "321-783-7265",
+      "id": "2325"
+    },
+    {
+      "address": "New Port Richey Market Place, New Port Richey, FL 34654",
+      "phone": "727-856-3800",
+      "id": "672"
+    },
+    {
+      "address": "Hudson Plaza, Hudson, FL 34667",
+      "phone": "727-863-9298",
+      "id": "710"
+    },
+    {
+      "address": "27301 Wesley Chapel Blvd, Wesley Chapel, FL 33543",
+      "phone": "813-994-5570",
+      "id": "2503"
+    },
+    {
+      "address": "36019 Us Hwy 27 N., Haines City, FL 33844",
+      "phone": "863-421-6535",
+      "id": "705"
+    },
+    {
+      "address": "Lakeland Market Place, Lakeland, FL 33809",
+      "phone": "863-859-4611",
+      "id": "664"
+    },
+    {
+      "address": "9101 Little Rd., New Port Richey, FL 34654",
+      "phone": "727-868-9228",
+      "id": "2459"
+    },
+    {
+      "address": "6425 County Line Rd., Tampa, FL 33647",
+      "phone": "813-907-2024",
+      "id": "2529"
+    },
+    {
+      "address": "Imperial Plaza, Auburndale, FL 33823",
+      "phone": "863-967-6100",
+      "id": "612"
+    },
+    {
+      "address": "6400 Massachusetts Ave, New Port Richey, FL 34653",
+      "phone": "727-841-7381",
+      "id": "2429"
+    },
+    {
+      "address": "Sunset Plaza, Lutz, FL 33549",
+      "phone": "813-948-1184",
+      "id": "611"
+    },
+    {
+      "address": "Magnolia Park Shopping Center, Tallahassee, FL 32301",
+      "phone": "850-656-2219",
+      "id": "86"
+    },
+    {
+      "address": "Dundee Ridge Plaza, Dundee, FL 33838",
+      "phone": "863-439-6047",
+      "id": "713"
+    },
+    {
+      "address": "Elfers Square, New Port Richey, FL 34653",
+      "phone": "727-847-1044",
+      "id": "655"
+    },
+    {
+      "address": "Lakeland Highland Plaza, Lakeland, FL 33803",
+      "phone": "863-666-3350",
+      "id": "631"
+    },
+    {
+      "address": "3406 Us Hwy 19 North, Holiday, FL 34691",
+      "phone": "727-842-5533",
+      "id": "2477"
+    },
+    {
+      "address": "17649 Gunn Hwy, Odessa, FL 33556",
+      "phone": "813-920-7626",
+      "id": "2507"
+    },
+    {
+      "address": "Holiday Marketplace, Holiday, FL 34691",
+      "phone": "727-943-8065",
+      "id": "644"
+    },
+    {
+      "address": "University East Shopping Ctr, Thonotosassa, FL 33592",
+      "phone": "813-986-5798",
+      "id": "777"
+    },
+    {
+      "address": "15692 N. Dale Mabry, Tampa, FL 33618",
+      "phone": "813-963-7883",
+      "id": "2413"
+    },
+    {
+      "address": "13508 N Florida Ave., Tampa, FL 33612",
+      "phone": "813-962-0774",
+      "id": "2415"
+    },
+    {
+      "address": "The Ocean Springs Shopping Vil, Melbourne, FL 32937",
+      "phone": "321-773-0216",
+      "id": "2328"
+    },
+    {
+      "address": "2770 Fowler Ave., Tampa, FL 33612",
+      "phone": "813-972-4504",
+      "id": "2461"
+    },
+    {
+      "address": "205 W. Alexander St., Plant City, FL 33566",
+      "phone": "813-754-9338",
+      "id": "2435"
+    },
+    {
+      "address": "8775 Temple Terrace Hwy, Tampa, FL 33637",
+      "phone": "813-985-4439",
+      "id": "2423"
+    },
+    {
+      "address": "8837 N. 56th St., Temple Terrace, FL 33617",
+      "phone": "813-988-4155",
+      "id": "2441"
+    },
+    {
+      "address": "Plaza West, W Melbourne, FL 32904",
+      "phone": "321-419-0308",
+      "id": "2568"
+    },
+    {
+      "address": "1171 South Pinellas Ave., Tarpon Springs, FL 34689",
+      "phone": "727-937-4074",
+      "id": "2531"
+    },
+    {
+      "address": "2629 Crawfordville Highway, Crawfordville, FL 32327",
+      "phone": "850-926-2204",
+      "id": "186"
+    },
+    {
+      "address": "Imperial Christina, Lakeland, FL 33813",
+      "phone": "863-644-2214",
+      "id": "632"
+    },
+    {
+      "address": "750 Martin Luther King W, Seffner, FL 33584",
+      "phone": "813-685-3843",
+      "id": "2454"
+    },
+    {
+      "address": "11230 M Luther King Blvd, Seffner, FL 33584",
+      "phone": "813-684-4949",
+      "id": "2495"
+    },
+    {
+      "address": "Waters, Tampa, FL 33604",
+      "phone": "813-931-5918",
+      "id": "639"
+    },
+    {
+      "address": "13016 Race Track Rd., Tampa, FL 33626",
+      "phone": "813-814-0394",
+      "id": "2517"
+    },
+    {
+      "address": "Shopping Center, Lake Wales, FL 33853",
+      "phone": "863-676-1223",
+      "id": "701"
+    },
+    {
+      "address": "2535 State Road 60 East, Valrico, FL 33594",
+      "phone": "813-651-9535",
+      "id": "2505"
+    },
+    {
+      "address": "805 E. Dr M.l.k. Jr Blvd, Tampa, FL 33603",
+      "phone": "813-301-0210",
+      "id": "2472"
+    },
+    {
+      "address": "1360 Tampa St., Palm Harbor, FL 34683",
+      "phone": "727-787-3599",
+      "id": "2425"
+    },
+    {
+      "address": "Marketplace Shopping Center, Palm Bay, FL 32905",
+      "phone": "321-728-1876",
+      "id": "2333"
+    },
+    {
+      "address": "Palm Bay West, Palm Bay, FL 32907",
+      "phone": "321-952-1680",
+      "id": "2230"
+    },
+    {
+      "address": "2519 Mcmullen Booth Rd, Clearwater, FL 33761",
+      "phone": "727-726-7635",
+      "id": "2452"
+    },
+    {
+      "address": "2100 W. Swann Ave., Tampa, FL 33606",
+      "phone": "813-254-6800",
+      "id": "2433"
+    },
+    {
+      "address": "Independence Square, Dunedin, FL 34698",
+      "phone": "727-733-1760",
+      "id": "640"
+    },
+    {
+      "address": "16751 Fishhawk Blvd, Lithia, FL 33547",
+      "phone": "813-643-5564",
+      "id": "2499"
+    },
+    {
+      "address": "6929 Us Hwy 301-s, Riverview, FL 33569",
+      "phone": "813-672-8455",
+      "id": "2475"
+    },
+    {
+      "address": "2460 E. Bay Drive, Largo, FL 33771",
+      "phone": "727-535-1322",
+      "id": "2456"
+    },
+    {
+      "address": "Paragon Crossing, St Petersburg, FL 33716",
+      "phone": "727-577-7095",
+      "id": "649"
+    },
+    {
+      "address": "Quincy Plaza, Quincy, FL 32351",
+      "phone": "850-627-1134",
+      "id": "184"
+    },
+    {
+      "address": "10665 Big Bend Rd., Riverview, FL 33579",
+      "phone": "813-234-0865",
+      "id": "2509"
+    },
+    {
+      "address": "Shotwell Street Plaza, Bainbridge, GA 39819",
+      "phone": "229-246-3454",
+      "id": "169"
+    },
+    {
+      "address": "Inlet Marketplace, Micco, FL 32976",
+      "phone": "772-663-0835",
+      "id": "2367"
+    },
+    {
+      "address": "Pinellas Place, Pinellas Park, FL 33782",
+      "phone": "727-541-2070",
+      "id": "681"
+    },
+    {
+      "address": "Rutland Plaza, St Petersburg, FL 33702",
+      "phone": "727-525-4632",
+      "id": "698"
+    },
+    {
+      "address": "10202 Seminole Blvd., Largo, FL 33778",
+      "phone": "727-392-8211",
+      "id": "2511"
+    },
+    {
+      "address": "252 Harbor Village Lane, Apollo Beach, FL 33572",
+      "phone": "813-645-9674",
+      "id": "2527"
+    },
+    {
+      "address": "3327 9th Street N., Saint Petersburg, FL 33704",
+      "phone": "727-823-3538",
+      "id": "2443"
+    },
+    {
+      "address": "Largo Marketplace, Seminole, FL 33777",
+      "phone": "727-393-6900",
+      "id": "606"
+    },
+    {
+      "address": "Petersburg Market Place, Kenneth City, FL 33709",
+      "phone": "727-544-7211",
+      "id": "684"
+    },
+    {
+      "address": "4445 Sun City Cntr Blvd, Sun City Center, FL 33573",
+      "phone": "813-634-1191",
+      "id": "619"
+    },
+    {
+      "address": "Park Place Plaza, Seminole, FL 33776",
+      "phone": "727-319-3840",
+      "id": "607"
+    },
+    {
+      "address": "1023 N. Tamiami Trail, Ruskin, FL 33570",
+      "phone": "813-645-9157",
+      "id": "2444"
+    },
+    {
+      "address": "2139 34th N., Saint Petersburg, FL 33713",
+      "phone": "727-323-2900",
+      "id": "2409"
+    },
+    {
+      "address": "Tyrone Gardens Shopping Center, St Petersburg, FL 33710",
+      "phone": "727-345-0063",
+      "id": "671"
+    },
+    {
+      "address": "Carter Plaza, Madeira Beach, FL 33708",
+      "phone": "727-392-1003",
+      "id": "658"
+    },
+    {
+      "address": "Sebastian Lake Shopping Cntr, Sebastian, FL 32958",
+      "phone": "772-388-4866",
+      "id": "2354"
+    },
+    {
+      "address": "Avon Park Shopping Center, Avon Park, FL 33825",
+      "phone": "863-452-1995",
+      "id": "609"
+    },
+    {
+      "address": "6851 Gulfport Blvd., South Pasadena, FL 33707",
+      "phone": "727-344-5491",
+      "id": "2411"
+    },
+    {
+      "address": "Hardee County Centre, Wauchula, FL 33873",
+      "phone": "863-767-0206",
+      "id": "2550"
+    },
+    {
+      "address": "Sebring Square, Sebring, FL 33870",
+      "phone": "863-382-6479",
+      "id": "687"
+    },
+    {
+      "address": "3250 Us 27 South, Sebring, FL 33870",
+      "phone": "863-385-3555",
+      "id": "2465"
+    },
+    {
+      "address": "515 7th St. W, Palmetto, FL 34220",
+      "phone": "941-722-1954",
+      "id": "2448"
+    },
+    {
+      "address": "2950 9th Street Sw Unit 100, Vero Beach, FL 32968",
+      "phone": "772-562-4303",
+      "id": "2366"
+    },
+    {
+      "address": "5805 Manatee Ave., Bradenton, FL 34209",
+      "phone": "941-792-2857",
+      "id": "2404"
+    },
+    {
+      "address": "The Green At Lakewood Ranch, Lakewood Ranch, FL 34202",
+      "phone": "941-909-2102",
+      "id": "2559"
+    },
+    {
+      "address": "1010 53rd Avenue E, Oneco, FL 34203",
+      "phone": "941-727-2790",
+      "id": "630"
+    },
+    {
+      "address": "Shoppes Of Paradise Bay, Bradenton, FL 34210",
+      "phone": "941-795-4638",
+      "id": "656"
+    },
+    {
+      "address": "5802 14th St. W, Bradenton, FL 34207",
+      "phone": "941-751-4394",
+      "id": "2519"
+    },
+    {
+      "address": "Indrio Crossings Plaza, Fort Pierce, FL 34951",
+      "phone": "772-464-9341",
+      "id": "2349"
+    },
+    {
+      "address": "Sarasota Towne Center, Sarasota, FL 34232",
+      "phone": "941-342-8383",
+      "id": "657"
+    },
+    {
+      "address": "4230 Bee Ridge Road, Sarasota, FL 34233",
+      "phone": "941-343-9495",
+      "id": "2501"
+    },
+    {
+      "address": "1737 East Oak Street, Arcadia, FL 34266",
+      "phone": "863-993-3293",
+      "id": "2491"
+    },
+    {
+      "address": "1519 Us Highway 27 South, Lake Placid, FL 33852",
+      "phone": "863-465-0416",
+      "id": "2548"
+    },
+    {
+      "address": "Towne South Plaza, Fort Pierce, FL 34982",
+      "phone": "772-466-5308",
+      "id": "2355"
+    },
+    {
+      "address": "Lafayette Plaza, Marianna, FL 32446",
+      "phone": "850-482-5303",
+      "id": "555"
+    },
+    {
+      "address": "Okeechobee Plaza, Okeechobee, FL 34974",
+      "phone": "863-763-8354",
+      "id": "331"
+    },
+    {
+      "address": "Shoppes Of Victoria, Port Saint Lucie, FL 34984",
+      "phone": "772-340-0446",
+      "id": "2348"
+    },
+    {
+      "address": "458 Venice By-pass, Venice, FL 34285",
+      "phone": "941-485-2912",
+      "id": "2400"
+    },
+    {
+      "address": "1254 Jacaranda, Venice, FL 34292",
+      "phone": "941-497-2602",
+      "id": "2427"
+    },
+    {
+      "address": "Palm Breeze Plaza, Jensen Beach, FL 34957",
+      "phone": "772-334-7270",
+      "id": "308"
+    },
+    {
+      "address": "North Port Shopping Ctr, North Port, FL 34287",
+      "phone": "941-426-2529",
+      "id": "662"
+    },
+    {
+      "address": "Kings Crossing Shopping Ctr, Port Charlotte, FL 33980",
+      "phone": "941-629-2662",
+      "id": "737"
+    },
+    {
+      "address": "Promenades Mall, Port Charlotte, FL 33952",
+      "phone": "941-625-2151",
+      "id": "736"
+    },
+    {
+      "address": "Dothan East, Dothan, AL 36301",
+      "phone": "334-673-1604",
+      "id": "457"
+    },
+    {
+      "address": "Cleveland Marketplace, Punta Gorda, FL 33982",
+      "phone": "941-505-9208",
+      "id": "741"
+    },
+    {
+      "address": "Salerno Village, Stuart, FL 34997",
+      "phone": "772-283-2511",
+      "id": "364"
+    },
+    {
+      "address": "4100 Mccall Road, Englewood, FL 34224",
+      "phone": "941-473-8909",
+      "id": "720"
+    },
+    {
+      "address": "Eufaula Square, Eufaula, AL 36027",
+      "phone": "334-687-8796",
+      "id": "478"
+    },
+    {
+      "address": "Wiregrass Plaza, Dothan, AL 36303",
+      "phone": "334-794-4377",
+      "id": "426"
+    },
+    {
+      "address": "1951 S. Mccall Rd #300, Englewood, FL 34223",
+      "phone": "941-475-9590",
+      "id": "2439"
+    },
+    {
+      "address": "Parker Center, Parker, FL 32404",
+      "phone": "850-913-0086",
+      "id": "538"
+    },
+    {
+      "address": "Transmitter Crossing, Panama City, FL 32404",
+      "phone": "850-914-2333",
+      "id": "481"
+    },
+    {
+      "address": "Lynn Haven Shopping Center, Lynn Haven, FL 32444",
+      "phone": "850-271-0066",
+      "id": "436"
+    },
+    {
+      "address": "The Marketplace, Hobe Sound, FL 33455",
+      "phone": "772-546-3221",
+      "id": "305"
+    },
+    {
+      "address": "Palm Court, Panama City, FL 32405",
+      "phone": "850-872-9300",
+      "id": "487"
+    },
+    {
+      "address": "960 S. Main Street, La Belle, FL 33935",
+      "phone": "863-675-3838",
+      "id": "721"
+    },
+    {
+      "address": "Bay Point Marketplace, Panama City, FL 32408",
+      "phone": "850-234-1200",
+      "id": "552"
+    },
+    {
+      "address": "Fountain Park, Columbus, GA 31907",
+      "phone": "706-563-6928",
+      "id": "443"
+    },
+    {
+      "address": "East Gate Square, Fort Myers, FL 33905",
+      "phone": "239-693-0045",
+      "id": "728"
+    },
+    {
+      "address": "5660 Bayshore Rd, Fort Myers, FL 33917",
+      "phone": "239-731-1007",
+      "id": "2480"
+    },
+    {
+      "address": "North Crossing, Columbus, GA 31909",
+      "phone": "706-653-0574",
+      "id": "439"
+    },
+    {
+      "address": "Alexander City Shopping Center, Phenix City, AL 36870",
+      "phone": "334-214-0123",
+      "id": "433"
+    },
+    {
+      "address": "Wye Shopping Center, Panama City Beach, FL 32413",
+      "phone": "850-234-2289",
+      "id": "494"
+    },
+    {
+      "address": "10580 Colonial Blvd Ste 101, Fort Myers, FL 33913",
+      "phone": "239-561-0493",
+      "id": "2521"
+    },
+    {
+      "address": "61 Bell Blvd North, Lehigh Acres, FL 33936",
+      "phone": "239-369-6200",
+      "id": "2474"
+    },
+    {
+      "address": "Pine Island Center, St James City, FL 33956",
+      "phone": "239-283-4404",
+      "id": "726"
+    },
+    {
+      "address": "Big Lake Plaza, Belle Glade, FL 33430",
+      "phone": "561-996-7886",
+      "id": "381"
+    },
+    {
+      "address": "Gardens Park Plaza, Palm Beach Gardens, FL 33410",
+      "phone": "561-622-0143",
+      "id": "333"
+    },
+    {
+      "address": "1016 Cape Coral Pky, Ste 110, Cape Coral, FL 33904",
+      "phone": "239-542-6464",
+      "id": "2533"
+    },
+    {
+      "address": "Cypress Trace, Fort Myers, FL 33907",
+      "phone": "239-766-8514",
+      "id": "2570"
+    },
+    {
+      "address": "Panama Plaza, Panama City Beach, FL 32413",
+      "phone": "850-234-2001",
+      "id": "488"
+    },
+    {
+      "address": "Village Royale, Royal Palm Beach, FL 33411",
+      "phone": "561-793-0422",
+      "id": "212"
+    },
+    {
+      "address": "Immokalee Plaza, Immokalee, FL 34142",
+      "phone": "239-657-7666",
+      "id": "751"
+    },
+    {
+      "address": "Defuniak Square, Defuniak Springs, FL 32435",
+      "phone": "850-892-0668",
+      "id": "577"
+    },
+    {
+      "address": "Palm Coast Plaza, West Palm Beach, FL 33405",
+      "phone": "561-585-5720",
+      "id": "309"
+    },
+    {
+      "address": "Charleston Square, Lake Worth, FL 33467",
+      "phone": "561-966-2177",
+      "id": "397"
+    },
+    {
+      "address": "Lantana Village Shopping Ctr, Lantana, FL 33462",
+      "phone": "561-586-5820",
+      "id": "271"
+    },
+    {
+      "address": "Cobblestone Commons, Boynton Beach, FL 33472",
+      "phone": "561-536-2170",
+      "id": "2558"
+    },
+    {
+      "address": "Betts Crossing, Opelika, AL 36801",
+      "phone": "334-741-4140",
+      "id": "437"
+    },
+    {
+      "address": "Tiger Crossing Shopping Center, Auburn, AL 36832",
+      "phone": "334-826-2220",
+      "id": "579"
+    },
+    {
+      "address": "7550 Mission Hills Drive, Naples, FL 34119",
+      "phone": "239-304-3340",
+      "id": "2515"
+    },
+    {
+      "address": "Marketplace Of Delray, Delray Beach, FL 33484",
+      "phone": "561-637-2360",
+      "id": "255"
+    },
+    {
+      "address": "65 Poinciana Blvd, Miramar Beach, FL 32550",
+      "phone": "850-650-2139",
+      "id": "510"
+    },
+    {
+      "address": "Golden Gate Center, Naples, FL 34116",
+      "phone": "239-455-3244",
+      "id": "743"
+    },
+    {
+      "address": "Northview Shopping Center, Niceville, FL 32578",
+      "phone": "850-897-3535",
+      "id": "551"
+    },
+    {
+      "address": "Delmar Shopping Plaza, Boca Raton, FL 33433",
+      "phone": "561-368-5442",
+      "id": "355"
+    },
+    {
+      "address": "98 Palms, Destin, FL 32541",
+      "phone": "850-654-5353",
+      "id": "560"
+    },
+    {
+      "address": "Rivertowne Square, Deerfield Beach, FL 33441",
+      "phone": "954-426-4404",
+      "id": "345"
+    },
+    {
+      "address": "Pepper Tree Plaza, Margate, FL 33073",
+      "phone": "954-977-0902",
+      "id": "349"
+    },
+    {
+      "address": "Crestview Marketplace, Crestview, FL 32536",
+      "phone": "850-689-1551",
+      "id": "558"
+    },
+    {
+      "address": "Uptown Station, Fort Walton Beach, FL 32548",
+      "phone": "850-244-4261",
+      "id": "566"
+    },
+    {
+      "address": "Three Lakes Plaza, Tamarac, FL 33309",
+      "phone": "954-739-9607",
+      "id": "210"
+    },
+    {
+      "address": "Viscaya Square, Plantation, FL 33324",
+      "phone": "954-473-8662",
+      "id": "757"
+    },
+    {
+      "address": "Oak Monte Shopping Center, Ft Walton Beach, FL 32547",
+      "phone": "850-864-3891",
+      "id": "541"
+    },
+    {
+      "address": "Galt Ocean Marketplace, Ft Lauderdale, FL 33308",
+      "phone": "954-563-4110",
+      "id": "386"
+    },
+    {
+      "address": "Marco Island Marketplace, Marco Island, FL 34145",
+      "phone": "239-642-9126",
+      "id": "729"
+    },
+    {
+      "address": "The Plaza, Davie, FL 33325",
+      "phone": "954-916-4121",
+      "id": "311"
+    },
+    {
+      "address": "Victoria Park Shoppes, Fort Lauderdale, FL 33304",
+      "phone": "954-764-2454",
+      "id": "290"
+    },
+    {
+      "address": "Twin Oaks Plaza, Ft Lauderdale, FL 33312",
+      "phone": "954-587-0624",
+      "id": "330"
+    },
+    {
+      "address": "Sturbridge Village Center, Montgomery, AL 36116",
+      "phone": "334-272-5979",
+      "id": "448"
+    },
+    {
+      "address": "Southport Plaza, Ft Lauderdale, FL 33316",
+      "phone": "954-763-2275",
+      "id": "226"
+    },
+    {
+      "address": "Southland Plaza, Ft Lauderdale, FL 33315",
+      "phone": "954-763-2191",
+      "id": "236"
+    },
+    {
+      "address": "Emerald Woods Plaza, Hollywood, FL 33021",
+      "phone": "954-987-7537",
+      "id": "336"
+    },
+    {
+      "address": "Park View Square, Miramar, FL 33027",
+      "phone": "954-704-1884",
+      "id": "250"
+    },
+    {
+      "address": "Country Club Shopping Center, Montgomery, AL 36106",
+      "phone": "334-269-5554",
+      "id": "464"
+    },
+    {
+      "address": "Hallandale Shopping Center, Hallandale, FL 33009",
+      "phone": "954-457-7380",
+      "id": "203"
+    },
+    {
+      "address": "Toulouse Village, Wetumpka, AL 36092",
+      "phone": "334-567-2386",
+      "id": "428"
+    },
+    {
+      "address": "Diplomat Mall, Hallandale, FL 33009",
+      "phone": "954-454-6676",
+      "id": "306"
+    },
+    {
+      "address": "Westport Shopping Center, Montgomery, AL 36108",
+      "phone": "334-286-9770",
+      "id": "446"
+    },
+    {
+      "address": "California Club Shopping Ctr, Miami, FL 33179",
+      "phone": "305-653-2657",
+      "id": "357"
+    },
+    {
+      "address": "Promenade Shoppes, Aventura, FL 33180",
+      "phone": "305-935-2969",
+      "id": "291"
+    },
+    {
+      "address": "Royal Oaks Plaza, Miami Lakes, FL 33016",
+      "phone": "305-558-9207",
+      "id": "262"
+    },
+    {
+      "address": "Dolphin Plaza, Miami Gardens, FL 33056",
+      "phone": "305-625-6155",
+      "id": "246"
+    },
+    {
+      "address": "The Marketplace, Alexander City, AL 35010",
+      "phone": "256-234-5141",
+      "id": "456"
+    },
+    {
+      "address": "Northway Shopping Center, Miami, FL 33168",
+      "phone": "305-685-9586",
+      "id": "343"
+    },
+    {
+      "address": "Intercoastal Mall, N Miami Beach, FL 33160",
+      "phone": "305-949-8298",
+      "id": "378"
+    },
+    {
+      "address": "11030 N.w. 7th Ave., Miami, FL 33168",
+      "phone": "305-756-0013",
+      "id": "233"
+    },
+    {
+      "address": "Winn Dixie - Doral Area, Doral, FL 33178",
+      "phone": "305-591-0780",
+      "id": "280"
+    },
+    {
+      "address": "3625 Highway 14, Millbrook, AL 36054",
+      "phone": "334-285-7997",
+      "id": "451"
+    },
+    {
+      "address": "The Shoppes Of Liberty City, Miami, FL 33127",
+      "phone": "305-757-0696",
+      "id": "214"
+    },
+    {
+      "address": "Camtown Shopping Center, Prattville, AL 36067",
+      "phone": "334-365-7015",
+      "id": "527"
+    },
+    {
+      "address": "1155 Nw 11th St, Miami, FL 33136",
+      "phone": "305-545-0127",
+      "id": "247"
+    },
+    {
+      "address": "Dogwood Park Plaza, Milton, FL 32570",
+      "phone": "850-626-9800",
+      "id": "489"
+    },
+    {
+      "address": "Concord Shopping Mall, Miami, FL 33165",
+      "phone": "305-221-3660",
+      "id": "254"
+    },
+    {
+      "address": "3275 Sw 22nd Street, Miami, FL 33145",
+      "phone": "305-460-9596",
+      "id": "251"
+    },
+    {
+      "address": "Bird Ludlam Shopping Center, Miami, FL 33155",
+      "phone": "305-661-1863",
+      "id": "249"
+    },
+    {
+      "address": "Tiger Point Shopping Center, Gulf Breeze, FL 32563",
+      "phone": "850-932-0858",
+      "id": "412"
+    },
+    {
+      "address": "Sunset Plaza, Miami, FL 33173",
+      "phone": "305-279-5719",
+      "id": "370"
+    },
+    {
+      "address": "5850 Sw 73rd Street, South Miami, FL 33143",
+      "phone": "305-666-5241",
+      "id": "285"
+    },
+    {
+      "address": "Riley Place Shopping Center, Pace, FL 32571",
+      "phone": "850-994-4240",
+      "id": "507"
+    },
+    {
+      "address": "Key Biscayne Shopping Center, Key Biscayne, FL 33149",
+      "phone": "305-361-8261",
+      "id": "318"
+    },
+    {
+      "address": "Eastgate Shopping Center, Pensacola, FL 32504",
+      "phone": "850-476-0494",
+      "id": "504"
+    },
+    {
+      "address": "Cordova Collections, Pensacola, FL 32503",
+      "phone": "850-479-9186",
+      "id": "556"
+    },
+    {
+      "address": "Point Royale Shopping Center, Cutler Bay, FL 33157",
+      "phone": "305-232-1316",
+      "id": "371"
+    },
+    {
+      "address": "Greenbriar Station, Anniston, AL 36207",
+      "phone": "256-831-8801",
+      "id": "447"
+    },
+    {
+      "address": "Nine Mile Plaza, Pensacola, FL 32514",
+      "phone": "850-478-7488",
+      "id": "506"
+    },
+    {
+      "address": "Cantonment Marketplace, Cantonment, FL 32533",
+      "phone": "850-968-3388",
+      "id": "498"
+    },
+    {
+      "address": "Dixie Center, Homestead, FL 33030",
+      "phone": "305-246-3998",
+      "id": "319"
+    },
+    {
+      "address": "Pelham Plaza, Pensacola, FL 32506",
+      "phone": "850-457-1395",
+      "id": "535"
+    },
+    {
+      "address": "Clanton Marketplace, Clanton, AL 35045",
+      "phone": "205-755-6765",
+      "id": "411"
+    },
+    {
+      "address": "Park Plaza, Pensacola, FL 32507",
+      "phone": "850-492-2076",
+      "id": "493"
+    },
+    {
+      "address": "1952 West Dallas Ave., Selma, AL 36701",
+      "phone": "334-872-7007",
+      "id": "543"
+    },
+    {
+      "address": "Foley Commons, Foley, AL 36535",
+      "phone": "251-943-4866",
+      "id": "570"
+    },
+    {
+      "address": "Chelsea Corners, Chelsea, AL 35043",
+      "phone": "205-678-8808",
+      "id": "509"
+    },
+    {
+      "address": "Rainbow Marketplace, Rainbow City, AL 35906",
+      "phone": "256-442-3530",
+      "id": "442"
+    },
+    {
+      "address": "Island Plaza, Key Largo, FL 33037",
+      "phone": "305-451-0328",
+      "id": "352"
+    },
+    {
+      "address": "500 Inverness Corners, Birmingham, AL 35242",
+      "phone": "205-991-0230",
+      "id": "445"
+    },
+    {
+      "address": "3925 Crosshaven Drive, Vestavia Hills, AL 35243",
+      "phone": "205-969-2307",
+      "id": "517"
+    },
+    {
+      "address": "Tavernier Town Shopping Center, Tavernier, FL 33070",
+      "phone": "305-852-5904",
+      "id": "328"
+    },
+    {
+      "address": "Trussville Marketplace, Trussville, AL 35173",
+      "phone": "205-661-0026",
+      "id": "461"
+    },
+    {
+      "address": "Baldwin Square, Fairhope, AL 36532",
+      "phone": "251-990-5188",
+      "id": "599"
+    },
+    {
+      "address": "Old Springfield Shopping, Birmingham, AL 35213",
+      "phone": "205-951-6768",
+      "id": "435"
+    },
+    {
+      "address": "Morgan Road Square, Bessemer, AL 35022",
+      "phone": "205-425-2121",
+      "id": "595"
+    },
+    {
+      "address": "Pinson Marketplace, Pinson, AL 35126",
+      "phone": "205-680-2550",
+      "id": "500"
+    },
+    {
+      "address": "The Quail Run Village, Fultondale, AL 35068",
+      "phone": "205-841-2420",
+      "id": "458"
+    },
+    {
+      "address": "Weinacker's Shopping Center, Mobile, AL 36604",
+      "phone": "251-471-3115",
+      "id": "1333"
+    },
+    {
+      "address": "5585 Overseas Hwy, Marathon, FL 33050",
+      "phone": "305-743-3636",
+      "id": "267"
+    },
+    {
+      "address": "Big Pine Plaza, Big Pine Key, FL 33043",
+      "phone": "305-872-4124",
+      "id": "358"
+    },
+    {
+      "address": "Island Road Shopping Center, Theodore, AL 36582",
+      "phone": "251-653-5690",
+      "id": "580"
+    },
+    {
+      "address": "West Gate Plaza S.c., Mobile, AL 36619",
+      "phone": "251-602-1818",
+      "id": "572"
+    },
+    {
+      "address": "Hillcrest Market Place, Mobile, AL 36609",
+      "phone": "251-633-4930",
+      "id": "590"
+    },
+    {
+      "address": "Zeigler Corners, Mobile, AL 36608",
+      "phone": "251-639-3130",
+      "id": "549"
+    },
+    {
+      "address": "Semmes Marketplace, Semmes, AL 36575",
+      "phone": "251-649-1646",
+      "id": "473"
+    },
+    {
+      "address": "2778 N. Roosevelt Blvd., Key West, FL 33040",
+      "phone": "305-294-0491",
+      "id": "317"
+    },
+    {
+      "address": "Vigouroux Marketplace, Mobile, AL 36608",
+      "phone": "251-639-1993",
+      "id": "591"
+    },
+    {
+      "address": "Five Points Shopping Center, Tuscaloosa, AL 35404",
+      "phone": "205-553-3360",
+      "id": "407"
+    },
+    {
+      "address": "Englewood Village, Tuscaloosa, AL 35405",
+      "phone": "205-366-0355",
+      "id": "479"
+    },
+    {
+      "address": "Essex Square Marketplace, Northport, AL 35476",
+      "phone": "205-345-2735",
+      "id": "528"
+    },
+    {
+      "address": "Talladega Shopping Center, Northport, AL 35475",
+      "phone": "205-333-0321",
+      "id": "526"
+    },
+    {
+      "address": "Crump Marketplace, Jasper, AL 35501",
+      "phone": "205-221-2449",
+      "id": "496"
+    },
+    {
+      "address": "Spring Plaza, Ocean Springs, MS 39564",
+      "phone": "228-875-8388",
+      "id": "1478"
+    },
+    {
+      "address": "K-mart Shopping Center, Diberville, MS 39540",
+      "phone": "228-392-9298",
+      "id": "1513"
+    },
+    {
+      "address": "North Hills Marketplace, Meridian, MS 39301",
+      "phone": "601-485-0808",
+      "id": "533"
+    },
+    {
+      "address": "Orange Grove Shopping Center, Gulfport, MS 39503",
+      "phone": "228-832-8452",
+      "id": "1511"
+    },
+    {
+      "address": "Long Beach Village, Long Beach, MS 39560",
+      "phone": "228-863-8680",
+      "id": "1479"
+    },
+    {
+      "address": "Westwood Shopping Center, Hattiesburg, MS 39402",
+      "phone": "601-268-1683",
+      "id": "2626"
+    },
+    {
+      "address": "2985 Gause Blvd., Slidell, LA 70461",
+      "phone": "985-639-0021",
+      "id": "1502"
+    },
+    {
+      "address": "3030 Pontchartrain Dr, Slidell, LA 70458",
+      "phone": "985-645-0026",
+      "id": "1504"
+    },
+    {
+      "address": "Park Plaza Shopping Center, Chalmette, LA 70043",
+      "phone": "504-271-4664",
+      "id": "1432"
+    },
+    {
+      "address": "Haydel Realty Shopping Center, New Orleans, LA 70127",
+      "phone": "504-244-0701",
+      "id": "1439"
+    },
+    {
+      "address": "Village Aurora Shopping Center, New Orleans, LA 70131",
+      "phone": "504-398-0313",
+      "id": "1426"
+    },
+    {
+      "address": "4100 Highway 59, Mandeville, LA 70471",
+      "phone": "985-893-1968",
+      "id": "1500"
+    },
+    {
+      "address": "2112 Belle Chasse Hwy., Gretna, LA 70056",
+      "phone": "504-433-3646",
+      "id": "1405"
+    },
+    {
+      "address": "Main Street Shopping Center, Covington, LA 70433",
+      "phone": "985-893-1531",
+      "id": "1448"
+    },
+    {
+      "address": "401 North Carrolton, New Orleans, LA 70119",
+      "phone": "504-482-6771",
+      "id": "1472"
+    },
+    {
+      "address": "Marrero Shopping Center, Marrero, LA 70072",
+      "phone": "504-340-9898",
+      "id": "1440"
+    },
+    {
+      "address": "70431 Hwy 21, Covington, LA 70433",
+      "phone": "985-871-1179",
+      "id": "1443"
+    },
+    {
+      "address": "Riverside Market, New Orleans, LA 70115",
+      "phone": "504-895-2966",
+      "id": "1430"
+    },
+    {
+      "address": "211 Veterans Memorial Blvd., Metairie, LA 70005",
+      "phone": "504-831-8544",
+      "id": "1329"
+    },
+    {
+      "address": "Boquechitto Plaza, Franklinton, LA 70438",
+      "phone": "985-839-5525",
+      "id": "1501"
+    },
+    {
+      "address": "5901 Airline Drive, Metairie, LA 70003",
+      "phone": "504-734-0702",
+      "id": "1411"
+    },
+    {
+      "address": "8601 Jefferson Highway, River Ridge, LA 70123",
+      "phone": "504-738-2682",
+      "id": "1404"
+    },
+    {
+      "address": "2104 Williams Blvd, Kenner, LA 70062",
+      "phone": "504-469-0861",
+      "id": "1412"
+    },
+    {
+      "address": "Luling Marketplace, Luling, LA 70070",
+      "phone": "985-785-0610",
+      "id": "1444"
+    },
+    {
+      "address": "Cypress Plaza, Destrehan, LA 70047",
+      "phone": "985-764-3196",
+      "id": "1588"
+    },
+    {
+      "address": "Town, Hammond, LA 70401",
+      "phone": "985-542-8901",
+      "id": "1537"
+    },
+    {
+      "address": "804 W. Oak Street, Amite, LA 70422",
+      "phone": "985-748-7144",
+      "id": "1449"
+    },
+    {
+      "address": "Market Place At Laplace, La Place, LA 70068",
+      "phone": "985-653-0860",
+      "id": "1583"
+    },
+    {
+      "address": "1803 La Hwy 3125, Gramercy, LA 70052",
+      "phone": "225-869-8090",
+      "id": "1463"
+    },
+    {
+      "address": "17682 Airline Hgwy, Prairieville, LA 70769",
+      "phone": "225-677-9701",
+      "id": "1590"
+    },
+    {
+      "address": "13002 Coursey Blvd, Baton Rouge, LA 70816",
+      "phone": "225-756-7102",
+      "id": "1577"
+    },
+    {
+      "address": "Interstate Shopping Center, Baton Rouge, LA 70818",
+      "phone": "225-261-6001",
+      "id": "1576"
+    },
+    {
+      "address": "8601 Siegen Lane, Baton Rouge, LA 70810",
+      "phone": "225-766-8400",
+      "id": "1461"
+    },
+    {
+      "address": "Riverside Plaza, Zachary, LA 70791",
+      "phone": "225-654-5030",
+      "id": "1581"
+    },
+    {
+      "address": "Nelson Plaza Shopping Center, Baton Rouge, LA 70820",
+      "phone": "225-757-0501",
+      "id": "1454"
+    }
+  ]
+}
