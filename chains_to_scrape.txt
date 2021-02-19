@@ -4,7 +4,6 @@
 |No ID?| SpartanNash
 ! Giant Eagle
 ! Harps Food Stores
-Ingles Markets
 ! Piggly Wiggly
 Publix
 ! Winn-Dixie
@@ -54,3 +53,4 @@ Selenium blocked:
 IFrame chains:
 PriceRite
 Market Basket
+Ingles Markets
