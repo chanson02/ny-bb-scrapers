@@ -1,0 +1,535 @@
+{
+  "name": "Cub",
+  "stores": [
+    {
+      "address": "1512 S West Avenue, Freeport, IL 61032",
+      "phone": "815-233-1100",
+      "id": "1625"
+    },
+    {
+      "address": "2612 South Broadway, Alexandria, MN 56308",
+      "phone": "320-762-1158",
+      "id": "1155110"
+    },
+    {
+      "address": "15350 Cedar Ave, Alexandria, MN 56308",
+      "phone": "952-432-6300",
+      "id": "1604"
+    },
+    {
+      "address": "3717 Lexington Ave N, Alexandria, MN 56308",
+      "phone": "651-486-7933",
+      "id": "1641"
+    },
+    {
+      "address": "3717 Lexington Avenue North, Alexandria, MN 56308",
+      "phone": "651-766-5285",
+      "id": "1668"
+    },
+    {
+      "address": "14133 Edgewood Dr North, Alexandria, MN 56308",
+      "phone": "218-828-4601",
+      "id": "1001045"
+    },
+    {
+      "address": "10881 University Avenue Ne, Alexandria, MN 56308",
+      "phone": "763-767-8272",
+      "id": "1592"
+    },
+    {
+      "address": "12595 Central Ave Ne, Blaine, MN 55434",
+      "phone": "763-755-9802",
+      "id": "1598"
+    },
+    {
+      "address": "585 Northtown Dr, Blaine, MN 55434",
+      "phone": "763-780-4323",
+      "id": "1608"
+    },
+    {
+      "address": "4205 Pheasant Ridge Dr, Blaine, MN 55434",
+      "phone": "763-784-4368",
+      "id": "1652"
+    },
+    {
+      "address": "4255 Pheasant Ridge Drive #310, Blaine, MN 55434",
+      "phone": "--",
+      "id": "1585"
+    },
+    {
+      "address": "10520 France Avenue South, Blaine, MN 55434",
+      "phone": "952-884-8288",
+      "id": "1001034"
+    },
+    {
+      "address": "8421 Lyndale Ave South, Blaine, MN 55434",
+      "phone": "952-881-4299",
+      "id": "6690"
+    },
+    {
+      "address": "8421 Lyndale Ave, Bloomington, MN 55420",
+      "phone": "952-888-2045",
+      "id": "1665"
+    },
+    {
+      "address": "10522 France Ave, Bloomington, MN 55420",
+      "phone": "952-746-1717",
+      "id": "1005222"
+    },
+    {
+      "address": "417 8th Ave Ne, Bloomington, MN 55420",
+      "phone": "218-828-1816",
+      "id": "1001047"
+    },
+    {
+      "address": "3245 County Road 10, Bloomington, MN 55420",
+      "phone": "763-560-0158",
+      "id": "1155102"
+    },
+    {
+      "address": "7555 W Broadway, Bloomington, MN 55420",
+      "phone": "763-424-2510",
+      "id": "1609"
+    },
+    {
+      "address": "7555 West Broadway, Bloomington, MN 55420",
+      "phone": "763-425-7051",
+      "id": "1662"
+    },
+    {
+      "address": "9655 Colorado Lane North, Brooklyn Park, MN 55445",
+      "phone": "763-315-6767",
+      "id": "1654"
+    },
+    {
+      "address": "1008 East Highway 55, Brooklyn Park, MN 55445",
+      "phone": "763-682-0100",
+      "id": "1001044"
+    },
+    {
+      "address": "1750 County Rd 42 West, Brooklyn Park, MN 55445",
+      "phone": "952-435-8300",
+      "id": "1631"
+    },
+    {
+      "address": "300 E Travelers Trail, Brooklyn Park, MN 55445",
+      "phone": "952-894-9040",
+      "id": "1658"
+    },
+    {
+      "address": "1750 W. County Road 42, Brooklyn Park, MN 55445",
+      "phone": "--",
+      "id": "1691"
+    },
+    {
+      "address": "100 Opportunity Blvd North East, Brooklyn Park, MN 55445",
+      "phone": "763-689-1112",
+      "id": "1645"
+    },
+    {
+      "address": "8600 N 114th Ave, Champlin, MN 55316",
+      "phone": "763-427-2714",
+      "id": "1643"
+    },
+    {
+      "address": "11420 Market Place Drive, Champlin, MN 55316",
+      "phone": "763-323-7204",
+      "id": "1565"
+    },
+    {
+      "address": "7900 Market Blvd, Champlin, MN 55316",
+      "phone": "952-934-1010",
+      "id": "1644"
+    },
+    {
+      "address": "200 Pioneer Trail, Champlin, MN 55316",
+      "phone": "952-448-5112",
+      "id": "1007630"
+    },
+    {
+      "address": "12940 Riverdale Drive, Champlin, MN 55316",
+      "phone": "763-576-1744",
+      "id": "1692"
+    },
+    {
+      "address": "12900 Riverdale Drive, Champlin, MN 55316",
+      "phone": "763-421-4252",
+      "id": "1001035"
+    },
+    {
+      "address": "2050 Northdale Blvd, Coon Rapids, MN 55433",
+      "phone": "763-767-9330",
+      "id": "1638"
+    },
+    {
+      "address": "8690 E Point Douglas Rd, Coon Rapids, MN 55433",
+      "phone": "651-459-7106",
+      "id": "1613"
+    },
+    {
+      "address": "5301 36th Ave N, Coon Rapids, MN 55433",
+      "phone": "763-287-9996",
+      "id": "1601"
+    },
+    {
+      "address": "5201 36th Avenue North, Coon Rapids, MN 55433",
+      "phone": "763-588-7940",
+      "id": "1671"
+    },
+    {
+      "address": "615 W Central Entrance, Coon Rapids, MN 55433",
+      "phone": "218-727-0272",
+      "id": "1603"
+    },
+    {
+      "address": "1276 Town Centre Dr, Coon Rapids, MN 55433",
+      "phone": "651-452-9506",
+      "id": "1695"
+    },
+    {
+      "address": "1940 Cliff Lake Rd, Eagan, MN 55122",
+      "phone": "651-454-4606",
+      "id": "1616"
+    },
+    {
+      "address": "1016 Diffley Road, Eagan, MN 55122",
+      "phone": "651-454-1562",
+      "id": "1680"
+    },
+    {
+      "address": "1020 Diffley Road, Eagan, MN 55122",
+      "phone": "651-452-1811",
+      "id": "4974"
+    },
+    {
+      "address": "8015 Den Road, Eagan, MN 55122",
+      "phone": "952-941-9050",
+      "id": "1001036"
+    },
+    {
+      "address": "6775 York Avenue South, Eagan, MN 55122",
+      "phone": "952-929-9330",
+      "id": "1155702"
+    },
+    {
+      "address": "19216 Freeport Avenue, Eagan, MN 55122",
+      "phone": "763-241-1124",
+      "id": "1001043"
+    },
+    {
+      "address": "2013 Broadway Ave W, Forest Lake, MN 55025",
+      "phone": "651-982-4511",
+      "id": "1634"
+    },
+    {
+      "address": "250 57th Ave Ne, Forest Lake, MN 55025",
+      "phone": "763-571-3744",
+      "id": "1630"
+    },
+    {
+      "address": "1729 Market Blvd, Forest Lake, MN 55025",
+      "phone": "651-438-1481",
+      "id": "1635"
+    },
+    {
+      "address": "1729 Market Blvd, Forest Lake, MN 55025",
+      "phone": "651-438-3526",
+      "id": "1667"
+    },
+    {
+      "address": "7804 Cahill Ave, Forest Lake, MN 55025",
+      "phone": "651-455-4271",
+      "id": "1584"
+    },
+    {
+      "address": "7850 Cahill Road, Forest Lake, MN 55025",
+      "phone": "651-451-1579",
+      "id": "1639"
+    },
+    {
+      "address": "17756 Kenwood Trail, Lakeville, MN 55044",
+      "phone": "952-898-4500",
+      "id": "1597"
+    },
+    {
+      "address": "7435 W 179th St, Lakeville, MN 55044",
+      "phone": "952-891-1700",
+      "id": "1656"
+    },
+    {
+      "address": "20250 Heritage Drive, Lakeville, MN 55044",
+      "phone": "952-469-8400",
+      "id": "1657"
+    },
+    {
+      "address": "1800 Madison Ave, Lakeville, MN 55044",
+      "phone": "507-625-9222",
+      "id": "1606"
+    },
+    {
+      "address": "1200 S Riverfront Dr, Lakeville, MN 55044",
+      "phone": "507-387-4163",
+      "id": "1653"
+    },
+    {
+      "address": "8150 Wedgewood Ln, Lakeville, MN 55044",
+      "phone": "763-494-8364",
+      "id": "1600"
+    },
+    {
+      "address": "2390 White Bear Avenue, Maplewood, MN 55109",
+      "phone": "651-773-8558",
+      "id": "1599"
+    },
+    {
+      "address": "100 W County Rd B, Maplewood, MN 55109",
+      "phone": "651-489-8217",
+      "id": "1611"
+    },
+    {
+      "address": "100 West County Road B, Maplewood, MN 55109",
+      "phone": "651-489-1275",
+      "id": "1663"
+    },
+    {
+      "address": "701 W Broadway Ave, Maplewood, MN 55109",
+      "phone": "--",
+      "id": "1569"
+    },
+    {
+      "address": "4601 Snelling Avenue South, Maplewood, MN 55109",
+      "phone": "612-345-7157",
+      "id": "1587"
+    },
+    {
+      "address": "2850 26th Ave South, Maplewood, MN 55109",
+      "phone": "--",
+      "id": "1001037"
+    },
+    {
+      "address": "1104 Lagoon Ave, Minneapolis, MN 55408",
+      "phone": "612-823-1563",
+      "id": "1693"
+    },
+    {
+      "address": "1540 New Brighton Blvd, Minneapolis, MN 55408",
+      "phone": "612-788-6003",
+      "id": "1155373"
+    },
+    {
+      "address": "701 West Broadway Avenue, Minneapolis, MN 55408",
+      "phone": "612-746-1700",
+      "id": "1155371"
+    },
+    {
+      "address": "5937 Nicollet Avenue South, Minneapolis, MN 55408",
+      "phone": "612-866-7471",
+      "id": "1155705"
+    },
+    {
+      "address": "2850 26th Ave S, Minneapolis, MN 55408",
+      "phone": "--",
+      "id": "1567"
+    },
+    {
+      "address": "4801 Highway 101, Minneapolis, MN 55408",
+      "phone": "952-938-1404",
+      "id": "1001038"
+    },
+    {
+      "address": "216 7th Street West, Monticello, MN 55362",
+      "phone": "763-271-6800",
+      "id": "1632"
+    },
+    {
+      "address": "2600 Rice Creek Rd, Monticello, MN 55362",
+      "phone": "651-636-2277",
+      "id": "1649"
+    },
+    {
+      "address": "2423 Highway 3 South, Monticello, MN 55362",
+      "phone": "507-645-6887",
+      "id": "1637"
+    },
+    {
+      "address": "7191 10th Street North, Monticello, MN 55362",
+      "phone": "651-739-3550",
+      "id": "1589"
+    },
+    {
+      "address": "7185 10th Street N, Monticello, MN 55362",
+      "phone": "651-739-3570",
+      "id": "1564"
+    },
+    {
+      "address": "4445 Nathan Ln, Monticello, MN 55362",
+      "phone": "763-553-0611",
+      "id": "1633"
+    },
+    {
+      "address": "3550 Vicksburg Ln North, Plymouth, MN 55447",
+      "phone": "763-559-2110",
+      "id": "1650"
+    },
+    {
+      "address": "4445 Nathan Lane, Plymouth, MN 55447",
+      "phone": "763-559-9419",
+      "id": "1666"
+    },
+    {
+      "address": "10200 6th Ave N, Plymouth, MN 55447",
+      "phone": "763-541-9044",
+      "id": "1007627"
+    },
+    {
+      "address": "1021 15th Ave Se, Plymouth, MN 55447",
+      "phone": "507-281-4554",
+      "id": "1602"
+    },
+    {
+      "address": "13855 Rogers Drive, Plymouth, MN 55447",
+      "phone": "763-428-6464",
+      "id": "1155501"
+    },
+    {
+      "address": "3784 W 150th St, Plymouth, MN 55447",
+      "phone": "651-423-0300",
+      "id": "1651"
+    },
+    {
+      "address": "3792 150th Street W., Rosemount, MN 55068",
+      "phone": "651-423-0271",
+      "id": "1686"
+    },
+    {
+      "address": "1201 Larpenteur Ave W, Rosemount, MN 55068",
+      "phone": "651-488-1825",
+      "id": "1155493"
+    },
+    {
+      "address": "2100 Snelling Ave North, Rosemount, MN 55068",
+      "phone": "651-633-9740",
+      "id": "1155495"
+    },
+    {
+      "address": "1201 Larpenteur Ave W, Rosemount, MN 55068",
+      "phone": "651-489-5050",
+      "id": "1007635"
+    },
+    {
+      "address": "14075 Hwy 13, Rosemount, MN 55068",
+      "phone": "952-447-1555",
+      "id": "1640"
+    },
+    {
+      "address": "1262 Vierling Drive, Rosemount, MN 55068",
+      "phone": "952-403-9463",
+      "id": "6691"
+    },
+    {
+      "address": "1198 Vierling Drive East, Shakopee, MN 55379",
+      "phone": "952-403-1620",
+      "id": "6689"
+    },
+    {
+      "address": "23800 State Hwy 7, Shakopee, MN 55379",
+      "phone": "952-380-9900",
+      "id": "1636"
+    },
+    {
+      "address": "3930 Silver Lake Rd, Shakopee, MN 55379",
+      "phone": "612-789-8689",
+      "id": "1629"
+    },
+    {
+      "address": "5370 W 16th St, Shakopee, MN 55379",
+      "phone": "952-544-0740",
+      "id": "1596"
+    },
+    {
+      "address": "5370 W 16th St, Shakopee, MN 55379",
+      "phone": "952-546-1665",
+      "id": "1595"
+    },
+    {
+      "address": "3620 Texas Avenue South, Shakopee, MN 55379",
+      "phone": "952-938-5959",
+      "id": "1155902"
+    },
+    {
+      "address": "900 Central Ave E, St Michael, MN 55376",
+      "phone": "763-497-7069",
+      "id": "1003894"
+    },
+    {
+      "address": "2215 Old Hudson Rd, St Michael, MN 55376",
+      "phone": "651-731-1668",
+      "id": "1007430"
+    },
+    {
+      "address": "1440 University Ave W, St Michael, MN 55376",
+      "phone": "651-646-1003",
+      "id": "1614"
+    },
+    {
+      "address": "1177 Clarence St, St Michael, MN 55376",
+      "phone": "651-774-7148",
+      "id": "4973"
+    },
+    {
+      "address": "2197 Old Hudson Road, St Michael, MN 55376",
+      "phone": "651-379-1440",
+      "id": "1155585"
+    },
+    {
+      "address": "1801 Market Drive, St Michael, MN 55376",
+      "phone": "651-430-2350",
+      "id": "1612"
+    },
+    {
+      "address": "1801 Market Drive, Stillwater, MN 55082",
+      "phone": "651-430-1713",
+      "id": "1664"
+    },
+    {
+      "address": "2055 South Robert, Stillwater, MN 55082",
+      "phone": "651-457-3731",
+      "id": "1006476"
+    },
+    {
+      "address": "2001 S Robert St, Stillwater, MN 55082",
+      "phone": "651-451-2877",
+      "id": "1001041"
+    },
+    {
+      "address": "1920 Buerkle Road, Stillwater, MN 55082",
+      "phone": "651-777-7899",
+      "id": "1591"
+    },
+    {
+      "address": "1910 Buerkle Road, Stillwater, MN 55082",
+      "phone": "651-777-6909",
+      "id": "1590"
+    },
+    {
+      "address": "1059 Meadowland Drive, Stillwater, MN 55082",
+      "phone": "651-426-6534",
+      "id": "1001042"
+    },
+    {
+      "address": "1059 Meadow Land Drive, White Bear Township, MN 55127",
+      "phone": "651-426-2968",
+      "id": "1007547"
+    },
+    {
+      "address": "2201 South 1st Street, White Bear Township, MN 55127",
+      "phone": "320-231-0060",
+      "id": "1607"
+    },
+    {
+      "address": "8432 Tamarack Village, White Bear Township, MN 55127",
+      "phone": "651-730-8148",
+      "id": "1155903"
+    }
+  ]
+}
