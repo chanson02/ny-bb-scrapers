@@ -1,0 +1,50 @@
+{
+  "name": "Central Market",
+  "stores": [
+    {
+      "address": "4001 N. Lamar Blvd., Austin TX 78756",
+      "phone": "512-206-1000",
+      "id": "5122061000"
+    },
+    {
+      "address": "4477 S. Lamar Blvd., Austin TX 78745",
+      "phone": "512-899-4300",
+      "id": "5128994300"
+    },
+    {
+      "address": "5750 E. Lovers Ln., Dallas TX 75206",
+      "phone": "214-234-7000",
+      "id": "2142347000"
+    },
+    {
+      "address": "4349 W Northwest Hwy, Dallas TX 75220",
+      "phone": "469-697-7800",
+      "id": "4696977800"
+    },
+    {
+      "address": "4651 West Fwy, Fort Worth TX 76107",
+      "phone": "817-989-4700",
+      "id": "8179894700"
+    },
+    {
+      "address": "3815 Westheimer Rd, Houston TX 77027",
+      "phone": "713-386-1700",
+      "id": "7133861700"
+    },
+    {
+      "address": "320 Coit Rd., Plano TX 75075",
+      "phone": "469-241-8300",
+      "id": "4692418300"
+    },
+    {
+      "address": "4821 Broadway St., San Antonio TX 78209",
+      "phone": "210-368-8600",
+      "id": "2103688600"
+    },
+    {
+      "address": "1425 E. Southlake Blvd., Southlake TX 76092",
+      "phone": "817-310-5600",
+      "id": "8173105600"
+    }
+  ]
+}
