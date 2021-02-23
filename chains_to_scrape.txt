@@ -1,16 +1,8 @@
 ! Walmart
 |BUSTED| Hy-Vee - some of the phone numbers are broken
-|BUSTED| Schnucks -geofail
 |No ID?| SpartanNash
-! Giant Eagle
-! Harps Food Stores
-! Piggly Wiggly
 Publix
-! Winn-Dixie
 BI-LO
-! H-E-B
-! Balducci's
-! Cub
 Central Market
 D'agostino
 Dierbergs
@@ -24,12 +16,11 @@ Lowes Foods
 Lowe's Market
 Lunds & Byerlys
 Market Choice
-|IFrame| Total Wine
 Aldi
 Lidl
 ! Big Lots
 ? Dollar General
-? Dollar Tree - 13/50 states
+? Dollar Tree - 13/50 states #Banned
 ! Family Dollar
 |BROKE| Saves-A-Lot
 https://locations.enmarket.com/enmarket-7952b602f2c3
@@ -55,3 +46,4 @@ IFrame chains:
 PriceRite
 Market Basket
 Ingles Markets
+Total Wine
