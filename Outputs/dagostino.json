@@ -1,0 +1,60 @@
+{
+  "name": "D'agostino",
+  "stores": [
+    {
+      "address": "815 Tenth Ave, New York, NY 10019",
+      "phone": "646-215-7781",
+      "id": "809"
+    },
+    {
+      "address": "790 Greenwich Street, New York, NY 10014",
+      "phone": "212-691-9198",
+      "id": "816"
+    },
+    {
+      "address": "633 Columbus Ave, New York, NY 10024",
+      "phone": "212-362-2692",
+      "id": "815"
+    },
+    {
+      "address": "341 Third Ave, New York, NY 10010",
+      "phone": "212-686-0619",
+      "id": "811"
+    },
+    {
+      "address": "528 Third Ave, New York, NY 10016",
+      "phone": "646-677-3153\n(646 677-3198",
+      "id": "550"
+    },
+    {
+      "address": "578 Third Ave, New York, NY 10016",
+      "phone": "212-972-4892",
+      "id": "825"
+    },
+    {
+      "address": "1074 Lexington Ave, New York, NY 10021",
+      "phone": "212-988-8813",
+      "id": "813"
+    },
+    {
+      "address": "1233 Lexington Ave, New York, NY 10028",
+      "phone": "212-570-6803",
+      "id": "801"
+    },
+    {
+      "address": "355 First Avenue, New York, NY 10010",
+      "phone": "212-353-2581",
+      "id": "518"
+    },
+    {
+      "address": "966 First Ave, New York, NY 10022",
+      "phone": "212-319-4872",
+      "id": "827"
+    },
+    {
+      "address": "1507 York Ave, New York, NY 10021",
+      "phone": "212-734-6317",
+      "id": "806"
+    }
+  ]
+}
