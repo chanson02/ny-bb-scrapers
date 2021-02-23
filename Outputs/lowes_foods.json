@@ -1,0 +1,400 @@
+{
+  "name": "Lowes Foods",
+  "stores": [
+    {
+      "address": "1845 Aversboro Road, Garner, NC 27529",
+      "phone": "919-779-9907",
+      "id": "185"
+    },
+    {
+      "address": "7281 NC Hwy 42 West, Raleigh, NC 27603",
+      "phone": "919-329-6692",
+      "id": "227"
+    },
+    {
+      "address": "11711 US 70 Hwy Business West, Clayton, NC 27520",
+      "phone": "919-550-6740",
+      "id": "169"
+    },
+    {
+      "address": "6430 Tryon Road, Cary, NC 27513",
+      "phone": "919-859-9335",
+      "id": "162"
+    },
+    {
+      "address": "3001 Widewaters Parkway, Knightdale, NC 27545",
+      "phone": "919-217-9184",
+      "id": "189"
+    },
+    {
+      "address": "112 Bass Lake Road, Holly Springs, NC 27540",
+      "phone": "919-577-6971",
+      "id": "207"
+    },
+    {
+      "address": "930 High House Road, Cary, NC 27513",
+      "phone": "919-467-4441",
+      "id": "190"
+    },
+    {
+      "address": "5400 Apex Peakway, Apex, NC 27502",
+      "phone": "919-363-5376",
+      "id": "184"
+    },
+    {
+      "address": "9600 Strickland Road, Raleigh, NC 27615",
+      "phone": "919-847-5661",
+      "id": "191"
+    },
+    {
+      "address": "8201 Rowlock Way, Cornerstone Commons, Raleigh, NC 27612",
+      "phone": "919-792-0304",
+      "id": "218"
+    },
+    {
+      "address": "8440 Louisburg Road, Suite 110, Rolesville, Raleigh, NC 27616",
+      "phone": "919-266-1031",
+      "id": "226"
+    },
+    {
+      "address": "8100 Brier Creek Parkway, Raleigh, NC 27617",
+      "phone": "919-293-0294",
+      "id": "224"
+    },
+    {
+      "address": "932 Gateway Commons Circle, Wake Forest, NC 27587",
+      "phone": "919-554-0537",
+      "id": "239"
+    },
+    {
+      "address": "12524 Capital Boulevard, Wake Forest, NC 27588",
+      "phone": "919-562-5020",
+      "id": "187"
+    },
+    {
+      "address": "11312 Highway 15 501 N., Chapel Hill, NC 27514",
+      "phone": "919-969-1464",
+      "id": "167"
+    },
+    {
+      "address": "818 Spring Lane, Sanford, NC 27330",
+      "phone": "919-708-5950",
+      "id": "157"
+    },
+    {
+      "address": "1020 Mebane Oaks Road, Mebane, NC 27302",
+      "phone": "919-563-0503",
+      "id": "236"
+    },
+    {
+      "address": "1740 Old Morganton Road, Southern Pines, NC 28387",
+      "phone": "910-246-2235",
+      "id": "261"
+    },
+    {
+      "address": "1191 University Drive, Burlington, NC 27215",
+      "phone": "336-584-8091",
+      "id": "228"
+    },
+    {
+      "address": "266 Central Park Avenue, Pinehurst, NC 28374",
+      "phone": "910-235-0150",
+      "id": "160"
+    },
+    {
+      "address": "737 West Dixie Drive, Asheboro, NC 27203",
+      "phone": "336-629-2775",
+      "id": "151"
+    },
+    {
+      "address": "5820F North Church Street, Greensboro, NC 27455",
+      "phone": "336-644-7774",
+      "id": "243"
+    },
+    {
+      "address": "1537 Freeway Drive, Reidsville, NC 27320",
+      "phone": "336-616-1322",
+      "id": "159"
+    },
+    {
+      "address": "10106 S Main Street, Suite A, Archdale, NC 27263",
+      "phone": "336-861-6342",
+      "id": "123"
+    },
+    {
+      "address": "1581 New Garden Road, Greensboro, NC 27410",
+      "phone": "336-852-1770",
+      "id": "179"
+    },
+    {
+      "address": "1236 Guilford College Road, Jamestown, NC 27282",
+      "phone": "336-856-7202",
+      "id": "188"
+    },
+    {
+      "address": "6310 Old Oak Ridge Road, Suite G, Greensboro, NC 27410",
+      "phone": "336-668-2118",
+      "id": "155"
+    },
+    {
+      "address": "17525 S. Highway 109, Timber Landing Shopping Center, Denton, NC 27239",
+      "phone": "336-859-2410",
+      "id": "66"
+    },
+    {
+      "address": "2205 Oak Ridge Road, Suite B, Oak Ridge, NC 27310",
+      "phone": "336-644-0554",
+      "id": "203"
+    },
+    {
+      "address": "240 Market View Drive, Kernersville, NC 27285",
+      "phone": "336-992-1860",
+      "id": "266"
+    },
+    {
+      "address": "5180 Reidsville Road, Walkertown, NC 27051",
+      "phone": "336-595-7448",
+      "id": "182"
+    },
+    {
+      "address": "2421 Gum Branch Road, Unit 200, Jacksonville, NC 28540",
+      "phone": "910-939-4358",
+      "id": "260"
+    },
+    {
+      "address": "5034 Peters Creek Parkway, Winston-Salem, NC 27127",
+      "phone": "336-788-5600",
+      "id": "206"
+    },
+    {
+      "address": "2890 Reynolda Road, Winston-Salem, NC 27106",
+      "phone": "336-725-7759",
+      "id": "165"
+    },
+    {
+      "address": "3372 Robinhood Road, Winston-Salem, NC 27106",
+      "phone": "336-659-4943",
+      "id": "149"
+    },
+    {
+      "address": "2501 Lewisville-Clemmons Road, Clemmons, NC 27012",
+      "phone": "336-766-1608",
+      "id": "161"
+    },
+    {
+      "address": "177 Lowes Foods Drive, Lewisville, NC 27023",
+      "phone": "336-945-5307",
+      "id": "171"
+    },
+    {
+      "address": "Hwy 801 North, Suite 258, Bermuda Run, NC 27006",
+      "phone": "336-940-4103",
+      "id": "205"
+    },
+    {
+      "address": "17230 US Hwy 17, Hampstead, NC 28443",
+      "phone": "910-270-6300",
+      "id": "242"
+    },
+    {
+      "address": "2316 North College Road, Wilmington, NC 28405",
+      "phone": "910-392-7230",
+      "id": "198"
+    },
+    {
+      "address": "614-G South Main Street, King, NC 27021",
+      "phone": "336-983-0125",
+      "id": "121"
+    },
+    {
+      "address": "1152 East Cutlar Crossing, Leland, NC 28451",
+      "phone": "910-371-5544",
+      "id": "237"
+    },
+    {
+      "address": "341 South College Road, Wilmington, NC 28403",
+      "phone": "910-796-9616",
+      "id": "215"
+    },
+    {
+      "address": "805 Pine Grove Drive, Wilmington, NC 28403",
+      "phone": "910-796-8330",
+      "id": "186"
+    },
+    {
+      "address": "321 WB McLean Drive, Cape Carteret, NC 28584",
+      "phone": "252-393-1602",
+      "id": "181"
+    },
+    {
+      "address": "301 S Main Street, Suite D, Stuart, VA 24171",
+      "phone": "276-694-5656",
+      "id": "145"
+    },
+    {
+      "address": "5309 Carolina Beach Road, Wilmington, NC 28412",
+      "phone": "910-790-5335",
+      "id": "199"
+    },
+    {
+      "address": "4445 School House Commons, Harrisburg, NC 28075",
+      "phone": "704-455-6222",
+      "id": "210"
+    },
+    {
+      "address": "948 South State Street, Yadkinville, NC 27055",
+      "phone": "336-679-2677",
+      "id": "164"
+    },
+    {
+      "address": "2829 Midway Road SE, Oak Island, Bolivia, NC 28422",
+      "phone": "910-253-6788",
+      "id": "235"
+    },
+    {
+      "address": "6278 Beach Drive, Unit 5, Ocean Isle Beach, NC 28469",
+      "phone": "910-579-9311",
+      "id": "230"
+    },
+    {
+      "address": "5011 Southport Crossing Way, Southport Crossings, Southport, NC 28461",
+      "phone": "910-363-8044",
+      "id": "273"
+    },
+    {
+      "address": "111 Pavilion Drive, Suite #10, Little River, SC 29566",
+      "phone": "843-280-7101",
+      "id": "223"
+    },
+    {
+      "address": "2900 Arendell Street, Unit #2, Morehead City, NC 28557",
+      "phone": "252-726-2651",
+      "id": "214"
+    },
+    {
+      "address": "715 Independence Boulevard, Mt. Airy, NC 27030",
+      "phone": "336-719-6578",
+      "id": "222"
+    },
+    {
+      "address": "125 Center Square Drive, Mooresville , NC 28117",
+      "phone": "704-660-9594",
+      "id": "241"
+    },
+    {
+      "address": "215 Fresh Drive, Myrtle Beach, SC 29579",
+      "phone": "843-236-6555",
+      "id": "240"
+    },
+    {
+      "address": "1399 S. Commons Drive, Myrtle Beach, SC 29588",
+      "phone": "843-650-0601",
+      "id": "232"
+    },
+    {
+      "address": "11903 Hwy 707, Murrells Inlet, SC 29576",
+      "phone": "843-651-1665",
+      "id": "233"
+    },
+    {
+      "address": "1826 W US Highway 421 Suite C, Wilkesboro, NC 28697",
+      "phone": "336-903-0350",
+      "id": "250"
+    },
+    {
+      "address": "9441 NC Highway 127, Hickory, NC 28601",
+      "phone": "828-495-1105",
+      "id": "175"
+    },
+    {
+      "address": "3010-A N Center Street, Hickory, NC 28601",
+      "phone": "828-322-2888",
+      "id": "254"
+    },
+    {
+      "address": "260 14th Avenue NE, Hickory, NC 28601",
+      "phone": "828-256-0104",
+      "id": "245"
+    },
+    {
+      "address": "2631 NC Hwy 127 South, Hickory, NC 28602",
+      "phone": "828-294-1555",
+      "id": "216"
+    },
+    {
+      "address": "9160 Ocean Highway, Pawleys Island, SC 29585",
+      "phone": "843-235-3007",
+      "id": "259"
+    },
+    {
+      "address": "120 Forum Drive, Columbia, SC 29229",
+      "phone": "803-699-8332",
+      "id": "276"
+    },
+    {
+      "address": "267 New Market Centre, Boone, NC 28607",
+      "phone": "828-265-2084",
+      "id": "177"
+    },
+    {
+      "address": "4711 Forest Drive, Columbia, SC 29206",
+      "phone": "803-638-4611",
+      "id": "272"
+    },
+    {
+      "address": "4000 NC Highway 105 S, Banner Elk, NC 28604",
+      "phone": "828-898-9565",
+      "id": "158"
+    },
+    {
+      "address": "5222 Sunset Boulevard, Lexington, SC 29072",
+      "phone": "803-785-5590",
+      "id": "267"
+    },
+    {
+      "address": "1419 Chapin Road, Chapin, SC 29036",
+      "phone": "803-945-9235",
+      "id": "277"
+    },
+    {
+      "address": "2440 Augusta Highway, Lexington, SC 29072",
+      "phone": "803-785-6510",
+      "id": "268"
+    },
+    {
+      "address": "2110 SC Highway 41, Mount Pleasant, SC 29466",
+      "phone": "843-216-0860",
+      "id": "265"
+    },
+    {
+      "address": "1000 Tanner Ford Boulevard, Suite 726, Hanahan, SC 29410",
+      "phone": "843-553-4077",
+      "id": "279"
+    },
+    {
+      "address": "10048 Dorchester Road, Summerville, SC 29485",
+      "phone": "843-285-8967",
+      "id": "270"
+    },
+    {
+      "address": "850 East Suber Road, Suite 200, Greer, SC 29650",
+      "phone": "864-848-9666",
+      "id": "263"
+    },
+    {
+      "address": "2815 Woodruff Rd, Simpsonville, SC 29681",
+      "phone": "864-234-6842",
+      "id": "264"
+    },
+    {
+      "address": "3125 Bees Ferry Road, Charleston, SC 29414",
+      "phone": "843-766-3360",
+      "id": "278"
+    },
+    {
+      "address": "3619 Pelham Road, Greenville, SC 29615",
+      "phone": "864-288-4162",
+      "id": "275"
+    }
+  ]
+}
