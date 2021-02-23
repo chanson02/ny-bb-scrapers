@@ -1,0 +1,140 @@
+{
+  "name": "Gelson's Markets",
+  "stores": [
+    {
+      "address": "22277 Mulholland Highway, Calabasas, CA 91302",
+      "phone": "818-906-6228",
+      "id": "1073872"
+    },
+    {
+      "address": "7660 El Camino Real, Carlsbad, CA 92009",
+      "phone": "760-632-7511",
+      "id": "1070471"
+    },
+    {
+      "address": "24 Monarch Bay Plaza, Dana Point, CA 92629",
+      "phone": "949-488-8147",
+      "id": "1072499"
+    },
+    {
+      "address": "2707 Via De La Valle, Del Mar, CA 92014",
+      "phone": "858-481-9300",
+      "id": "1071366"
+    },
+    {
+      "address": "16450 Ventura Blvd., Encino, CA 91436",
+      "phone": "818-906-5780",
+      "id": "1074112"
+    },
+    {
+      "address": "5877 Franklin Ave., Hollywood, CA 90028",
+      "phone": "323-464-7316",
+      "id": "1073926"
+    },
+    {
+      "address": "5521 Alton Parkway, Irvine, CA 92618",
+      "phone": "949-551-6093",
+      "id": "1073988"
+    },
+    {
+      "address": "635 Foothill Blvd., La Canada Flintridge, CA 91011",
+      "phone": "818-790-0563",
+      "id": "1076823"
+    },
+    {
+      "address": "30922 South Coast Highway, Laguna Beach, CA 92651",
+      "phone": "949-499-8130",
+      "id": "1070499"
+    },
+    {
+      "address": "6255 E. 2nd Street, Long Beach, CA 90803",
+      "phone": "562-430-6042",
+      "id": "1076317"
+    },
+    {
+      "address": "2725 Hyperion Ave., Los Angeles, CA 90027",
+      "phone": "323-660-0387",
+      "id": "1073941"
+    },
+    {
+      "address": "10250 Santa Monica Blvd., Los Angeles, CA 90067",
+      "phone": "310-277-4288",
+      "id": "1074114"
+    },
+    {
+      "address": "707 North Sepulveda Boulevard, Manhattan Beach, CA 90266",
+      "phone": "424-452-0412",
+      "id": "1072019"
+    },
+    {
+      "address": "13455 Maxella Ave., Marina del Rey, CA 90292",
+      "phone": "310-306-2952",
+      "id": "1074120"
+    },
+    {
+      "address": "1660 San Miguel Drive, Newport Beach, CA 92660",
+      "phone": "949-644-8660",
+      "id": "1074116"
+    },
+    {
+      "address": "15424 Sunset Blvd., Pacific Palisades, CA 90272",
+      "phone": "310-459-4483",
+      "id": "1074179"
+    },
+    {
+      "address": "36101 Bob Hope Drive, Rancho Mirage, CA 92270",
+      "phone": "760-770-0010",
+      "id": "1071365"
+    },
+    {
+      "address": "30731 Gateway Place, Rancho Mission Viejo, CA 92694",
+      "phone": "949-226-5807",
+      "id": "1077825"
+    },
+    {
+      "address": "730 Turquoise St., San Diego, CA 92109",
+      "phone": "858-488-0044",
+      "id": "1071309"
+    },
+    {
+      "address": "3305 State Street, Santa Barbara, CA 93105",
+      "phone": "805-687-5810",
+      "id": "1073868"
+    },
+    {
+      "address": "2627 Lincoln Blvd., Santa Monica, CA 90405",
+      "phone": "310-581-6450",
+      "id": "1071287"
+    },
+    {
+      "address": "4520 Van Nuys Blvd., Sherman Oaks, CA 91403",
+      "phone": "818-377-4140",
+      "id": "1074044"
+    },
+    {
+      "address": "5500 Reseda Blvd., Tarzana, CA 91356",
+      "phone": "818-906-5752",
+      "id": "1074115"
+    },
+    {
+      "address": "1736 E Avenida De Los Arboles, Thousand Oaks, CA 91362",
+      "phone": "805-493-4301",
+      "id": "1071364"
+    },
+    {
+      "address": "4738 Laurel Canyon Blvd., Valley Village, CA 91607",
+      "phone": "818-906-5743",
+      "id": "1074113"
+    },
+    {
+      "address": "8330 W. Santa Monica Blvd., West Hollywood, CA 90069",
+      "phone": "323-656-5580",
+      "id": "1073924"
+    },
+    {
+      "address": "2734 Townsgate Road, Westlake Village, CA 91361",
+      "phone": "805-496-0353",
+      "id": "1074118"
+    }
+  ]
+}
