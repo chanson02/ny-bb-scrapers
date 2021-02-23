@@ -1,0 +1,130 @@
+{
+  "name": "Dierbergs",
+  "stores": [
+    {
+      "address": "217 Salt Lick Road, Saint Peters, MO, 63376",
+      "phone": "636-970-3500",
+      "id": "6369703500"
+    },
+    {
+      "address": "6211 Mid Rivers Mall Drive, Saint Peters, MO, 63304",
+      "phone": "636-936-3000",
+      "id": "6369363000"
+    },
+    {
+      "address": "860 Arnold Commons Drive, Arnold, MO, 63010",
+      "phone": "636-282-4800",
+      "id": "6362824800"
+    },
+    {
+      "address": "2021 Zumbehl Road, Saint Charles, MO, 63303",
+      "phone": "636-947-0900",
+      "id": "6369470900"
+    },
+    {
+      "address": "8450 Eager Road, St. Louis, MO, 63144",
+      "phone": "314-962-9009",
+      "id": "3149629009"
+    },
+    {
+      "address": "1322 Clarkson Clayton Center, Ellisville, MO, 63011",
+      "phone": "636-394-2254",
+      "id": "6363942254"
+    },
+    {
+      "address": "2979 Highway K, O'Fallon, MO, 63366",
+      "phone": "636-379-8909",
+      "id": "6363798909"
+    },
+    {
+      "address": "1080 Lindemann Road, Des Peres, MO, 63131",
+      "phone": "314-238-0400",
+      "id": "3142380400"
+    },
+    {
+      "address": "6671 Edwardsville Crossing Drive, Edwardsville, IL, 62025",
+      "phone": "(618) 307-3800 or 618-692-4100",
+      "id": "61830738006186924100"
+    },
+    {
+      "address": "450 Old Smizer Mill Road, Fenton, MO, 63026",
+      "phone": "636-349-9009",
+      "id": "6363499009"
+    },
+    {
+      "address": "222 North Highway 67, Florissant, MO, 63031",
+      "phone": "314-831-5588",
+      "id": "3148315588"
+    },
+    {
+      "address": "8 Four Seasons Center, Chesterfield, MO, 63017",
+      "phone": "314-469-1400",
+      "id": "3144691400"
+    },
+    {
+      "address": "4000 Green Mount Crossing Drive, Shiloh, IL, 62269",
+      "phone": "618-628-8400",
+      "id": "6186288400"
+    },
+    {
+      "address": "12595 Olive Boulevard, Creve Coeur, MO, 63141",
+      "phone": "314-542-2094",
+      "id": "3145422094"
+    },
+    {
+      "address": "4655 Osage Beach Parkway, Osage Beach, MO, 65065",
+      "phone": "573-552-0200",
+      "id": "5735520200"
+    },
+    {
+      "address": "2516 Lemay Ferry Road, Saint Louis, MO, 63125",
+      "phone": "314-894-2090",
+      "id": "3148942090"
+    },
+    {
+      "address": "7233 Watson Road, Saint Louis, MO, 63119",
+      "phone": "314-752-7771",
+      "id": "3147527771"
+    },
+    {
+      "address": "421 Lafayette Center, Manchester, MO, 63011",
+      "phone": "636-394-6673",
+      "id": "6363946673"
+    },
+    {
+      "address": "1730 Clarkson Road, Chesterfield, MO, 63017",
+      "phone": "636-537-9400",
+      "id": "6365379400"
+    },
+    {
+      "address": "12420 Tesson Ferry Road, Saint Louis, MO, 63128",
+      "phone": "314-849-3600",
+      "id": "3148493600"
+    },
+    {
+      "address": "5640 Telegraph Road, Saint Louis, MO, 63129",
+      "phone": "314-846-5770",
+      "id": "3148465770"
+    },
+    {
+      "address": "9901 Manchester Road, Saint Louis, MO, 63122",
+      "phone": "314-919-0600",
+      "id": "3149190600"
+    },
+    {
+      "address": "1820 Wentzville Parkway, Wentzville, MO, 63385",
+      "phone": "636-887-3300",
+      "id": "6368873300"
+    },
+    {
+      "address": "11481 Olive Boulevard, Creve Coeur, MO, 63141",
+      "phone": "314-432-6561",
+      "id": "3144326561"
+    },
+    {
+      "address": "2460 Taylor Road, Wildwood, MO, 63040",
+      "phone": "636-458-7400",
+      "id": "6364587400"
+    }
+  ]
+}

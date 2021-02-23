@@ -5,7 +5,7 @@ Publix
 BI-LO
 ! Central Market
 ! D'agostino
-Dierbergs
+! Dierbergs
 Fairway Market
 Foodland
 Gelson's Markets
