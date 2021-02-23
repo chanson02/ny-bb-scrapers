@@ -1,0 +1,105 @@
+{
+  "name": "Kings",
+  "stores": [
+    {
+      "address": "Kings Supermarket, 450 Route 206N and Hills Drive, Bedminster, NJ 07921",
+      "phone": "908-719-4960",
+      "id": "9087194960"
+    },
+    {
+      "address": "115 Hawkins Place, Boonton, NJ 07005",
+      "phone": "973-257-4899",
+      "id": "9732574899"
+    },
+    {
+      "address": "393 Main Street, Chatham, NJ 07928",
+      "phone": "973-635-4400",
+      "id": "9736354400"
+    },
+    {
+      "address": "70 Union Avenue, Cresskill, NJ 07626",
+      "phone": "201-541-4900",
+      "id": "2015414900"
+    },
+    {
+      "address": "184 Columbia Tpk., Florham Park, NJ 07932",
+      "phone": "973-360-1600",
+      "id": "9733601600"
+    },
+    {
+      "address": "300 South Avenue, Garwood, NJ 07027",
+      "phone": "908-518-4360",
+      "id": "9085184360"
+    },
+    {
+      "address": "381 Washington Avenue, Hillsdale, NJ 07642",
+      "phone": "201-722-4690",
+      "id": "2017224690"
+    },
+    {
+      "address": "1212 Shipyard Lane, Hoboken, NJ 07030",
+      "phone": "201-239-4060",
+      "id": "2012394060"
+    },
+    {
+      "address": "255 S Livingston Avenue, Livingston, NJ 07039",
+      "phone": "973-535-4940",
+      "id": "9735354940"
+    },
+    {
+      "address": "86 East Main Street, Mendham, NJ 07945",
+      "phone": "973-543-4493",
+      "id": "9735434493"
+    },
+    {
+      "address": "85 Godwin Avenue, Midland Park, NJ 07432",
+      "phone": "201-251-4808",
+      "id": "2012514808"
+    },
+    {
+      "address": "191 South Street, Morristown, NJ 07960",
+      "phone": "973-898-4512",
+      "id": "9738984512"
+    },
+    {
+      "address": "112 N Maple Avenue, Ridgewood, NJ 07450",
+      "phone": "201-493-4924",
+      "id": "2014934924"
+    },
+    {
+      "address": "778 Morris Turnpike, Short Hills, NJ 07078",
+      "phone": "973-258-4000",
+      "id": "9732584000"
+    },
+    {
+      "address": "784 Springfield Avenue, Summit, NJ 07901",
+      "phone": "908-598-4500",
+      "id": "9085984500"
+    },
+    {
+      "address": "650 Valley Road, Upper Montclair, NJ 07043",
+      "phone": "973-509-4828",
+      "id": "9735094828"
+    },
+    {
+      "address": "265 Pompton Avenue, Verona, NJ 07044",
+      "phone": "973-571-4188",
+      "id": "9735714188"
+    },
+    {
+      "address": "531 U.S. HWY. 22 East, Whitehouse Station, NJ 08889",
+      "phone": "908-534-6888",
+      "id": "9085346888"
+    },
+    {
+      "address": "870 Franklin Avenue, Garden City, NY 11530",
+      "phone": "516-739-5559",
+      "id": "5167395559"
+    },
+    {
+      "address": "26 Arcadia Road, Old Greenwich, CT 06870",
+      "phone": "203-637-1701",
+      "id": "2036371701"
+    }
+  ]
+}
