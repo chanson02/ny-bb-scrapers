@@ -1,0 +1,190 @@
+{
+  "name": "Foodland",
+  "stores": [
+    {
+      "address": "1505 Dillingham Blvd., Honolulu, HI 96817",
+      "phone": "808-832-2080",
+      "id": "8088322080"
+    },
+    {
+      "address": "91-1401 Ft. Weaver Rd., Ewa Beach, HI 96706",
+      "phone": "808-685-3811",
+      "id": "8086853811"
+    },
+    {
+      "address": "820 Hind Drive #101, Honolulu, HI 96821",
+      "phone": "808-373-2222",
+      "id": "8083732222"
+    },
+    {
+      "address": "1450 Ala Moana Blvd., Honolulu, HI 96814",
+      "phone": "808-949-5044",
+      "id": "8089495044"
+    },
+    {
+      "address": "91-5431 Kapolei Parkway Suite 1704, Kapolei, HI 96707",
+      "phone": "808-670-2770",
+      "id": "8086702770"
+    },
+    {
+      "address": "345 Keawe Street, Suite 304, Lahaina, HI 96761",
+      "phone": "808-662-7088",
+      "id": "8086627088"
+    },
+    {
+      "address": "1330 Mauna Lani Dr United States, Waimea, HI 96743",
+      "phone": "808-887-6101",
+      "id": "8088876101"
+    },
+    {
+      "address": "1150 Kuala St, Pearl City, HI 96782",
+      "phone": "808-453-1850",
+      "id": "8084531850"
+    },
+    {
+      "address": "91-1401 Fort Weaver Road, Ewa Beach, HI 96706",
+      "phone": "808-685-3022",
+      "id": "8086853022"
+    },
+    {
+      "address": "255 Kehalani Village Dr., Wailuku, HI 96793",
+      "phone": "808-244-6264",
+      "id": "8082446264"
+    },
+    {
+      "address": "55-506 Kamehameha Highway, Laie, HI 96762",
+      "phone": "808-293-0002",
+      "id": "8082930002"
+    },
+    {
+      "address": "90 Kane St., Kahului, HI 96732",
+      "phone": "808-877-2808",
+      "id": "8088772808"
+    },
+    {
+      "address": "108 Hekili Street, Kailua, HI 96734",
+      "phone": "808-261-3211",
+      "id": "8082613211"
+    },
+    {
+      "address": "45-480 Kaneohe Bay Dr., Kaneohe, HI 96744",
+      "phone": "808-247-3357",
+      "id": "8082473357"
+    },
+    {
+      "address": "4850 Kapolei Parkway, Bldg A, Kapolei, HI 96707",
+      "phone": "808-674-1114",
+      "id": "8086741114"
+    },
+    {
+      "address": "16-586 Old Volcano Rd; SUITE 102, Kea'au, HI 96749",
+      "phone": "808-966-9316",
+      "id": "8089669316"
+    },
+    {
+      "address": "370 Kehalani Village Dr., Wailuku, HI 96793",
+      "phone": "808-244-4460",
+      "id": "8082444460"
+    },
+    {
+      "address": "1881 S Kihei Rd., Kihei, HI 96753",
+      "phone": "808-879-9350",
+      "id": "8088799350"
+    },
+    {
+      "address": "878 Front Street, #6B, Lahaina, HI 96761",
+      "phone": "808-661-0975",
+      "id": "8086610975"
+    },
+    {
+      "address": "55-510 Kamehameha Hwy., Laie, HI 96762",
+      "phone": "808-293-4443",
+      "id": "8082934443"
+    },
+    {
+      "address": "2939 Harding Ave., Honolulu, HI 96816",
+      "phone": "808-734-6303",
+      "id": "8087346303"
+    },
+    {
+      "address": "95-221 Kipapa Dr., Mililani, HI 96789",
+      "phone": "808-623-3974",
+      "id": "8086233974"
+    },
+    {
+      "address": "5-4280 Kuhio Hwy., Princeville, HI 96722",
+      "phone": "808-826-9880",
+      "id": "8088269880"
+    },
+    {
+      "address": "55 Pukalani St., Pukalani, HI 96768",
+      "phone": "808-572-0674",
+      "id": "8085720674"
+    },
+    {
+      "address": "59-720 Kamehameha Hwy., Haleiwa, HI 96712",
+      "phone": "808-638-8081",
+      "id": "8086388081"
+    },
+    {
+      "address": "414 N. School St., Honolulu, HI 96817",
+      "phone": "808-522-8563",
+      "id": "8085228563"
+    },
+    {
+      "address": "823 California Ave., Wahiawa, HI 96786",
+      "phone": "808-621-7411",
+      "id": "8086217411"
+    },
+    {
+      "address": "Parker Ranch Center #109, Kamuela, HI 96743",
+      "phone": "808-885-2022",
+      "id": "8088852022"
+    },
+    {
+      "address": "94-1040 Waipio Uka St., Waipahu, HI 96797",
+      "phone": "808-671-5322",
+      "id": "8086715322"
+    },
+    {
+      "address": "4210 Waialae Avenue., Suite 301, Honolulu, HI 96816",
+      "phone": "808-732-2440",
+      "id": "8087322440"
+    },
+    {
+      "address": "250-A Kinoole Street, Hilo, HI 96720",
+      "phone": "808-933-4100",
+      "id": "8089334100"
+    },
+    {
+      "address": "250 Kinoole St., Hilo, HI 96720",
+      "phone": "808-935-3113",
+      "id": "8089353113"
+    },
+    {
+      "address": "75-5595 Palani Rd., Kona, HI 96740",
+      "phone": "808-326-2729",
+      "id": "8083262729"
+    },
+    {
+      "address": "87-2070 F Farrington Hwy, Nanakuli, HI 96792",
+      "phone": "808-668-1277",
+      "id": "8086681277"
+    },
+    {
+      "address": "2100 Kanoelehua Ave. Suite 101, Hilo, HI 96720",
+      "phone": "808-959-5831",
+      "id": "8089595831"
+    },
+    {
+      "address": "4561 Salt Lake Blvd., Honolulu, HI 96818",
+      "phone": "808-487-7680",
+      "id": "8084877680"
+    },
+    {
+      "address": "790 Eha Street, Wailuku, HI 96793",
+      "phone": "808-244-3656",
+      "id": "8082443656"
+    }
+  ]
+}

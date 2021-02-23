@@ -7,7 +7,7 @@ BI-LO
 ! D'agostino
 ! Dierbergs
 ! Fairway Market
-Foodland
+! Foodland
 Gelson's Markets
 Greistedes
 Jerry's Foods
