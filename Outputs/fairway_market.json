@@ -1,0 +1,30 @@
+{
+  "name": "Fairway Market",
+  "stores": [
+    {
+      "address": "240 E. 86TH STREET, NEW YORK, NY 10028",
+      "phone": "718-569-4511",
+      "id": "7185694511"
+    },
+    {
+      "address": "550 2ND AVENUE, NEW YORK, NY 10016",
+      "phone": "718-569-4522",
+      "id": "7185694522"
+    },
+    {
+      "address": "766 6TH AVENUE, NEW YORK, NY 10010",
+      "phone": "718-569-4533",
+      "id": "7185694533"
+    },
+    {
+      "address": "847 PELHAM PARKWAY, PELHAM, NY 10803",
+      "phone": "718-569-4544",
+      "id": "7185694544"
+    },
+    {
+      "address": "2131 BROADWAY, NEW YORK, NY 10023",
+      "phone": "718-569-4500",
+      "id": "7185694500"
+    }
+  ]
+}

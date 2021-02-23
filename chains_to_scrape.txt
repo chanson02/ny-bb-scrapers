@@ -6,7 +6,7 @@ BI-LO
 ! Central Market
 ! D'agostino
 ! Dierbergs
-Fairway Market
+! Fairway Market
 Foodland
 Gelson's Markets
 Greistedes
