@@ -10,7 +10,7 @@ BI-LO
 ! Foodland
 ! Gelson's Markets
 ! Greistedes gristedes?
-Jerry's Foods
+! Jerry's Foods
 Kings
 Lowes Foods
 Lowe's Market

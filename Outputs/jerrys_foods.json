@@ -1,0 +1,20 @@
+{
+  "name": "Jerry's Foods",
+  "stores": [
+    {
+      "address": "5125 Vernon Avenue South, Edina, MN 55436",
+      "phone": "952-929-2685",
+      "id": "9529292685"
+    },
+    {
+      "address": "9625 Anderson Lakes Parkway, Eden Prairie, MN 55344",
+      "phone": "952-941-9680",
+      "id": "9529419680"
+    },
+    {
+      "address": "7760 Hargis Parkway, Woodbury, MN 55129",
+      "phone": "651-458-0240",
+      "id": "6514580240"
+    }
+  ]
+}
