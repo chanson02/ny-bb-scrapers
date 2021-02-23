@@ -1,0 +1,95 @@
+{
+  "name": "Gristedes",
+  "stores": [
+    {
+      "address": "315 SOUTH END AVE, New York , NY 10280, United States",
+      "phone": "212-233-7797",
+      "id": "040"
+    },
+    {
+      "address": "3 SHERIDAN SQ W 4TH ST, New York, NY 10014, United States",
+      "phone": "212-229-3893",
+      "id": "543"
+    },
+    {
+      "address": "225 9TH AVE 24TH STREET, New York, NY 10011, United States",
+      "phone": "212-229-3896",
+      "id": "545"
+    },
+    {
+      "address": "225 8TH AVE 20TH ST, New York, NY 10011, United States",
+      "phone": "646-486-7311",
+      "id": "597"
+    },
+    {
+      "address": "101 CLARK ST BKLYN, New York, NY 11201, United States",
+      "phone": "718-855-0132",
+      "id": "544"
+    },
+    {
+      "address": "307 W 26TH ST & 8TH AVE, New York, NY 10001, United States",
+      "phone": "212-243-8644",
+      "id": "562"
+    },
+    {
+      "address": "25 University place, New York, NY 10003, USA",
+      "phone": "212-353-1330",
+      "id": "082"
+    },
+    {
+      "address": "907TH 8TH AVE ST, New York, NY 10019, United States",
+      "phone": "212-582-5873",
+      "id": "034"
+    },
+    {
+      "address": "25 WATERSIDE PLAZA FDR DR, New York, NY 10010, United States",
+      "phone": "212-725-6442",
+      "id": "524"
+    },
+    {
+      "address": "748 2ND AVE 40TH ST, New York, NY 10017, United States",
+      "phone": "212-599-4615",
+      "id": "533"
+    },
+    {
+      "address": "504 COLUMBUS AVE 84ST, New York, NY 10024, United States",
+      "phone": "212-721-3077",
+      "id": "511"
+    },
+    {
+      "address": "2704 103RD & BROADWAY, New York, NY 10025, United States",
+      "phone": "646-352-4690",
+      "id": "601"
+    },
+    {
+      "address": "1208 1ST AVE 65ST, New York, NY 10021, United States",
+      "phone": "212-535-2047/2041",
+      "id": "512"
+    },
+    {
+      "address": "1365 3RD AVE 78TH ST, New York, NY 10021, United States",
+      "phone": "212-535-8449",
+      "id": "413"
+    },
+    {
+      "address": "1446 2ND AVE 75THST, New York, NY 10021, United States",
+      "phone": "212-535-4925",
+      "id": "059"
+    },
+    {
+      "address": "1450 E 83RD & 3RD AVE, New York, NY 11028, United States",
+      "phone": "212-484-9105",
+      "id": "777"
+    },
+    {
+      "address": "1343 LEX AVE 89TH ST, New York, NY 10128, United States",
+      "phone": "212-831-0978/9381",
+      "id": "437"
+    },
+    {
+      "address": "1644 YORK AVE 87TH, New York , NY 10028, United States",
+      "phone": "212-628-6769",
+      "id": "053"
+    }
+  ]
+}
