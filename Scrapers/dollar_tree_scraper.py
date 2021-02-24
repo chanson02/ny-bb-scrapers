@@ -55,7 +55,7 @@ state_table = driver.find_element_by_xpath(state_table_path)
 
 # Search states
 for state_index in range(len(get_list(state_table))):
-    if state_index < 9: #CHANGE THIS TO START ON IN (Indiana)
+    if state_index < 45:  # CHANGE THIS TO START ON IN (left on 45 WA)
         continue
     view = "state"
     time.sleep(1)
