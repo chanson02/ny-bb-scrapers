@@ -7,7 +7,7 @@ Lowe's Market
 ! Lunds & Byerlys lunds_byerlys
 Market Choice
 Aldi
-Lidl
+! Lidl
 ? Dollar General
 ? Dollar Tree - 45/50 states #Banned
 ! Family Dollar

@@ -1,0 +1,690 @@
+{
+  "name": "Lidl",
+  "stores": [
+    {
+      "address": "1311 Mall Dr, North Chesterfield, VA 23235",
+      "phone": null,
+      "id": "01001"
+    },
+    {
+      "address": "11880 Jefferson Avenue, Newport News, VA 23606",
+      "phone": null,
+      "id": "01003"
+    },
+    {
+      "address": "1001 Community Dr, Suffolk, VA 23435",
+      "phone": null,
+      "id": "01006"
+    },
+    {
+      "address": "1800 E Fire Tower Rd, Greenville, NC 27858",
+      "phone": null,
+      "id": "01009"
+    },
+    {
+      "address": "3315 Sides Branch Rd, Winston Salem, NC 27127",
+      "phone": null,
+      "id": "01010"
+    },
+    {
+      "address": "9990 Charlotte Hwy, Indian Land, SC 29707",
+      "phone": null,
+      "id": "01015"
+    },
+    {
+      "address": "1147 Randolph St, Thomasville, NC 27360",
+      "phone": null,
+      "id": "01016"
+    },
+    {
+      "address": "1260 Herrons Ferry Rd, Rock Hill, SC 29730",
+      "phone": null,
+      "id": "01017"
+    },
+    {
+      "address": "9318 Monroe Rd, Charlotte, NC 28270",
+      "phone": null,
+      "id": "01018"
+    },
+    {
+      "address": "5110 S Laburnum Ave, Richmond, VA 23231",
+      "phone": null,
+      "id": "01019"
+    },
+    {
+      "address": "621 S Philadelphia Blvd, Aberdeen, MD 21001",
+      "phone": null,
+      "id": "01023"
+    },
+    {
+      "address": "13401 Annapolis Rd, Bowie, MD 20720",
+      "phone": null,
+      "id": "01028"
+    },
+    {
+      "address": "126 Piedmont Place, Danville, VA 24541",
+      "phone": null,
+      "id": "01029"
+    },
+    {
+      "address": "2070 Tacketts Village Sq, Woodbridge, VA 22192",
+      "phone": null,
+      "id": "01031"
+    },
+    {
+      "address": "1120 S Main St, Wake Forest, NC 27587",
+      "phone": null,
+      "id": "01033"
+    },
+    {
+      "address": "2290 E Butler Street, Philadelphia, PA 19137",
+      "phone": null,
+      "id": "01035"
+    },
+    {
+      "address": "11076 Warwick Blvd, Newport News, VA 23601",
+      "phone": null,
+      "id": "01037"
+    },
+    {
+      "address": "5455 Plank Rd, Fredericksburg, VA 22407",
+      "phone": null,
+      "id": "01038"
+    },
+    {
+      "address": "1175 Warrenton Road, Fredericksburg, VA 22406",
+      "phone": null,
+      "id": "01039"
+    },
+    {
+      "address": "951 E. Hudson Blvd, Gastonia, NC 28054",
+      "phone": null,
+      "id": "01040"
+    },
+    {
+      "address": "1265 Fairview Drive, Lexington, NC 27292",
+      "phone": null,
+      "id": "01041"
+    },
+    {
+      "address": "8180 Warren H. Abernathy Hwy, Spartanburg, SC 29301",
+      "phone": null,
+      "id": "01042"
+    },
+    {
+      "address": "4308 Wake Forest Road, Raleigh, NC 27609",
+      "phone": null,
+      "id": "01045"
+    },
+    {
+      "address": "2000 W Mercury Blvd, Hampton, VA 23666",
+      "phone": null,
+      "id": "01050"
+    },
+    {
+      "address": "1096 Alexander Dr, Augusta, GA 30909",
+      "phone": null,
+      "id": "01052"
+    },
+    {
+      "address": "15169 Brandy Rd, Culpeper, VA 22701",
+      "phone": null,
+      "id": "01053"
+    },
+    {
+      "address": "417 E. Martintown Rd, North Augusta, SC 29841",
+      "phone": null,
+      "id": "01056"
+    },
+    {
+      "address": "6196 Providence Rd, Virginia Beach, VA 23464",
+      "phone": null,
+      "id": "01057"
+    },
+    {
+      "address": "3209 NC 87 South, Sanford, NC 27332",
+      "phone": null,
+      "id": "01058"
+    },
+    {
+      "address": "16601 Dumfries Rd, Dumfries, VA 22025",
+      "phone": null,
+      "id": "01059"
+    },
+    {
+      "address": "11701 Iron Bridge Rd, Chester, VA 23831",
+      "phone": null,
+      "id": "01060"
+    },
+    {
+      "address": "4033 Portsmouth Blvd, Chesapeake, VA 23321",
+      "phone": null,
+      "id": "01063"
+    },
+    {
+      "address": "2037 Wade Hampton Blvd, Greenville, SC 29615",
+      "phone": null,
+      "id": "01064"
+    },
+    {
+      "address": "3520 Raleigh Road Parkway, Wilson, NC 27896",
+      "phone": null,
+      "id": "01074"
+    },
+    {
+      "address": "1451 Eastwood Rd, Wilmington, NC 28403",
+      "phone": null,
+      "id": "01080"
+    },
+    {
+      "address": "980 S Richland Ave, York, PA 17403",
+      "phone": null,
+      "id": "01081"
+    },
+    {
+      "address": "2200 E Main St, Spartanburg, SC 29307",
+      "phone": null,
+      "id": "01088"
+    },
+    {
+      "address": "5038 US 70 Hwy, Morehead City, NC 28557",
+      "phone": null,
+      "id": "01089"
+    },
+    {
+      "address": "1801 Mt Holly Rd, Burlington, NJ 08016",
+      "phone": null,
+      "id": "01091"
+    },
+    {
+      "address": "1401 Summit Parkway, Columbia, SC 29229",
+      "phone": null,
+      "id": "01092"
+    },
+    {
+      "address": "3461 Promenande Pl, Waldorf, MD 20603",
+      "phone": null,
+      "id": "01093"
+    },
+    {
+      "address": "1107 W Landis Ave, Vineland, NJ 08360",
+      "phone": null,
+      "id": "01094"
+    },
+    {
+      "address": "1120 S 25th St, Easton, PA 18042",
+      "phone": null,
+      "id": "01096"
+    },
+    {
+      "address": "14600 E Independence Blvd, Indian Trail, NC 28079",
+      "phone": null,
+      "id": "01097"
+    },
+    {
+      "address": "940 N Wesleyan Blvd, Rocky Mount, NC 27804",
+      "phone": null,
+      "id": "01098"
+    },
+    {
+      "address": "2510 North Rd, Orangeburg, SC 29118",
+      "phone": null,
+      "id": "01099"
+    },
+    {
+      "address": "6440 N Military Hwy, Norfolk, VA 23518",
+      "phone": null,
+      "id": "01103"
+    },
+    {
+      "address": "1209 Edison Rd., Virginia Beach, VA 23454",
+      "phone": null,
+      "id": "01105"
+    },
+    {
+      "address": "12151 W Broad St, Richmond, VA 23233",
+      "phone": null,
+      "id": "01106"
+    },
+    {
+      "address": "2445 Fairlawn Dr, Winston Salem, NC 27106",
+      "phone": null,
+      "id": "01107"
+    },
+    {
+      "address": "7200 Marlboro Pike, District Heights, MD 20747",
+      "phone": null,
+      "id": "01108"
+    },
+    {
+      "address": "1105 N. Harrison Ave, Cary, NC 27513",
+      "phone": null,
+      "id": "01110"
+    },
+    {
+      "address": "435 Saint James Avenue, Goose Creek, SC 29445",
+      "phone": null,
+      "id": "01116"
+    },
+    {
+      "address": "9101 Hermitage Rd, Henrico, VA 23228",
+      "phone": null,
+      "id": "01117"
+    },
+    {
+      "address": "2375 Route 22, Union, NJ 07083",
+      "phone": null,
+      "id": "01119"
+    },
+    {
+      "address": "5215 Sunset Blvd, Lexington, SC 29072",
+      "phone": null,
+      "id": "01120"
+    },
+    {
+      "address": "425 Bypass 72 NW, Greenwood, SC 29649",
+      "phone": null,
+      "id": "01126"
+    },
+    {
+      "address": "359 Auto Park Dr, Middletown, DE 19709",
+      "phone": null,
+      "id": "01129"
+    },
+    {
+      "address": "11782 Sudley Manor Dr, Manassas, VA 20109",
+      "phone": null,
+      "id": "01132"
+    },
+    {
+      "address": "7500 Mission Dr, Lanham, MD 20706",
+      "phone": null,
+      "id": "01133"
+    },
+    {
+      "address": "2973 Route 35, Hazlet, NJ 07730",
+      "phone": null,
+      "id": "01134"
+    },
+    {
+      "address": "5696 W Gate City Blvd, Greensboro, NC 27407",
+      "phone": null,
+      "id": "01136"
+    },
+    {
+      "address": "1831 E Ridge Pike, Royersford, PA 19468",
+      "phone": null,
+      "id": "01138"
+    },
+    {
+      "address": "3248 Holland Rd, Virginia Beach, VA 23453",
+      "phone": null,
+      "id": "01140"
+    },
+    {
+      "address": "1866 Woodruff Road, Greenville, SC 29607",
+      "phone": null,
+      "id": "01141"
+    },
+    {
+      "address": "4115 Buffaloe Road, Raleigh, NC 27616",
+      "phone": null,
+      "id": "01157"
+    },
+    {
+      "address": "8601 Baltimore Avenue, College Park, MD 20740",
+      "phone": null,
+      "id": "01159"
+    },
+    {
+      "address": "4520 Margaret Wallace Rd, Matthews, NC 28105",
+      "phone": null,
+      "id": "01161"
+    },
+    {
+      "address": "400 Route 38, Cherry Hill, NJ 08110",
+      "phone": null,
+      "id": "01162"
+    },
+    {
+      "address": "8930 Christenbury Pkwy, Concord, NC 28027",
+      "phone": null,
+      "id": "01163"
+    },
+    {
+      "address": "150 N DuPont Hwy, Dover, DE 19901",
+      "phone": null,
+      "id": "01166"
+    },
+    {
+      "address": "4844 Floyd Rd SW, Mableton, GA 30126",
+      "phone": null,
+      "id": "01170"
+    },
+    {
+      "address": "514 US 9, Lacey, NJ 08734",
+      "phone": null,
+      "id": "01176"
+    },
+    {
+      "address": "136 NJSH 35, Eatontown, NJ 07724",
+      "phone": null,
+      "id": "01177"
+    },
+    {
+      "address": "8155 Tara Blvd, Jonesboro, GA 30236",
+      "phone": null,
+      "id": "01186"
+    },
+    {
+      "address": "2205 W Palmetto St, Florence, SC 29501",
+      "phone": null,
+      "id": "01193"
+    },
+    {
+      "address": "4700 W Broad St, Richmond, VA 23230",
+      "phone": null,
+      "id": "01199"
+    },
+    {
+      "address": "420 MacDade Blvd, Folsom, PA 19033",
+      "phone": null,
+      "id": "01203"
+    },
+    {
+      "address": "3520 Sugarloaf Parkway, Lawrenceville, GA 30044",
+      "phone": null,
+      "id": "01208"
+    },
+    {
+      "address": "21285 Coopers Hawk Drive, Ashburn, VA 20148",
+      "phone": null,
+      "id": "01215"
+    },
+    {
+      "address": "6801 Commerce Street, Springfield, VA 22150",
+      "phone": null,
+      "id": "01229"
+    },
+    {
+      "address": "2613 Ridge Pike, Trooper, PA 19403",
+      "phone": null,
+      "id": "01246"
+    },
+    {
+      "address": "2985 Peachtree Pkwy, Suwanee, GA 30024",
+      "phone": null,
+      "id": "01247"
+    },
+    {
+      "address": "2641 Powder Springs Rd SW, Marietta, GA 30064",
+      "phone": null,
+      "id": "01248"
+    },
+    {
+      "address": "9175 Roosevelt Blvd, Philadelphia, PA 19114",
+      "phone": null,
+      "id": "01250"
+    },
+    {
+      "address": "3821 Stone Mountain Highway, Snellville, GA 30039",
+      "phone": null,
+      "id": "01262"
+    },
+    {
+      "address": "733 Dual Highway, Hagerstown, MD 21740",
+      "phone": null,
+      "id": "01285"
+    },
+    {
+      "address": "1030 Independence Blvd, Virginia Beach, VA 23455",
+      "phone": null,
+      "id": "01299"
+    },
+    {
+      "address": "2001 Columbia Ave, Lancaster, PA 17603",
+      "phone": null,
+      "id": "01352"
+    },
+    {
+      "address": "283 Platinum Ave, Staten Island, NY 10314",
+      "phone": null,
+      "id": "01372"
+    },
+    {
+      "address": "44175 Ashbrook Marketplace Plaza, Ashburn, VA 20147",
+      "phone": null,
+      "id": "01394"
+    },
+    {
+      "address": "80 New Bridge Road, Bergenfield, NJ 07621",
+      "phone": null,
+      "id": "01410"
+    },
+    {
+      "address": "1150 Welsh Road, Lansdale, PA 19446",
+      "phone": null,
+      "id": "01411"
+    },
+    {
+      "address": "Suite R70 3500 Oleander Dr, Wilmington, NC 28403",
+      "phone": null,
+      "id": "01412"
+    },
+    {
+      "address": "6026 Baltimore National Pike, Catonsville, MD 21228",
+      "phone": null,
+      "id": "01413"
+    },
+    {
+      "address": "4250 U.S. 9, Howell, NJ 07731",
+      "phone": null,
+      "id": "01414"
+    },
+    {
+      "address": "6421 Bells Ferry Rd, Woodstock, GA 30189",
+      "phone": null,
+      "id": "01415"
+    },
+    {
+      "address": "670 Grand Central Station, Apex, NC 27502",
+      "phone": null,
+      "id": "01416"
+    },
+    {
+      "address": "8667 Belair Road, Nottingham, MD 21236",
+      "phone": null,
+      "id": "01419"
+    },
+    {
+      "address": "2770 Hooper Ave, Brick, NJ 08723",
+      "phone": null,
+      "id": "01425"
+    },
+    {
+      "address": "1912 Skibo Rd, Fayetteville, NC 28314",
+      "phone": null,
+      "id": "01426"
+    },
+    {
+      "address": "670 Whitlock Ave SW, Marietta, GA 30064",
+      "phone": null,
+      "id": "01430"
+    },
+    {
+      "address": "779 Delsea Dr, Glassboro, NJ 08028",
+      "phone": null,
+      "id": "01431"
+    },
+    {
+      "address": "2741 NC-55, Cary, NC 27519",
+      "phone": null,
+      "id": "01432"
+    },
+    {
+      "address": "500 Milltown Road, North Brunswick, NJ 08902",
+      "phone": null,
+      "id": "01434"
+    },
+    {
+      "address": "11179 Lee Highway, Fairfax, VA 22030",
+      "phone": null,
+      "id": "01435"
+    },
+    {
+      "address": "7700 Ritchie Hwy, Glen Burnie, MD 21061",
+      "phone": null,
+      "id": "01437"
+    },
+    {
+      "address": "5270 Peachtree Pkwy NW, Peachtree Corners, GA 30092",
+      "phone": null,
+      "id": "01439"
+    },
+    {
+      "address": "3564 Penn Avenue, Sinking Spring, PA 19608",
+      "phone": null,
+      "id": "01442"
+    },
+    {
+      "address": "20 Goldsborough Drive, Bayonne, NJ 07002",
+      "phone": null,
+      "id": "01443"
+    },
+    {
+      "address": "2480 Briarcliff Road NE, Atlanta, GA 30329",
+      "phone": null,
+      "id": "01444"
+    },
+    {
+      "address": "1205 Johnson Ferry Rd, Marietta, GA 30068",
+      "phone": null,
+      "id": "01445"
+    },
+    {
+      "address": "6548 Little River Turnpike, Alexandria, VA 22312",
+      "phone": null,
+      "id": "01446"
+    },
+    {
+      "address": "199 Kinderkamack Rd, Park Ridge, NJ 07656",
+      "phone": null,
+      "id": "01448"
+    },
+    {
+      "address": "4100 Park Ave, Weehawken, NJ 07086",
+      "phone": null,
+      "id": "01449"
+    },
+    {
+      "address": "2480 Mount Vernon Rd, Dunwoody, GA 30338",
+      "phone": null,
+      "id": "01457"
+    },
+    {
+      "address": "6337 Roswell Road, Sandy Springs, GA 30328",
+      "phone": null,
+      "id": "01458"
+    },
+    {
+      "address": "15 E Padonia Road, Timonium, MD 21093",
+      "phone": null,
+      "id": "01461"
+    },
+    {
+      "address": "104 Bartlett Avenue Suite 100, Exton, PA 19341",
+      "phone": null,
+      "id": "01484"
+    },
+    {
+      "address": "3500 S. Clark St., Arlington, VA 22202",
+      "phone": null,
+      "id": "03500"
+    },
+    {
+      "address": "711 E Jericho Turnpike, Huntington Station, NY 11746",
+      "phone": null,
+      "id": "08003"
+    },
+    {
+      "address": "725 Sunrise Hwy, West Babylon, NY 11704",
+      "phone": null,
+      "id": "08007"
+    },
+    {
+      "address": "5601 Merrick Rd, Massapequa, NY 11758",
+      "phone": null,
+      "id": "08009"
+    },
+    {
+      "address": "4560 Sunrise Hwy, Oakdale, NY 11769",
+      "phone": null,
+      "id": "08012"
+    },
+    {
+      "address": "655 Montauk Hwy, East Patchogue, NY 11772",
+      "phone": null,
+      "id": "08013"
+    },
+    {
+      "address": "560 Larkfield Rd, East Northport, NY 11731",
+      "phone": null,
+      "id": "08014"
+    },
+    {
+      "address": "1980 Hempstead Tpke, East Meadow, NY 11554",
+      "phone": null,
+      "id": "08017"
+    },
+    {
+      "address": "2900 Middle Country Rd, Lake Grove, NY 11755",
+      "phone": null,
+      "id": "08019"
+    },
+    {
+      "address": "812 Montauk Hwy, Center Moriches, NY 11934",
+      "phone": null,
+      "id": "08020"
+    },
+    {
+      "address": "1054 Old Country Road, Plainview, NY 11803",
+      "phone": null,
+      "id": "08021"
+    },
+    {
+      "address": "211 Middle Country Rd, Selden, NY 11784",
+      "phone": null,
+      "id": "08025"
+    },
+    {
+      "address": "6881 New Hampshire Ave, Takoma Park, MD 20912",
+      "phone": null,
+      "id": "08030"
+    },
+    {
+      "address": "9274A Old Keene Mill Road Burke, Burke, VA 22015",
+      "phone": null,
+      "id": "08031"
+    },
+    {
+      "address": "6111 Livingston Road, Oxon Hill, MD 20745",
+      "phone": null,
+      "id": "08032"
+    },
+    {
+      "address": "2371 Solomons Island Rd, Annapolis, MD 21401",
+      "phone": null,
+      "id": "08034"
+    },
+    {
+      "address": "2201 Unit A Randolph Rd, Wheaton, MD 20902",
+      "phone": null,
+      "id": "08035"
+    },
+    {
+      "address": "5722 Ritchie Hwy, Brooklyn, MD 21225",
+      "phone": null,
+      "id": "08036"
+    }
+  ]
+}
