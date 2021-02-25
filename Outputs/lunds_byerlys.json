@@ -1,0 +1,140 @@
+{
+  "name": "Lunds & Byerlys",
+  "stores": [
+    {
+      "address": "25 University Ave SE, Minneapolis MN 55414",
+      "phone": "612-548-3820",
+      "id": "1"
+    },
+    {
+      "address": "1201 Hennepin Ave, Minneapolis MN 55403",
+      "phone": "612-379-5040",
+      "id": "10"
+    },
+    {
+      "address": "1450 W Lake St, Minneapolis MN 55408",
+      "phone": "612-825-2440",
+      "id": "2"
+    },
+    {
+      "address": "5725 Duluth Street, Golden Valley MN 55422",
+      "phone": "763-544-8846",
+      "id": "3"
+    },
+    {
+      "address": "3777 Park Center Boulevard, St. Louis Park MN 55416",
+      "phone": "952-929-2100",
+      "id": "16"
+    },
+    {
+      "address": "1601 West County Road C, Roseville MN 55113",
+      "phone": "651-633-6949",
+      "id": "18"
+    },
+    {
+      "address": "3945 West 50th Street, Edina MN 55424",
+      "phone": "952-926-6833",
+      "id": "8"
+    },
+    {
+      "address": "2128 Ford Parkway, St. Paul MN 55116",
+      "phone": "651-698-5845",
+      "id": "9"
+    },
+    {
+      "address": "6228 Penn Ave South, Richfield MN 55423",
+      "phone": "612-861-1881",
+      "id": "6"
+    },
+    {
+      "address": "7171 France Avenue South, Edina MN 55435",
+      "phone": "952-831-3601",
+      "id": "21"
+    },
+    {
+      "address": "11400 Highway 7, Minnetonka MN 55305",
+      "phone": "952-935-0198",
+      "id": "11"
+    },
+    {
+      "address": "115 East 10th Street, St. Paul MN 55101",
+      "phone": "651-999-1600",
+      "id": "14"
+    },
+    {
+      "address": "13081 Ridgedale Drive, Minnetonka MN 55305",
+      "phone": "952-541-1414",
+      "id": "19"
+    },
+    {
+      "address": "3455 Vicksburg Lane, Plymouth MN 55447",
+      "phone": "763-268-1624",
+      "id": "13"
+    },
+    {
+      "address": "14400 Excelsior Blvd, Minnetonka MN 55345",
+      "phone": "952-512-7700",
+      "id": "27"
+    },
+    {
+      "address": "1151 Wayzata Boulevard East, Wayzata MN 55391",
+      "phone": "952-476-2222",
+      "id": "15"
+    },
+    {
+      "address": "1299 Promenade Place, Eagan MN 55121",
+      "phone": "651-686-9669",
+      "id": "22"
+    },
+    {
+      "address": "12880 Elm Creek Boulevard, Maple Grove MN 55369",
+      "phone": "763-416-1611",
+      "id": "20"
+    },
+    {
+      "address": "5159 West 98th Street, Bloomington MN 55437",
+      "phone": "952-896-0092",
+      "id": "7"
+    },
+    {
+      "address": "970 Prairie Center Drive, Eden Prairie MN 55344",
+      "phone": "952-525-8000",
+      "id": "25"
+    },
+    {
+      "address": "4630 Centerville Road, White Bear Lake MN 55110",
+      "phone": "651-653-0000",
+      "id": "29"
+    },
+    {
+      "address": "7050 Valley Creek Plaza, Woodbury MN 55125",
+      "phone": "651-999-1200",
+      "id": "26"
+    },
+    {
+      "address": "800 West 78th Street, Chanhassen MN 55317",
+      "phone": "952-474-1298",
+      "id": "23"
+    },
+    {
+      "address": "401 E. County Road 42, Burnsville MN 55306",
+      "phone": "952-892-5600",
+      "id": "24"
+    },
+    {
+      "address": "3333 Shoreline Drive, Wayzata MN 55391",
+      "phone": "952-471-8473",
+      "id": "12"
+    },
+    {
+      "address": "16731 Highway 13, Prior Lake MN 55372",
+      "phone": "952-440-3900",
+      "id": "5"
+    },
+    {
+      "address": "2510 West Division Street, St. Cloud MN 56301",
+      "phone": "320-252-4112",
+      "id": "17"
+    }
+  ]
+}

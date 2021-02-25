@@ -4,7 +4,7 @@
 Publix
 BI-LO
 Lowe's Market
-Lunds & Byerlys
+! Lunds & Byerlys lunds_byerlys
 Market Choice
 Aldi
 Lidl
