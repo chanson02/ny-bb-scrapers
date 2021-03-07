@@ -14,22 +14,53 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from selenium.common import exceptions
 
+default_delay = 0.5
 
-with open("../states.json", "r") as f:
-    states = json.load(f)
+
+def get_hrefs():
+    content = driver.find_element_by_class_name("content")
+    hrefs = [anchor.get_attribute(
+        "href") for anchor in content.find_elements_by_tag_name("a")[1:]]
+    return hrefs
+
 
 chain = {"name": "Save a Lot", "stores": []}
 driver = webdriver.Chrome(executable_path='../chromedriver.exe')
-driver.get("https://savealot.com/grocery-stores-near-me")
-time.sleep(2)
+driver.get("https://savealot.com/grocery-stores/")
+time.sleep(default_delay)
 
-search_bar = driver.find_element_by_xpath(
-    "/html/body/div[2]/div/div[2]/div/div/div/div/div/div/div[1]/form/input")
-for state in states:
-    search_bar.send_keys(Keys.BACKSPACE * 5)
-    search_bar.send_keys(state["name"])
-    search_bar.send_keys(Keys.RETURN)
+city_urls = []
+location_urls = []
+for state_url in get_hrefs():
+    driver.get(state_url)
+    time.sleep(default_delay)
+    city_urls += get_hrefs()
 
-#     locations = driver.find_elements_by_class_name("sb-location")
-#     for location in locations:
-#         pass
+for city_url in city_urls:
+    try:
+        driver.get(city_url)
+        time.sleep(default_delay)
+        location_urls += get_hrefs()[1:]
+    except:
+        pdb.set_trace()
+
+for location_url in location_urls:
+    try:
+        driver.get(location_url)
+        time.sleep(default_delay)
+
+        address = driver.find_element_by_class_name(
+            "address").text.replace("\n", ", ")
+        phone = driver.find_element_by_class_name(
+            "phone").text[1:].replace(") ", "-")
+        remote_id = location_url.split("-")[-1][:-1]
+
+        store = {"address": address, "phone": phone, "id": remote_id}
+        chain["stores"].append(store)
+        print("Added", store)
+    except:
+        pdb.set_trace()
+
+with open("../Outputs/save_alot.json", "w") as f:
+    json.dump(chain, f, indent=2)
+print("Done")

@@ -11,7 +11,6 @@ Aldi
 ! Dollar General
 ? Dollar Tree - 45/50 states #Banned
 ! Family Dollar
-|BROKE| Saves-A-Lot
 https://locations.enmarket.com/enmarket-7952b602f2c3
 
 Selenium blocked:
@@ -36,3 +35,4 @@ PriceRite
 Market Basket
 Ingles Markets
 Total Wine
+|BROKE| Saves-A-Lot ? Use IFrame method :'/
