@@ -3,13 +3,11 @@
 Publix
 BI-LO
 Lowe's Market
-! Lunds & Byerlys lunds_byerlys
 Market Choice
 Aldi
-! Lidl
-! Dollar General
+! Dollar General #split
 ? Dollar Tree - 45/50 states #Banned
-! Family Dollar
+! Family Dollar #split
 https://locations.enmarket.com/enmarket-7952b602f2c3
 
 Selenium blocked:
@@ -33,5 +31,4 @@ IFrame chains:
 PriceRite
 Market Basket
 Ingles Markets
-! Total Wine
 |BROKE| Saves-A-Lot ? Use IFrame method :'/
