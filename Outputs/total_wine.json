@@ -1,0 +1,1070 @@
+{
+  "name": "Total Wine",
+  "stores": [
+    {
+      "address": "21001 N Tatum Blvd. Suite 12, Phoenix, AZ, 85050",
+      "phone": "480-515-6211",
+      "id": "1003"
+    },
+    {
+      "address": "21072 South Ellsworth Loop Rd., Queen Creek, AZ, 85142",
+      "phone": "602-325-1653",
+      "id": "1011"
+    },
+    {
+      "address": "10320 North Scottsdale Rd. Ste 110, Scottsdale, AZ, 85253",
+      "phone": "480-308-0271",
+      "id": "1007"
+    },
+    {
+      "address": "2224 E. Williams Field Rd., Gilbert, AZ, 85295",
+      "phone": "480-786-0270",
+      "id": "1005"
+    },
+    {
+      "address": "1900 E Rio Salado Pkwy Ste120, Tempe, AZ, 85281",
+      "phone": "480-967-0313",
+      "id": "1010"
+    },
+    {
+      "address": "5870 E Broadway Blvd Suite 448, Tucson, AZ, 85711",
+      "phone": "520-745-0540",
+      "id": "1009"
+    },
+    {
+      "address": "1670 E. Camelback Rd., Phoenix, AZ, 85016",
+      "phone": "602-279-0540",
+      "id": "1006"
+    },
+    {
+      "address": "4370 North Oracle Rd., Tucson, AZ, 85705",
+      "phone": "520-887-0174",
+      "id": "1001"
+    },
+    {
+      "address": "8544 South Emerald Dr., Tempe, AZ, 85284",
+      "phone": "480-753-4225",
+      "id": "1004"
+    },
+    {
+      "address": "17550 North 75th Avenue, Glendale, AZ, 85308",
+      "phone": "623-486-0162",
+      "id": "1002"
+    },
+    {
+      "address": "1416 N. Litchfield Rd, Goodyear, AZ, 85395",
+      "phone": "623-547-2109",
+      "id": "1008"
+    },
+    {
+      "address": "72339 Highway 111, Palm Desert, CA, 92260",
+      "phone": "760-346-2029",
+      "id": "1112"
+    },
+    {
+      "address": "40432 Winchester Rd, Temecula, CA, 92591",
+      "phone": "951-719-3712",
+      "id": "1123"
+    },
+    {
+      "address": "8201 Day Creek Blvd., Rancho Cucamonga, CA, 91739",
+      "phone": "909-463-5670",
+      "id": "1104"
+    },
+    {
+      "address": "471 South Associated Road, Brea, CA, 92821",
+      "phone": "714-672-0323",
+      "id": "1105"
+    },
+    {
+      "address": "24001 El Toro Road Ste B, Laguna Hills, CA, 92653",
+      "phone": "949-206-1539",
+      "id": "1110"
+    },
+    {
+      "address": "2952 El Camino Real, Tustin, CA, 92782",
+      "phone": "714-665-4257",
+      "id": "1103"
+    },
+    {
+      "address": "721 East Colorado Blvd, Pasadena, CA, 91101",
+      "phone": "626-463-1444",
+      "id": "1126"
+    },
+    {
+      "address": "1280 Bison Ave., Newport Beach, CA, 92660",
+      "phone": "949-209-9060",
+      "id": "1122"
+    },
+    {
+      "address": "16272 Beach Blvd, Huntington Beach, CA, 92647",
+      "phone": "714-861-4047",
+      "id": "1109"
+    },
+    {
+      "address": "7400 Carson Blvd, Long Beach, CA, 90808",
+      "phone": "562-420-2018",
+      "id": "1113"
+    },
+    {
+      "address": "19336 Nordhoff St., Northridge, CA, 91324",
+      "phone": "818-700-0130",
+      "id": "1102"
+    },
+    {
+      "address": "1505 Hawthorne Blvd., Redondo Beach, CA, 90278",
+      "phone": "310-542-1460",
+      "id": "1106"
+    },
+    {
+      "address": "7925 N. Blackstone Ave, Fresno, CA, 93720",
+      "phone": "559-547-3160",
+      "id": "1119"
+    },
+    {
+      "address": "6232 Topanga Canyon Blvd, Ste 1380, Woodland Hills, CA, 91367",
+      "phone": "818-264-0225",
+      "id": "1116"
+    },
+    {
+      "address": "394 N. Moorpark Road, Thousand Oaks, CA, 91360",
+      "phone": "805-494-0108",
+      "id": "1107"
+    },
+    {
+      "address": "2765 E. Bidwell St., Folsom, CA, 95630",
+      "phone": "916-984-6923",
+      "id": "1111"
+    },
+    {
+      "address": "5791 Five Star Boulevard, Roseville, CA, 95678",
+      "phone": "916-791-2488",
+      "id": "1101"
+    },
+    {
+      "address": "2121 Arden Way, Sacramento, CA, 95825",
+      "phone": "916-921-5328",
+      "id": "1108"
+    },
+    {
+      "address": "7707 Laguna Blvd. Suite 140, Elk Grove, CA, 95758",
+      "phone": "916-478-6079",
+      "id": "1114"
+    },
+    {
+      "address": "Rose Pavilion, Pleasanton, CA, 94588",
+      "phone": "925-463-0233",
+      "id": "1121"
+    },
+    {
+      "address": "3161 Crow Canyon Place, San Ramon, CA, 94583",
+      "phone": "925-275-9239",
+      "id": "1124"
+    },
+    {
+      "address": "3250 Buskirk Ave, Pleasant Hill, CA, 94523",
+      "phone": "925-588-0215",
+      "id": "1118"
+    },
+    {
+      "address": "5140 Cherry Ave Suite 30, San Jose, CA, 95118",
+      "phone": "408-445-8750",
+      "id": "1120"
+    },
+    {
+      "address": "43484 Boscell Road, Fremont, CA, 94538",
+      "phone": "510-403-0126",
+      "id": "1115"
+    },
+    {
+      "address": "5170 Stevens Creek Blvd., San Jose, CA, 95129",
+      "phone": "408-556-4705",
+      "id": "1127"
+    },
+    {
+      "address": "1010 North Rengstorff Ave, Mountain View, CA, 94043",
+      "phone": "650-965-8422",
+      "id": "1117"
+    },
+    {
+      "address": "2250 Bridgepointe Pkwy, San Mateo, CA, 94404",
+      "phone": "650-356-0345",
+      "id": "1128"
+    },
+    {
+      "address": "311 Gellert Blvd., Daly City, CA, 94015",
+      "phone": "650-488-2088",
+      "id": "1125"
+    },
+    {
+      "address": "9505 E. County Line Rd., Centennial, CO, 80112",
+      "phone": "720-381-4385",
+      "id": "2302"
+    },
+    {
+      "address": "3905 East Evans Ave., Denver, CO, 80210",
+      "phone": "720-535-0027",
+      "id": "2301"
+    },
+    {
+      "address": "380 Main Ave., Norwalk, CT, 06851",
+      "phone": "203-840-0007",
+      "id": "1501"
+    },
+    {
+      "address": "230 Cherry St, Milford, CT, 06460",
+      "phone": "203-301-5035",
+      "id": "1503"
+    },
+    {
+      "address": "1451 New Britain Avenue, West Hartford, CT, 06110",
+      "phone": "860-313-1470",
+      "id": "1504"
+    },
+    {
+      "address": "1480 Pleasant Valley Rd, Manchester, CT, 06042",
+      "phone": "860-644-0184",
+      "id": "1502"
+    },
+    {
+      "address": "1325 McKennans Church Road, Wilmington, DE, 19808",
+      "phone": "302-994-5510",
+      "id": "102"
+    },
+    {
+      "address": "691 Naamans Road, Claymont, DE, 19703",
+      "phone": "302-792-1322",
+      "id": "101"
+    },
+    {
+      "address": "3965 Plaza Blvd Suite 10, Gainesville, FL, 32608",
+      "phone": "352-378-1948",
+      "id": "929"
+    },
+    {
+      "address": "4413 Town Center Parkway 300, Jacksonville, FL, 32246",
+      "phone": "904-998-1740",
+      "id": "907"
+    },
+    {
+      "address": "641 N. Highway 27-441, Lady Lake, FL, 32159",
+      "phone": "352-350-5979",
+      "id": "933"
+    },
+    {
+      "address": "2528 State Road 580, Clearwater, FL, 33761",
+      "phone": "727-431-1010",
+      "id": "910"
+    },
+    {
+      "address": "4880 Park St N, St Petersburg, FL, 33709",
+      "phone": "727-544-6018",
+      "id": "913"
+    },
+    {
+      "address": "1720 North Dale Mabry Highway, Tampa, FL, 33607",
+      "phone": "813-350-9601",
+      "id": "901"
+    },
+    {
+      "address": "2500 W International Speedway Blvd, Daytona Beach, FL, 32114",
+      "phone": "386-947-9310",
+      "id": "923"
+    },
+    {
+      "address": "11211 Causeway Blvd, Brandon, FL, 33511",
+      "phone": "813-657-0001",
+      "id": "928"
+    },
+    {
+      "address": "160 E Altamonte DR, Altamonte Springs, FL, 32701",
+      "phone": "407-262-0549",
+      "id": "925"
+    },
+    {
+      "address": "4625 Millenia Plaza Way, Orlando, FL, 32839",
+      "phone": "407-352-6330",
+      "id": "920"
+    },
+    {
+      "address": "2712 East Colonial Drive, Orlando, FL, 32803",
+      "phone": "407-894-6553",
+      "id": "909"
+    },
+    {
+      "address": "8539 Cooper Creek Blvd., University Park, FL, 34201",
+      "phone": "941-351-7895",
+      "id": "914"
+    },
+    {
+      "address": "8280 S Tamiami Trail, Sarasota, FL, 34238",
+      "phone": "941-918-8075",
+      "id": "924"
+    },
+    {
+      "address": "2302 Harnett Drive, Melbourne, FL, 32940",
+      "phone": "321-637-9844",
+      "id": "921"
+    },
+    {
+      "address": "13711 S. Tamiami Trail, Fort Myers, FL, 33912",
+      "phone": "239-432-0510",
+      "id": "902"
+    },
+    {
+      "address": "8012 Mediterranean Drive Suite 101, Estero, FL, 33928",
+      "phone": "239-498-6211",
+      "id": "930"
+    },
+    {
+      "address": "5048 Airport Pulling Road, Naples, FL, 34105",
+      "phone": "239-649-4979",
+      "id": "908"
+    },
+    {
+      "address": "2550 NW Federal Highway, Stuart, FL, 34994",
+      "phone": "772-692-1530",
+      "id": "916"
+    },
+    {
+      "address": "11221 Legacy Avenue, Palm Beach Gardens, FL, 33410",
+      "phone": "561-622-7340",
+      "id": "903"
+    },
+    {
+      "address": "960 S State Road 7, Village of Wellington, FL, 33414",
+      "phone": "561-795-9229",
+      "id": "917"
+    },
+    {
+      "address": "850 North Congress Ave., Boynton Beach, FL, 33426",
+      "phone": "561-731-5411",
+      "id": "906"
+    },
+    {
+      "address": "2564 N. University Drive, Coral Springs, FL, 33065",
+      "phone": "954-227-7093",
+      "id": "927"
+    },
+    {
+      "address": "5050 Town Center Circle, Boca Raton, FL, 33486",
+      "phone": "561-391-1281",
+      "id": "905"
+    },
+    {
+      "address": "801 S. University Dr. Suite G100, Plantation, FL, 33324",
+      "phone": "954-424-0954",
+      "id": "919"
+    },
+    {
+      "address": "15980 Pines Blvd., Pembroke Pines, FL, 33027",
+      "phone": "954-437-5557",
+      "id": "915"
+    },
+    {
+      "address": "1906 Cordova Road, Fort Lauderdale, FL, 33316",
+      "phone": "954-828-9463",
+      "id": "904"
+    },
+    {
+      "address": "19925 Biscayne Blvd., Miami, FL, 33180",
+      "phone": "786-654-5488",
+      "id": "931"
+    },
+    {
+      "address": "14750 Biscayne Boulevard, North Miami, FL, 33181",
+      "phone": "305-354-3270",
+      "id": "912"
+    },
+    {
+      "address": "11960 Mills Dr., Miami, FL, 33183",
+      "phone": "305-630-3790",
+      "id": "922"
+    },
+    {
+      "address": "8851 SW 136th Street, Miami, FL, 33176",
+      "phone": "305-971-7615",
+      "id": "918"
+    },
+    {
+      "address": "1139 5th St, Miami Beach, FL, 33139",
+      "phone": "786-276-6545",
+      "id": "926"
+    },
+    {
+      "address": "740 Ernest W. Barrett Pkwy. Ste 500, Kennesaw, GA, 30144",
+      "phone": "678-354-0168",
+      "id": "802"
+    },
+    {
+      "address": "2955 Cobb Parkway SE, Atlanta, GA, 30339",
+      "phone": "770-799-9390",
+      "id": "805"
+    },
+    {
+      "address": "380 North Point Circle, Alpharetta, GA, 30022",
+      "phone": "770-772-0694",
+      "id": "801"
+    },
+    {
+      "address": "124 Perimeter Center West, Atlanta, GA, 30346",
+      "phone": "770-395-1678",
+      "id": "803"
+    },
+    {
+      "address": "3954A Peachtree Rd. NE, Brookhaven, GA, 30319",
+      "phone": "404-816-7249",
+      "id": "804"
+    },
+    {
+      "address": "5905 N. Illinois St., Fairview Heights, IL, 62208",
+      "phone": "618-509-5975",
+      "id": "2401"
+    },
+    {
+      "address": "1460 E. 86th St., Indianapolis, IN, 46240",
+      "phone": "317-708-4190",
+      "id": "2701"
+    },
+    {
+      "address": "5067 Shelbyville Rd., Louisville, KY, 40207",
+      "phone": "502-912-5304",
+      "id": "2103"
+    },
+    {
+      "address": "4320 Summit Plaza Drive Ste 5, Louisville, KY, 40241",
+      "phone": "502-425-1753",
+      "id": "2101"
+    },
+    {
+      "address": "161 Lexington Green Circle, Lexington, KY, 40503",
+      "phone": "859-225-9924",
+      "id": "2102"
+    },
+    {
+      "address": "2321 Sir Barton Way, Suite 165, Lexington, KY, 40509",
+      "phone": "859-963-4185",
+      "id": "2104"
+    },
+    {
+      "address": "4407 Ambassador Caffery Pkwy, Lafayette, LA, 70508",
+      "phone": "337-232-6607",
+      "id": "2502"
+    },
+    {
+      "address": "1882 N. Causeway Blvd., Mandeville, LA, 70471",
+      "phone": "985-231-5725",
+      "id": "2503"
+    },
+    {
+      "address": "3780 Veterans Memorial Blvd, Metairie, LA, 70002",
+      "phone": "504-267-8866",
+      "id": "2501"
+    },
+    {
+      "address": "87 Boston Turnpike, Shrewsbury, MA, 01545",
+      "phone": "508-363-3690",
+      "id": "1703"
+    },
+    {
+      "address": "321 Speen Street, Natick, MA, 01760",
+      "phone": "508-651-5210",
+      "id": "1701"
+    },
+    {
+      "address": "34 Cambridge Street, Burlington, MA, 01803",
+      "phone": "781-565-6521",
+      "id": "1705"
+    },
+    {
+      "address": "11 Mystic View Rd, Everett, MA, 02149",
+      "phone": "617-315-4855",
+      "id": "1702"
+    },
+    {
+      "address": "180 Pearl Street, Braintree, MA, 02184",
+      "phone": "781-348-9508",
+      "id": "1706"
+    },
+    {
+      "address": "100 Independence Way, Danvers, MA, 01923",
+      "phone": "978-739-1415",
+      "id": "1704"
+    },
+    {
+      "address": "3335 Corridor Marketplace, Laurel, MD, 20724",
+      "phone": "301-617-8507",
+      "id": "402"
+    },
+    {
+      "address": "8727 Loch Raven Blvd, Towson, MD, 21286",
+      "phone": "410-668-8884",
+      "id": "401"
+    },
+    {
+      "address": "510 Lake Drive, Chanhassen, MN, 55317",
+      "phone": "952-934-6484",
+      "id": "1606"
+    },
+    {
+      "address": "820 County Rd 42 W, Burnsville, MN, 55337",
+      "phone": "952-435-7555",
+      "id": "1603"
+    },
+    {
+      "address": "4260 W. 78TH St, Bloomington, MN, 55435",
+      "phone": "952-835-6063",
+      "id": "1601"
+    },
+    {
+      "address": "14200 Wayzata Blvd, Minnetonka, MN, 55305",
+      "phone": "952-545-2754",
+      "id": "1608"
+    },
+    {
+      "address": "1440 Central Park Commons Drive, Eagan, MN, 55121",
+      "phone": "651-452-0499",
+      "id": "1607"
+    },
+    {
+      "address": "12795 Elm Creek Boulevard N, Maple Grove, MN, 55369",
+      "phone": "763-488-3300",
+      "id": "1605"
+    },
+    {
+      "address": "2401 Fairview Ave N Ste 105, Roseville, MN, 55113",
+      "phone": "651-636-4157",
+      "id": "1602"
+    },
+    {
+      "address": "7150 Valley Creek PLZ STE 210, Woodbury, MN, 55125",
+      "phone": "651-735-0910",
+      "id": "1604"
+    },
+    {
+      "address": "1781 Clarkson Rd, Chesterfield, MO, 63017",
+      "phone": "636-536-9869",
+      "id": "1803"
+    },
+    {
+      "address": "13887 Manchester Road, Ballwin, MO, 63011",
+      "phone": "636-527-0482",
+      "id": "1801"
+    },
+    {
+      "address": "90 Brentwood Promenade Ct, Brentwood, MO, 63144",
+      "phone": "314-963-3265",
+      "id": "1802"
+    },
+    {
+      "address": "8709 Townley Road, Huntersville, NC, 28078",
+      "phone": "704-895-6115",
+      "id": "609"
+    },
+    {
+      "address": "1600 East Woodlawn Road, Charlotte, NC, 28209",
+      "phone": "704-295-9292",
+      "id": "605"
+    },
+    {
+      "address": "8054 Concord Mills Blvd., Concord, NC, 28027",
+      "phone": "980-258-6095",
+      "id": "614"
+    },
+    {
+      "address": "551 South Stratford Road, Winston-Salem, NC, 27103",
+      "phone": "336-245-0388",
+      "id": "604"
+    },
+    {
+      "address": "5341 Ballantyne Commons Pkwy. S. 100, Charlotte, NC, 28277",
+      "phone": "704-841-1212",
+      "id": "613"
+    },
+    {
+      "address": "2976 Battleground Avenue (North), Greensboro, NC, 27408",
+      "phone": "336-235-0400",
+      "id": "602"
+    },
+    {
+      "address": "3503 W Gate City Blvd., Greensboro, NC, 27407",
+      "phone": "336-235-2323",
+      "id": "603"
+    },
+    {
+      "address": "3615 Witherspoon Blvd, Durham, NC, 27707",
+      "phone": "919-489-5082",
+      "id": "610"
+    },
+    {
+      "address": "8381 Brier Creek Parkway, Raleigh, NC, 27617",
+      "phone": "919-293-0362",
+      "id": "607"
+    },
+    {
+      "address": "333 Crossroads Blvd, Cary, NC, 27518",
+      "phone": "919-235-3322",
+      "id": "606"
+    },
+    {
+      "address": "4421 Six Forks Road Suite 111, Raleigh, NC, 27609",
+      "phone": "919-232-2580",
+      "id": "611"
+    },
+    {
+      "address": "6105 Capital Blvd, Raleigh, NC, 27616",
+      "phone": "919-235-0000",
+      "id": "608"
+    },
+    {
+      "address": "2100 Route 38, Cherry Hill, NJ, 08002",
+      "phone": "856-667-7100",
+      "id": "301"
+    },
+    {
+      "address": "950 Springfield Road, Union, NJ, 07083",
+      "phone": "908-688-2453",
+      "id": "304"
+    },
+    {
+      "address": "495 Prospect Ave., West Orange, NJ, 07052",
+      "phone": "973-324-0899",
+      "id": "302"
+    },
+    {
+      "address": "1001 Main St., River Edge, NJ, 07661",
+      "phone": "201-968-1777",
+      "id": "303"
+    },
+    {
+      "address": "3529 Zafarano Dr., Santa Fe, NM, 87507",
+      "phone": "505-428-4262",
+      "id": "1303"
+    },
+    {
+      "address": "10420 Coors Bypass NW, Albuquerque, NM, 87114",
+      "phone": "505-890-8467",
+      "id": "1301"
+    },
+    {
+      "address": "6701 Uptown Blvd NE, Albuquerque, NM, 87110",
+      "phone": "505-830-2080",
+      "id": "1302"
+    },
+    {
+      "address": "501 N. Stephanie Street, Henderson, NV, 89014",
+      "phone": "702-433-2709",
+      "id": "1202"
+    },
+    {
+      "address": "5720 Centennial Center Blvd, Las Vegas, NV, 89149",
+      "phone": "702-515-1258",
+      "id": "1204"
+    },
+    {
+      "address": "6885 S. Las Vegas Blvd, Las Vegas, NV, 89119",
+      "phone": "702-614-4001",
+      "id": "1205"
+    },
+    {
+      "address": "730 S. Rampart Blvd., Las Vegas, NV, 89145",
+      "phone": "702-933-8740",
+      "id": "1201"
+    },
+    {
+      "address": "6671 S. Virginia Street, Reno, NV, 89511",
+      "phone": "775-853-3669",
+      "id": "1203"
+    },
+    {
+      "address": "1230 Old Country Road Suite A, Westbury, NY, 11590",
+      "phone": "516-357-0090",
+      "id": "2201"
+    },
+    {
+      "address": "1125 Woodruff Rd. Suite 300, Greenville, SC, 29607",
+      "phone": "864-288-4575",
+      "id": "703"
+    },
+    {
+      "address": "275-C Harbison Blvd, Columbia, SC, 29212",
+      "phone": "803-407-3737",
+      "id": "701"
+    },
+    {
+      "address": "1820 Ashley River Road, Charleston, SC, 29407",
+      "phone": "843-763-7034",
+      "id": "702"
+    },
+    {
+      "address": "1501 N Highway 17, Mount Pleasant, SC, 29464",
+      "phone": "843-375-8999",
+      "id": "705"
+    },
+    {
+      "address": "550 Seaboard Street, Myrtle Beach, SC, 29577",
+      "phone": "843-353-5904",
+      "id": "704"
+    },
+    {
+      "address": "11370 Parkside Dr., Suite 2400, Knoxville, TN, 37934",
+      "phone": "865-672-5100",
+      "id": "2001"
+    },
+    {
+      "address": "1800 South Loop 288, Suite370, Denton, TX, 76205",
+      "phone": "940-484-9540",
+      "id": "511"
+    },
+    {
+      "address": "190 East Stacy Road, Allen, TX, 75002",
+      "phone": "972-678-4062",
+      "id": "521"
+    },
+    {
+      "address": "8700 Preston Rd Ste113, Plano, TX, 75024",
+      "phone": "214-436-5518",
+      "id": "506"
+    },
+    {
+      "address": "2325 S. Stemmons Fwy, Lewisville, TX, 75067",
+      "phone": "214-488-5713",
+      "id": "507"
+    },
+    {
+      "address": "6400 W Plano Pkwy, Plano, TX, 75093",
+      "phone": "972-378-2180",
+      "id": "513"
+    },
+    {
+      "address": "721 N Central EXPY Ste200, Plano, TX, 75075",
+      "phone": "972-943-0767",
+      "id": "505"
+    },
+    {
+      "address": "3101 Texas Sage Trail, Fort Worth, TX, 76177",
+      "phone": "817-741-9415",
+      "id": "523"
+    },
+    {
+      "address": "7730 N. MacArthur Blvd. SuiteA, Irving, TX, 75063",
+      "phone": "469-250-5599",
+      "id": "535"
+    },
+    {
+      "address": "2501 Rio Grande Blvd., Euless, TX, 76039",
+      "phone": "817-508-7303",
+      "id": "528"
+    },
+    {
+      "address": "9350 N. Central Expressway, Dallas, TX, 75231",
+      "phone": "214-750-4605",
+      "id": "501"
+    },
+    {
+      "address": "3810 Congress Ave., Dallas, TX, 75219",
+      "phone": "469-804-6345",
+      "id": "531"
+    },
+    {
+      "address": "5200 S Hulen St, Fort Worth, TX, 76132",
+      "phone": "817-292-2503",
+      "id": "502"
+    },
+    {
+      "address": "981 Interstate 20 W., Arlington, TX, 76017",
+      "phone": "817-472-9727",
+      "id": "508"
+    },
+    {
+      "address": "428 E FM 1382, Cedar Hill, TX, 75104",
+      "phone": "469-575-5391",
+      "id": "534"
+    },
+    {
+      "address": "11066 Pecan Park Blvd Ste117, Cedar Park, TX, 78613",
+      "phone": "512-257-3252",
+      "id": "510"
+    },
+    {
+      "address": "10001 Research Blvd Suite300, Austin, TX, 78759",
+      "phone": "512-340-9997",
+      "id": "522"
+    },
+    {
+      "address": "3925 Market St., Bee Cave, TX, 78738",
+      "phone": "512-827-0038",
+      "id": "536"
+    },
+    {
+      "address": "1201 Barbara Jordan Blvd Suite900, Austin, TX, 78723",
+      "phone": "512-391-1964",
+      "id": "514"
+    },
+    {
+      "address": "5601 Brodie Lane Suite800, Sunset Valley, TX, 78745",
+      "phone": "512-892-8763",
+      "id": "509"
+    },
+    {
+      "address": "1900 Lake Woodlands Drive, Suite900, The Woodlands, TX, 77380",
+      "phone": "346-224-9217",
+      "id": "524"
+    },
+    {
+      "address": "7640 Cypress Creek Pkwy, Houston, TX, 77070",
+      "phone": "281-477-7507",
+      "id": "512"
+    },
+    {
+      "address": "9805 FM 1960 Bypass Road West, Humble, TX, 77338",
+      "phone": "281-548-1301",
+      "id": "526"
+    },
+    {
+      "address": "17530 La Cantera Pkwy Ste103, San Antonio, TX, 78257",
+      "phone": "210-877-9155",
+      "id": "504"
+    },
+    {
+      "address": "7055 Hwy 6 N, Houston, TX, 77095",
+      "phone": "281-463-4730",
+      "id": "525"
+    },
+    {
+      "address": "8889 Gateway Blvd West BuildingC620, El Paso, TX, 79925",
+      "phone": "915-225-3175",
+      "id": "532"
+    },
+    {
+      "address": "8356 Agora Parkway, Selma, TX, 78154",
+      "phone": "210-566-1503",
+      "id": "520"
+    },
+    {
+      "address": "125 NW Loop 410 Ste260, San Antonio, TX, 78216",
+      "phone": "210-524-9300",
+      "id": "503"
+    },
+    {
+      "address": "12516 Memorial Dr, Houston, TX, 77024",
+      "phone": "713-827-7060",
+      "id": "517"
+    },
+    {
+      "address": "2857 Katy Freeway, Suite100, Houston, TX, 77007",
+      "phone": "713-324-3718",
+      "id": "530"
+    },
+    {
+      "address": "5472 W Grand Parkway South, Richmond, TX, 77406",
+      "phone": "281-232-7382",
+      "id": "519"
+    },
+    {
+      "address": "5016 San Felipe St, Houston, TX, 77056",
+      "phone": "713-622-9777",
+      "id": "516"
+    },
+    {
+      "address": "2617 W. Holcombe Blvd, Houston, TX, 77025",
+      "phone": "713-666-7841",
+      "id": "518"
+    },
+    {
+      "address": "16762-B Southwest Freeway, Sugar Land, TX, 77479",
+      "phone": "832-500-2009",
+      "id": "527"
+    },
+    {
+      "address": "10322 Broadway Street, Pearland, TX, 77584",
+      "phone": "281-848-0867",
+      "id": "529"
+    },
+    {
+      "address": "18740 Gulf Freeway, Friendswood, TX, 77546",
+      "phone": "281-218-6011",
+      "id": "515"
+    },
+    {
+      "address": "5425 S. Padre Island Dr. #136C & 136D, Corpus Christi, TX, 78411",
+      "phone": "361-288-7950",
+      "id": "533"
+    },
+    {
+      "address": "1063 Edwards Ferry Rd NE, Leesburg, VA, 20176",
+      "phone": "571-258-0217",
+      "id": "218"
+    },
+    {
+      "address": "5105 Wellington Rd, Gainesville, VA, 20155",
+      "phone": "703-754-4285",
+      "id": "215"
+    },
+    {
+      "address": "8103 Sudley Road, Manassas, VA, 20109",
+      "phone": "703-368-2580",
+      "id": "209"
+    },
+    {
+      "address": "46301 Potomac Run Plaza, Sterling, VA, 20164",
+      "phone": "703-433-0522",
+      "id": "204"
+    },
+    {
+      "address": "13053-B Lee Jackson Memorial Highway, Fairfax, VA, 22033",
+      "phone": "703-817-1177",
+      "id": "201"
+    },
+    {
+      "address": "1641 Carl D. Silver Parkway, Fredericksburg, VA, 22401",
+      "phone": "540-785-6737",
+      "id": "208"
+    },
+    {
+      "address": "11620 Plaza America Drive, Reston, VA, 20190",
+      "phone": "703-707-9101",
+      "id": "219"
+    },
+    {
+      "address": "3500 Pump Road, Henrico, VA, 23233",
+      "phone": "804-253-0012",
+      "id": "220"
+    },
+    {
+      "address": "9484 Main Street, Fairfax, VA, 22031",
+      "phone": "703-250-0604",
+      "id": "214"
+    },
+    {
+      "address": "10036 Robious Road, Richmond, VA, 23235",
+      "phone": "804-323-5866",
+      "id": "206"
+    },
+    {
+      "address": "8099 West Broad Street, Richmond, VA, 23294",
+      "phone": "804-935-7750",
+      "id": "207"
+    },
+    {
+      "address": "1451 Chain Bridge Road, McLean, VA, 22101",
+      "phone": "703-749-0011",
+      "id": "205"
+    },
+    {
+      "address": "6801 Bland Street, Springfield, VA, 22150",
+      "phone": "703-912-9387",
+      "id": "202"
+    },
+    {
+      "address": "6240 Little River Turnpike, Alexandria, VA, 22312",
+      "phone": "703-941-1133",
+      "id": "203"
+    },
+    {
+      "address": "800 N. Glebe Rd., Arlington, VA, 22203",
+      "phone": "703-516-2810",
+      "id": "216"
+    },
+    {
+      "address": "12551 Jefferson Ave, Suite 173, Newport News, VA, 23602",
+      "phone": "757-886-5390",
+      "id": "217"
+    },
+    {
+      "address": "536 West 21st Street, Norfolk, VA, 23517",
+      "phone": "757-623-6108",
+      "id": "213"
+    },
+    {
+      "address": "1600 Crossways Blvd, Chesapeake, VA, 23320",
+      "phone": "757-420-6404",
+      "id": "211"
+    },
+    {
+      "address": "1744 Laskin Rd., Virginia Beach, VA, 23454",
+      "phone": "757-428-6998",
+      "id": "210"
+    },
+    {
+      "address": "13802 E Indiana Ave, Spokane, WA, 99216",
+      "phone": "509-922-1530",
+      "id": "1408"
+    },
+    {
+      "address": "9980 N Newport HWY, Spokane, WA, 99218",
+      "phone": "509-466-1644",
+      "id": "1403"
+    },
+    {
+      "address": "4816 NE Thurston Way, Vancouver, WA, 98662",
+      "phone": "360-885-7583",
+      "id": "1404"
+    },
+    {
+      "address": "120 31st Ave SE Unit E, Puyallup, WA, 98374",
+      "phone": "253-445-2823",
+      "id": "1410"
+    },
+    {
+      "address": "699 120th Ave NE Unit B, Bellevue, WA, 98005",
+      "phone": "425-454-1317",
+      "id": "1401"
+    },
+    {
+      "address": "300 Andover Park West Ste. 500, Tukwila, WA, 98188",
+      "phone": "206-575-6280",
+      "id": "1402"
+    },
+    {
+      "address": "32095 Pacific Hwy S, Federal Way, WA, 98003",
+      "phone": "253-941-4017",
+      "id": "1407"
+    },
+    {
+      "address": "525 NE Northgate Way STE 5, Seattle, WA, 98125",
+      "phone": "206-365-0572",
+      "id": "1409"
+    },
+    {
+      "address": "2701 184th ST SW STE 108B, Lynnwood, WA, 98037",
+      "phone": "425-640-4510",
+      "id": "1405"
+    },
+    {
+      "address": "1550 West Armory Way, Seattle, WA, 98119",
+      "phone": "206-352-3823",
+      "id": "1411"
+    },
+    {
+      "address": "11066 Pacific Crest Place NW A110, Silverdale, WA, 98383",
+      "phone": "360-204-5861",
+      "id": "1412"
+    },
+    {
+      "address": "625 Black Lake Blvd SW STE 405, Olympia, WA, 98502",
+      "phone": "360-786-5006",
+      "id": "1406"
+    },
+    {
+      "address": "400 West Towne Mall, Madison, WI, 53719",
+      "phone": "608-821-0743",
+      "id": "1902"
+    },
+    {
+      "address": "17300 W Bluemound Rd Suite 200, Brookfield, WI, 53045",
+      "phone": "262-786-1520",
+      "id": "1901"
+    },
+    {
+      "address": "8700 West Sura Lane, Greenfield, WI, 53228",
+      "phone": "414-425-7373",
+      "id": "1903"
+    },
+    {
+      "address": "5850 N. Bayshore Dr., Glendale, WI, 53217",
+      "phone": "414-395-2350",
+      "id": "1904"
+    }
+  ]
+}
