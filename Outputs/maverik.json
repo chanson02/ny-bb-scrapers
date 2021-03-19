@@ -1,0 +1,1830 @@
+{
+  "name": "Maverik",
+  "stores": [
+    {
+      "address": "105 S. 200 W., Bountiful, UT",
+      "phone": "801-292-6792",
+      "id": "130"
+    },
+    {
+      "address": "222 S. Main, Lyman, WY",
+      "phone": "307-877-8349",
+      "id": "136"
+    },
+    {
+      "address": "94 N. Main, Centerville, UT",
+      "phone": "801-298-7561",
+      "id": "145"
+    },
+    {
+      "address": "90 W. Hwy 26, Ririe, ID",
+      "phone": "208-538-7836",
+      "id": "156"
+    },
+    {
+      "address": "535 County Rd, Evanston, WY",
+      "phone": "307-789-7182",
+      "id": "162"
+    },
+    {
+      "address": "1501 Bighorn Ave, Worland, WY",
+      "phone": "307-763-5962",
+      "id": "166"
+    },
+    {
+      "address": "1500 S. Main, Bountiful, UT",
+      "phone": "801-292-8375",
+      "id": "168"
+    },
+    {
+      "address": "895 W. Bridge St., Blackfoot, ID",
+      "phone": "208-785-0116",
+      "id": "172"
+    },
+    {
+      "address": "723 N. 12th Ave Rd, Nampa, ID",
+      "phone": "208-467-2245",
+      "id": "178"
+    },
+    {
+      "address": "2014 N. 400 W., Layton, UT",
+      "phone": "801-825-5094",
+      "id": "184"
+    },
+    {
+      "address": "1604 W. Main, Riverton, WY",
+      "phone": "307-856-5651",
+      "id": "192"
+    },
+    {
+      "address": "3206 Poleline Rd, Pocatello, ID",
+      "phone": "208-237-6343",
+      "id": "194"
+    },
+    {
+      "address": "75 N. 2nd E., Rexburg, ID",
+      "phone": "208-356-3672",
+      "id": "195"
+    },
+    {
+      "address": "7728 So. Main, Midvale, UT",
+      "phone": "801-566-1761",
+      "id": "196"
+    },
+    {
+      "address": "87 N Main, Layton, UT",
+      "phone": "801-546-5236",
+      "id": "197"
+    },
+    {
+      "address": "7333 Ustick Rd, Boise, ID",
+      "phone": "208-672-1969",
+      "id": "198"
+    },
+    {
+      "address": "1707 S. 300 W., Salt Lake City, UT",
+      "phone": "801-487-8211",
+      "id": "199"
+    },
+    {
+      "address": "2197 McCulloch, Lake Havasu City, AZ",
+      "phone": "928-855-8696",
+      "id": "201"
+    },
+    {
+      "address": "1802 17th St, Cody, WY",
+      "phone": "307-587-9431",
+      "id": "202"
+    },
+    {
+      "address": "120 Main St., Kimberly, ID",
+      "phone": "208-423-6111",
+      "id": "204"
+    },
+    {
+      "address": "2710 Main St., Boise, ID",
+      "phone": "208-343-4003",
+      "id": "205"
+    },
+    {
+      "address": "381 S. State, Mount Pleasant, UT",
+      "phone": "435-462-3433",
+      "id": "208"
+    },
+    {
+      "address": "140 N. 10th E., Mountain Home, ID",
+      "phone": "208-587-3894",
+      "id": "209"
+    },
+    {
+      "address": "110 W. Hwy 52, Emmett, ID",
+      "phone": "208-365-3944",
+      "id": "212"
+    },
+    {
+      "address": "4495 Hwy 95, Fort Mohave, AZ",
+      "phone": "928-763-6336",
+      "id": "213"
+    },
+    {
+      "address": "703 E Main, Weiser, ID",
+      "phone": "208-549-2761",
+      "id": "214"
+    },
+    {
+      "address": "20 S Idaho St., Wendell, ID",
+      "phone": "208-536-6181",
+      "id": "217"
+    },
+    {
+      "address": "524 N. 6th St., Greybull, WY",
+      "phone": "307-224-1555",
+      "id": "222"
+    },
+    {
+      "address": "120 6th Ave West, Twin Falls, ID",
+      "phone": "208-734-5843",
+      "id": "224"
+    },
+    {
+      "address": "2675 S. 3200 W., West Valley, UT",
+      "phone": "801-973-9420",
+      "id": "228"
+    },
+    {
+      "address": "690 River Rd, St George, UT",
+      "phone": "435-634-9297",
+      "id": "229"
+    },
+    {
+      "address": "210 S Main, Parowan, UT",
+      "phone": "435-477-9774",
+      "id": "231"
+    },
+    {
+      "address": "103 UNIVERSITY WEST, Gooding, ID",
+      "phone": "208-934-8820",
+      "id": "232"
+    },
+    {
+      "address": "1605 Cherry Lane, Meridian, ID",
+      "phone": "208-887-6411",
+      "id": "233"
+    },
+    {
+      "address": "521 Coral, Kemmerer, WY",
+      "phone": "307-877-6940",
+      "id": "235"
+    },
+    {
+      "address": "107 S 4th St., Montpelier, ID",
+      "phone": "208-847-2501",
+      "id": "236"
+    },
+    {
+      "address": "435 N Main, Moab, UT",
+      "phone": "435-355-3463",
+      "id": "238"
+    },
+    {
+      "address": "2625 W. Broadway, Idaho Falls, ID",
+      "phone": "208-525-8755",
+      "id": "239"
+    },
+    {
+      "address": "1880 W. Sunset Blvd, St George, UT",
+      "phone": "435-628-3370",
+      "id": "241"
+    },
+    {
+      "address": "1565 West Sunset Blvd, St George, UT",
+      "phone": "435-494-1905",
+      "id": "620"
+    },
+    {
+      "address": "204 S. Main, Cedar City, UT",
+      "phone": "435-586-4717",
+      "id": "245"
+    },
+    {
+      "address": "809 W. 200 N., Cedar City, UT",
+      "phone": "435-586-4737",
+      "id": "244"
+    },
+    {
+      "address": "220 North Airport Road, Cedar City, UT",
+      "phone": "435-867-8715",
+      "id": "362"
+    },
+    {
+      "address": "295 S. Main, Richfield, UT",
+      "phone": "435-896-8881",
+      "id": "246"
+    },
+    {
+      "address": "195 W. Main, Salina, UT",
+      "phone": "435-529-7990",
+      "id": "247"
+    },
+    {
+      "address": "200 N. Main, Huntington, UT",
+      "phone": "435-261-4233",
+      "id": "248"
+    },
+    {
+      "address": "295 E. Main, Price, UT",
+      "phone": "435-580-4707",
+      "id": "249"
+    },
+    {
+      "address": "891 East Main, Price, UT",
+      "phone": "435-201-6844",
+      "id": "319"
+    },
+    {
+      "address": "10 E 2nd St., Soda Springs, ID",
+      "phone": "208-547-2138",
+      "id": "251"
+    },
+    {
+      "address": "352 S. Lincoln, Jerome, ID",
+      "phone": "208-324-1353",
+      "id": "252"
+    },
+    {
+      "address": "425 W. 9000 S., Sandy, UT",
+      "phone": "801-566-3374",
+      "id": "254"
+    },
+    {
+      "address": "412 West 9000 South Sandy Parkway, Sandy, UT",
+      "phone": "801-569-2367",
+      "id": "541"
+    },
+    {
+      "address": "4680 Federal Way, Boise, ID",
+      "phone": "208-331-0183",
+      "id": "255"
+    },
+    {
+      "address": "309 N Main, Springville, UT",
+      "phone": "801-489-8212",
+      "id": "258"
+    },
+    {
+      "address": "285 E. Main, Castle Dale, UT",
+      "phone": "435-627-9266",
+      "id": "260"
+    },
+    {
+      "address": "336 West Hilton Drive, St George, UT",
+      "phone": "435-674-7977",
+      "id": "261"
+    },
+    {
+      "address": "4692 S. 4800 W., West Valley, UT",
+      "phone": "801-957-9499",
+      "id": "262"
+    },
+    {
+      "address": "676 N. Redwood Rd, Salt Lake City, UT",
+      "phone": "801-363-5510",
+      "id": "263"
+    },
+    {
+      "address": "2707 W. 12600 S., Riverton, UT",
+      "phone": "801-254-2070",
+      "id": "264"
+    },
+    {
+      "address": "230 N. Moapa Valley Blvd, Overton, NV",
+      "phone": "702-847-7469",
+      "id": "267"
+    },
+    {
+      "address": "1036 W. 1800 N., Clinton, UT",
+      "phone": "801-776-2379",
+      "id": "269"
+    },
+    {
+      "address": "217 W. Main St., Lovell, WY",
+      "phone": "307-548-2470",
+      "id": "270"
+    },
+    {
+      "address": "622 N. 3rd St., Mccall, ID",
+      "phone": "208-639-1614",
+      "id": "271"
+    },
+    {
+      "address": "655 No. Hwy 414, Mountain View, WY",
+      "phone": "307-288-5837",
+      "id": "274"
+    },
+    {
+      "address": "10223 US Hwy 666, Cortez, CO",
+      "phone": "970-565-3504",
+      "id": "275"
+    },
+    {
+      "address": "3112 S Redwood Rd, West Valley, UT",
+      "phone": "801-973-8810",
+      "id": "277"
+    },
+    {
+      "address": "1509 No. 1750 W., Springville, UT",
+      "phone": "801-489-7224",
+      "id": "279"
+    },
+    {
+      "address": "520 W. Main St., Lehi, UT",
+      "phone": "801-768-8093",
+      "id": "280"
+    },
+    {
+      "address": "1616 E. Hwy 14-16, Gillette, WY",
+      "phone": "307-685-2097",
+      "id": "282"
+    },
+    {
+      "address": "1991 W. 1700 S., Syracuse, UT",
+      "phone": "801-776-5870",
+      "id": "283"
+    },
+    {
+      "address": "350 Front Street, Evanston, WY",
+      "phone": "307-789-1342",
+      "id": "284"
+    },
+    {
+      "address": "514 W. 3900 S., Salt Lake City, UT",
+      "phone": "801-261-5560",
+      "id": "285"
+    },
+    {
+      "address": "2211 N Franklin Boulevard, Nampa, ID",
+      "phone": "208-442-6446",
+      "id": "287"
+    },
+    {
+      "address": "1690 W. Route 66, Flagstaff, AZ",
+      "phone": "928-773-0424",
+      "id": "288"
+    },
+    {
+      "address": "951 w. Hwy 40, Vernal, UT",
+      "phone": "435-565-6437",
+      "id": "289"
+    },
+    {
+      "address": "5700 N Hwy 89, Flagstaff, AZ",
+      "phone": "928-526-3175",
+      "id": "290"
+    },
+    {
+      "address": "1927 S. 3230 W., Salt Lake City, UT",
+      "phone": "801-973-0518",
+      "id": "291"
+    },
+    {
+      "address": "715 N BEELINE HWY, Payson, AZ",
+      "phone": "928-468-1556",
+      "id": "292"
+    },
+    {
+      "address": "500 E. Valley Rd, Torrington, WY",
+      "phone": "307-532-0126",
+      "id": "293"
+    },
+    {
+      "address": "541 W. Finnie Flat Rd., Camp Verde, AZ",
+      "phone": "928-567-7373",
+      "id": "294"
+    },
+    {
+      "address": "3985 W. 7800 S., West Jordan, UT",
+      "phone": "801-282-4173",
+      "id": "295"
+    },
+    {
+      "address": "1108 W. Yellowstone Hwy, Douglas, WY",
+      "phone": "307-358-1140",
+      "id": "296"
+    },
+    {
+      "address": "510 E. Ustick, Caldwell, ID",
+      "phone": "208-454-9433",
+      "id": "298"
+    },
+    {
+      "address": "849 E. Gordon Ave, Layton, UT",
+      "phone": "801-544-5276",
+      "id": "299"
+    },
+    {
+      "address": "1510 E 700 S, Clearfield, UT",
+      "phone": "801-776-3417",
+      "id": "302"
+    },
+    {
+      "address": "1011 E 700 S, Clearfield, UT",
+      "phone": "801-779-0902",
+      "id": "581"
+    },
+    {
+      "address": "709 South State, Clearfield, UT",
+      "phone": "801-774-0851",
+      "id": "303"
+    },
+    {
+      "address": "11415 South 700 East, Draper, UT",
+      "phone": "801-571-5684",
+      "id": "304"
+    },
+    {
+      "address": "1300 East 6855 South, Salt Lake City, UT",
+      "phone": "801-942-3760",
+      "id": "306"
+    },
+    {
+      "address": "686 East 7200 South, Midvale, UT",
+      "phone": "801-255-0203",
+      "id": "307"
+    },
+    {
+      "address": "7360 S Union Park Ave, Midvale, UT",
+      "phone": "801-561-3343",
+      "id": "524"
+    },
+    {
+      "address": "305 West 4500 S, Murray, UT",
+      "phone": "801-261-7450",
+      "id": "543"
+    },
+    {
+      "address": "530 West 4800 South, Murray, UT",
+      "phone": "801-269-0775",
+      "id": "310"
+    },
+    {
+      "address": "1212 West Wall, Ogden, UT",
+      "phone": "801-392-8941",
+      "id": "312"
+    },
+    {
+      "address": "795 So State Street, Orem, UT",
+      "phone": "801-226-8909",
+      "id": "314"
+    },
+    {
+      "address": "1240 South 800 East, Orem, UT",
+      "phone": "801-226-1903",
+      "id": "316"
+    },
+    {
+      "address": "1635 Bonanza Drive, Park City, UT",
+      "phone": "435-645-9436",
+      "id": "317"
+    },
+    {
+      "address": "1410 South University, Provo, UT",
+      "phone": "801-373-2762",
+      "id": "321"
+    },
+    {
+      "address": "2680 S. 2000 E., Salt Lake City, UT",
+      "phone": "801-485-4209",
+      "id": "323"
+    },
+    {
+      "address": "710 East 2700 South, Salt Lake City, UT",
+      "phone": "801-484-8265",
+      "id": "326"
+    },
+    {
+      "address": "206 West North Temple, Salt Lake City, UT",
+      "phone": "801-359-9071",
+      "id": "327"
+    },
+    {
+      "address": "185 South State Street, Salt Lake, UT",
+      "phone": "801-521-4194",
+      "id": "539"
+    },
+    {
+      "address": "310 South 900 East, Salt Lake City, UT",
+      "phone": "801-359-9728",
+      "id": "330"
+    },
+    {
+      "address": "508 East 300 South, Salt Lake City, UT",
+      "phone": "801-532-1845",
+      "id": "328"
+    },
+    {
+      "address": "615 South 200 West, Salt Lake City, UT",
+      "phone": "801-359-9407",
+      "id": "331"
+    },
+    {
+      "address": "414 West 500 South, Salt Lake City, UT",
+      "phone": "801-532-3038",
+      "id": "438"
+    },
+    {
+      "address": "1270 South Main, Salt Lake City, UT",
+      "phone": "801-355-0222",
+      "id": "332"
+    },
+    {
+      "address": "10419 South 2700 West, South Jordan, UT",
+      "phone": "801-254-7981",
+      "id": "333"
+    },
+    {
+      "address": "85 West 800 North, Orem, UT",
+      "phone": "801-225-7675",
+      "id": "339"
+    },
+    {
+      "address": "3495 W 5600 S, Roy, UT",
+      "phone": "801-825-3776",
+      "id": "340"
+    },
+    {
+      "address": "985 S. Highway 191, Moab, UT",
+      "phone": "435-355-3573",
+      "id": "341"
+    },
+    {
+      "address": "14 N Sandhill Blvd, Mesquite, NV",
+      "phone": "702-703-2098",
+      "id": "342"
+    },
+    {
+      "address": "1540 E Overland Road, Meridian, ID",
+      "phone": "208-887-7964",
+      "id": "343"
+    },
+    {
+      "address": "1242 E BUNDAGE LANE, Sheridan, WY",
+      "phone": "307-672-5347",
+      "id": "344"
+    },
+    {
+      "address": "59 Uinta Drive, Green River, WY",
+      "phone": "307-875-2997",
+      "id": "345"
+    },
+    {
+      "address": "819 E Coulter, Powell, WY",
+      "phone": "307-754-5855",
+      "id": "346"
+    },
+    {
+      "address": "2100 E Center Street, Pocatello, ID",
+      "phone": "208-233-5205",
+      "id": "347"
+    },
+    {
+      "address": "444 EAST HIGHWAY 91, Cedar City, UT",
+      "phone": "435-867-1187",
+      "id": "348"
+    },
+    {
+      "address": "390 East 1700 South, Clearfield, UT",
+      "phone": "801-525-1878",
+      "id": "349"
+    },
+    {
+      "address": "1060 South HWY 89, CHINO VALLEY, AZ",
+      "phone": "928-636-3025",
+      "id": "350"
+    },
+    {
+      "address": "4604 W. 12600 S., Herriman, UT",
+      "phone": "801-254-3649",
+      "id": "352"
+    },
+    {
+      "address": "Main & 126th, Herriman, UT",
+      "phone": "801-302-9009",
+      "id": "588"
+    },
+    {
+      "address": "1005 S HWY 89, Jackson, WY",
+      "phone": "307-734-9453",
+      "id": "353"
+    },
+    {
+      "address": "318 Scott Street, Rupert, ID",
+      "phone": "208-436-9702",
+      "id": "354"
+    },
+    {
+      "address": "391 Washington, Afton, WY",
+      "phone": "307-392-4841",
+      "id": "355"
+    },
+    {
+      "address": "2612 Desert Foothills Blvd., Bullhead City, AZ",
+      "phone": "928-754-2600",
+      "id": "356"
+    },
+    {
+      "address": "2714 W. 9000 S., West Jordan, UT",
+      "phone": "801-569-0103",
+      "id": "357"
+    },
+    {
+      "address": "3569 North Thanksgiving Way, Lehi, UT",
+      "phone": "801-768-2764",
+      "id": "358"
+    },
+    {
+      "address": "2241 SOUTH HWY 89, PERRY, UT",
+      "phone": "435-723-7734",
+      "id": "359"
+    },
+    {
+      "address": "1680 South Redwood Road, Salt Lake City, UT",
+      "phone": "801-975-0212",
+      "id": "360"
+    },
+    {
+      "address": "435 NORTH MAIN, Heber City, UT",
+      "phone": "435-654-4421",
+      "id": "361"
+    },
+    {
+      "address": "2321 Big Horn Avenue, Cody, WY",
+      "phone": "307-587-8531",
+      "id": "363"
+    },
+    {
+      "address": "855 East Alameda, Pocatello, ID",
+      "phone": "208-232-0601",
+      "id": "364"
+    },
+    {
+      "address": "246 East 2000 North, Tooele, UT",
+      "phone": "435-882-0407",
+      "id": "365"
+    },
+    {
+      "address": "275 North 16th Street, Payette, ID",
+      "phone": "208-642-5002",
+      "id": "367"
+    },
+    {
+      "address": "3090 South Main, Nibley, UT",
+      "phone": "435-787-2151",
+      "id": "368"
+    },
+    {
+      "address": "985 West 300 North, Clearfield, UT",
+      "phone": "801-776-5048",
+      "id": "369"
+    },
+    {
+      "address": "2078 East Riverside, St George, UT",
+      "phone": "435-251-9851",
+      "id": "370"
+    },
+    {
+      "address": "1025 East 200 North, Roosevelt, UT",
+      "phone": "435-631-2988",
+      "id": "371"
+    },
+    {
+      "address": "1035 West Main Street, Tremonton, UT",
+      "phone": "435-214-4455",
+      "id": "372"
+    },
+    {
+      "address": "10 S. 200 W., Richmond, UT",
+      "phone": "435-258-5120",
+      "id": "373"
+    },
+    {
+      "address": "5031 W. HWY 68, Golden Valley, AZ",
+      "phone": "928-565-4242",
+      "id": "376"
+    },
+    {
+      "address": "725 East Main Street, Santaquin, UT",
+      "phone": "801-754-3076",
+      "id": "377"
+    },
+    {
+      "address": "509 North 2000 West, Marriott-Slaterville, UT",
+      "phone": "801-732-2120",
+      "id": "378"
+    },
+    {
+      "address": "9217 North Ranches Parkway, Eagle Mountain, UT",
+      "phone": "801-618-1331",
+      "id": "380"
+    },
+    {
+      "address": "1455 E. 3000 N., LAYTON, UT",
+      "phone": "801-771-7131",
+      "id": "381"
+    },
+    {
+      "address": "6168 South Cloverdale Road, Boise, ID",
+      "phone": "208-562-1962",
+      "id": "383"
+    },
+    {
+      "address": "825 East Main Street, Grantsville, UT",
+      "phone": "435-884-6044",
+      "id": "384"
+    },
+    {
+      "address": "1663 N Ammon Road, Idaho Falls, ID",
+      "phone": "208-524-9151",
+      "id": "385"
+    },
+    {
+      "address": "800 West Center Street, North Salt Lake, UT",
+      "phone": "801-936-5573",
+      "id": "386"
+    },
+    {
+      "address": "24 N Redwood Road, North Salt Lake, UT",
+      "phone": "801-936-1132",
+      "id": "625"
+    },
+    {
+      "address": "2110 North Park Drive, WINSLOW, AZ",
+      "phone": "928-289-6045",
+      "id": "387"
+    },
+    {
+      "address": "901 Penrod Road, Show Low, AZ",
+      "phone": "928-532-1803",
+      "id": "388"
+    },
+    {
+      "address": "135 East Main Street, Lander, WY",
+      "phone": "307-335-8191",
+      "id": "389"
+    },
+    {
+      "address": "980 N. HOODOO WAY, Washington, UT",
+      "phone": "435-251-8528",
+      "id": "390"
+    },
+    {
+      "address": "1650 South Street, Wheatland, WY",
+      "phone": "307-322-3663",
+      "id": "391"
+    },
+    {
+      "address": "701 North Overland, Burley, ID",
+      "phone": "208-678-6167",
+      "id": "394"
+    },
+    {
+      "address": "145 S Woodruff, Idaho Falls, ID",
+      "phone": "208-529-2834",
+      "id": "396"
+    },
+    {
+      "address": "957 West Shepard Lane, Farmington, UT",
+      "phone": "801-451-9160",
+      "id": "397"
+    },
+    {
+      "address": "701 Tunnel Road, Page, AZ",
+      "phone": "928-645-2696",
+      "id": "398"
+    },
+    {
+      "address": "833 North 1200 West, Orem, UT",
+      "phone": "801-225-5350",
+      "id": "399"
+    },
+    {
+      "address": "1103 East Highway 50, Fruita, CO",
+      "phone": "970-858-5346",
+      "id": "400"
+    },
+    {
+      "address": "1344 North Prescott Country Club, Prescott, AZ",
+      "phone": "928-759-7334",
+      "id": "401"
+    },
+    {
+      "address": "55 North 3400 West, Hurricane, UT",
+      "phone": "435-635-6838",
+      "id": "402"
+    },
+    {
+      "address": "3202 W. Ustick RD, Meridian, ID",
+      "phone": "208-884-8744",
+      "id": "405"
+    },
+    {
+      "address": "3540 Sunnyside Road, AMMON, ID",
+      "phone": "208-528-4260",
+      "id": "406"
+    },
+    {
+      "address": "2503 South 1500 East, Naples, UT",
+      "phone": "435-731-9256",
+      "id": "408"
+    },
+    {
+      "address": "1451 College Parkway, Carson City, NV",
+      "phone": "404.4 Miles Away",
+      "id": "409"
+    },
+    {
+      "address": "1630 E McMillan Road, MERIDIAN, ID",
+      "phone": "208-888-2110",
+      "id": "410"
+    },
+    {
+      "address": "5153 South Adams Ave., Washington Terriace, UT",
+      "phone": "801-475-5177",
+      "id": "411"
+    },
+    {
+      "address": "245 Riverboat Road, Dayton, NV",
+      "phone": "775-246-0954",
+      "id": "412"
+    },
+    {
+      "address": "11792 SOUTH 3600 WEST, SOUTH JORDAN, UT",
+      "phone": "801-446-7695",
+      "id": "413"
+    },
+    {
+      "address": "2815 WEST 4000 SOUTH, ROY, UT",
+      "phone": "801-732-2615",
+      "id": "414"
+    },
+    {
+      "address": "689 Washington Blvd., Ogden, UT",
+      "phone": "801-392-0327",
+      "id": "415"
+    },
+    {
+      "address": "850 West Williams Avenue, Fallon, NV",
+      "phone": "775-629-5434",
+      "id": "416"
+    },
+    {
+      "address": "2948 F Road, Grand Junction, CO",
+      "phone": "970-243-1144",
+      "id": "418"
+    },
+    {
+      "address": "3576 GLASSFORD HILLS RD, Prescott , AZ",
+      "phone": "928-772-1126",
+      "id": "419"
+    },
+    {
+      "address": "2678 South 5600 West, West Valley, UT",
+      "phone": "801-966-9893",
+      "id": "420"
+    },
+    {
+      "address": "10495 Stead Blvd, Reno, NV",
+      "phone": "775-677-7988",
+      "id": "421"
+    },
+    {
+      "address": "74 East US Highway 16, Buffalo, WY",
+      "phone": "307-684-2346",
+      "id": "422"
+    },
+    {
+      "address": "425 South Redwood Road, Salt Lake City, UT",
+      "phone": "801-972-1997",
+      "id": "423"
+    },
+    {
+      "address": "500 North Whitley, FRUITLAND, ID",
+      "phone": "208-452-2851",
+      "id": "425"
+    },
+    {
+      "address": "140 Gardenia Drive, Cheyenne, WY",
+      "phone": "307-778-7714",
+      "id": "426"
+    },
+    {
+      "address": "995 Ambassador Drive, Reno, NV",
+      "phone": "775-787-2537",
+      "id": "427"
+    },
+    {
+      "address": "1601 E Lincoln Ave., Sunnyside, WA",
+      "phone": "509-837-2073",
+      "id": "428"
+    },
+    {
+      "address": "17 West Hwy 40, ROOSEVELT, UT",
+      "phone": "435-722-3589",
+      "id": "429"
+    },
+    {
+      "address": "4923 Cleveland Blvd, CALDWELL, ID",
+      "phone": "208-453-1890",
+      "id": "430"
+    },
+    {
+      "address": "6510 South Fort Apache Rd, Las Vegas, NV",
+      "phone": "725-218-1559",
+      "id": "434"
+    },
+    {
+      "address": "460 North State Street, LAVERKIN, UT",
+      "phone": "435-635-4658",
+      "id": "435"
+    },
+    {
+      "address": "3010 South Nevada Hwy 160, PAHRUMP, NV",
+      "phone": "775-751-2615",
+      "id": "437"
+    },
+    {
+      "address": "1520 Campbell St., BAKER CITY, OR",
+      "phone": "541-523-1640",
+      "id": "439"
+    },
+    {
+      "address": "402 West Goldfield Ave., Yerington, NV",
+      "phone": "775-463-7765",
+      "id": "440"
+    },
+    {
+      "address": "5505 ROAD 68, PASCO, WA",
+      "phone": "509-547-5558",
+      "id": "441"
+    },
+    {
+      "address": "920 W. 36th Street, SCOTTSBLUFF, NE",
+      "phone": "308-220-0594",
+      "id": "442"
+    },
+    {
+      "address": "15 PANTHER DR, RENO, NV",
+      "phone": "775-322-2295",
+      "id": "443"
+    },
+    {
+      "address": "265 EAST CENTER STREET (HWY 491), MONTICELLO, UT",
+      "phone": "435-587-3238",
+      "id": "444"
+    },
+    {
+      "address": "4555 West White Mountain Blvd, PINETOP, AZ",
+      "phone": "928-288-5324",
+      "id": "445"
+    },
+    {
+      "address": "4206 E Day Mt Spokane Rd, Mead, WA",
+      "phone": "509-464-0167",
+      "id": "447"
+    },
+    {
+      "address": "3520 KEENE RD, Richland, WA",
+      "phone": "509-374-3936",
+      "id": "448"
+    },
+    {
+      "address": "3260 SOUTH WEST TEMPLE, SALT LAKE CITY, UT",
+      "phone": "801-467-6012",
+      "id": "449"
+    },
+    {
+      "address": "3330 S 500 W, South Salt Lake, UT",
+      "phone": "385-715-4843",
+      "id": "627"
+    },
+    {
+      "address": "5737 Jones Blvd, Las Vegas, NV",
+      "phone": "702-233-9921",
+      "id": "451"
+    },
+    {
+      "address": "5610 WEST 5400 SOUTH, WEST VALLEY CITY, UT",
+      "phone": "801-968-4596",
+      "id": "452"
+    },
+    {
+      "address": "775 South Broad Street, Battle Mountain, NV",
+      "phone": "775-635-8313",
+      "id": "453"
+    },
+    {
+      "address": "2827 First Street, Cheney, WA",
+      "phone": "509-559-5207",
+      "id": "454"
+    },
+    {
+      "address": "10490 Bermuda RD, LAS VEGAS, NV",
+      "phone": "702-433-3707",
+      "id": "456"
+    },
+    {
+      "address": "404 THAIN ROAD, LEWISTON, ID",
+      "phone": "208-746-3862",
+      "id": "457"
+    },
+    {
+      "address": "500 West Main Street, NEWCASTLE, WY",
+      "phone": "307-459-0284",
+      "id": "458"
+    },
+    {
+      "address": "705 South State Street, PLEASANT GROVE, UT",
+      "phone": "801-785-1566",
+      "id": "459"
+    },
+    {
+      "address": "1651 Highway 88, Minden, NV",
+      "phone": "775-782-5223",
+      "id": "460"
+    },
+    {
+      "address": "4098 West 1975 North, Plain City, UT",
+      "phone": "801-731-7312",
+      "id": "461"
+    },
+    {
+      "address": "870 West Center Street, Provo, UT",
+      "phone": "801-343-7083",
+      "id": "462"
+    },
+    {
+      "address": "101 Highway 92, Delta, CO",
+      "phone": "970-874-7025",
+      "id": "463"
+    },
+    {
+      "address": "11243 W. State St, Star , ID",
+      "phone": "208-898-4294",
+      "id": "465"
+    },
+    {
+      "address": "4190 East Butler Avenue, Flagstaff, AZ",
+      "phone": "928-526-7703",
+      "id": "466"
+    },
+    {
+      "address": "3505 North Road 68, Pasco, WA",
+      "phone": "509-545-0130",
+      "id": "468"
+    },
+    {
+      "address": "2810 Washington Blvd, Ogden, UT",
+      "phone": "801-627-8025",
+      "id": "469"
+    },
+    {
+      "address": "12127 West Franklin Road, Boise, ID",
+      "phone": "208-377-0135",
+      "id": "470"
+    },
+    {
+      "address": "3480 EAST ANDY DIVINE AVE, KINGMAN, AZ",
+      "phone": "928-692-9500",
+      "id": "471"
+    },
+    {
+      "address": "717 North Evergreen Road, Spokane Valley, WA",
+      "phone": "509-891-7743",
+      "id": "473"
+    },
+    {
+      "address": "1445 S. Gustin Road, Salt Lake City, UT",
+      "phone": "801-975-6527",
+      "id": "474"
+    },
+    {
+      "address": "1223 East Prater Way, Sparks, NV",
+      "phone": "775-355-6715",
+      "id": "475"
+    },
+    {
+      "address": "4301 S. Douglas, Gillette, WY",
+      "phone": "307-682-2092",
+      "id": "476"
+    },
+    {
+      "address": "11795 Veterans Parkway, Reno, NV",
+      "phone": "775-853-1814",
+      "id": "477"
+    },
+    {
+      "address": "1301 Navajo Blvd., Holbrook, AZ",
+      "phone": "928-288-5312",
+      "id": "478"
+    },
+    {
+      "address": "3991 LIMELIGHT, Castle Rock, CO",
+      "phone": "303-660-1214",
+      "id": "479"
+    },
+    {
+      "address": "1206 Main Street, Fort Morgan, CO",
+      "phone": "970-867-2304",
+      "id": "480"
+    },
+    {
+      "address": "1874 West 2700 North, Farr West, UT",
+      "phone": "801-786-2127",
+      "id": "481"
+    },
+    {
+      "address": "2902 D Road, Grand Junction, CO",
+      "phone": "970-243-4016",
+      "id": "482"
+    },
+    {
+      "address": "2577 South 1900 West, West Haven, UT",
+      "phone": "801-731-8597",
+      "id": "484"
+    },
+    {
+      "address": "3080 South Five Mile Road, Boise, ID",
+      "phone": "208-362-3737",
+      "id": "485"
+    },
+    {
+      "address": "1349 East 1450 South, St George, UT",
+      "phone": "435-673-9855",
+      "id": "487"
+    },
+    {
+      "address": "14814 S. Minuteman Dr., Draper, UT",
+      "phone": "801-572-9210",
+      "id": "488"
+    },
+    {
+      "address": "4564 Yellowstone Ave., Chubbuck, ID",
+      "phone": "208-237-0277",
+      "id": "489"
+    },
+    {
+      "address": "Undefined, Aurora, CO",
+      "phone": "303-680-6605",
+      "id": "490"
+    },
+    {
+      "address": "6415 North Ramsey Road, Coeur d Alene, ID",
+      "phone": "208-665-0900",
+      "id": "491"
+    },
+    {
+      "address": "8838 Blue Lakes Blvd. North, Twin Falls , ID",
+      "phone": "208-733-1912",
+      "id": "492"
+    },
+    {
+      "address": "44 North US Highway 6, Delta, UT",
+      "phone": "435-406-3328",
+      "id": "493"
+    },
+    {
+      "address": "2477 PETERSON ROAD, Colorado Springs, CO",
+      "phone": "719-574-8043",
+      "id": "494"
+    },
+    {
+      "address": "Undefined, Aurora, CO",
+      "phone": "303-366-2662",
+      "id": "495"
+    },
+    {
+      "address": "455 State Street, Cortez, CO",
+      "phone": "970-565-2409",
+      "id": "497"
+    },
+    {
+      "address": "730 South Main Street, Snowflake, AZ",
+      "phone": "928-536-7511",
+      "id": "499"
+    },
+    {
+      "address": "2696 Highway 50, Grand Junction, CO",
+      "phone": "970-245-0016",
+      "id": "500"
+    },
+    {
+      "address": "1207 W Highway 20, Chadron, NE",
+      "phone": "308-432-6742",
+      "id": "501"
+    },
+    {
+      "address": "1640 West 3rd Street, Alliance, NE",
+      "phone": "308-762-1109",
+      "id": "502"
+    },
+    {
+      "address": "2650 South Orchard St., Boise, ID",
+      "phone": "208-336-1520",
+      "id": "503"
+    },
+    {
+      "address": "4314 West Clearwater Avenue, Kennewick, WA",
+      "phone": "509-737-0420",
+      "id": "504"
+    },
+    {
+      "address": "859 West Main Street, Rexburg, ID",
+      "phone": "208-356-3650",
+      "id": "505"
+    },
+    {
+      "address": "675 W. Hyde Park Lane, Hyde Park, UT",
+      "phone": "435-563-8668",
+      "id": "506"
+    },
+    {
+      "address": "888 West 200 North, Kaysville, UT",
+      "phone": "801-593-1799",
+      "id": "507"
+    },
+    {
+      "address": "6527 N Highway 36, Stansbury, UT",
+      "phone": "435-843-4452",
+      "id": "508"
+    },
+    {
+      "address": "2520 Mt City Hwy, Elko, NV",
+      "phone": "775-753-7688",
+      "id": "509"
+    },
+    {
+      "address": "1111 Idaho Street, Elko, NV",
+      "phone": "775-777-9603",
+      "id": "510"
+    },
+    {
+      "address": "325 South State, Provo, UT",
+      "phone": "801-373-0382",
+      "id": "511"
+    },
+    {
+      "address": "1209 Main St, Burley, ID",
+      "phone": "208-678-1691",
+      "id": "512"
+    },
+    {
+      "address": "1843 North Main Street, Sunset, UT",
+      "phone": "801-825-3888",
+      "id": "513"
+    },
+    {
+      "address": "1078 East State Road, American Fork, UT",
+      "phone": "801-756-1539",
+      "id": "516"
+    },
+    {
+      "address": "24 South Geneva Road, Vineyard, UT",
+      "phone": "385-203-0105",
+      "id": "517"
+    },
+    {
+      "address": "655 East 9400 South, Sandy, UT",
+      "phone": "801-566-0180",
+      "id": "518"
+    },
+    {
+      "address": "425 Hayden Avenue, Hayden, ID",
+      "phone": "208-772-2749",
+      "id": "519"
+    },
+    {
+      "address": "651 SE Frontage Road, Fort Collins, CO",
+      "phone": "970-493-2627",
+      "id": "520"
+    },
+    {
+      "address": "8561 W. State, Boise, ID",
+      "phone": "208-853-1226",
+      "id": "6"
+    },
+    {
+      "address": "8561 W State, Boise, ID",
+      "phone": "208-853-1226",
+      "id": "633"
+    },
+    {
+      "address": "10425 S. 1300 W., South Jordan, UT",
+      "phone": "801-253-1582",
+      "id": "223"
+    },
+    {
+      "address": "10425 South 1300 West, South Jordan, UT",
+      "phone": "385-343-5508",
+      "id": "498"
+    },
+    {
+      "address": "3249 \"F\" Road, Clifton, CO",
+      "phone": "970-434-3887",
+      "id": "417"
+    },
+    {
+      "address": "3249 \"F\" Road, Clifton, CO",
+      "phone": "970-434-3887",
+      "id": "424"
+    },
+    {
+      "address": "995 E St George Blvd., St George, UT",
+      "phone": "435-628-4417",
+      "id": "521"
+    },
+    {
+      "address": "2516 West Karcher Road, Nampa, ID",
+      "phone": "208-463-7756",
+      "id": "522"
+    },
+    {
+      "address": "1550 N State Street, Provo, UT",
+      "phone": "801-356-0031",
+      "id": "523"
+    },
+    {
+      "address": "13480 East Mississippi Avenue, Aurora, CO",
+      "phone": "303-369-7635",
+      "id": "525"
+    },
+    {
+      "address": "304 S Main Street, Logan, UT",
+      "phone": "435-752-4470",
+      "id": "526"
+    },
+    {
+      "address": "303 S MAIN STREET, Logan, UT",
+      "phone": "435-753-9357",
+      "id": "603"
+    },
+    {
+      "address": "2577 South Weber Drive, South Weber, UT",
+      "phone": "801-479-7918",
+      "id": "527"
+    },
+    {
+      "address": "3315 North College Drive, Cheyenne, WY",
+      "phone": "307-632-2316",
+      "id": "528"
+    },
+    {
+      "address": "117 Boyd Kennedy Rd, Spring Creek, NV",
+      "phone": "775-777-3890",
+      "id": "530"
+    },
+    {
+      "address": "1033 W 200 N, Logan, UT",
+      "phone": "435-753-9543",
+      "id": "531"
+    },
+    {
+      "address": "748 E. Main Street, Wellsville, UT",
+      "phone": "435-245-3184",
+      "id": "533"
+    },
+    {
+      "address": "305 South 1st East, St. Anthony, ID",
+      "phone": "208-425-1675",
+      "id": "534"
+    },
+    {
+      "address": "89 North Main St, Ephraim, UT",
+      "phone": "435-657-5507",
+      "id": "536"
+    },
+    {
+      "address": "1290 S. Wallace Road, SaltLake, UT",
+      "phone": "801-973-1182",
+      "id": "537"
+    },
+    {
+      "address": "965 South HWY 99, Fillmore, UT",
+      "phone": "435-743-7511",
+      "id": "538"
+    },
+    {
+      "address": "8810 Pecos Street, Thornton, CO",
+      "phone": "303-426-7156",
+      "id": "540"
+    },
+    {
+      "address": "1265 West Parrish Lane, Centerville, UT",
+      "phone": "801-292-2771",
+      "id": "542"
+    },
+    {
+      "address": "11160 Colorado Blvd., Thornton, CO",
+      "phone": "303-451-0292",
+      "id": "544"
+    },
+    {
+      "address": "Undefined, Cottonwood, AZ",
+      "phone": "928-649-0713",
+      "id": "545"
+    },
+    {
+      "address": "899 W Riverdale Road, Riverdale, UT",
+      "phone": "801-392-2056",
+      "id": "546"
+    },
+    {
+      "address": "Hwy 26 Poison Spider Rd, Mills, WY",
+      "phone": "307-237-0886",
+      "id": "547"
+    },
+    {
+      "address": "12095 Ustick RD, Boise, ID",
+      "phone": "208-375-1202",
+      "id": "548"
+    },
+    {
+      "address": "3755 Chambers Road, Aurora, CO",
+      "phone": "303-371-1438",
+      "id": "549"
+    },
+    {
+      "address": "7812 S Highlands Loops Road, West Jordan, UT",
+      "phone": "801-282-4303",
+      "id": "550"
+    },
+    {
+      "address": "103 Shannon Drive, Nampa, ID",
+      "phone": "208-442-9193",
+      "id": "551"
+    },
+    {
+      "address": "1624 Haines Avenue, Rapid City, SD",
+      "phone": "605-593-0878",
+      "id": "552"
+    },
+    {
+      "address": "605 W Haskell St., Winnemucca, NV",
+      "phone": "775-623-9554",
+      "id": "553"
+    },
+    {
+      "address": "1395 W 1600 N, Orem, UT",
+      "phone": "801-221-9445",
+      "id": "554"
+    },
+    {
+      "address": "1298 West 7800 South, West Jordan, UT",
+      "phone": "801-561-0784",
+      "id": "555"
+    },
+    {
+      "address": "7148 S Bingham Junction, Midvale, UT",
+      "phone": "801-255-2303",
+      "id": "556"
+    },
+    {
+      "address": "1706 South Greeley Highway, Cheyenne, WY",
+      "phone": "307-632-2144",
+      "id": "557"
+    },
+    {
+      "address": "S Regal & E 44 Regal, Spokane City, WA",
+      "phone": "509-443-2413",
+      "id": "558"
+    },
+    {
+      "address": "9009 E Montgomery Avenue, Spokane Valley, WA",
+      "phone": "509-922-6126",
+      "id": "559"
+    },
+    {
+      "address": "3922 Highway 50 East, CARSON CITY, NV",
+      "phone": "775-885-2700",
+      "id": "560"
+    },
+    {
+      "address": "13551 S 200 W, Draper, UT",
+      "phone": "801-571-1438",
+      "id": "561"
+    },
+    {
+      "address": "650 Whipple Street, Prescott, AZ",
+      "phone": "928-445-0887",
+      "id": "562"
+    },
+    {
+      "address": "57 E. Franklin Road, Meridian, ID",
+      "phone": "208-888-8754",
+      "id": "563"
+    },
+    {
+      "address": "480 S Meadows Pkwy, Reno, NV",
+      "phone": "775-409-3423",
+      "id": "564"
+    },
+    {
+      "address": "7353 West Victory Road, Boise, ID",
+      "phone": "208-562-6304",
+      "id": "565"
+    },
+    {
+      "address": "Undefined, Colorado Springs, CO",
+      "phone": "719-471-3374",
+      "id": "566"
+    },
+    {
+      "address": "2702 North Sullivan Road, Spokane Valley, WA",
+      "phone": "509-928-0333",
+      "id": "567"
+    },
+    {
+      "address": "385 E Warm Springs Rd, Las Vegas, NV",
+      "phone": "702-898-0752",
+      "id": "568"
+    },
+    {
+      "address": "1391 N McCarran Blvd, Reno, NV",
+      "phone": "775-432-1277",
+      "id": "569"
+    },
+    {
+      "address": "1019 East Francis Avenue, Spokane, WA",
+      "phone": "509-487-2113",
+      "id": "570"
+    },
+    {
+      "address": "525 East North Street, Rapid City, SD",
+      "phone": "605-791-0190",
+      "id": "571"
+    },
+    {
+      "address": "10577 W Fairview Ave, Boise, ID",
+      "phone": "208-322-5980",
+      "id": "572"
+    },
+    {
+      "address": "13962 S Redwood Road, Bluffdale, UT",
+      "phone": "801-253-0455",
+      "id": "573"
+    },
+    {
+      "address": "Undefined, Ogden, UT",
+      "phone": "801-782-5361",
+      "id": "574"
+    },
+    {
+      "address": "105 South State Street, Rigby, ID",
+      "phone": "208-745-9076",
+      "id": "575"
+    },
+    {
+      "address": "2175 South Redwood Road, West Valley, UT",
+      "phone": "801-972-7023",
+      "id": "576"
+    },
+    {
+      "address": "425 South 6th, Thermopolis, WY",
+      "phone": "307-439-1800",
+      "id": "577"
+    },
+    {
+      "address": "1520 W Sunnyside Road, Idaho Falls, ID",
+      "phone": "208-529-2053",
+      "id": "578"
+    },
+    {
+      "address": "21800 East Quincy Avenue, Aurora, CO",
+      "phone": "303-680-1054",
+      "id": "579"
+    },
+    {
+      "address": "1075 South 1100 West, LEHI, UT",
+      "phone": "801-768-0564",
+      "id": "580"
+    },
+    {
+      "address": "GLENDALE & ROCK (TEMP), Sparks, NV",
+      "phone": "775-499-5559",
+      "id": "583"
+    },
+    {
+      "address": "1216 S Bluff Street, St George, UT",
+      "phone": "435-628-1078",
+      "id": "585"
+    },
+    {
+      "address": "6475 S Decatur Blvd, Las Vegas, NV",
+      "phone": "702-979-1276",
+      "id": "587"
+    },
+    {
+      "address": "Ring Road & Redwood, Saratoga Springs, UT",
+      "phone": "801-768-4057",
+      "id": "589"
+    },
+    {
+      "address": "4th & Keystone, Reno, NV",
+      "phone": "775-384-3048",
+      "id": "590"
+    },
+    {
+      "address": "SUNSET & HAYFORD, Airway Heights, WA",
+      "phone": "509-244-8857",
+      "id": "592"
+    },
+    {
+      "address": "13400 SOUTH 4000 WEST, Riverton, UT",
+      "phone": "801-254-1355",
+      "id": "593"
+    },
+    {
+      "address": "15 NORTH STATE STREET, Hurricane, UT",
+      "phone": "435-635-1613",
+      "id": "594"
+    },
+    {
+      "address": "720 NORTH ILLINOIS, Caldwell, ID",
+      "phone": "208-454-1463",
+      "id": "595"
+    },
+    {
+      "address": "5100 EAST 2500 NORTH, Eden, UT",
+      "phone": "801-745-3800",
+      "id": "598"
+    },
+    {
+      "address": "160 N MAIN, Thayne, WY",
+      "phone": "307-200-2974",
+      "id": "599"
+    },
+    {
+      "address": "784 W WICKENBURG WAY, Wickenburg, AZ",
+      "phone": "928-684-6870",
+      "id": "600"
+    },
+    {
+      "address": "2050 N 3600 W, Lehi, UT",
+      "phone": "801-438-6039",
+      "id": "601"
+    },
+    {
+      "address": "2291 HANCOCK EXPRESSWAY, Colorado Springs, CO",
+      "phone": "719-473-9357",
+      "id": "602"
+    },
+    {
+      "address": "790 E 1400 N, Logan, UT",
+      "phone": "435-752-5442",
+      "id": "604"
+    },
+    {
+      "address": "2495 N MAIN STREET, North Logan, UT",
+      "phone": "435-752-0296",
+      "id": "605"
+    },
+    {
+      "address": "150 WEST LEGACY DRIVE, Franklin, ID",
+      "phone": "208-646-2134",
+      "id": "606"
+    },
+    {
+      "address": "5992 W Pointe Parkway, Post Falls, ID",
+      "phone": "208-777-0437",
+      "id": "607"
+    },
+    {
+      "address": "295 E 507491 Black Forest Rd COLORADO SP, Colorado Springs, CO",
+      "phone": "719-602-2436",
+      "id": "608"
+    },
+    {
+      "address": "107 LAURA COURT, Dacono, CO",
+      "phone": "303-833-0591",
+      "id": "609"
+    },
+    {
+      "address": "863 E WINNEMUCCA BLVD, Winnemucca, NV",
+      "phone": "775-625-2467",
+      "id": "610"
+    },
+    {
+      "address": "7700 Los Volcanes Rd, Albuquerque, NM",
+      "phone": "505-355-1802",
+      "id": "611"
+    },
+    {
+      "address": "9701 Bluewater Rd NW, Albuquerque, NM",
+      "phone": "505-355-1771",
+      "id": "639"
+    },
+    {
+      "address": "1675 WEST 1100 SOUTH, PERRY, UT",
+      "phone": "435-723-7086",
+      "id": "612"
+    },
+    {
+      "address": "19 E ERMINA AVE, Spokane, WA",
+      "phone": "509-325-7155",
+      "id": "613"
+    },
+    {
+      "address": "5525 NORTH GOVERNMENT WAY, Coeur d' Alene, ID",
+      "phone": "385-419-7144",
+      "id": "614"
+    },
+    {
+      "address": "1515 E FAIRVIEW AVE, Meridian, ID",
+      "phone": "208-888-8012",
+      "id": "615"
+    },
+    {
+      "address": "1140 N Townsend Ave., Montrose, CO",
+      "phone": "970-323-4234",
+      "id": "616"
+    },
+    {
+      "address": "68 NORTH GRAYSON PKWY, Blanding, UT",
+      "phone": "385-259-2540",
+      "id": "617"
+    },
+    {
+      "address": "3737 PRINCETON DR. NE, Albuquerque, NM",
+      "phone": "505-881-0696",
+      "id": "618"
+    },
+    {
+      "address": "5001 JEFFERSON ST NE, Albuquerque, NM",
+      "phone": "505-881-0150",
+      "id": "619"
+    },
+    {
+      "address": "650 Juan Tabo Blvd NE, Albuquerque, NM",
+      "phone": "505-294-3093",
+      "id": "621"
+    },
+    {
+      "address": "1401 WYOMING BLVD NE, Albuquerque, NM",
+      "phone": "505-355-1384",
+      "id": "622"
+    },
+    {
+      "address": "19 N MAIN STREET, Gunnison, UT",
+      "phone": "435-359-1993",
+      "id": "623"
+    },
+    {
+      "address": "1547 S 1600 W, Mapleton, UT",
+      "phone": "385-401-0240",
+      "id": "624"
+    },
+    {
+      "address": "4100 S 6000 W, West Valley, UT",
+      "phone": "385-715-4813",
+      "id": "626"
+    },
+    {
+      "address": "Hwy 41 & E Mullan Ave, Post Falls, ID",
+      "phone": "208-278-2477",
+      "id": "629"
+    },
+    {
+      "address": "296 East 50 South, Malad, ID",
+      "phone": "208-600-0758",
+      "id": "630"
+    },
+    {
+      "address": "5645 W Amelia Earhart Dr, Salt Lake City, UT",
+      "phone": "385-386-3087",
+      "id": "631"
+    },
+    {
+      "address": "1405 SOUTH MAIN, Cedar City, UT",
+      "phone": "435-383-5678",
+      "id": "635"
+    },
+    {
+      "address": "260 EAST INDUSTRIAL PARK DRIVE, Salina, UT",
+      "phone": "385-401-4810",
+      "id": "637"
+    },
+    {
+      "address": "1915 MENAUL BLVD, ALBUQUERQUE, NM",
+      "phone": "505-910-4983",
+      "id": "638"
+    },
+    {
+      "address": "1332 W 12th St, Marriott-Slaterville, UT",
+      "phone": "385-492-0407",
+      "id": "644"
+    },
+    {
+      "address": "3434 S. 5TH AVE, POCATELLO, ID",
+      "phone": "208-417-1275",
+      "id": "651"
+    }
+  ]
+}
