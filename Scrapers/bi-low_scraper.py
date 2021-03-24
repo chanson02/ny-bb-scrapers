@@ -22,7 +22,7 @@ chain = {"name": "BI-LO", "stores": []}
 
 with open("../postals.json", "r") as f:
     postals = json.load(f)["Postal Codes"]
-
+postals = [i for i in range(29592, 29700)]
 
 search_bar = driver.find_element_by_id("txtStoreQuery")
 for postal in postals:
