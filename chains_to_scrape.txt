@@ -4,7 +4,7 @@
 ? BI-LO |Banned| |Too fast|
 ! Lowe's Market
 ! Market Choice
-Aldi
+|No ID| Aldi
 ! Dollar General #split
 ! Dollar Tree
 ! Family Dollar #split
