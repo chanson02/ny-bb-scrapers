@@ -1,0 +1,60 @@
+{
+  "name": "Market of Choice",
+  "stores": [
+    {
+      "address": "1475 Siskiyou Blvd., Ashland, Oregon 97520",
+      "phone": "541-488-2773",
+      "id": "5414882773"
+    },
+    {
+      "address": "1090 SE Belmont St., Portland, OR 97214",
+      "phone": "503-236-6302",
+      "id": "5032366302"
+    },
+    {
+      "address": "115 NW Sisemore St., Bend, Oregon 97701",
+      "phone": "541-382-5828",
+      "id": "5413825828"
+    },
+    {
+      "address": "250 NW Lost Springs Terrace, Portland, OR 97229",
+      "phone": "503-596-3592",
+      "id": "5035963592"
+    },
+    {
+      "address": "922 NW Circle Blvd. Ste 110, Corvallis, OR 97330",
+      "phone": "541-758-8005",
+      "id": "5417588005"
+    },
+    {
+      "address": "1060 Green Acres Road, Eugene, OR 97408",
+      "phone": "541-344-1901",
+      "id": "5413441901"
+    },
+    {
+      "address": "1960 Franklin Blvd, Eugene, OR 97403",
+      "phone": "541-687-1188",
+      "id": "5416871188"
+    },
+    {
+      "address": "1300 Biddle Rd, Medford, OR 97504",
+      "phone": "458-658-5631",
+      "id": "4586585631"
+    },
+    {
+      "address": "5639 Hood St., West Linn, Oregon 97068",
+      "phone": "503-594-2901",
+      "id": "5035942901"
+    },
+    {
+      "address": "2580 Willakenzie, Eugene, OR 97401",
+      "phone": "541-345-3349",
+      "id": "5413453349"
+    },
+    {
+      "address": "67 West 29th Ave, Eugene, OR 97405",
+      "phone": "541-338-8455",
+      "id": "5413388455"
+    }
+  ]
+}
