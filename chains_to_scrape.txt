@@ -10,6 +10,7 @@
 ! Family Dollar #split
 ? Enmarket
 ! Mavericks
+!! Stop & Shop
 
 Selenium blocked:
 *King Soopers
