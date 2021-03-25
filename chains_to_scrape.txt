@@ -1,14 +1,16 @@
 |BUSTED| Hy-Vee - some of the phone numbers are broken
 |No ID?| SpartanNash
-Publix
-BI-LO
-Lowe's Market
-Market Choice
-Aldi
+? Publix
+? BI-LO |Banned| |Too fast|
+! Lowe's Market
+! Market Choice
+|No ID| Aldi
 ! Dollar General #split
-? Dollar Tree - 45/50 states #Banned
+! Dollar Tree
 ! Family Dollar #split
-https://locations.enmarket.com/enmarket-7952b602f2c3
+? Enmarket
+! Mavericks
+!! Stop & Shop
 
 Selenium blocked:
 *King Soopers
