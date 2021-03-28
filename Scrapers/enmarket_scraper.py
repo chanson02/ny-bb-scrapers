@@ -26,7 +26,7 @@ with open("../postals.json", "r") as f:
 
 for postal in postals:
     search_bar = driver.find_element_by_id("location-input")
-    search_bar.send_keys(Keys.BACKSPACE * 5)
+    search_bar.send_keys(Keys.BACKSPACE * 100)
     search_bar.send_keys(postal)
     search_bar.send_keys(Keys.RETURN)
 
@@ -40,7 +40,7 @@ for postal in postals:
         address = ", ".join(
             [e.text for e in location.find_elements_by_class_name("c-AddressRow")])
         phone = location.find_element_by_class_name(
-            "phone").text[:1].replace(") ", "-")
+            "phone").text[1:].replace(") ", "-")
         remote_id = re.sub("[^0-9]", "", phone)
 
         store = {"address": address, "phone": phone, "id": remote_id}
