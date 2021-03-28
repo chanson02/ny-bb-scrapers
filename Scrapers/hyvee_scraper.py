@@ -15,43 +15,38 @@ import re
 
 driver = webdriver.Chrome('../chromedriver.exe')
 driver.get("https://www.hy-vee.com/stores/store-finder-results.aspx?zip=&state=&city=&olfloral=False&olcatering=False&olgrocery=False&olpre=False&olbakery=False&diet=False&chef=False")
-# USE THIS URL NEXT https://www.hy-vee.com/stores/store-finder-results.aspx
 chain = {"name": "Hy-Vee", "stores": []}
+default_delay = 2
 
-list_path = "/html/body/section/form/div[3]/div[1]/div/div/div/div[3]/div/div[1]/div[2]/table/tbody"
-final_page_path = "/html/body/section/form/div[3]/div[1]/div/div/div/div[3]/div/div[1]/div[2]/table/tbody/tr[8]/td/table/tbody/tr/td/div/a[5]"
-next_button_id = "ctl00_cph_main_content_spuStoreFinderResults_gvStores_ctl10_btnNext"
+list_id = "ctl00_cph_main_content_spuStoreFinderResults_gvStores"
+next_id = "ctl00_cph_main_content_spuStoreFinderResults_gvStores_ctl10_btnNext"
+store_list = None
 
-page_count = int(driver.find_element_by_xpath(final_page_path).text)
-for page_index in range(page_count):
+while True:
+    time.sleep(default_delay)
+    store_list = driver.find_element_by_id(list_id)
 
-    location_index = 0
+    for row in store_list.find_elements_by_tag_name("tr"):
+        try:
+            data = row.find_elements_by_tag_name("td")[2]
+        except:
+            continue
+        remote_id = data.find_element_by_tag_name("a").get_attribute("storeid")
+        lines = [l for l in row.find_element_by_tag_name(
+            "p").text.split("\n")[1:-1] if l[:8] != "Pharmacy"]
+        phone = lines[-1][6:]
+        address = ", ".join(lines[:-1])
+
+        store = {"address": address, "phone": phone, "id": remote_id}
+        chain["stores"].append(store)
+        print("Added", store)
+
     try:
-        while True:
-            location_index += 1
-            location_path = list_path + f"/tr[{location_index}]/td[3]/p"
-            location = driver.find_element_by_xpath(location_path)
+        driver.find_element_by_id(next_id).click()
+    except Exception:
+        # no more pages
+        break
 
-            data = location.text.split("\n")
-            numbers = sum(char.isdigit() for char in data[1])
-            if numbers < 3:
-                offset = 1
-            else:
-                offset = 0
-
-            address = data[1 + offset] + ', ' + data[2 + offset]
-            remote_id = re.sub("[^0-9]", "", data[3 + offset])
-            phone = remote_id[:3] + "-" + remote_id[3:6] + '-' + remote_id[6:]
-
-            store_object = {"address": address,
-                            "phone": phone, "id": remote_id}
-            chain["stores"].append(store_object)
-            print("Added", store_object)
-    except exceptions.NoSuchElementException:
-        # No more stores
-        # Go to next page
-        driver.find_element_by_id(next_button_id).click()
-        time.sleep(1)
-
-with open("../Outputs/hyvee.json", "w") as file:
-    json.dump(chain, file, indent=2)
+with open("../Outputs/hyvee.json", "w") as f:
+    json.dump(chain, f, indent=2)
+print("Done")
