@@ -22,11 +22,6 @@
       "id": "8622259717"
     },
     {
-      "address": "Saint Stephen Green, Dublin, Dublin D02 H529",
-      "phone": "+35-3 1- 1111111",
-      "id": "+353 1 1111111"
-    },
-    {
       "address": "150 Columbus Boulevard, New Britain, CT 06051",
       "phone": "860-826-0588",
       "id": "8608260588"
@@ -303,22 +298,22 @@
     },
     {
       "address": "500 Geneva Ave, Dorchester, MA 02122",
-      "phone": null,
-      "id": null
+      "phone": "617-514-5539",
+      "id": "617-514-5539"
     },
     {
       "address": "240 E. Ashland Street, Brockton, MA 02302",
-      "phone": "508--58-4-4472",
+      "phone": "508-584-4472",
       "id": "508-584-4472"
     },
     {
       "address": "333 Martin Luther King Jr Blvd, Roxbury, MA 02119",
-      "phone": "617--42-7-0094",
+      "phone": "617-427-0094",
       "id": "617-427-0094"
     },
     {
       "address": "600 American Legion Hwy, Roslindale, MA 02131",
-      "phone": "617--52-2-0066",
+      "phone": "617-522-0066",
       "id": "617-522-0066"
     }
   ]
