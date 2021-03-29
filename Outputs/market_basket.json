@@ -1,0 +1,420 @@
+{
+  "name": "Market Basket",
+  "stores": [
+    {
+      "address": "40 Federal Street, Lynn, MA 01905",
+      "phone": "781-598-7412",
+      "id": "82"
+    },
+    {
+      "address": "288 Chelmsford Street, Chelmsford, MA 01824",
+      "phone": "978-256-0221",
+      "id": "4"
+    },
+    {
+      "address": "700 Essex Street, Lawrence, MA 01840",
+      "phone": "978-686-1001",
+      "id": "5"
+    },
+    {
+      "address": "265 South Broadway, Ste. 2, Salem, NH 03079",
+      "phone": "603-898-5161",
+      "id": "6"
+    },
+    {
+      "address": "43 Middlesex Turnpike, Burlington, MA 01803",
+      "phone": "781-273-3673",
+      "id": "24"
+    },
+    {
+      "address": "10 Main Street, Tewksbury, MA 01876",
+      "phone": "978-851-6211",
+      "id": "8"
+    },
+    {
+      "address": "186 Haverhill Street, Methuen, MA 01844",
+      "phone": "978-682-6327",
+      "id": "10"
+    },
+    {
+      "address": "69 Central Street, Salem, NH 03079",
+      "phone": "603-890-0059",
+      "id": "84"
+    },
+    {
+      "address": "275 Squire Road, Revere, MA 02151",
+      "phone": "781-485-0110",
+      "id": "74"
+    },
+    {
+      "address": "1900 Main Street, Tewksbury, MA 01876",
+      "phone": "978-851-2960",
+      "id": "22"
+    },
+    {
+      "address": "350 Winthrop Avenue, North Andover, MA 01845",
+      "phone": "978-688-6322",
+      "id": "12"
+    },
+    {
+      "address": "70 Pleasant Valley Street, Methuen, MA 01844",
+      "phone": "978-685-2863",
+      "id": "18"
+    },
+    {
+      "address": "6 Digital Way, Route 27, Maynard, MA 01754",
+      "phone": "978-243-2424",
+      "id": "87"
+    },
+    {
+      "address": "496 Boston Road, Billerica, MA 01821",
+      "phone": "978-667-9708",
+      "id": "17"
+    },
+    {
+      "address": "400 Lowell Ave., Unit 6, Haverhill, MA 01832",
+      "phone": "978-372-2051",
+      "id": "9"
+    },
+    {
+      "address": "170 Everett Avenue, Chelsea, MA 02150",
+      "phone": "617-884-0646",
+      "id": "32"
+    },
+    {
+      "address": "30 General Way, Reading, MA 01867",
+      "phone": "781-942-0040",
+      "id": "60"
+    },
+    {
+      "address": "285 Lincoln Avenue, Haverhill, MA 01830",
+      "phone": "978-372-1515",
+      "id": "48"
+    },
+    {
+      "address": "34 Plaistow Road, Plaistow, NH 03865",
+      "phone": "603-382-4190",
+      "id": "25"
+    },
+    {
+      "address": "2 Water Street, Haverhill, MA 01830",
+      "phone": "978-372-0576",
+      "id": "15"
+    },
+    {
+      "address": "400 Somerville Avenue, Somerville, MA 02143",
+      "phone": "617-666-2420",
+      "id": "28"
+    },
+    {
+      "address": "700 Boston Road, Billerica, MA 01821",
+      "phone": "978-663-2861",
+      "id": "7"
+    },
+    {
+      "address": "1201 Bridge Street, Lowell, MA 01850",
+      "phone": "978-454-0361",
+      "id": "2"
+    },
+    {
+      "address": "6A Cornerstone Square, Westford, MA 01886",
+      "phone": "978-589-1108",
+      "id": "72"
+    },
+    {
+      "address": "212 Lowell Road, Hudson, NH 03051",
+      "phone": "603-882-6740",
+      "id": "33"
+    },
+    {
+      "address": "10 Michels Way, Londonderry, NH 03053",
+      "phone": "603-434-3780",
+      "id": "42"
+    },
+    {
+      "address": "310 Mishawum Road, Woburn, MA 01801",
+      "phone": "781-933-0086",
+      "id": "20"
+    },
+    {
+      "address": "199 Boston Road, North Billerica, MA 01862",
+      "phone": "978-667-8199",
+      "id": "44"
+    },
+    {
+      "address": "331 Fletcher Street, Lowell, MA 01854",
+      "phone": "978-458-6952",
+      "id": "1"
+    },
+    {
+      "address": "261 Daniel Webster Highway, Nashua, NH 03060",
+      "phone": "603-888-1120",
+      "id": "13"
+    },
+    {
+      "address": "11 Wood Street, Lowell, MA 01851",
+      "phone": "978-458-8015",
+      "id": "19"
+    },
+    {
+      "address": "301 Constitution Avenue, Littleton, MA 01460",
+      "phone": "978-486-0828",
+      "id": "77"
+    },
+    {
+      "address": "90 Old Ferry Road, Lowell, MA 01854",
+      "phone": "978 942-5511",
+      "id": "88"
+    },
+    {
+      "address": "260 Main Street, Wilmington, MA 01887",
+      "phone": "978-658-8411",
+      "id": "3"
+    },
+    {
+      "address": "71 Sack Boulevard, Leominster, MA 01453",
+      "phone": "978-840-4884",
+      "id": "16"
+    },
+    {
+      "address": "375 Amherst Street, Nashua, NH 03060",
+      "phone": "603-595-6339",
+      "id": "43"
+    },
+    {
+      "address": "49 Pond Street, Ashland, MA 01721",
+      "phone": "508-872-7410",
+      "id": "46"
+    },
+    {
+      "address": "231 Newburyport Trpk. Rte. 1, Rowley, MA 01969",
+      "phone": "978-948-5075",
+      "id": "49"
+    },
+    {
+      "address": "25 Storey Avenue, Newburyport, MA 01950",
+      "phone": "978-462-0711",
+      "id": "40"
+    },
+    {
+      "address": "230 South Main Street, Middleton, MA 01949",
+      "phone": "978-777-6233",
+      "id": "45"
+    },
+    {
+      "address": "34 Northwest Boulevard, Nashua, NH 03060",
+      "phone": "603-882-9173",
+      "id": "39"
+    },
+    {
+      "address": "227 Highland Avenue, Salem, MA 01970",
+      "phone": "978-741-0986",
+      "id": "58"
+    },
+    {
+      "address": "27 Portsmouth Avenue, Stratham, NH 03885",
+      "phone": "603-772-2952",
+      "id": "26"
+    },
+    {
+      "address": "24 Calef Highway Rte. 125, Epping, NH 03042",
+      "phone": "603-679-3057",
+      "id": "63"
+    },
+    {
+      "address": "539 Donald Street, Bedford, NH 03110",
+      "phone": "603-222-1471",
+      "id": "71"
+    },
+    {
+      "address": "460 Elm Street, Manchester, NH 03101",
+      "phone": "603-626-1070",
+      "id": "67"
+    },
+    {
+      "address": "380 Lafayette Road, Seabrook, NH 03874",
+      "phone": "603-474-9161",
+      "id": "30"
+    },
+    {
+      "address": "838 Lafayette Road, Seabrook, NH 03874",
+      "phone": "603-474-9212",
+      "id": "41"
+    },
+    {
+      "address": "139 Endicott Street, Danvers, MA 01923",
+      "phone": "978-774-3683",
+      "id": "23"
+    },
+    {
+      "address": "30 Market Drive, Hooksett, NH 03106",
+      "phone": "603-624-8126",
+      "id": "66"
+    },
+    {
+      "address": "21 Jones Road Route 101, Milford, NH 03055",
+      "phone": "603-672-4558",
+      "id": "57"
+    },
+    {
+      "address": "274 Hartford Ave. Rte. 126, Bellingham, MA 02019",
+      "phone": "508-966-3044",
+      "id": "54"
+    },
+    {
+      "address": "8 Highland Commons East, Hudson, MA 01749",
+      "phone": "978-562-6345",
+      "id": "73"
+    },
+    {
+      "address": "200 Westgate Drive, Brockton, MA 02301",
+      "phone": "508-586-5757",
+      "id": "68"
+    },
+    {
+      "address": "110 Market Place Drive, Waltham, MA 02451",
+      "phone": "781-894-1510",
+      "id": "79"
+    },
+    {
+      "address": "54 Calef Road Route 125, Lee, NH 03861",
+      "phone": "603-868-3030",
+      "id": "51"
+    },
+    {
+      "address": "1500 Lafayette Road, Portsmouth, NH 03801",
+      "phone": "603-430-2160",
+      "id": "56"
+    },
+    {
+      "address": "101 Gloucester Crossing, Gloucester, MA 01930",
+      "phone": "978-283-0103",
+      "id": "61"
+    },
+    {
+      "address": "1465 Woodbury Avenue, Portsmouth, NH 03801",
+      "phone": "603-436-0413",
+      "id": "21"
+    },
+    {
+      "address": "130 Water Street, Fitchburg, MA 01420",
+      "phone": "978-345-5882",
+      "id": "14"
+    },
+    {
+      "address": "399 John Fitch Highway, Fitchburg, MA 01420",
+      "phone": "978-343-7464",
+      "id": "27"
+    },
+    {
+      "address": "95 Sutton Avenue, Oxford, MA 01540",
+      "phone": "508-987-9539",
+      "id": "62"
+    },
+    {
+      "address": "80 Storrs Street Suite 2, Concord, NH 03301",
+      "phone": "603-228-3228",
+      "id": "34"
+    },
+    {
+      "address": "108 Fort Eddy Road, Concord, NH 03301",
+      "phone": "603-224-5479",
+      "id": "35"
+    },
+    {
+      "address": "60 Tricity Plaza, Somersworth, NH 03878",
+      "phone": "603-742-8937",
+      "id": "36"
+    },
+    {
+      "address": "120 Marketplace Blvd. Unit 1, Rochester, NH 03867",
+      "phone": "603-330-0495",
+      "id": "81"
+    },
+    {
+      "address": "96 Milton Road Route 125, Rochester, NH 03868",
+      "phone": "603-335-7780",
+      "id": "50"
+    },
+    {
+      "address": "497 US Rte. 202, Rindge, NH 03461",
+      "phone": "603-899-3129",
+      "id": "47"
+    },
+    {
+      "address": "30 Nichols Mill Lane, Warner, NH 03278",
+      "phone": "603-456-3800",
+      "id": "55"
+    },
+    {
+      "address": "1200 Newport Ave., South Attleboro, MA 02703",
+      "phone": "508-399-8088",
+      "id": "76"
+    },
+    {
+      "address": "352 West Center Street, West Bridgewater, MA 02379",
+      "phone": "508-427-5472",
+      "id": "70"
+    },
+    {
+      "address": "100 Market Street, Tilton, NH 03276",
+      "phone": "603-286-2047",
+      "id": "59"
+    },
+    {
+      "address": "147 Tower Rd, Athol, MA 01331",
+      "phone": "978-248-9401",
+      "id": "78"
+    },
+    {
+      "address": "240 Broadway Street, Raynham, MA 02767",
+      "phone": "508-822-8866",
+      "id": "52"
+    },
+    {
+      "address": "11 West Swanzey Road, Swanzey, NH 03446",
+      "phone": "603-352-6119",
+      "id": "64"
+    },
+    {
+      "address": "122 Sawyer Street, New Bedford, MA 02746",
+      "phone": "508-992-3049",
+      "id": "65"
+    },
+    {
+      "address": "220 Mariner Way, Biddeford, ME 04005",
+      "phone": "207-282-9005",
+      "id": "75"
+    },
+    {
+      "address": "600 William S. Canning Blvd., Fall River, MA 02721",
+      "phone": "774-294-5768",
+      "id": "83"
+    },
+    {
+      "address": "1 Commerce Way, Plymouth, MA 02360",
+      "phone": "774-404-7518",
+      "id": "80"
+    },
+    {
+      "address": "345 Washington St. Rte. 103, Claremont, NH 03743",
+      "phone": "603-543-1444",
+      "id": "53"
+    },
+    {
+      "address": "34 Ridge View Lane, Plymouth, NH 03264",
+      "phone": "603-536-1176",
+      "id": "86"
+    },
+    {
+      "address": "90 Rock Row, Suite 110, Westbrook, ME 04092",
+      "phone": "207-464-2100",
+      "id": "85"
+    },
+    {
+      "address": "1 Factory Outlet Way, PO Box 632, Bourne, MA 02561",
+      "phone": "508-833-7333",
+      "id": "69"
+    }
+  ]
+}
