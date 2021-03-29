@@ -33,4 +33,4 @@ IFrame chains:
 ! PriceRite - check if already in db
 ! Market Basket
 ! Ingles Markets
-|BROKE| Saves-A-Lot ? Use IFrame method :'/
+! Saves-A-Lot
