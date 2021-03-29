@@ -1,16 +1,10 @@
-! Hy-Vee
 |No ID?| SpartanNash
 ? Publix
 ? BI-LO |Banned| |Too fast|
-! Lowe's Market
-! Market Choice
 |No ID| Aldi
 ! Dollar General #split
 ! Dollar Tree
 ! Family Dollar #split
-! Enmarket
-! Mavericks
-!! Stop & Shop
 
 Selenium blocked:
 *King Soopers
@@ -28,9 +22,3 @@ Selenium blocked:
 *Mariano's
 *Ralph's
 *Meijer
-
-IFrame chains:
-! PriceRite - check if already in db
-! Market Basket
-! Ingles Markets
-! Saves-A-Lot
