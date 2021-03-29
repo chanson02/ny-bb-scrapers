@@ -32,5 +32,5 @@ Selenium blocked:
 IFrame chains:
 ! PriceRite - check if already in db
 ! Market Basket
-Ingles Markets
+! Ingles Markets
 |BROKE| Saves-A-Lot ? Use IFrame method :'/

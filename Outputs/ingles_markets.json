@@ -1,0 +1,950 @@
+{
+  "name": "Ingles Markets",
+  "stores": [
+    {
+      "address": "1550 West Main St., Centre, AL. 35960",
+      "phone": "256-927-6461",
+      "id": "601"
+    },
+    {
+      "address": "5055 Cherokee St., Acworth, GA. 30101",
+      "phone": "770-975-1947",
+      "id": "411"
+    },
+    {
+      "address": "1528 Atlanta Hwy. NW, Auburn, GA. 30011",
+      "phone": "770-277-5284",
+      "id": "451"
+    },
+    {
+      "address": "625 Hwy. 341 South, Barnesville, GA. 30204",
+      "phone": "770-358-6815",
+      "id": "498"
+    },
+    {
+      "address": "207 B Hwy. 515 , Blairsville, GA. 30512",
+      "phone": "706-745-1700",
+      "id": "98"
+    },
+    {
+      "address": "5679 Appalachian Hwy., Blue Ridge, GA. 30513",
+      "phone": "706-632-3654",
+      "id": "36"
+    },
+    {
+      "address": "2865 Music Mill Road, Bremen, GA. 30110",
+      "phone": "770-537-9501",
+      "id": "105"
+    },
+    {
+      "address": "108 Riverstone Pkwy, Canton, GA. 30114",
+      "phone": "770-479-4335",
+      "id": "96"
+    },
+    {
+      "address": "1124 N. Park St., Carrollton, GA. 30117",
+      "phone": "770-832-8742",
+      "id": "480"
+    },
+    {
+      "address": "825 West Ave., Cartersville, GA. 30120",
+      "phone": "770-607-5897",
+      "id": "476"
+    },
+    {
+      "address": "879 Joe Frank Harris Pkwy., Cartersville, GA. 30120",
+      "phone": "770-382-8226",
+      "id": "76"
+    },
+    {
+      "address": "962 G I Maddox Pkwy., Chatsworth, GA. 30705",
+      "phone": "706-517-7312",
+      "id": "86"
+    },
+    {
+      "address": "199 East Louise St, Clarkesville, GA. 30523",
+      "phone": "706-754-3933",
+      "id": "428"
+    },
+    {
+      "address": "176 Hwy. 441, Clayton, GA. 30525",
+      "phone": "706-782-3380",
+      "id": "488"
+    },
+    {
+      "address": "55 Helen Highway, Cleveland, GA. 30528",
+      "phone": "706-348-1571",
+      "id": "489"
+    },
+    {
+      "address": "220 Highway 334, Commerce, GA. 30529",
+      "phone": "706-335-4650",
+      "id": "419"
+    },
+    {
+      "address": "2455 Salem Road South East, Conyers, GA. 30013",
+      "phone": "770-922-3507",
+      "id": "469"
+    },
+    {
+      "address": "199 Habersham County S/C. (US 441), Cornelia, GA. 30531",
+      "phone": "706-778-8099",
+      "id": "61"
+    },
+    {
+      "address": "9176 Hwy. 278 NE, Covington, GA. 30016",
+      "phone": "770-787-8129",
+      "id": "439"
+    },
+    {
+      "address": "7173 Turner Lake Rd., Covington, GA. 30014",
+      "phone": "770-787-8231",
+      "id": "452"
+    },
+    {
+      "address": "2835 Keith Bridge Rd., Cumming, GA. 30040",
+      "phone": "770-886-1181",
+      "id": "456"
+    },
+    {
+      "address": "1090 Buford Hwy., Cumming, GA. 30040",
+      "phone": "678-455-0799",
+      "id": "455"
+    },
+    {
+      "address": "6055 Bethelview Rd., Cumming, GA. 30040",
+      "phone": "770-887-2436",
+      "id": "106"
+    },
+    {
+      "address": "436 Canton Rd., Cumming, GA. 30040",
+      "phone": "770-889-5868",
+      "id": "438"
+    },
+    {
+      "address": "1221 Dacula Rd., Dacula, GA. 30019",
+      "phone": "770-237-0016",
+      "id": "493"
+    },
+    {
+      "address": "270 Merchants Square Dr., Dallas, GA. 30132",
+      "phone": "770-505-8710",
+      "id": "89"
+    },
+    {
+      "address": "53 Highway 400 S , Dawsonville, GA. 30534",
+      "phone": "706-216-4180",
+      "id": "441"
+    },
+    {
+      "address": "2175 Fairburn Rd , Douglasville, GA. 30135",
+      "phone": "770-920-1093",
+      "id": "432"
+    },
+    {
+      "address": "1817 Dallas Nebo Rd, Douglasville, GA. 30134",
+      "phone": "678-383-8715",
+      "id": "414"
+    },
+    {
+      "address": "754 Monticello Rd., Eatonton, GA. 31024",
+      "phone": "706-484-2256",
+      "id": "484"
+    },
+    {
+      "address": "901 Lower Heard St., Elberton, GA. 30635",
+      "phone": "706-283-7095",
+      "id": "65"
+    },
+    {
+      "address": "100 Fairview Rd., Ellenwood, GA. 30294",
+      "phone": "770-981-1275",
+      "id": "445"
+    },
+    {
+      "address": "100 Old Orchard Square, Ellijay, GA. 30540",
+      "phone": "706-635-7176",
+      "id": "409"
+    },
+    {
+      "address": "135 Hwy. 92 South ( at GA 85), Fayetteville, GA. 30215",
+      "phone": "770-460-5973",
+      "id": "443"
+    },
+    {
+      "address": "4260 Winder Highway, Flowery Branch, GA. 30542",
+      "phone": "770-965-8928",
+      "id": "412"
+    },
+    {
+      "address": "260 Tift College Dr., Forsyth, GA. 31029",
+      "phone": "478-994-4900",
+      "id": "403"
+    },
+    {
+      "address": "3320 Thompson Bridge Rd., Gainesville, GA. 30501",
+      "phone": "770-287-1330",
+      "id": "440"
+    },
+    {
+      "address": "261 W Clinton St, Gray, GA. 31032",
+      "phone": "478-986-3592",
+      "id": "486"
+    },
+    {
+      "address": "1480 E. Broad St., Greensboro, GA. 30642",
+      "phone": "706-453-4936",
+      "id": "442"
+    },
+    {
+      "address": "1735 Zebulon Rd., Griffin, GA. 30223",
+      "phone": "770-228-5815",
+      "id": "457"
+    },
+    {
+      "address": "1000 E. Franklin St., Hartwell, GA. 30643",
+      "phone": "706-376-3212",
+      "id": "66"
+    },
+    {
+      "address": "94 N. Main St., Hiawassee, GA. 30546",
+      "phone": "706-896-8312",
+      "id": "483"
+    },
+    {
+      "address": "1890 E. Main St., Hogansville, GA. 30230",
+      "phone": "706-637-9894",
+      "id": "491"
+    },
+    {
+      "address": "9161 Hwy. 29, Hull, GA. 30646",
+      "phone": "706-613-1734",
+      "id": "450"
+    },
+    {
+      "address": "1305 W. 3rd St., Jackson, GA. 30233",
+      "phone": "770-504-0740",
+      "id": "499"
+    },
+    {
+      "address": "1449 W. Church St., Jasper, GA. 30143",
+      "phone": "706-692-2686",
+      "id": "437"
+    },
+    {
+      "address": "650 Rockbridge Rd., Lilburn, GA. 30047",
+      "phone": "770-381-7318",
+      "id": "402"
+    },
+    {
+      "address": "4920 Bill Gardner Parkway, Locust Grove, GA. 30248",
+      "phone": "678-583-8094",
+      "id": "495"
+    },
+    {
+      "address": "4555 Atlanta Hwy, Loganville, GA. 30052",
+      "phone": "770-466-0831",
+      "id": "424"
+    },
+    {
+      "address": "131 US 1 North ByPass, Louisville, GA. 30434",
+      "phone": "478-625-8629",
+      "id": "494"
+    },
+    {
+      "address": "1441 Eatonton Rd, Madison, GA. 30650",
+      "phone": "706-342-3119",
+      "id": "444"
+    },
+    {
+      "address": "2340 Hwy. 16 West, Monticello, GA. 31064",
+      "phone": "706-468-1490",
+      "id": "496"
+    },
+    {
+      "address": "5075 Peachtree Pkwy, Peachtree Corners, GA. 30092",
+      "phone": "770-448-7876",
+      "id": "474"
+    },
+    {
+      "address": "5044 Alabama Road, Ringgold, GA. 30736",
+      "phone": "706-935-6450",
+      "id": "101"
+    },
+    {
+      "address": "1100 Nathan Dean Hwy., Rockmart, GA. 30153",
+      "phone": "770-684-0445",
+      "id": "453"
+    },
+    {
+      "address": "3701 Walt Stephens Road, Stockbridge, GA. 30281",
+      "phone": "770-507-1846",
+      "id": "467"
+    },
+    {
+      "address": "4815 Rockbridge Rd., Stone Mountain, GA. 30083",
+      "phone": "404-299-0698",
+      "id": "421"
+    },
+    {
+      "address": "416 Highway 114, Summerville, GA. 30747",
+      "phone": "706-857-5977",
+      "id": "416"
+    },
+    {
+      "address": "488 Carrollton St, Temple, GA. 30179",
+      "phone": "770-562-2716",
+      "id": "405"
+    },
+    {
+      "address": "730 N Church St, Thomaston, GA. 30286",
+      "phone": "706-648-4048",
+      "id": "449"
+    },
+    {
+      "address": "757 Big A Rd S , Toccoa, GA. 30577",
+      "phone": "706-886-8711",
+      "id": "436"
+    },
+    {
+      "address": "300 S Main, Trenton, GA. 30752",
+      "phone": "706-657-7875",
+      "id": "408"
+    },
+    {
+      "address": "98 Hwy. 61 Connector, Villa Rica, GA. 30180",
+      "phone": "770-459-0223",
+      "id": "423"
+    },
+    {
+      "address": "110 Ann Denard Dr, Washington, GA. 30673",
+      "phone": "706-678-4766",
+      "id": "429"
+    },
+    {
+      "address": "285 N. Broad St., Winder, GA. 30680",
+      "phone": "770-867-7116",
+      "id": "57"
+    },
+    {
+      "address": "11078 Millarden Rd., Woodbury, GA. 30293",
+      "phone": "706-553-9590",
+      "id": "492"
+    },
+    {
+      "address": "633 N. Main St., Wrens, GA. 30833",
+      "phone": "706-547-3255",
+      "id": "497"
+    },
+    {
+      "address": "636 NC 24 27 Byp E, Albemarle, NC. 28001",
+      "phone": "704-982-4645",
+      "id": "100"
+    },
+    {
+      "address": "US 19 / 129 (Main St.), Andrews, NC. 28901",
+      "phone": "828-321-5448",
+      "id": "47"
+    },
+    {
+      "address": "352 Airport Rd, Arden, NC. 28704",
+      "phone": "828-684-6391",
+      "id": "137"
+    },
+    {
+      "address": "301 Long Shoals Road, Arden, NC. 28704",
+      "phone": "828-684-9019",
+      "id": "130"
+    },
+    {
+      "address": "225 Charlotte Hwy, Asheville, NC. 28803",
+      "phone": "828-298-2160",
+      "id": "111"
+    },
+    {
+      "address": "575 New Leicester Hwy, Asheville, NC. 28806",
+      "phone": "828-225-2756",
+      "id": "62"
+    },
+    {
+      "address": "7 Leicester Hwy., Asheville, NC. 28806",
+      "phone": "828-253-2005",
+      "id": "2"
+    },
+    {
+      "address": "153 Smokey Park Highway, Asheville, NC. 28806",
+      "phone": "828-670-5776",
+      "id": "31"
+    },
+    {
+      "address": "863 Brevard Road, Asheville, NC. 28806",
+      "phone": "828-665-9361",
+      "id": "24"
+    },
+    {
+      "address": "669 Haywood Rd., Asheville, NC. 28806",
+      "phone": "828-259-9268",
+      "id": "5"
+    },
+    {
+      "address": "499 Weaverville Rd., Asheville, NC. 28804",
+      "phone": "828-645-4521",
+      "id": "22"
+    },
+    {
+      "address": "1865 Hendersonville Rd., Asheville, NC. 28803",
+      "phone": "828-274-1328",
+      "id": "30"
+    },
+    {
+      "address": "1141 Tunnel Rd., Asheville, NC. 28805",
+      "phone": "828-298-1425",
+      "id": "4"
+    },
+    {
+      "address": "915 Merrimon Ave., Asheville, NC. 28804",
+      "phone": "828-255-8949",
+      "id": "3"
+    },
+    {
+      "address": "29 Tunnel Rd., Asheville, NC. 28805",
+      "phone": "828-255-4612",
+      "id": "7"
+    },
+    {
+      "address": "780 Hendersonville Rd., Asheville, NC. 28803",
+      "phone": "828-277-7466",
+      "id": "79"
+    },
+    {
+      "address": "1205 Gastonia Hwy, Bessemer City, NC. 28016",
+      "phone": "704-629-2326",
+      "id": "46"
+    },
+    {
+      "address": "550 Hwy. 9, Black Mountain, NC. 28711",
+      "phone": "828-669-6700",
+      "id": "8"
+    },
+    {
+      "address": "214 N. Main St., Boiling Springs, NC. 28017",
+      "phone": "704-434-0096",
+      "id": "117"
+    },
+    {
+      "address": "2575 Hwy 105, Boone, NC. 28607",
+      "phone": "828-265-1913",
+      "id": "84"
+    },
+    {
+      "address": "684 N. Broad St., Brevard, NC. 28712",
+      "phone": "828-883-2358",
+      "id": "67"
+    },
+    {
+      "address": "19/23 at Hughes Branch Rd., Bryson City, NC. 28713",
+      "phone": "828-488-6600",
+      "id": "35"
+    },
+    {
+      "address": "400 E US Hwy 19, Burnsville, NC. 28714",
+      "phone": "828-682-7636",
+      "id": "13"
+    },
+    {
+      "address": "1572 Sand Hill Road, Candler, NC. 28715",
+      "phone": "828-665-4976",
+      "id": "134"
+    },
+    {
+      "address": "630 Champion Dr., Canton, NC. 28716",
+      "phone": "828-235-2795",
+      "id": "55"
+    },
+    {
+      "address": "Highway 64 East, Cashiers, NC. 28717",
+      "phone": "828-743-6312",
+      "id": "110"
+    },
+    {
+      "address": "715 W Trade St, Dallas, NC. 28034",
+      "phone": "704-922-7187",
+      "id": "146"
+    },
+    {
+      "address": "2095 N. Bridge St., Elkin, NC. 28621",
+      "phone": "336-526-2942",
+      "id": "115"
+    },
+    {
+      "address": "6400 Brevard Rd., Etowah, NC. 28729",
+      "phone": "828-891-0089",
+      "id": "63"
+    },
+    {
+      "address": "220 North Highland Lake Road, Flat Rock, NC. 28731",
+      "phone": "828-692-0546",
+      "id": "177"
+    },
+    {
+      "address": "2901 Hendersonville Rd., Fletcher, NC. 28732",
+      "phone": "828-684-2838",
+      "id": "43"
+    },
+    {
+      "address": "756 S Church St, Forest City, NC. 28043",
+      "phone": "828-245-0786",
+      "id": "27"
+    },
+    {
+      "address": "1257 Georgia Rd, Franklin, NC. 28734",
+      "phone": "8283491542",
+      "id": "114"
+    },
+    {
+      "address": "152 West Palmer St., Franklin, NC. 28734",
+      "phone": "828-524-5616",
+      "id": "14"
+    },
+    {
+      "address": "4501 Highway 441 Byp, Franklin, NC. 28734",
+      "phone": "828-524-5011",
+      "id": "132"
+    },
+    {
+      "address": "2630 Connelly Springs Rd., Granite Falls, NC. 28630",
+      "phone": "828-726-6027",
+      "id": "121"
+    },
+    {
+      "address": "230 Highway 64, Hayesville, NC. 28904",
+      "phone": "828-389-2804",
+      "id": "116"
+    },
+    {
+      "address": "3643 Howard Gap Rd. (at Hwy 64), Hendersonville, NC. 28792",
+      "phone": "828-698-2592",
+      "id": "179"
+    },
+    {
+      "address": "625 Spartanburg Hwy, Hendersonville, NC. 28739",
+      "phone": "828-694-3746",
+      "id": "77"
+    },
+    {
+      "address": "1980 Asheville Hwy, Hendersonville, NC. 28792",
+      "phone": "828-698-1116",
+      "id": "11"
+    },
+    {
+      "address": "1705 Brevard Rd, Hendersonville, NC. 28791",
+      "phone": "828-693-6371",
+      "id": "104"
+    },
+    {
+      "address": "2111 Shelby Road, Kings Mountain, NC. 28086",
+      "phone": "704-739-2350",
+      "id": "147"
+    },
+    {
+      "address": "276 Nc Highway 9, Lake Lure, NC. 28746",
+      "phone": "828-625-0748",
+      "id": "127"
+    },
+    {
+      "address": "2130 East Main Street, Lincolnton, NC. 28092",
+      "phone": "704-735-2791",
+      "id": "148"
+    },
+    {
+      "address": "625 W. Henderson St., Marion, NC. 28752",
+      "phone": "828-652-7105",
+      "id": "60"
+    },
+    {
+      "address": "225 Carl Eller Rd, Mars Hill, NC. 28754",
+      "phone": "828-680-9569",
+      "id": "80"
+    },
+    {
+      "address": "5580 Hwy. 25/70, Marshall, NC. 28753",
+      "phone": "828-649-1636",
+      "id": "28"
+    },
+    {
+      "address": "3338 Boylston Hwy, Mills River, NC. 28759",
+      "phone": "828-890-8159",
+      "id": "133"
+    },
+    {
+      "address": "120 Carbon City Rd., Morganton, NC. 28655",
+      "phone": "828-437-3833",
+      "id": "120"
+    },
+    {
+      "address": "2060 U.S. 19, Murphy, NC. 28906",
+      "phone": "828-835-3961",
+      "id": "25"
+    },
+    {
+      "address": "NC 194 at Vale Rd., Newland, NC. 28657",
+      "phone": "828-733-6086",
+      "id": "83"
+    },
+    {
+      "address": "2 Sweetwater Rd., Robbinsville, NC. 28771",
+      "phone": "828-479-6748",
+      "id": "131"
+    },
+    {
+      "address": "1818 W. Dixon Blvd., Shelby, NC. 28150",
+      "phone": "704-482-5401",
+      "id": "12"
+    },
+    {
+      "address": "1305 Fallston Rd., Shelby, NC. 28150",
+      "phone": "704-480-9616",
+      "id": "118"
+    },
+    {
+      "address": "1523 S. Post Rd., Shelby, NC. 28150",
+      "phone": "704-482-7242",
+      "id": "119"
+    },
+    {
+      "address": "125 Greenwood Rd., Spruce Pine, NC. 28777",
+      "phone": "828-765-7997",
+      "id": "33"
+    },
+    {
+      "address": "722 Sullivan Rd., Statesville, NC. 28677",
+      "phone": "704-872-3984",
+      "id": "150"
+    },
+    {
+      "address": "3219 Taylorsville Rd., Statesville, NC. 28625",
+      "phone": "704-872-1739",
+      "id": "78"
+    },
+    {
+      "address": "2299 U.S. 70, Swannanoa, NC. 28778",
+      "phone": "828-686-5081",
+      "id": "34"
+    },
+    {
+      "address": "19 Webster Rd., Sylva, NC. 28779",
+      "phone": "828-586-3343",
+      "id": "50"
+    },
+    {
+      "address": "1122 Randolph St. - Suite 106, Thomasville, NC. 27360",
+      "phone": "336-472-4873",
+      "id": "6"
+    },
+    {
+      "address": "802 S. Main Street, Walnut Cove, NC. 27052",
+      "phone": "336-591-5818",
+      "id": "109"
+    },
+    {
+      "address": "1670 Brown Ave., Waynesville, NC. 28786",
+      "phone": "828-456-5554",
+      "id": "58"
+    },
+    {
+      "address": "201 Barber Blvd., Waynesville, NC. 28786",
+      "phone": "828-452-7455",
+      "id": "23"
+    },
+    {
+      "address": "140 Weaver Blvd., Weaverville, NC. 28787",
+      "phone": "828-645-7499",
+      "id": "180"
+    },
+    {
+      "address": "60 Ashemont Dr., West Jefferson, NC. 28694",
+      "phone": "336-219-0016",
+      "id": "82"
+    },
+    {
+      "address": "1507 N. Main St., Abbeville, SC. 29620",
+      "phone": "864-459-4413",
+      "id": "56"
+    },
+    {
+      "address": "1900 N. Main St., Anderson, SC. 29621",
+      "phone": "864-332-0552",
+      "id": "239"
+    },
+    {
+      "address": "2404 Hwy. 81, Anderson, SC. 29621",
+      "phone": "864-225-9528",
+      "id": "240"
+    },
+    {
+      "address": "4396 SC-24, Anderson, SC. 29626",
+      "phone": "864-226-2398",
+      "id": "39"
+    },
+    {
+      "address": "426 S. Main St., Belton, SC. 29627",
+      "phone": "864-338-3184",
+      "id": "16"
+    },
+    {
+      "address": "854 Highway 93, Clemson, SC. 29631",
+      "phone": "864-654-3094",
+      "id": "53"
+    },
+    {
+      "address": "312 Jacobs Hwy., Clinton, SC. 29325",
+      "phone": "864-833-4173",
+      "id": "68"
+    },
+    {
+      "address": "2120 E. Main St., Duncan, SC. 29334",
+      "phone": "864-433-0422",
+      "id": "93"
+    },
+    {
+      "address": "410 Pelzer Hwy. (at SC 8), Easley, SC. 29640",
+      "phone": "864-855-6856",
+      "id": "251"
+    },
+    {
+      "address": "5251 Calhoun Memorial Hwy, Easley, SC. 29642",
+      "phone": "864-855-0176",
+      "id": "51"
+    },
+    {
+      "address": "1627 W. Floyd Baker Blvd., Gaffney, SC. 29340",
+      "phone": "864-489-2479",
+      "id": "15"
+    },
+    {
+      "address": "410 W. Third St., Gaffney, SC. 29340",
+      "phone": "864-487-5661",
+      "id": "203"
+    },
+    {
+      "address": "1335 Stallings Rd., Greenville, SC. 29609",
+      "phone": "864-322-2813",
+      "id": "32"
+    },
+    {
+      "address": "1500 Poinsett Hwy., Greenville, SC. 29609",
+      "phone": "864-235-7183",
+      "id": "69"
+    },
+    {
+      "address": "6605 White Horse Rd, Greenville, SC. 29602",
+      "phone": "864-246-5507",
+      "id": "74"
+    },
+    {
+      "address": "1524 Locust Hill Road, Greer, SC. 29651",
+      "phone": "864-801-3508",
+      "id": "208"
+    },
+    {
+      "address": "4600 Hwy 9, Inman, SC. 29349",
+      "phone": "864-814-3643",
+      "id": "200"
+    },
+    {
+      "address": "1851 Hwy. 14E (at I-26), Landrum, SC. 29356",
+      "phone": "864-457-4598",
+      "id": "205"
+    },
+    {
+      "address": "901 East Main St, Laurens, SC. 29360",
+      "phone": "864-984-1492",
+      "id": "44"
+    },
+    {
+      "address": "429 East Main St., Liberty, SC. 29657",
+      "phone": "864-843-9326",
+      "id": "253"
+    },
+    {
+      "address": "116 W. Butler Rd., Mauldin, SC. 29662",
+      "phone": "864-288-5374",
+      "id": "42"
+    },
+    {
+      "address": "502-A Ann St., Pickens, SC. 29671",
+      "phone": "864-878-2464",
+      "id": "17"
+    },
+    {
+      "address": "7616 Augusta Rd, Piedmont, SC. 29673",
+      "phone": "864-277-5082",
+      "id": "29"
+    },
+    {
+      "address": "10903 Anderson Rd., Piedmont, SC. 29673",
+      "phone": "864-810-4661",
+      "id": "73"
+    },
+    {
+      "address": "211 Ingles Place - US 76/123 and SC 28/130, Seneca, SC. 29678",
+      "phone": "864-886-0615",
+      "id": "94"
+    },
+    {
+      "address": "621 Fairview Rd., Simpsonville, SC. 29681",
+      "phone": "864-967-7890",
+      "id": "41"
+    },
+    {
+      "address": "2795 E. Main St., Spartanburg, SC. 29307",
+      "phone": "864-579-4450",
+      "id": "38"
+    },
+    {
+      "address": "8004 Warren H Abernathy Hwy , Spartanburg, SC. 29301",
+      "phone": "864-574-3130",
+      "id": "204"
+    },
+    {
+      "address": "2375 Chesnee Hwy., Spartanburg, SC. 29303",
+      "phone": "864-573-9408",
+      "id": "202"
+    },
+    {
+      "address": "2120 Boiling Springs Rd. , Spartanburg, SC. 29316",
+      "phone": "864-599-0668",
+      "id": "201"
+    },
+    {
+      "address": "2000 S. Pine St., Spartanburg, SC. 29302",
+      "phone": "864-542-1426",
+      "id": "45"
+    },
+    {
+      "address": "8650 Asheville Hwy, Spartanburg, SC. 29302",
+      "phone": "864-578-6243",
+      "id": "37"
+    },
+    {
+      "address": "1500 Geer Hwy., Travelers Rest, SC. 29690",
+      "phone": "864-834-4409",
+      "id": "206"
+    },
+    {
+      "address": "180 Scenic Plaza Dr , West Union, SC. 29691",
+      "phone": "864-638-3976",
+      "id": "49"
+    },
+    {
+      "address": "1049 East Main Street, Westminster, SC. 29693",
+      "phone": "864-647-4204",
+      "id": "249"
+    },
+    {
+      "address": "917 Decatur Pike, Athens, TN. 37303",
+      "phone": "423-744-1085",
+      "id": "88"
+    },
+    {
+      "address": "190 Clinch Ave, Clinton, TN. 37716",
+      "phone": "865-457-1611",
+      "id": "9"
+    },
+    {
+      "address": "768 W. Elk Ave., Elizabethton, TN. 37643",
+      "phone": "423-542-2002",
+      "id": "397"
+    },
+    {
+      "address": "11847 Kingston Pike, Farragut, TN. 37934",
+      "phone": "865-777-2469",
+      "id": "91"
+    },
+    {
+      "address": "2845 E. Andrew Johnson Hwy., Greeneville, TN. 37745",
+      "phone": "423-638-7021",
+      "id": "70"
+    },
+    {
+      "address": "615 Asheville Hwy, Greeneville, TN. 37743",
+      "phone": "423-639-6873",
+      "id": "21"
+    },
+    {
+      "address": "Valley Plaza US 41 at East Valley Rd., Jasper, TN. 37347",
+      "phone": "423-942-2269",
+      "id": "301"
+    },
+    {
+      "address": "4470 N. Roan St., Johnson City, TN. 37604",
+      "phone": "423-282-0055",
+      "id": "372"
+    },
+    {
+      "address": "1200 W. Jackson Blvd., Jonesborough, TN. 37659",
+      "phone": "423-753-9730",
+      "id": "398"
+    },
+    {
+      "address": "4345 Ft. Henry Dr., Kingsport, TN. 37664",
+      "phone": "423-247-9048",
+      "id": "72"
+    },
+    {
+      "address": "7220 Norris Fwy, Knoxville, TN. 37918",
+      "phone": "865-922-1672",
+      "id": "305"
+    },
+    {
+      "address": "215 Cedar Lane, Knoxville, TN. 37912",
+      "phone": "865-688-0821",
+      "id": "307"
+    },
+    {
+      "address": "7466 Oak Ridge Hwy. (Karns), Knoxville, TN. 37931",
+      "phone": "865-769-8326",
+      "id": "304"
+    },
+    {
+      "address": "404 Highway 321 N, Lenoir City, TN. 37771",
+      "phone": "865-986-0947",
+      "id": "71"
+    },
+    {
+      "address": "4629 Highway 411, Madisonville, TN. 37354",
+      "phone": "423-442-4944",
+      "id": "87"
+    },
+    {
+      "address": "2342 E. Andrew Johnson Hwy., Morristown, TN. 37814",
+      "phone": "423-586-9388",
+      "id": "313"
+    },
+    {
+      "address": "3980 W. Andrew Johnson Hwy., Morristown, TN. 37814",
+      "phone": "423-586-4077",
+      "id": "85"
+    },
+    {
+      "address": "Cumberland Gallery US 33 at 406 S. Broad St., New Tazewell, TN. 37825",
+      "phone": "423-626-6610",
+      "id": "302"
+    },
+    {
+      "address": "430 Emory Rd., Powell, TN. 37849",
+      "phone": "865-947-5929",
+      "id": "399"
+    },
+    {
+      "address": "904 S. Main St., Sweetwater, TN. 37874",
+      "phone": "423-337-6090",
+      "id": "306"
+    },
+    {
+      "address": "1185 N. Main St., Marion, VA. 24354",
+      "phone": "276-783-5461",
+      "id": "503"
+    }
+  ]
+}
