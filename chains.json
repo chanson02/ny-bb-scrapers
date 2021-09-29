@@ -22,5 +22,25 @@
   "86": {
     "name": "Casey's",
     "scraper": "caseys"
+  },
+  "43": {
+    "name": "Costco",
+    "scraper": "costco"
+  },
+  "57": {
+    "name": "Cub",
+    "scraper": "cub"
+  },
+  "60": {
+    "name": "D'agostino",
+    "scraper": "dagostino"
+  },
+  "61": {
+    "name": "Dierbergs",
+    "scraper": "dierbergs"
+  },
+  "92": {
+    "name": "Dollar General",
+    "scraper": "dollar_general"
   }
 }

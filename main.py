@@ -16,7 +16,7 @@ BASE_URL = 'https://api.geocod.io/v1.6/'
 API_URL = f'{BASE_URL}geocode?{API_KEY}'
 
 # Open connection to the database
-conn = psycopg2.connect(host=secret.DB_HOST, database=secret.DB_NAME, user=secret.DB_USER, password=secret.DB_PASSWORD)
+conn = psycopg2.connect(host=secret.DB_HOST, database=secret.DB_NAME, user=secret.DB_USER, password=secret.DB_PASS)
 cur = conn.cursor()
 
 # Get info on previous api calls
@@ -160,7 +160,7 @@ def save_geocode_data(api_response, chain_ids):
         try:
             coords = response['response']['results'][0]['location']
         except IndexError:
-            coords = {'lat': None, 'lng': None}
+            coords = {'lat': 0, 'lng': 0}
 
         # stores = list(api_calls['queue'][chain_ids[chain_ndx]])
         # store_count = len(stores)
@@ -248,7 +248,7 @@ def clear_queue():
         if not is_geocoded(chain_id):
             # Out of geocoded chains
             break
-        print('Uploading', chain_id)
+        print(f'Uploading chain #{chain_id}')
         stores = api_calls['queue'][chain_id]
 
 
@@ -280,8 +280,9 @@ def clear_queue():
 
         # remove from queue
         api_calls['queue'].pop(chain_id)
+        print()
     conn.commit() #batch commit
-    print()
+
     return
 
 def write_api_calls():
