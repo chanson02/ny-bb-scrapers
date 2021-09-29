@@ -1,0 +1,26 @@
+{
+  "56": {
+    "name": "Balducci's",
+    "scraper": "balduccis"
+  },
+  "83": {
+    "name": "BevMo!",
+    "scraper": "bevmo"
+  },
+  "58": {
+    "name": "Big Lots",
+    "scraper": "big_lots"
+  },
+  "59": {
+    "name": "Central Market",
+    "scraper": "central_market"
+  },
+  "24": {
+    "name": "Brookshire Brothers",
+    "scraper": "brookshire_brothers"
+  },
+  "86": {
+    "name": "Casey's",
+    "scraper": "caseys"
+  }
+}
