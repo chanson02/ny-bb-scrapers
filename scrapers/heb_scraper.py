@@ -25,7 +25,7 @@ def scrape(scraper, location):
     phone = location.find_element_by_xpath(".//a[@itemprop='telephone']").text
     remote_id = location.find_element_by_tag_name("button").get_attribute("value")
 
-    scraper.add_store(address, phone, remote_id, True)
+    scraper.add_store(address, phone, remote_id)
     return
 
 if __name__ == '__main__':

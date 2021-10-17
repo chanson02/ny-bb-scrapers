@@ -1,13 +1,14 @@
-
+import pdb
 
 def execute():
     url = 'https://stores.dollargeneral.com/'
-    scraper = BaseScraper('Dollar General', url)
+    scraper = BaseScraper('Dollar General', url, 0.2)
 
     for state_ndx in range(len(get_list(scraper.driver))):
         state = get_list(scraper.driver)[state_ndx]
         scraper.move(state)
         state.click()
+        scraper.wait()
 
         table = scraper.driver.find_element_by_class_name('state_wrapper')
         for city_ndx in range(len(get_list(table))):
@@ -15,15 +16,18 @@ def execute():
             city = get_list(table)[city_ndx]
             scraper.move(city)
             city.click()
+            scraper.wait()
 
             for location in scraper.driver.find_elements_by_class_name('itemlist'):
                 scrape(scraper, location)
 
             # Back to cities view
             scraper.driver.back()
+            scraper.wait()
 
         # Back to states view
         scraper.driver.back()
+        scraper.wait()
 
     scraper.driver.close()
     return scraper

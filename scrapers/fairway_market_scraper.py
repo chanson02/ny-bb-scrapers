@@ -7,7 +7,7 @@ def execute():
     scraper.driver.maximize_window()
     scraper.driver.find_element_by_id("StoreHeaderButton").click()
     scraper.wait()
-    scraper.driver.find_element_by_id("storeDetails-changeStore").click()
+    scraper.driver.find_element_by_id("storeDetails-change-store").click()
     scraper.wait()
     content = scraper.driver.find_element_by_class_name('Content-sc-1y8v2ch')
     scraper.scroll(content)

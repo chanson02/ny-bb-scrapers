@@ -16,7 +16,10 @@ def execute():
 
         locations = scraper.driver.find_elements_by_class_name('results')
         for location in locations:
-            scrape(scraper, location)
+            try:
+                scrape(scraper, location)
+            except:
+                import pdb; pdb.set_trace()
 
     scraper.driver.close()
     return scraper
@@ -30,7 +33,7 @@ def search(scraper, postal):
 def scrape(scraper, location):
     address = ', '.join([e.text for e in location.find_elements_by_class_name('c-AddressRow')])
     phone = location.find_element_by_class_name('phone').text
-    scraper.add_store(address, phone)
+    scraper.add_store(address, phone, None, True)
     return
 
 if __name__ == '__main__':

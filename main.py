@@ -100,7 +100,7 @@ def remove_store(store_id, chain_id):
     sql_command = ""
     sql_command += f"DELETE FROM stores"
     sql_command += f" WHERE chain_id ='{chain_id}'"
-    sql_command += f" AND id='{store_id}'"
+    sql_command += f" AND remote_id='{store_id}'"
     cur.execute(sql_command)
     return
 
@@ -268,12 +268,12 @@ def clear_queue():
             print('n', end='', flush=True)
             add_store(store, chain_id)
 
-        # remove unused ids
+        # remove unused remote ids
         scraper_ids = [s['id'] for s in stores]
         unused_ids = [iden for iden in known_ids if iden not in scraper_ids]
-        for iden in unused_ids:
+        for remote_id in unused_ids:
             print('d', end='', flush=True)
-            remove_store(iden, chain_id)
+            remove_store(remote_id, chain_id)
 
         # Update checked_at time
         cur.execute(f"UPDATE chains SET updated_at=now() WHERE id='{chain_id}'")
@@ -290,9 +290,9 @@ def write_api_calls():
         json.dump(api_calls, f, indent=2)
 
 if __name__ == '__main__':
-    geocode_queue() # Adds coordinates to stores in queue
-    add_to_queue() # Adds stores to queue
-    geocode_queue()
+    # geocode_queue() # Adds coordinates to stores in queue
+    # add_to_queue() # Adds stores to queue
+    # geocode_queue()
     clear_queue() # Moves queue data to database
     write_api_calls() # Save json file
     conn.close() #close database connection

@@ -2,10 +2,9 @@ import json, psycopg2, datetime, secret
 
 # This file is used to add a new chain to bb db
 
-BB_ID = ""
-NAME = "Dollar General"
-SCRAPER = "dollar_general"
-
+BB_ID = "36"
+NAME = "Market of Choice"
+SCRAPER = "market_of_choice"
 with open('chains.json', 'r') as f:
     data = json.load(f)
 

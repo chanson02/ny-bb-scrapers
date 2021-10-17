@@ -5,7 +5,7 @@ def execute():
     scraper = BaseScraper('Familly Dollar', url)
 
     state_urls = [s.get_attribute('href') for s in get_list(scraper.driver)]
-    for state in state_urls:
+    for state in state_urls[:1]:
         scraper.driver.get(state)
         city_urls = [c.get_attribute('href') for c in get_list(scraper.driver)]
 
@@ -36,7 +36,7 @@ def scrape(scraper, location):
     if len(phone) < 12:
         phone = None
 
-    scraper.add_store(address, phone, remote_id)
+    scraper.add_store(address, phone, remote_id, True)
     return
 
 if __name__ == '__main__':

@@ -55,7 +55,7 @@ def scrape(scraper, location):
     phone = scraper.driver.find_element_by_id('slp_bubble_phone').text
     remote_id = scraper.strip_char(scraper.driver.find_element_by_id('slp_bubble_name').text)
 
-    scraper.add_store(address, phone, remote_id, True)
+    scraper.add_store(address, phone, remote_id)
     return
 
 if __name__ == '__main__':

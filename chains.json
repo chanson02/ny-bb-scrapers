@@ -42,5 +42,105 @@
   "92": {
     "name": "Dollar General",
     "scraper": "dollar_general"
+  },
+  "35": {
+    "name": "Earth Fare",
+    "scraper": "earth_fare"
+  },
+  "25": {
+    "name": "Edible Arrangements",
+    "scraper": "edible_arrangements"
+  },
+  "78": {
+    "name": "Enmarket",
+    "scraper": "enmarket"
+  },
+  "62": {
+    "name": "Fairway Market",
+    "scraper": "fairway_market"
+  },
+  "16": {
+    "name": "Fareway",
+    "scraper": "fareway"
+  },
+  "93": {
+    "name": "Food City",
+    "scraper": "food_city"
+  },
+  "63": {
+    "name": "Foodland",
+    "scraper": "foodland"
+  },
+  "12": {
+    "name": "Food Lion",
+    "scraper": "foodlion"
+  },
+  "64": {
+    "name": "Gelson's Markets",
+    "scraper": "gelsons_markets"
+  },
+  "51": {
+    "name": "Giant Eagle",
+    "scraper": "giant_eagle"
+  },
+  "65": {
+    "name": "Gristedes",
+    "scraper": "gristedes"
+  },
+  "49": {
+    "name": "Grocery Outlet",
+    "scraper": "grocery_outlet"
+  },
+  "11": {
+    "name": "Hannaford",
+    "scraper": "hannaford"
+  },
+  "52": {
+    "name": "Harps Food Stores",
+    "scraper": "harps_food"
+  },
+  "13": {
+    "name": "Harris Teeter",
+    "scraper": "harris_teeter"
+  },
+  "55": {
+    "name": "H-E-B",
+    "scraper": "heb"
+  },
+  "75": {
+    "name": "Hy-Vee",
+    "scraper": "hyvee"
+  },
+  "81": {
+    "name": "Ingles Markets",
+    "scraper": "ingles_markets"
+  },
+  "66": {
+    "name": "Jerry's Foods",
+    "scraper": "jerrys_foods"
+  },
+  "71": {
+    "name": "Lidl",
+    "scraper": "lidl"
+  },
+  "68": {
+    "name": "Lowes Foods",
+    "scraper": "lowes_foods"
+  },
+  "76": {
+    "name": "Lowe's Market",
+    "scraper": "lowes_market"
+  },
+  "72": {
+    "name": "Lunds & Byerlys",
+    "scraper": "lunds_and_byerlys"
+  },
+  "80": {
+    "name": "Market Basket",
+    "scraper": "market_basket"
+  },
+  "36": {
+    "name": "Market of Choice",
+    "scraper": "market_of_choice"
   }
 }

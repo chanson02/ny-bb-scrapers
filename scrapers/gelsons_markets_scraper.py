@@ -1,12 +1,11 @@
 
 
 def execute():
-    url = 'https://www.gelsons.com/stores.html'
+    url = 'https://www.gelsons.com/stores'
     scraper = BaseScraper('Gelsons Markets', url)
 
-    table = scraper.driver.find_element_by_id('store-search-results')
+    table = scraper.driver.find_element_by_tag_name('ol')
     locations = table.find_elements_by_tag_name('li')
-    locations = [l for l in locations if len(l.text) > 30]
     for location in locations:
         scrape(scraper, location)
 
@@ -14,11 +13,11 @@ def execute():
     return scraper
 
 def scrape(scraper, location):
-    remote_id = location.get_attribute('data-storeid')
-    address = location.find_element_by_class_name("store-address").text + ', ' + location.find_element_by_class_name("store-city-state-zip").text
-    phone = location.find_element_by_class_name("store-main-phone').text[13:]
+    data = location.find_elements_by_tag_name('a')
+    address = data[0].text
+    phone = data[1].text
 
-    scraper.add_store(address, phone, remote_id)
+    scraper.add_store(address, phone)
     return
 
 if __name__ == '__main__':

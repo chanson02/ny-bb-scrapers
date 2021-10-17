@@ -27,6 +27,7 @@ class BaseScraper:
         self.set_caps(eager)
         self.reload_window()
         self.default_delay = dd
+        self.wait()
 
     def __repr__(self):
         return self.name
@@ -91,6 +92,10 @@ class BaseScraper:
                 remote_id = phone
             phone = f'{phone[:3]}-{phone[3:6]}-{phone[6:]}'
 
+        if not remote_id.isnumeric():
+            print(f'{self.name} Scraper returned non-numeric ID: {remote_id} ! Stripping non-ints')
+            remote_id = self.make_numeric(remote_id)
+
         store = {'address': address.replace("'", "''"), 'phone': phone, 'id': remote_id}
         if store not in self.stores:
             self.stores.append(store)
@@ -121,6 +126,15 @@ class BaseScraper:
                 self.driver.execute_script('arguments[0].scrollTo(0,arguments[1]);', elem, height)
                 old_height = height
         return
+
+    # Function to remove non-int values from string
+    def make_numeric(self, str):
+        result = ''
+        for c in str:
+            if c.numeric:
+                result += c
+        return result
+
 
 
 """

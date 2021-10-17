@@ -15,7 +15,7 @@ def scrape(scraper, location):
     address = location.find_element_by_class_name('fp-store-address').text
     phone = location.find_element_by_class_name('fp-store-phone').text
 
-    scraper.add_store(address, phone, debug=True)
+    scraper.add_store(address, phone)
     return
 
 if __name__ == '__main__':

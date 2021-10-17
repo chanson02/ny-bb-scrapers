@@ -10,7 +10,10 @@ def execute():
         wait(scraper)
         locations = scraper.driver.find_elements_by_class_name('brookshire-brothers')
         for location in locations:
-            scrape(scraper, location)
+            try:
+                scrape(scraper, location)
+            except Exception:
+                import pdb; pdb.set_trace()
 
     scraper.driver.close()
     return scraper
@@ -50,7 +53,7 @@ def scrape(scraper, location):
     phone = location.find_element_by_class_name('phone').text
     remote_id = scraper.strip_char(location.find_element_by_class_name('location').get_attribute('innerHTML'))
 
-    scraper.add_store(address, phone, remote_id)
+    scraper.add_store(address, phone, remote_id, True)
     return
 
 
