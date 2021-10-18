@@ -290,9 +290,9 @@ def write_api_calls():
         json.dump(api_calls, f, indent=2)
 
 if __name__ == '__main__':
-    # geocode_queue() # Adds coordinates to stores in queue
-    # add_to_queue() # Adds stores to queue
-    # geocode_queue()
+    geocode_queue() # Adds coordinates to stores in queue
+    add_to_queue() # Adds stores to queue
+    geocode_queue()
     clear_queue() # Moves queue data to database
     write_api_calls() # Save json file
     conn.close() #close database connection
