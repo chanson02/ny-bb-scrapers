@@ -225,7 +225,7 @@ def add_to_queue():
             scraper = chain.execute()
             print(f'{scraper.name} located {len(scraper.stores)} stores')
         except Exception as e:
-            print(f'scraper {scraper_name} failed', e)
+            print(f'scraper {scraper_name} failed to scrape', e)
             traceback.print_exc()
             continue
 
@@ -235,7 +235,7 @@ def add_to_queue():
                 api_calls['queue'][iden] = scraper.stores
                 write_api_calls()
         except Exception as e:
-            print(f'scraper#{iden}:{scraper.name} failed', e)
+            print(f'scraper#{iden}:{scraper.name} failed to save to JSON', e)
 
     return
 
@@ -291,7 +291,7 @@ def write_api_calls():
 
 if __name__ == '__main__':
     geocode_queue() # Adds coordinates to stores in queue
-    add_to_queue() # Adds stores to queue
+    add_to_queue() # Adds stores to queue (scrapers)
     geocode_queue()
     clear_queue() # Moves queue data to database
     write_api_calls() # Save json file

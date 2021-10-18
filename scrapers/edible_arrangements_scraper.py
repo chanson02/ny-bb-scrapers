@@ -9,6 +9,9 @@ def execute():
         search(scraper, state)
 
         locations = scraper.driver.find_elements_by_class_name('aStore')
+        locations = [l for l in locations if l.text != '']
+        if len(locations) == 0:
+            continue
         for location in locations:
             scrape(scraper, location)
 
@@ -30,11 +33,12 @@ def scrape(scraper, location):
     phone = location.find_element_by_class_name("StoreListPhone").text
     remote_id = scraper.strip_char(location.find_element_by_class_name("StoreListName").text)
 
-    scraper.add_store(address, phone, remote_id)
+    scraper.add_store(address, phone, remote_id, True)
     return
 
 if __name__ == '__main__':
     from base_scraper import BaseScraper
     scraper = execute()
+    print(f'found {len(scraper.stores)} stores')
 else:
     from scrapers.base_scraper import BaseScraper
