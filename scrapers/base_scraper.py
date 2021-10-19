@@ -59,6 +59,7 @@ class BaseScraper:
             pass
 
         self.driver = webdriver.Chrome('./chromedriver', desired_capabilities=self.caps)
+        self.driver.delete_all_cookies()
         self.reload_page()
         return
 
@@ -93,7 +94,7 @@ class BaseScraper:
             phone = f'{phone[:3]}-{phone[3:6]}-{phone[6:]}'
 
         if not remote_id.isnumeric():
-            print(f'{self.name} Scraper returned non-numeric ID: {remote_id} ! Stripping non-ints')
+            # print(f'{self.name} Scraper returned non-numeric ID: {remote_id} ! Stripping non-ints')
             remote_id = self.make_numeric(remote_id)
 
         store = {'address': address.replace("'", "''"), 'phone': phone, 'id': remote_id}
@@ -131,9 +132,14 @@ class BaseScraper:
     def make_numeric(self, str):
         result = ''
         for c in str:
-            if c.numeric:
+            if c.isdigit():
                 result += c
         return result
+
+    # Function to select different 'iframe's
+    def frame(self, frame):
+        self.driver.switch_to.frame(frame)
+        return
 
 
 

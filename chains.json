@@ -142,5 +142,25 @@
   "36": {
     "name": "Market of Choice",
     "scraper": "market_of_choice"
+  },
+  "27": {
+    "name": "Raley's Supermarkets",
+    "scraper": "raleys"
+  },
+  "84": {
+    "name": "Publix",
+    "scraper": "publix"
+  },
+  "28": {
+    "name": "Rosauers Supermarkets",
+    "scraper": "rosauers"
+  },
+  "18": {
+    "name": "Ruler Foods",
+    "scraper": "ruler"
+  },
+  "82": {
+    "name": "Save A Lot",
+    "scraper": "save_alot"
   }
 }
