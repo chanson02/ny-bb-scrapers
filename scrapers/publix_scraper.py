@@ -8,7 +8,8 @@ def execute():
     scraper = BaseScraper('Publix', url, dd=0.5)
     urls = []
 
-    for postal in scraper.postals[0:2]:
+    ndx = scraper.postals.index('32004')
+    for postal in scraper.postals[ndx: ndx+10]:
         attempt = 0
         while attempt < 10:
             try:
@@ -22,11 +23,7 @@ def execute():
                     break # Break while loop
                 store_names = store_list.find_elements_by_class_name('store-name')
                 store_urls = [name.get_attribute('href') for name in store_names]
-                # [urls.append(u) for u in store_urls if u not in urls]
-                for u in store_urls:
-                    if u not in urls:
-                        urls.append(u)
-                        print(len(urls), 'added', u)
+                [urls.append(u) for u in store_urls if u not in urls]
                 break #Break while loop
             except exceptions.WebDriverException:
                 # WebDriver crashed
@@ -34,7 +31,7 @@ def execute():
                 # print('\n\nEXPECTED EXCEPTION')
                 # traceback.print_exc()
                 # print('\n')
-                time.sleep(10)
+                scraper.wait(10)
                 if attempt > 5:
                     import pdb; pdb.set_trace()
             except KeyboardInterrupt:
@@ -46,7 +43,8 @@ def execute():
     return scraper
 
 def search(scraper, postal):
-    bar = scraper.driver.find_element_by_id('input_ZIPorCity,Stateorstorenumber29')
+    # bar = scraper.driver.find_element_by_id('input_ZIPorCity,Stateorstorenumber29') #the 29 at the end changed to 46?
+    bar = scraper.driver.find_elements_by_tag_name('input')[2]
     bar.send_keys(Keys.BACKSPACE * 5)
     bar.send_keys(postal)
     bar.send_keys(Keys.RETURN)
@@ -56,10 +54,9 @@ def search(scraper, postal):
 def wait_page_load(scraper, postal):
     start = time.time()
     while time.time() - start < 1.5:
-        result = scraper.driver.find_element_by_class_name('result-count')
+        result = scraper.driver.find_element_by_class_name('results-column')
         try:
-            loaded_postal = result.find_elements_by_tag_name('b')[1].text
-            if loaded_postal == postal:
+            if postal in result.text:
                 return
         except IndexError:
             pass
