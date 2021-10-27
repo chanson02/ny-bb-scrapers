@@ -1,5 +1,9 @@
 familydollar asking to clear cookies. Cookies empty
 Publix needs to be fixed
+ruler_scraper failed ('next_link') not found
+save_alot stale reference
+market_basket unabe to locate textholder
+enmarket Invalid Live api key?
 
 Skip dollar tree because too many attempts will ban me
 Skipping Fresh Market because it is not complete
