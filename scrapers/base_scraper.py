@@ -158,6 +158,7 @@ def scrape(scraper, location):
 if __name__ == '__main__':
     from base_scraper import BaseScraper
     scraper = execute()
+    print(f'found {len(scraper.stores)} stores')
 else:
     from scrapers.base_scraper import BaseScraper
 """

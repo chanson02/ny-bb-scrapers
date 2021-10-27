@@ -162,5 +162,21 @@
   "82": {
     "name": "Save A Lot",
     "scraper": "save_alot"
+  },
+  "50": {
+    "name": "Schnucks",
+    "scraper": "schnucks"
+  },
+  "29": {
+    "name": "Sendik's Food Market",
+    "scraper": "sendiks"
+  },
+  "31": {
+    "name": "Shoppers Food",
+    "scraper": "shoppers"
+  },
+  "30": {
+    "name": "Sentry Foods",
+    "scraper": "sentry"
   }
 }
